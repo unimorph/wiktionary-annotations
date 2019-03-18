@@ -1,0 +1,46 @@
+0,1,2,3,4,5
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist buschig,sie ist buschig,es ist buschig,sie sind buschig,
+strong declension (without article),nominative,buschiger,buschige,buschiges,buschige
+genitive,buschigen,buschiger,buschigen,buschiger,
+dative,buschigem,buschiger,buschigem,buschigen,
+accusative,buschigen,buschige,buschiges,buschige,
+weak declension (with definite article),nominative,der buschige,die buschige,das buschige,die buschigen
+genitive,des buschigen,der buschigen,des buschigen,der buschigen,
+dative,dem buschigen,der buschigen,dem buschigen,den buschigen,
+accusative,den buschigen,die buschige,das buschige,die buschigen,
+mixed declension (with indefinite article),nominative,ein buschiger,eine buschige,ein buschiges,(keine) buschigen
+genitive,eines buschigen,einer buschigen,eines buschigen,(keiner) buschigen,
+dative,einem buschigen,einer buschigen,einem buschigen,(keinen) buschigen,
+accusative,einen buschigen,eine buschige,ein buschiges,(keine) buschigen,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist buschiger,sie ist buschiger,es ist buschiger,sie sind buschiger,
+strong declension (without article),nominative,buschigerer,buschigere,buschigeres,buschigere
+genitive,buschigeren,buschigerer,buschigeren,buschigerer,
+dative,buschigerem,buschigerer,buschigerem,buschigeren,
+accusative,buschigeren,buschigere,buschigeres,buschigere,
+weak declension (with definite article),nominative,der buschigere,die buschigere,das buschigere,die buschigeren
+genitive,des buschigeren,der buschigeren,des buschigeren,der buschigeren,
+dative,dem buschigeren,der buschigeren,dem buschigeren,den buschigeren,
+accusative,den buschigeren,die buschigere,das buschigere,die buschigeren,
+mixed declension (with indefinite article),nominative,ein buschigerer,eine buschigere,ein buschigeres,(keine) buschigeren
+genitive,eines buschigeren,einer buschigeren,eines buschigeren,(keiner) buschigeren,
+dative,einem buschigeren,einer buschigeren,einem buschigeren,(keinen) buschigeren,
+accusative,einen buschigeren,eine buschigere,ein buschigeres,(keine) buschigeren,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist am buschigsten,sie ist am buschigsten,es ist am buschigsten,sie sind am buschigsten,
+strong declension (without article),nominative,buschigster,buschigste,buschigstes,buschigste
+genitive,buschigsten,buschigster,buschigsten,buschigster,
+dative,buschigstem,buschigster,buschigstem,buschigsten,
+accusative,buschigsten,buschigste,buschigstes,buschigste,
+weak declension (with definite article),nominative,der buschigste,die buschigste,das buschigste,die buschigsten
+genitive,des buschigsten,der buschigsten,des buschigsten,der buschigsten,
+dative,dem buschigsten,der buschigsten,dem buschigsten,den buschigsten,
+accusative,den buschigsten,die buschigste,das buschigste,die buschigsten,
+mixed declension (with indefinite article),nominative,ein buschigster,eine buschigste,ein buschigstes,(keine) buschigsten
+genitive,eines buschigsten,einer buschigsten,eines buschigsten,(keiner) buschigsten,
+dative,einem buschigsten,einer buschigsten,einem buschigsten,(keinen) buschigsten,
+accusative,einen buschigsten,eine buschigste,ein buschigstes,(keine) buschigsten,

@@ -1,0 +1,16 @@
+0,1,2,3,4
+Present,Singular,Dual,Plural,
+1st person,"jědu, jěźom",jěźomej,jěźomy,
+2nd person,jěźoš,jěźotej,jěźośo,
+3rd person,jěźo,jěźotej,jědu,
+Preterite,Singular,Dual,Plural,
+1st person,jěźech,jěźechmej,jěźechmy,
+2nd person,jěźešo,jěźeštej,jěźešćo,
+3rd person,jěźešo,jěźeštej,jěźechu,
+Future,Singular,Dual,Plural,
+1st person,"pójědu, pójěźom",pójěźomej,pójěźomy,
+2nd person,pójěźoš,pójěźotej,pójěźośo,
+3rd person,pójěźo,pójěźotej,pójědu,
+Imperative,Singular,Dual,Plural,
+2nd person,jěź,jěźtej,jěźćo,
+jěś pó  nadjěś  pójěś  pśejěś,,pśijěś  rozjěś  wobjěś  wójěś,,wótjěś  wujěś  zajěś  zjěś

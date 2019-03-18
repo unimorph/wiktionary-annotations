@@ -1,0 +1,8 @@
+0,1,2,3,4,5
+audio,,(file),,,
+,singular,plural,,,
+,indef.,def.,noun,def.,noun
+nominative,eine,die,Mütze,die,Mützen
+genitive,einer,der,Mütze,der,Mützen
+dative,einer,der,Mütze,den,Mützen
+accusative,eine,die,Mütze,die,Mützen

@@ -1,0 +1,14 @@
+0,1,2
+"Even, bb-pp gradation",,
+Attributive,"goikásit, goikáset, goikáseabbo",
+Nominative,"goikásit, goikáset, goikáseabbo",
+Genitive,goikáseappo,
+Attributive,"goikásit, goikáset, goikáseabbo",
+,singular,plural
+Nominative,ADJ;NOM;SG,ADJ;NOM;PL
+Genitive,ADJ;ACC;SG,ADJ;ACC;PL
+Accusative,ADJ;GEN;SG,ADJ;GEN;PL
+Illative,ADJ;IN+ALL;SG,ADJ;IN+ALL;PL
+Locative,ADJ;PRP;SG,ADJ;PRP;PL
+Comitative,ADJ;COM;SG,ADJ;COM;PL
+Essive,ADJ;FRML;SG,ADJ;FRML;PL

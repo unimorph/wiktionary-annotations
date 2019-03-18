@@ -1,0 +1,16 @@
+0,1,2,3,4,5
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist geäußert,sie ist geäußert,es ist geäußert,sie sind geäußert,
+strong declension (without article),nominative,geäußerter,geäußerte,geäußertes,geäußerte
+genitive,geäußerten,geäußerter,geäußerten,geäußerter,
+dative,geäußertem,geäußerter,geäußertem,geäußerten,
+accusative,geäußerten,geäußerte,geäußertes,geäußerte,
+weak declension (with definite article),nominative,der geäußerte,die geäußerte,das geäußerte,die geäußerten
+genitive,des geäußerten,der geäußerten,des geäußerten,der geäußerten,
+dative,dem geäußerten,der geäußerten,dem geäußerten,den geäußerten,
+accusative,den geäußerten,die geäußerte,das geäußerte,die geäußerten,
+mixed declension (with indefinite article),nominative,ein geäußerter,eine geäußerte,ein geäußertes,(keine) geäußerten
+genitive,eines geäußerten,einer geäußerten,eines geäußerten,(keiner) geäußerten,
+dative,einem geäußerten,einer geäußerten,einem geäußerten,(keinen) geäußerten,
+accusative,einen geäußerten,eine geäußerte,ein geäußertes,(keine) geäußerten,

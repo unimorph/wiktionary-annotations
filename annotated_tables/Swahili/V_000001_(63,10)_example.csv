@@ -1,0 +1,64 @@
+0,1,2,3,4,5,6,7,8,9
+infinitive,V;NFIN,,,,,,,,
+,,singular person,,,,,,,
+,,1st personmimi,2nd personwewe,3rd person/Class 1yeye/(m),Class 3(m),Class 5(ji),Class 7(ki),Class 9(n),Class 11/14(u)
+indicative,general,V;FIN;IND;IND;INDF1;SG,V;FIN;IND;IND;INDF2;SG,V;FIN;IND;IND;INDF3;SG;LGSPEC1,V;FIN;IND;IND;INDF3;SG;LGSPEC2,V;FIN;IND;INDF3;SG;LGSPEC3,V;FIN;IND;INDF3;SG;LGSPEC4,V;FIN;IND;INDF3;SG;LGSPEC5,V;FIN;IND;INDF3;SG;LGSPEC6
+progressive,V;FIN;IND;PRES;1;SG,V;FIN;IND;PRES;2;SG,V;FIN;IND;PRES;3;SG;LGSPEC1,V;FIN;IND;PRES;3;SG;LGSPEC2,V;FIN;IND;PRES;3;SG;LGSPEC3,V;FIN;IND;PRES;3;SG;LGSPEC4,V;FIN;IND;PRES;3;SG;LGSPEC5,V;FIN;IND;PRES;3;SG;LGSPEC6,
+habitual,V;FIN;IND;HAB;SG,,,,,,,,
+past,V;FIN;IND;PST;1;SG,V;FIN;IND;PST;2;SG,V;FIN;IND;PST;3;SG;LGSPEC1,V;FIN;IND;PST;3;SG;LGSPEC2,V;FIN;IND;PST;3;SG;LGSPEC3,V;FIN;IND;PST;3;SG;LGSPEC4,V;FIN;IND;PST;3;SG;LGSPEC5,V;FIN;IND;PST;3;SG;LGSPEC6,
+perfect,V;FIN;IND;PST;PRF;1;SG,V;FIN;IND;PST;PRF;2;SG,V;FIN;IND;PST;PRF;3;SG;LGSPEC1,V;FIN;IND;PST;PRF;3;SG;LGSPEC2,V;FIN;IND;PST;PRF;3;SG;LGSPEC3,V;FIN;IND;PST;PRF;3;SG;LGSPEC4,V;FIN;IND;PST;PRF;3;SG;LGSPEC5,V;FIN;IND;PST;PRF;3;SG;LGSPEC6,
+future,V;FIN;IND;FUT;1;SG,V;FIN;IND;FUT;2;SG,V;FIN;IND;FUT;3;SG;LGSPEC1,V;FIN;IND;FUT;3;SG;LGSPEC2,V;FIN;IND;FUT;3;SG;LGSPEC3,V;FIN;IND;FUT;3;SG;LGSPEC4,V;FIN;IND;FUT;3;SG;LGSPEC5,V;FIN;IND;FUT;3;SG;LGSPEC6,
+consecutive,V;FIN;IND;LGSPEC10;1;SG,V;FIN;IND;LGSPEC10;2;SG,V;FIN;IND;LGSPEC10;3;SG;LGSPEC1,V;FIN;IND;LGSPEC10;3;SG;LGSPEC2,V;FIN;IND;LGSPEC10;3;SG;LGSPEC3,V;FIN;IND;LGSPEC10;3;SG;LGSPEC4,V;FIN;IND;LGSPEC10;3;SG;LGSPEC5,V;FIN;IND;LGSPEC10;3;SG;LGSPEC6,
+conditional,present,V;FIN;IND;COND;PRES;1;SG,V;FIN;IND;COND;PRES;2;SG,V;FIN;IND;COND;PRES;3;SG;LGSPEC1,V;FIN;IND;COND;PRES;3;SG;LGSPEC2,V;FIN;IND;COND;PRES;3;SG;LGSPEC3,V;FIN;IND;COND;PRES;3;SG;LGSPEC4,V;FIN;IND;COND;PRES;3;SG;LGSPEC5,V;FIN;IND;COND;PRES;3;SG;LGSPEC6
+past,V;FIN;IND;COND;PST;1;SG,V;FIN;IND;COND;PST;2;SG,V;FIN;IND;COND;PST;3;SG;LGSPEC1,V;FIN;IND;COND;PST;3;SG;LGSPEC2,V;FIN;IND;COND;PST;3;SG;LGSPEC3,V;FIN;IND;COND;PST;3;SG;LGSPEC4,V;FIN;IND;COND;PST;3;SG;LGSPEC5,V;FIN;IND;COND;PST;3;SG;LGSPEC6,
+subjunctive,general,V;FIN;IND;PST;1;SG,V;FIN;IND;PST;2;SG,V;FIN;IND;PST;3;SG;LGSPEC1,V;FIN;IND;PST;3;SG;LGSPEC2,V;FIN;IND;PST;3;SG;LGSPEC3,V;FIN;IND;PST;3;SG;LGSPEC4,V;FIN;IND;PST;3;SG;LGSPEC5,V;FIN;IND;PST;3;SG;LGSPEC6
+consecutive,V;FIN;SUBJ;LGSPEC10;1;SG,V;FIN;SUBJ;LGSPEC10;2;SG,V;FIN;SUBJ;LGSPEC10;3;SG;LGSPEC1,V;FIN;SUBJ;LGSPEC10;3;SG;LGSPEC2,V;FIN;SUBJ;LGSPEC10;3;SG;LGSPEC3,V;FIN;SUBJ;LGSPEC10;3;SG;LGSPEC4,V;FIN;SUBJ;LGSPEC10;3;SG;LGSPEC5,V;FIN;SUBJ;LGSPEC10;3;SG;LGSPEC6,
+comitative,V;FIN;SUBJ;COM;PST;1;SG,V;FIN;SUBJ;COM;PST;2;SG,V;FIN;SUBJ;COM;PST;3;SG;LGSPEC1,V;FIN;SUBJ;COM;PST;3;SG;LGSPEC2,V;FIN;SUBJ;COM;PST;3;SG;LGSPEC3,V;FIN;SUBJ;COM;PST;3;SG;LGSPEC4,V;FIN;SUBJ;COM;PST;3;SG;LGSPEC5,V;FIN;SUBJ;COM;PST;3;SG;LGSPEC6,
+imperative,,andaa!__andae!‡,,,,,,,
+,,plural person,,,,,,,
+,,1st personsisi,2nd personninyi,3rd person/Class 2wao/(wa),Class 4(mi),Class 6(ma),Class 8(vi),Class 10(n),Class 10(n)†
+indicative,general,V;FIN;INDF1;PL,V;FIN;INDF2;PL,V;FIN;INDF3;PL;LGSPEC1,V;FIN;INDF3;PL;LGSPEC2,V;FIN;INDF3;PL;LGSPEC3,V;FIN;INDF3;PL;LGSPEC4,V;FIN;INDF3;PL;LGSPEC5,V;FIN;INDF3;PL;LGSPEC6
+progressive,V;FIN;IND;PRES;1;PL,V;FIN;IND;PRES;2;PL,V;FIN;IND;PRES;3;PL;LGSPEC1,V;FIN;IND;PRES;3;PL;LGSPEC2,V;FIN;IND;PRES;3;PL;LGSPEC3,V;FIN;IND;PRES;3;PL;LGSPEC4,V;FIN;IND;PRES;3;PL;LGSPEC5,V;FIN;IND;PRES;3;PL;LGSPEC6,
+habitual,V;FIN;IND;HAB;PL,,,,,,,,
+past,V;FIN;IND;PST;1;PL,V;FIN;IND;PST;2;PL,V;FIN;IND;PST;3;PL;LGSPEC1,V;FIN;IND;PST;3;PL;LGSPEC2,V;FIN;IND;PST;3;PL;LGSPEC3,V;FIN;IND;PST;3;PL;LGSPEC4,V;FIN;IND;PST;3;PL;LGSPEC5,V;FIN;IND;PST;3;PL;LGSPEC6,
+perfect,V;FIN;IND;PST;PRF;1;PL,V;FIN;IND;PST;PRF;2;PL,V;FIN;IND;PST;PRF;3;PL;LGSPEC1,V;FIN;IND;PST;PRF;3;PL;LGSPEC2,V;FIN;IND;PST;PRF;3;PL;LGSPEC3,V;FIN;IND;PST;PRF;3;PL;LGSPEC4,V;FIN;IND;PST;PRF;3;PL;LGSPEC5,V;FIN;IND;PST;PRF;3;PL;LGSPEC6,
+future,V;FIN;IND;FUT;1;PL,V;FIN;IND;FUT;2;PL,V;FIN;IND;FUT;3;PL;LGSPEC1,V;FIN;IND;FUT;3;PL;LGSPEC2,V;FIN;IND;FUT;3;PL;LGSPEC3,V;FIN;IND;FUT;3;PL;LGSPEC4,V;FIN;IND;FUT;3;PL;LGSPEC5,V;FIN;IND;FUT;3;PL;LGSPEC6,
+consecutive,V;FIN;IND;LGSPEC10;1;PL,V;FIN;IND;LGSPEC10;2;PL,V;FIN;IND;LGSPEC10;3;PL;LGSPEC1,V;FIN;IND;LGSPEC10;3;PL;LGSPEC2,V;FIN;IND;LGSPEC10;3;PL;LGSPEC3,V;FIN;IND;LGSPEC10;3;PL;LGSPEC4,V;FIN;IND;LGSPEC10;3;PL;LGSPEC5,V;FIN;IND;LGSPEC7;3;PL;LGSPEC6,
+conditional,present,V;FIN;IND;COND;PRES;1;PL,V;FIN;IND;COND;PRES;2;PL,V;FIN;IND;COND;PRES;3;PL;LGSPEC1,V;FIN;IND;COND;PRES;3;PL;LGSPEC2,V;FIN;IND;COND;PRES;3;PL;LGSPEC3,V;FIN;IND;COND;PRES;3;PL;LGSPEC4,V;FIN;IND;COND;PRES;3;PL;LGSPEC5,V;FIN;IND;COND;PRES;3;PL;LGSPEC6
+past,V;FIN;IND;COND;PST;1;PL,V;FIN;IND;COND;PST;2;PL,V;FIN;IND;COND;PST;3;PL;LGSPEC1,V;FIN;IND;COND;PST;3;PL;LGSPEC2,V;FIN;IND;COND;PST;3;PL;LGSPEC3,V;FIN;IND;COND;PST;3;PL;LGSPEC4,V;FIN;IND;COND;PST;3;PL;LGSPEC5,V;FIN;IND;COND;PST;3;PL;LGSPEC6,
+subjunctive,general,V;FIN;SUBJ;PST;1;PL,V;FIN;SUBJ;PST;2;PL,V;FIN;SUBJ;PST;3;PL;LGSPEC1,V;FIN;SUBJ;PST;3;PL;LGSPEC2,V;FIN;SUBJ;PST;3;PL;LGSPEC3,V;FIN;SUBJ;PST;3;PL;LGSPEC4,V;FIN;SUBJ;PST;3;PL;LGSPEC5,V;FIN;SUBJ;PST;3;PL;LGSPEC6
+consecutive,V;FIN;SUBJ;LGSPEC10;1;PL,V;FIN;SUBJ;LGSPEC10;2;PL,V;FIN;SUBJ;LGSPEC10;3;PL;LGSPEC1,V;FIN;SUBJ;LGSPEC10;3;PL;LGSPEC2,V;FIN;SUBJ;LGSPEC10;3;PL;LGSPEC3,V;FIN;SUBJ;LGSPEC10;3;PL;LGSPEC4,V;FIN;SUBJ;LGSPEC10;3;PL;LGSPEC5,V;FIN;SUBJ;LGSPEC10;3;PL;LGSPEC6,
+comitative,V;FIN;SUBJ;COM;PST;1;PL,V;FIN;SUBJ;COM;PST;2;PL,V;FIN;SUBJ;COM;PST;3;PL;LGSPEC1,V;FIN;SUBJ;COM;PST;3;PL;LGSPEC2,V;FIN;SUBJ;COM;PST;3;PL;LGSPEC3,V;FIN;SUBJ;COM;PST;3;PL;LGSPEC4,V;FIN;SUBJ;COM;PST;3;PL;LGSPEC5,V;FIN;SUBJ;COM;PST;3;PL;LGSPEC6,
+imperative,tuandae,andaeni!__andaeni!‡,,,,,,,
+infinitive,kutoandaa or kutokuandaa,,,,,,,,
+,,singular person,,,,,,,
+,,1st personmimi,2nd personwewe,3rd person/Class 1yeye/(m),Class 3(m),Class 5(ji),Class 7(ki),Class 9(n),Class 11/14(u)
+indicative,general,siandai,huandai,haandai,hauandai,haliandai,hakiandai,haiandai,hauandai
+progressive,Use General Form,Use General Form,Use General Form,Use General Form,Use General Form,Use General Form,Use General Form,Use General Form,
+habitual,Use General Form,,,,,,,,
+past,sikuandaa,hukuandaa,hakuandaa,haukuandaa,halikuandaa,hakikuandaa,haikuandaa,haukuandaa,
+perfect,sijaandaa,hujaandaa,hajaandaa,haujaandaa,halijaandaa,hakijaandaa,haijaandaa,haujaandaa,
+future,sitaandaa,hutaandaa,hataandaa,hautaandaa,halitaandaa,hakitaandaa,haitaandaa,hautaandaa,
+consecutive,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,
+conditional,present,nisingeandaa,usingeandaa,asingeandaa,usingeandaa,lisingeandaa,kisingeandaa,isingeandaa,usingeandaa
+past,nisingaliandaa,usingaliandaa,asingaliandaa,usingaliandaa,lisingaliandaa,kisingaliandaa,isingaliandaa,usingaliandaa,
+subjunctive,general,nisiandae,usiandae,asiandae,usiandae,lisiandae,kisiandae,isiandae,usiandae
+consecutive,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,
+comitative,nisipoandaa,usipoandaa,asipoandaa,usipoandaa,lisipoandaa,kisipoandaa,isipoandaa,usipoandaa,
+imperative,,usiandae!‡,,,,,,,
+,,plural person,,,,,,,
+,,1st personsisi,2nd personninyi,3rd person/Class 2wao/(wa),Class 4(mi),Class 6(ma),Class 8(vi),Class 10(n),Class 10(n)†
+indicative,general,hatuandai,hamandai,hawaandai,haiandai,hayaandai,haviandai,haziandai,haziandai
+progressive,Use General Form,Use General Form,Use General Form,Use General Form,Use General Form,Use General Form,Use General Form,Use General Form,
+habitual,Use General Form,,,,,,,,
+past,hatukuandaa,hamkuandaa,hawakuandaa,haikuandaa,hayakuandaa,havikuandaa,hazikuandaa,hazikuandaa,
+perfect,hatujaandaa,hamjaandaa,hawajaandaa,haijaandaa,hayajaandaa,havijaandaa,hazijaandaa,hazijaandaa,
+future,hatutaandaa,hamtaandaa,hawataandaa,haitaandaa,hayataandaa,havitaandaa,hazitaandaa,hazitaandaa,
+consecutive,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,
+conditional,present,tusingeandaa,msingeandaa,wasingeandaa,isingeandaa,yasingeandaa,visingeandaa,zisingeandaa,zisingeandaa
+past,tusingaliandaa,msingaliandaa,wasingaliandaa,isingaliandaa,yasingaliandaa,visingaliandaa,zisingaliandaa,zisingaliandaa,
+subjunctive,general,tusiandae,msiandae,wasiandae,isiandae,yasiandae,visiandae,zisiandae,zisiandae
+consecutive,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,
+comitative,tusipoandaa,msipoandaa,wasipoandaa,isipoandaa,yasipoandaa,visipoandaa,zisipoandaa,zisipoandaa,
+imperative,tusiandae,msiandae!‡,,,,,,,
+andalia  andaliwa  andana  andazi  andia  andika  andisha,,,,,,,,,

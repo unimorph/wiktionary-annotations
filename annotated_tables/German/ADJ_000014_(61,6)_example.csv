@@ -1,0 +1,62 @@
+0,1,2,3,4,5
+audio,,(file),,,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist genau,sie ist genau,es ist genau,sie sind genau,
+strong declension (without article),nominative,genauer,genaue,genaues,genaue
+genitive,genauen,genauer,genauen,genauer,
+dative,genauem,genauer,genauem,genauen,
+accusative,genauen,genaue,genaues,genaue,
+weak declension (with definite article),nominative,der genaue,die genaue,das genaue,die genauen
+genitive,des genauen,der genauen,des genauen,der genauen,
+dative,dem genauen,der genauen,dem genauen,den genauen,
+accusative,den genauen,die genaue,das genaue,die genauen,
+mixed declension (with indefinite article),nominative,ein genauer,eine genaue,ein genaues,(keine) genauen
+genitive,eines genauen,einer genauen,eines genauen,(keiner) genauen,
+dative,einem genauen,einer genauen,einem genauen,(keinen) genauen,
+accusative,einen genauen,eine genaue,ein genaues,(keine) genauen,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist genauer,sie ist genauer,es ist genauer,sie sind genauer,
+strong declension (without article),nominative,genauerer,genauere,genaueres,genauere
+genitive,genaueren,genauerer,genaueren,genauerer,
+dative,genauerem,genauerer,genauerem,genaueren,
+accusative,genaueren,genauere,genaueres,genauere,
+weak declension (with definite article),nominative,der genauere,die genauere,das genauere,die genaueren
+genitive,des genaueren,der genaueren,des genaueren,der genaueren,
+dative,dem genaueren,der genaueren,dem genaueren,den genaueren,
+accusative,den genaueren,die genauere,das genauere,die genaueren,
+mixed declension (with indefinite article),nominative,ein genauerer,eine genauere,ein genaueres,(keine) genaueren
+genitive,eines genaueren,einer genaueren,eines genaueren,(keiner) genaueren,
+dative,einem genaueren,einer genaueren,einem genaueren,(keinen) genaueren,
+accusative,einen genaueren,eine genauere,ein genaueres,(keine) genaueren,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist am genauesten,sie ist am genauesten,es ist am genauesten,sie sind am genauesten,
+strong declension (without article),nominative,genauester,genaueste,genauestes,genaueste
+genitive,genauesten,genauester,genauesten,genauester,
+dative,genauestem,genauester,genauestem,genauesten,
+accusative,genauesten,genaueste,genauestes,genaueste,
+weak declension (with definite article),nominative,der genaueste,die genaueste,das genaueste,die genauesten
+genitive,des genauesten,der genauesten,des genauesten,der genauesten,
+dative,dem genauesten,der genauesten,dem genauesten,den genauesten,
+accusative,den genauesten,die genaueste,das genaueste,die genauesten,
+mixed declension (with indefinite article),nominative,ein genauester,eine genaueste,ein genauestes,(keine) genauesten
+genitive,eines genauesten,einer genauesten,eines genauesten,(keiner) genauesten,
+dative,einem genauesten,einer genauesten,einem genauesten,(keinen) genauesten,
+accusative,einen genauesten,eine genaueste,ein genauestes,(keine) genauesten,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist am genausten,sie ist am genausten,es ist am genausten,sie sind am genausten,
+strong declension (without article),nominative,genauster,genauste,genaustes,genauste
+genitive,genausten,genauster,genausten,genauster,
+dative,genaustem,genauster,genaustem,genausten,
+accusative,genausten,genauste,genaustes,genauste,
+weak declension (with definite article),nominative,der genauste,die genauste,das genauste,die genausten
+genitive,des genausten,der genausten,des genausten,der genausten,
+dative,dem genausten,der genausten,dem genausten,den genausten,
+accusative,den genausten,die genauste,das genauste,die genausten,
+mixed declension (with indefinite article),nominative,ein genauster,eine genauste,ein genaustes,(keine) genausten
+genitive,eines genausten,einer genausten,eines genausten,(keiner) genausten,
+dative,einem genausten,einer genausten,einem genausten,(keinen) genausten,
+accusative,einen genausten,eine genauste,ein genaustes,(keine) genausten,

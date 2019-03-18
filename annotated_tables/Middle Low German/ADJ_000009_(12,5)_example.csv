@@ -1,0 +1,13 @@
+0,1,2,3,4
+,nominative,accusative,dative,genitive
+,Strong declension,,,
+Masculine,ADJ;SG;NOM;LGSPEC2,ADJ;MASC;SG;ACC;LGSPEC2,ADJ;{MASC/NEUT};SG;DAT;LGSPEC2,ADJ;{MASC/NEUT};SG;GEN;LGSPEC2
+Neuter,ADJ;NEUT;SG;ACC;LGSPEC2,,,
+Feminine,ADJ;FEM;SG;ACC;LGSPEC2,ADJ;FEM;SG;{DAT/GEN};LGSPEC2,,
+Plural,ADJ;PL;{NOM/ACC};LGSPEC2,ADJ;PL;DAT;LGSPEC2,ADJ;PL;GEN;LGSPEC2,
+,Weak declension,,,
+Masculine,ADJ;SG;NOM;LGSPEC1,ADJ;MASC;SG;ACC;LGSPEC1,ADJ;{DAT/GEN};LGSPEC1,
+Neuter,ADJ;NEUT;SG;ACC;LGSPEC1,,,
+Feminine,ADJ;{FEM;SG/PL};ACC;LGSPEC1,,,
+Plural,ADJ;PL;NOM;LGSPEC1,,,
+The longer forms become rarer in the course of the period.,,,,

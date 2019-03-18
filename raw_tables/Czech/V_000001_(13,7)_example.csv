@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6
+audio,,(file),,,,
+,singular,plural,,,,
+nominative,růst,růsty,,,,
+genitive,růstu,růstů,,,,
+dative,růstu,růstům,,,,
+accusative,růst,růsty,,,,
+vocative,růste,růsty,,,,
+locative,růstu,růstech,,,,
+instrumental,růstem,růsty,,,,
+,Present Sg,Present Pl,Future Sg,Future Pl,Past Sg,Past Pl
+1st person,rostu,rosteme,budu růst,budeme růst,rostl/rostla jsem,rostli/rostly jsme
+2nd person,rosteš,rostete,budeš růst,budete růst,rostl/rostla jsi,rostli/rostly jste
+3rd person,roste,rostou,bude růst,budou růst,rostl/rostla/rostlo,rostli/rostly/rostla

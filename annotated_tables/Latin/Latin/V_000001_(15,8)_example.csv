@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7
+Case,Singular,Plural,,,,,
+nominative,praefectus,praefectī,,,,,
+genitive,praefectī,praefectōrum,,,,,
+dative,praefectō,praefectīs,,,,,
+accusative,praefectum,praefectōs,,,,,
+ablative,praefectō,praefectīs,,,,,
+vocative,praefecte,praefectī,,,,,
+Number,Singular,,Plural,,,,
+Case / Gender,Masculine,Feminine,Neuter,Masculine,Feminine,Neuter,
+nominative,praefectus,praefecta,praefectum,,praefectī,praefectae,praefecta
+genitive,praefectī,praefectae,praefectī,praefectōrum,praefectārum,praefectōrum,
+dative,praefectō,praefectō,praefectīs,,,,
+accusative,praefectum,praefectam,praefectum,praefectōs,praefectās,praefecta,
+ablative,praefectō,praefectā,praefectō,praefectīs,,,
+vocative,praefecte,praefecta,praefectum,praefectī,praefectae,praefecta,

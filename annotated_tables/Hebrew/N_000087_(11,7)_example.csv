@@ -1,0 +1,12 @@
+0,1,2,3,4,5,6
+Root,,,,,,
+שׁ־ו־ב,,,,,,
+Number,Isolated forms,With possessive pronouns,,,,
+State,Form,Person,singular,plural,,
+m.,f.,m.,f.,,,
+singular,indefinite,N;SG;NDEF,first,N;SG;N;SGDEF;PSS1S,N;SG;N;SGDEF;PSS1P,
+definite,N;SG;DEF,second,N;SG;DEF;PSS2S;MASC,N;SG;DEF;PSS2S;FEM,N;SG;DEF;PSS2P;MASC,N;SG;DEF;PSS2P;FEM
+construct,N;SG;PSSD,third,N;SG;PSSD;PSS2S;MASC,N;SG;PSSD;PSS2S;FEM,N;SG;PSSD;PSS2P;MASC,N;SG;PSSD;PSS2P;FEM
+plural,indefinite,N;PL;NDEF,first,N;PL;N;PLDEF;PSS1S,N;PL;N;PLDEF;PSS1P,
+definite,N;PL;DEF,second,N;PL;DEF;PSS2S;MASC,N;PL;DEF;PSS2S;FEM,N;PL;DEF;PSS2P;MASC,N;PL;DEF;PSS2P;FEM
+construct,N;PL;PSSD,third,N;PL;PSSD;PSS2S;MASC,N;PL;PSSD;PSS2S;FEM,N;PL;PSSD;PSS2P;MASC,N;PL;PSSD;PSS2P;FEM

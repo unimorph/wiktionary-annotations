@@ -1,0 +1,21 @@
+0,1,2
+"Inflection (stem in -a-, back harmony)",,
+,singular,plural
+nominative,N;NOM;SG,N;NOM;PL
+accusative,N;ACC;SG,N;ACC;PL
+dative,N;DAT;SG,N;DAT;PL
+instrumental,N;INST;SG,N;INST;PL
+causal-final,N;PRP;SG,N;PRP;PL
+translative,N;TRANS;SG,N;TRANS;PL
+terminative,N;TERM;SG,N;TERM;PL
+essive-formal,N;FRML;SG,N;FRML;PL
+essive-modal,—,—
+inessive,N;IN+ESS;SG,N;IN+ESS;PL
+superessive,N;ON+ESS;SG,N;ON+ESS;PL
+adessive,N;AT+ESS;SG,N;AT+ESS;PL
+illative,N;IN+ALL;SG,N;IN+ALL;PL
+sublative,N;ON+ALL;SG,N;ON+ALL;PL
+allative,N;AT+ALL;SG,N;AT+ALL;PL
+elative,N;IN+ABL;SG,N;IN+ABL;PL
+delative,N;ON+ABL;SG,N;ON+ABL;PL
+ablative,N;AT+ABL;SG,N;AT+ABL;PL

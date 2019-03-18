@@ -1,0 +1,20 @@
+0,1,2,3,4
+,,(file),,
+,singular (vienskaitlis),plural (daudzskaitlis),,
+nominative (nominatīvs),aktīvs,aktīvi,,
+accusative (akuzatīvs),aktīvu,aktīvus,,
+genitive (ģenitīvs),aktīva,aktīvu,,
+dative (datīvs),aktīvam,aktīviem,,
+instrumental (instrumentālis),aktīvu,aktīviem,,
+locative (lokatīvs),aktīvā,aktīvos,,
+vocative (vokatīvs),aktīv,aktīvi,,
+,masculine (vīriešu dzimte),,feminine (sieviešu dzimte),
+singular (vienskaitlis),plural (daudzskaitlis),singular (vienskaitlis),plural (daudzskaitlis),
+nominative (nominatīvs),aktīvs,aktīvi,aktīva,aktīvas
+accusative (akuzatīvs),aktīvu,aktīvus,aktīvu,aktīvas
+genitive (ģenitīvs),aktīva,aktīvu,aktīvas,aktīvu
+dative (datīvs),aktīvam,aktīviem,aktīvai,aktīvām
+instrumental (instrumentālis),aktīvu,aktīviem,aktīvu,aktīvām
+locative (lokatīvs),aktīvā,aktīvos,aktīvā,aktīvās
+vocative (vokatīvs),—,—,—,—
+,,,,

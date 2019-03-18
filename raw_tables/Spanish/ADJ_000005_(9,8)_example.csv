@@ -1,0 +1,10 @@
+0,1,2,3,4,5,6,7
+possessor,preposed,postposed or standalone,,,,,
+possessee,possessee,,,,,,
+singular,plural,singular,plural,,,,
+masculine,feminine,masculine,feminine,,,,
+First person:,singular:,mi,mis,mío,mía,míos,mías
+plural:,(same as postposed/standalone),nuestro,nuestra,nuestros,nuestras,,
+Second person(informal):,singular:,tu,tus,tuyo,tuya,tuyos,tuyas
+plural:,(same as postposed/standalone),vuestro,vuestra,vuestros,vuestras,,
+Third person:,su,sus,suyo,suya,suyos,suyas,

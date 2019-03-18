@@ -1,0 +1,29 @@
+0,1,2,3
+Case,adjective,,
+"nominative, genitive, instrumental",ჯანმრთელი ‎(ǯanmrteli),,
+ergative,ჯანმრთელმა ‎(ǯanmrtelma),,
+"dative, adverbial",ჯანმრთელ ‎(ǯanmrtel),,
+vocative,ჯანმრთელო ‎(ǯanmrtelo),,
+,Singular,Plural,Archaic plural
+nominative,ADJ;SG;NOM,ADJ;PL;NOM,ADJ;PL;LGSPEC2;NOM
+ergative,ADJ;SG;ERG,ADJ;PL;ERG,ADJ;PL;LGSPEC2;ERG
+dative,ADJ;SG;DAT,ADJ;PL;DAT,ADJ;PL;LGSPEC2;DAT
+genitive,ADJ;SG;GEN,ADJ;PL;GEN,ADJ;PL;LGSPEC2;GEN
+instrumental,ADJ;SG;INST,ADJ;PL;INST,
+adverbial,ADJ;SG;LGSPEC1,ADJ;PL;LGSPEC1,
+vocative,ADJ;SG;VOC,ADJ;PL;VOC,ADJ;PL;LGSPEC2;VOC
+Postpositions taking a genitive case,singular,plural,
+-თვის (for - ),ჯანმრთელისთვის,ჯანმრთელებისთვის,
+-ებრ (like a - ),ჯანმრთელისებრ,ჯანმრთელებისებრ,
+-კენ (towards - ),ჯანმრთელისკენ,ჯანმრთელებისკენ,
+-გან (from/of - ),ჯანმრთელისგან,ჯანმრთელებისგან,
+Postpositions taking an adverbial case,singular,plural,
+-მდე (up to - ),ჯანმრთელამდე,ჯანმრთელებამდე,
+Postpositions taking a dative case,singular,plural,
+-ზე (on - ),ჯანმრთელზე,ჯანმრთელებზე,
+-თან (near - ),ჯანმრთელთან,ჯანმრთელებთან,
+-ში (in - ),ჯანმრთელში,ჯანმრთელებში,
+-ვით (like a - ),ჯანმრთელივით,ჯანმრთელებივით,
+Postpositions taking an instrumental case,singular,plural,
+-დან (from / since - ),ჯანმრთელიდან,ჯანმრთელებიდან,
+-ურთ (together with - ),ჯანმრთელითურთ,ჯანმრთელებითურთ,

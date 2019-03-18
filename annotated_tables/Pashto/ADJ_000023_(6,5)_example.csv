@@ -1,0 +1,7 @@
+0,1,2,3,4
+,masculine,,feminine,
+,singular,plural,singular,plural
+direct,ADJ;NOM;MASC;SG,ADJ;NOM;MASC;PL,ADJ;NOM;FEM;SG,ADJ;NOM;FEM;PL
+oblique I,ADJ;(non)NOM;MASC;SG,ADJ;(non)NOM;MASC;PL,ADJ;(non)NOM;FEM;SG,ADJ;(non)NOM;FEM;PL
+oblique II (dialect),ADJ;(non)NOM;LGSPEC1;MASC;SG,ADJ;(non)NOM;LGSPEC1;MASC;PL,ADJ;(non)NOM;LGSPEC1;FEM;SG,ADJ;(non)NOM;LGSPEC1;FEM;PL
+vocative,ADJ;VOC;MASC;SG,ADJ;VOC;MASC;PL,ADJ;VOC;FEM;SG,ADJ;VOC;FEM;PL

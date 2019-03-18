@@ -1,0 +1,24 @@
+0,1,2,3
+,Singular,Plural,Archaic plural
+nominative,ჰუსარი (husari),ჰუსარები (husarebi),ჰუსარნი (husarni)
+ergative,ჰუსარმა (husarma),ჰუსარებმა (husarebma),ჰუსართა (husart'a)
+dative,ჰუსარს (husars),ჰუსარებს (husarebs),ჰუსართა (husart'a)
+genitive,ჰუსარის (husaris),ჰუსარების (husarebis),ჰუსართა (husart'a)
+instrumental,ჰუსარით (husarit'),ჰუსარებით (husarebit'),
+adverbial,ჰუსარად (husarad),ჰუსარებად (husarebad),
+vocative,ჰუსარო (husaro),ჰუსარებო (husarebo),ჰუსარნო (husarno)
+Postpositions taking a genitive case,singular,plural,
+-თვის (for - ),ჰუსარისთვის,ჰუსარებისთვის,
+-ებრ (like a - ),ჰუსარისებრ,ჰუსარებისებრ,
+-კენ (towards - ),ჰუსარისკენ,ჰუსარებისკენ,
+-გან (from/of - ),ჰუსარისგან,ჰუსარებისგან,
+Postpositions taking an adverbial case,singular,plural,
+-მდე (up to - ),ჰუსარამდე,ჰუსარებამდე,
+Postpositions taking a dative case,singular,plural,
+-ზე (on - ),ჰუსარზე,ჰუსარებზე,
+-თან (near - ),ჰუსართან,ჰუსარებთან,
+-ში (in - ),ჰუსარში,ჰუსარებში,
+-ვით (like a - ),ჰუსარივით,ჰუსარებივით,
+Postpositions taking an instrumental case,singular,plural,
+-დან (from / since - ),ჰუსარიდან,ჰუსარებიდან,
+-ურთ (together with - ),ჰუსარითურთ,ჰუსარებითურთ,

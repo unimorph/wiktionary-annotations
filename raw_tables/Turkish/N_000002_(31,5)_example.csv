@@ -1,0 +1,32 @@
+0,1,2,3,4
+,singular (tekil),plural (çoğul),,
+nominative (yalın),bulaşık,bulaşıklar,,
+definite accusative (belirtme),bulaşığı,bulaşıkları,,
+dative (yönelme),bulaşığa,bulaşıklara,,
+locative (bulunma),bulaşıkta,bulaşıklarda,,
+ablative (çıkma),bulaşıktan,bulaşıklardan,,
+genitive (tamlayan),bulaşığın,bulaşıkların,,
+present tense,,,,
+,"positive, declarative","positive, interrogative","negative, declarative","negative, interrogative"
+ben (I am),bulaşığım,bulaşık mıyım?,bulaşık değilim,bulaşık değil miyim?
+sen (you are),bulaşıksın,bulaşık mısın?,bulaşık değilsin,bulaşık değil misin?
+o (he/she/it is),bulaşık / bulaşıktır,bulaşık mı?,bulaşık değil,bulaşık değil mi?
+biz (we are),bulaşığız,bulaşık mıyız?,bulaşık değiliz,bulaşık değil miyiz?
+siz (you are),bulaşıksınız,bulaşık mısınız?,bulaşık değilsiniz,bulaşık değil misiniz?
+onlar (they are),bulaşık(lar),bulaşık(lar) mı?,bulaşık değil(ler),bulaşık değiller mi?
+past tense,,,,
+,"positive, declarative","positive, interrogative","negative, declarative","negative, interrogative"
+ben (I was),bulaşıktım,bulaşık mıydım?,bulaşık değildim,bulaşık değil miydim?
+sen (you were),bulaşıktın,bulaşık mıydın?,bulaşık değildin,bulaşık değil miydin?
+o (he/she/it was),bulaşıktı,bulaşık mıydı?,bulaşık değildi,bulaşık değil miydi?
+biz (we were),bulaşıktık,bulaşık mıydık?,bulaşık değildik,bulaşık değil miydik?
+siz (you were),bulaşıktınız,bulaşık mıydınız?,bulaşık değildiniz,bulaşık değil miydiniz?
+onlar (they were),bulaşıktılar,bulaşık mıydılar?,bulaşık değildi(ler) / değillerdi,bulaşık değil miydiler?
+indirect past,,,,
+,"positive, declarative","positive, interrogative","negative, declarative","negative, interrogative"
+ben (I was),bulaşıkmışım,bulaşık mıymışım?,bulaşık değilmişim,bulaşık değil miymişim?
+sen (you were),bulaşıkmışsın,bulaşık mıymışsın?,bulaşık değilmişsin,bulaşık değil miymişsin?
+o (he/she/it was),bulaşıkmış,bulaşık mıymış?,bulaşık değilmiş,bulaşık değil miymiş?
+biz (we were),bulaşıkmışız,bulaşık mıymışız?,bulaşık değilmişiz,bulaşık değil miymişiz?
+siz (you were),bulaşıkmışsınız,bulaşık mıymışsınız?,bulaşık değilmişsiniz,bulaşık değil miymişsiniz?
+onlar (they were),bulaşıkmışlar,bulaşık mıymışlar?,bulaşık değilmiş(ler) / değillermiş,bulaşık değil miymişler?

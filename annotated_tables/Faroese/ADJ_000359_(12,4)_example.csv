@@ -1,0 +1,13 @@
+0,1,2,3
+glaður a15,,,
+Singular (eintal),m (kallkyn),f (kvennkyn),n (hvørkikyn)
+Nominative (hvørfall),ADJ;NOM;MASC;SG,ADJ;NOM;FEM;SG,ADJ;NOM/ACC;NEUT;SG
+Accusative (hvønnfall),ADJ;ACC;MASC;SG,ADJ;ACC;FEM;SG,
+Dative (hvørjumfall),ADJ;DAT;MASC;SG,ADJ;DAT;FEM;SG,ADJ;DAT;NEUT;SG
+Genitive (hvørsfall),ADJ;GEN;MASC;SG,ADJ;GEN;FEM;SG,ADJ;GEN;NEUT;SG
+,,,
+Plural (fleirtal),m (kallkyn),f (kvennkyn),n (hvørkikyn)
+Nominative (hvørfall),ADJ;NOM;MASC;PL,ADJ;FEM;PL,ADJ;NEUT;PL
+Accusative (hvønnfall),ADJ;ACC;MASC;PL,,
+Dative (hvørjumfall),ADJ;DAT;MASC;PL,,
+Genitive (hvørsfall),ADJ;GEN;MASC;PL,,

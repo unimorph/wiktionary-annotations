@@ -1,0 +1,7 @@
+0,1,2,3
+Base form,V;NFIN,,
+Personal-pronoun-including forms,Singular,Plural,
+Masculine,Feminine,Common,
+First person,V;FIN;1;SG;MASC/FEM,V;FIN;1;PL;MASC+FEM,
+Second person,V;FIN;2;SG;MASC/FEM,V;FIN;2;PL;MASC+FEM,
+Third person,V;FIN;3;SG;MASC,V;FIN;3;SG;FEM,V;FIN;3;PL;MASC+FEM

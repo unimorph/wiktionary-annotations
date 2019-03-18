@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6,7,8
+Infinitive,V;NFIN,,,,,,,
+Past participle,V.PTCP;PST,,,,,,,
+Present participle,V.PTCP;PRS,,,,,,,
+Future participle,V.PTCP;FUT,,,,,,,
+Adverbial participle,V.CVB,,,,,,,
+Potential,gondozhat,,,,,,,
+,1st person sg,2nd person sg informal,"3rd person sg,2nd person sg formal",1st person pl,2nd person pl informal,"3rd person pl,2nd person pl formal",,
+Indicative Mood,Present,Indefinite,V;IND;PRS;INDF;1;SG,V;IND;PRS;INDF;2;SG,V;IND;PRS;INDF;3;SG,V;IND;PRS;INDF;1;PL,V;IND;PRS;INDF;2;PL,V;IND;PRS;INDF;3;PL
+Definite,V;IND;PRS;DEF;1;SG,V;IND;PRS;DEF;2;SG,V;IND;PRS;DEF;3;SG,V;IND;PRS;DEF;1;PL,V;IND;PRS;DEF;2;PL,V;IND;PRS;DEF;3;PL,,
+Past,Indefinite,V;IND;PST;INDF;1;SG,V;IND;PST;INDF;2;SG,V;IND;PST;INDF;3;SG,V;IND;PST;INDF;1;PL,V;IND;PST;INDF;2;PL,V;IND;PST;INDF;3;PL,
+Definite,V;IND;PST;DEF;1;SG,V;IND;PST;DEF;2;SG,V;IND;PST;DEF;3;SG,V;IND;PST;DEF;1;PL,V;IND;PST;DEF;2;PL,V;IND;PST;DEF;3;PL,,
+Conditional Mood,Present,Indefinite,V;COND;PRS;INDF;1;SG,V;COND;PRS;INDF;2;SG,V;COND;PRS;INDF;3;SG,V;COND;PRS;INDF;1;PL,V;COND;PRS;INDF;2;PL,V;COND;PRS;INDF;3;PL
+Definite,V;COND;PRS;DEF;1;SG,V;COND;PRS;DEF;2;SG,V;COND;PRS;DEF;3;SG,V;COND;PRS;DEF;1;PL,V;COND;PRS;DEF;2;PL,V;COND;PRS;DEF;3;PL,,
+Subjunctive Mood,Present,Indefinite,V;SBJV;PRS;INDF;1;SG,V;SBJV;PRS;INDF;2;SG,V;SBJV;PRS;INDF;3;SG,V;SBJV;PRS;INDF;1;PL,V;SBJV;PRS;INDF;2;PL,V;SBJV;PRS;INDF;3;PL
+Definite,V;SBJV;PRS;DEF;1;SG,V;SBJV;PRS;DEF;2;SG,V;SBJV;PRS;DEF;3;SG,V;SBJV;PRS;DEF;1;PL,V;SBJV;PRS;DEF;2;PL,V;SBJV;PRS;DEF;3;PL,,
+Conjugated Infinitive,V;NFIN;1;SG,V;NFIN;2;SG,V;NFIN;3;SG,V;NFIN;1;PL,V;NFIN;2;PL,V;NFIN;3;PL,,

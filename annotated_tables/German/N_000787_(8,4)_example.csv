@@ -1,0 +1,9 @@
+0,1,2,3
+,singular,,
+,indef.,def.,noun
+nominative,ein,der,N;NOM;SG
+genitive,eines,des,N;GEN;SG
+dative,einem,dem,N;DAT;SG
+accusative,einen,den,N;ACC;SG
+ablative,den,,
+vocative,den,,

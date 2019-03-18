@@ -1,0 +1,7 @@
+0,1,2
+f6s,Singular,
+,Indefinite,Definite
+Nominative,N;INDF;NOM;SG,N;INDF;NOM;PL
+Accusative,N;INDF;ACC;SG,N;INDF;ACC;PL
+Dative,N;INDF;DAT;SG,N;INDF;DAT;PL
+Genitive,N;INDF;GEN;SG,N;INDF;GEN;PL

@@ -1,0 +1,10 @@
+0,1,2,3,4,5,6
+Audio,,(file),,,,
+case,singular,plural,,,,
+"m pers, m anim",m inan,n,f,m pers,other,
+"nominative, vocative",dziki,dzikie,dzika,dzicy,dzikie,
+genitive,dzikiego,dzikiej,dzikich,,,
+dative,dzikiemu,dzikim,,,,
+accusative,dzikiego,dziki,dzikie,dziką,dzikich,dzikie
+instrumental,dzikim,dzikimi,,,,
+locative,dzikiej,dzikich,,,,

@@ -1,0 +1,17 @@
+0,1,2,3,4
+singular,masculine,feminine,neuter,
+nominative,glavni,glavna,glavno,
+genitive,glavnog(a),glavne,glavnog(a),
+dative,glavnom(u/e),glavnoj,glavnom(u/e),
+accusative,inanimateanimate,glavniglavnog(a),glavnu,glavno
+vocative,glavni,glavna,glavno,
+locative,glavnom(e/u),glavnoj,glavnom(e/u),
+instrumental,glavnim,glavnom,glavnim,
+plural,masculine,feminine,neuter,
+nominative,glavni,glavne,glavna,
+genitive,glavnih,glavnih,glavnih,
+dative,glavnim(a),glavnim(a),glavnim(a),
+accusative,glavne,glavne,glavna,
+vocative,glavni,glavne,glavna,
+locative,glavnim(a),glavnim(a),glavnim(a),
+instrumental,glavnim(a),glavnim(a),glavnim(a),

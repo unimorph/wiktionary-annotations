@@ -1,0 +1,19 @@
+0,1,2,3,4
+,singular,plural,,
+indefinite,вещ,вещи,,
+definite,вещта,вещите,,
+,masculine,feminine,neuter,plural
+indefinite,вещ,веща,вещо,вещи
+definite(subject form),вещият,вещата,вещото,вещите
+definite(object form),вещия,,,
+extended(vocative form),"вещи,вещий",,,
+,masculine,feminine,neuter,plural
+indefinite,по-вещ,по-веща,по-вещо,по-вещи
+definite(subject form),по-вещият,по-вещата,по-вещото,по-вещите
+definite(object form),по-вещия,,,
+extended(vocative form),"по-вещи,по-вещий",,,
+,masculine,feminine,neuter,plural
+indefinite,най-вещ,най-веща,най-вещо,най-вещи
+definite(subject form),най-вещият,най-вещата,най-вещото,най-вещите
+definite(object form),най-вещия,,,
+extended(vocative form),"най-вещи,най-вещий",,,

@@ -1,0 +1,73 @@
+0,1,2
+Audio,,(file)
+,singular (tekil),plural (çoğul)
+nominative (yalın),erkek,erkekler
+definite accusative (belirtme),erkeği,erkekleri
+dative (yönelme),erkeğe,erkeklere
+locative (bulunma),erkekte,erkeklerde
+ablative (çıkma),erkekten,erkeklerden
+genitive (tamlayan),erkeğin,erkeklerin
+benim (my),singular (tekil),plural (çoğul)
+nominative (yalın),erkeğim,erkeklerim
+definite accusative (belirtme),erkeğimi,erkeklerimi
+dative (yönelme),erkeğime,erkeklerime
+locative (bulunma),erkeğimde,erkeklerimde
+ablative (çıkma),erkeğimden,erkeklerimden
+genitive (tamlayan),erkeğimin,erkeklerimin
+senin (your),singular (tekil),plural (çoğul)
+nominative (yalın),erkeğin,erkeklerin
+definite accusative (belirtme),erkeğini,erkeklerini
+dative (yönelme),erkeğine,erkeklerine
+locative (bulunma),erkeğinde,erkeklerinde
+ablative (çıkma),erkeğinden,erkeklerinden
+genitive (tamlayan),erkeğinin,erkeklerinin
+onun (her/his/its),singular (tekil),plural (çoğul)
+nominative (yalın),erkeği,erkekleri
+definite accusative (belirtme),erkeğini,erkeklerini
+dative (yönelme),erkeğine,erkeklerine
+locative (bulunma),erkeğinde,erkeklerinde
+ablative (çıkma),erkeğinden,erkeklerinden
+genitive (tamlayan),erkeğinin,erkeklerinin
+bizim (our),singular (tekil),plural (çoğul)
+nominative (yalın),erkeğimiz,erkeklerimiz
+definite accusative (belirtme),erkeğimizi,erkeklerimizi
+dative (yönelme),erkeğimize,erkeklerimize
+locative (bulunma),erkeğimizde,erkeklerimizde
+ablative (çıkma),erkeğimizden,erkeklerimizden
+genitive (tamlayan),erkeğimizin,erkeklerimizin
+sizin (your),singular (tekil),plural (çoğul)
+nominative (yalın),erkeğiniz,erkekleriniz
+definite accusative (belirtme),erkeğinizi,erkeklerinizi
+dative (yönelme),erkeğinize,erkeklerinize
+locative (bulunma),erkeğinizde,erkeklerinizde
+ablative (çıkma),erkeğinizden,erkeklerinizden
+genitive (tamlayan),erkeğinizin,erkeklerinizin
+onların (their),singular (tekil),plural (çoğul)
+nominative (yalın),erkekleri,erkekleri
+definite accusative (belirtme),erkeklerini,erkeklerini
+dative (yönelme),erkeklerine,erkeklerine
+locative (bulunma),erkeklerinde,erkeklerinde
+ablative (çıkma),erkeklerinden,erkeklerinden
+genitive (tamlayan),erkeklerinin,erkeklerinin
+simple present,singular,plural
+ben (I am),erkeğim,erkeklerim*
+sen (you are),erkeksin,erkeklersin*
+o (he/she/it is),erkek / erkektir,erkekler* / erkeklerdir*
+biz (we are),erkeğiz,erkekleriz
+siz (you are),erkeksiniz,erkeklersiniz
+onlar (they are),erkekler,erkeklerdir
+simple past,singular,plural
+ben (I was),erkektim,erkeklerdim*
+sen (you were),erkektin,erkeklerdin*
+o (he/she/it was),erkekti,erkeklerdi*
+biz (we were),erkektik,erkeklerdik
+siz (you were),erkektiniz,erkeklerdiniz
+onlar (they were),erkektiler,erkeklerdi
+indirect / unwitnessed past,singular,plural
+ben (I was),erkekmişim,erkeklermişim*
+sen (you were),erkekmişsin,erkeklermişsin*
+o (he/she/it was),erkekmiş,erkeklermiş*
+biz (we were),erkekmişiz,erkeklermişiz
+siz (you were),erkekmişsiniz,erkeklermişsiniz
+onlar (they were),erkekmişler,erkeklermiş
+"*Not used, but perhaps rarely - chiefly grammatical formations. Note: Plural forms are not used with adjectives.",,

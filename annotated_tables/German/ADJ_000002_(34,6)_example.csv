@@ -1,0 +1,35 @@
+0,1,2,3,4,5
+PIE root,,,,,
+*gel-,,,,,
+,,,,,
+gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,he is koolt,se is koolt,dat is koolt,se sünd koolt,
+partitive,een Kools,een Kools,wat Kools,allens Kool,
+strong declension (without article),nominative,kole,kole,koolt,kole
+oblique,kolen,kole,koolt,kole,
+weak declension (with definite article),nominative,de kole,de kole,dat kole,de kolen
+oblique,den kolen,de kole,dat kole,de kolen,
+mixed declension (with indefinite article),nominative,en kole,en kole,en koolt/kolet,(keen) kolen
+oblique,en kolen,en kole,en koolt/kolet,(keen) kolen,
+,,,,,
+gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,he is köler,se is köler,dat is köler,se sünd köler,
+partitive,een kölers,een kölers,wat kölers,allens köler,
+strong declension (without article),nominative,kölere,kölere,köler,kölere
+oblique,kölern,kölere,köler,kölere,
+weak declension (with definite article),nominative,de kölere,de kölere,dat kölere,de kölern
+oblique,den kölern,de kölere,dat kölere,de kölern,
+mixed declension (with indefinite article),nominative,en kölere,en kölere,en köler,(keen) kölern
+oblique,en kölern,en kölere,en köler,(keen) kölern,
+,,,,,
+gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,he is de Köölste,se is de Köölste,dat is dat Köölste,se sünd de Köölsten,
+strong declension (without article),nominative,köölste,köölste,köölst,köölste
+oblique,köölsten,köölste,köölst,köölste,
+weak declension (with definite article),nominative,de köölste,de köölste,dat köölste,de köölsten
+oblique,den köölsten,de köölste,dat köölste,de köölsten,
+mixed declension (with indefinite article),nominative,en köölste,en köölste,en köölst,(keen) köölsten
+oblique,en köölsten,en köölste,en köölst,(keen) köölsten,

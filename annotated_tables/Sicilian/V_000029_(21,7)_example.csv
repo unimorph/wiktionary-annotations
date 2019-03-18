@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6
+infinitive,V;NFIN,,,,,
+gerund,V.CVB;PRS,,,,,
+past participle,V.PTCP;PST,,,,,
+person,singular,plural,,,,
+first,second,third,first,second,third,
+indicative,iu,tu,iddu/idda,nuàutri,vuàutri,iddi
+present,V;IND;PRS;1;SG,V;IND;PRS;2;SG,V;IND;PRS;3;SG,V;IND;PRS;1;PL,V;IND;PRS;2;PL,V;IND;PRS;3;PL
+imperfect,V;IND;PST;1;SG;IPFV,V;IND;PST;2;SG;IPFV,V;IND;PST;3;SG;IPFV,V;IND;PST;1;PL;IPFV,V;IND;PST;2;PL;IPFV,V;IND;PST;3;PL;IPFV
+preterite,V;IND;PST;1;SG;PFV,V;IND;PST;2;SG;PFV,V;IND;PST;3;SG;PFV,V;IND;PST;1;PL;PFV,V;IND;PST;2;PL;PFV,V;IND;PST;3;PL;PFV
+present perfect,Use the present tense of aviri plus the past participle,,,,,
+past perfect,Use the imperfect tense of aviri plus the past participle,,,,,
+conditional1,iu,tu,iddu/idda,nuàutri,vuàutri,iddi
+present,V;1;SG;COND,V;2;SG;COND,V;3;SG;COND,V;1;PL;COND,V;2;PL;COND,V;3;PL;COND
+past,Use the present conditional tense of aviri plus the past participle,,,,,
+subjunctive,iu,tu,iddu/idda,nuàutri,vuàutri,iddi
+present,V;1;SG;SBJV;PRS,V;2;SG;SBJV;PRS,V;3;SG;SBJV;PRS,V;1;PL;SBJV;PRS,V;2;PL;SBJV;PRS,V;3;PL;SBJV;PRS
+imperfect,V;SBJV;PST;1;SG;IPFV,V;SBJV;PST;2;SG;IPFV,V;SBJV;PST;3;SG;IPFV,V;SBJV;PST;1;PL;IPFV,V;SBJV;PST;2;PL;IPFV,V;SBJV;PST;3;PL;IPFV
+present perfect,Use the imperfect subjunctive tense of aviri plus the past participle,,,,,
+imperative,–,tu,vossìa,nuàutri,vuàutri,–
+—,V;2;SG;IMP,V;3;SG;IMP,V;1;PL;IMP,V;2;PL;IMP,—,
+1disused,,,,,,

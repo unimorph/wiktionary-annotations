@@ -1,0 +1,26 @@
+0,1,2,3,4,5,6
+number case / gender,singular,plural,,,,
+masculine,feminine,neuter,masculine,feminine,neuter,
+nominative,τεχνικός,τεχνική,τεχνικό,τεχνικοί,τεχνικές,τεχνικά
+genitive,τεχνικού,τεχνικής,τεχνικού,τεχνικών,τεχνικών,τεχνικών
+accusative,τεχνικό,τεχνική,τεχνικό,τεχνικούς,τεχνικές,τεχνικά
+vocative,τεχνικέ,τεχνική,τεχνικό,τεχνικοί,τεχνικές,τεχνικά
+derivations,"comparative: πιο + positive forms (e.g. πιο τεχνικός, etc.) relative superlative: definite article + πιο + positive forms (e.g. ο πιο τεχνικός, etc.)",,,,,
+comparative,singular,plural,,,,
+masculine,feminine,neuter,masculine,feminine,neuter,
+nominative,τεχνικότερος,τεχνικότερη,τεχνικότερο,τεχνικότεροι,τεχνικότερες,τεχνικότερα
+genitive,τεχνικότερου,τεχνικότερης,τεχνικότερου,τεχνικότερων,τεχνικότερων,τεχνικότερων
+accusative,τεχνικότερο,τεχνικότερη,τεχνικότερο,τεχνικότερους,τεχνικότερες,τεχνικότερα
+vocative,τεχνικότερε,τεχνικότερη,τεχνικότερο,τεχνικότεροι,τεχνικότερες,τεχνικότερα
+derivations,"relative superlative: ο + comparative forms (eg ""ο τεχνικότερος"", etc)",,,,,
+absolute superlative,singular,plural,,,,
+masculine,feminine,neuter,masculine,feminine,neuter,
+nominative,τεχνικότατος,τεχνικότατη,τεχνικότατο,τεχνικότατοι,τεχνικότατες,τεχνικότατα
+genitive,τεχνικότατου,τεχνικότατης,τεχνικότατου,τεχνικότατων,τεχνικότατων,τεχνικότατων
+accusative,τεχνικότατο,τεχνικότατη,τεχνικότατο,τεχνικότατους,τεχνικότατες,τεχνικότατα
+vocative,τεχνικότατε,τεχνικότατη,τεχνικότατο,τεχνικότατοι,τεχνικότατες,τεχνικότατα
+,singular,plural,,,,
+nominative,τεχνικός •,τεχνικοί •,,,,
+genitive,τεχνικού •,τεχνικών •,,,,
+accusative,τεχνικό •,τεχνικούς •,,,,
+vocative,τεχνικέ •,τεχνικοί •,,,,

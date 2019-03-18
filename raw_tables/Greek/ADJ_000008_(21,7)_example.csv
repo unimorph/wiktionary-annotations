@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6
+number case / gender,singular,plural,,,,
+masculine,feminine,neuter,masculine,feminine,neuter,
+nominative,στερεός,στερεή / στερεά,στερεό,στερεοί,στερεές,στερεά
+genitive,στερεού,στερεής / στερεάς,στερεού,στερεών,στερεών,στερεών
+accusative,στερεό,στερεή / στερεά,στερεό,στερεούς,στερεές,στερεά
+vocative,στερεέ,στερεή / στερεά,στερεό,στερεοί,στερεές,στερεά
+derivations,"comparative: πιο + positive forms (e.g. πιο στερεός, etc.) relative superlative: definite article + πιο + positive forms (e.g. ο πιο στερεός, etc.)",,,,,
+notes,The feminine form στερεά is a more learned form.,,,,,
+comparative,singular,plural,,,,
+masculine,feminine,neuter,masculine,feminine,neuter,
+nominative,στερεότερος,στερεότερη,στερεότερο,στερεότεροι,στερεότερες,στερεότερα
+genitive,στερεότερου,στερεότερης,στερεότερου,στερεότερων,στερεότερων,στερεότερων
+accusative,στερεότερο,στερεότερη,στερεότερο,στερεότερους,στερεότερες,στερεότερα
+vocative,στερεότερε,στερεότερη,στερεότερο,στερεότεροι,στερεότερες,στερεότερα
+derivations,"relative superlative: ο + comparative forms (eg ""ο στερεότερος"", etc)",,,,,
+absolute superlative,singular,plural,,,,
+masculine,feminine,neuter,masculine,feminine,neuter,
+nominative,στερεότατος,στερεότατη,στερεότατο,στερεότατοι,στερεότατες,στερεότατα
+genitive,στερεότατου,στερεότατης,στερεότατου,στερεότατων,στερεότατων,στερεότατων
+accusative,στερεότατο,στερεότατη,στερεότατο,στερεότατους,στερεότατες,στερεότατα
+vocative,στερεότατε,στερεότατη,στερεότατο,στερεότατοι,στερεότατες,στερεότατα

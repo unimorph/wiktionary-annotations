@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6
+audio (Germany),,(file),,,,
+audio (Austria),,(file),,,,
+Bauernbrot  Butterbrot  Diabetikerbrot  Dinkelbrot  Dosenbrot  Dreikornbrot  Fettbrot  Fladenbrot  Fruchtbrot  Früchtebrot  Frühbrot  Fünfkornbrot  Gemüsebrot  Graubrot  Grobbrot  Hefebrot,,Johannisbrot  Kartoffelbrot  Kastenweißbrot  Knäckebrot  Knoblauchbrot  Kommissbrot  Korn-an-Korn-Brot  Körnerbrot  Krustenbrot  Kuchenbrot  Kümmelbrot  Landbrot  Malzbrot  Marzipanbrot  Mehrkornbrot  Milchbrot,,Mischbrot  Nussbrot  Osterbrot  Passahbrot  Roggenbrot  Rosinenbrot  Rundbrot  Russischbrot  Saatenbrot  Schnittbrot  Schüttelbrot  Schwarzbrot  Sechskornbrot  Semmelbrot  Sesambrot  Sojabrot,,Sonnenblumenkernbrot  Spezialbrot  Stangenbrot  Stangenweißbrot  Steinofenbrot  Toastbrot  Toskanabrot  Türkenbrot  Vierkornbrot  Vollkornbrot  Vollkorntoastbrot  Weißbrot  Weizenbrot  Zuckerbrot (obsolete)  Zweikornbrot  Zwiebelbrot
+Ahau  Baguette  Brioche  Chäppi  Ciabatta  Einback  Filinchen,,Gupf  Kanten  Kastenweizen  Kipf  Klöben  Knäppchen  Knäusel,,Knust  Krüstchen  Matze  Matzen  Mürgu  Pumpernickel  Ranft,,Riebele  Scheibe  Scherz  Scherzl  Schnitte  Stück  Zwieback
+Frühstücksbrot  Honigbrot  Jausenbrot (Austrian),,Käsebrot  Margarinebrot  Marmeladenbrot,,Pausenbrot  Schinkenbrot  Schmalzbrot,,Schulbrot  Vesperbrot  Wurstbrot
+Abendbrot  Affenbrotbaum  Affenbrot  Brotanschnitt  Brotaufschnitt  Brotaufstrich  Brotbackautomat  Brotbackmischung  Brotbelag  Brotbeutel  Broteinheit  Brotfabrik  Brotfrucht  Brotgeber  Brotgetreide,,Brotherr  Brotherstellung  Brotkammer  Brotkanten  Brotkasten  Brotkorb  Brotkrume  Brotkrümel  Brotkruste  Brotlaib  Brotmarke  Brotmaschine  Brotmesser  Brotpreis  Brotrezept,,Brotrinde  Brotscheibe  Brotschneidemaschine  Brotschnitte  Brotstück  Brotstulle  Brotsuppe  Brotteig  Brottoaster  Brotzeit  Butterbrot  Gnadenbrot  Käsebrot  Mittagsbrot  Zuckerbrot,,
+Brotbitte  Broterwerb,,brotlos  Brotneid,,Brotstudium  Brotverdiener,,Zubrot
+,singular,plural,,,,
+,indef.,def.,noun,def.,noun,
+nominative,ein,das,Brot,die,Brote,
+genitive,eines,des,"Brotes,Brots",der,Brote,
+dative,einem,dem,"Brot, Brote1",den,Broten,
+accusative,ein,das,Brot,die,Brote,

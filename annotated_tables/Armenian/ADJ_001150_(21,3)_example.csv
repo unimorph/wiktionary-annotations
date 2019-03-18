@@ -1,0 +1,22 @@
+0,1,2
+,singular,plural
+nominative,ADJ;NOM;SG,ADJ;NOM;PL
+dative,ADJ;DAT;SG,ADJ;DAT;PL
+ablative,ADJ;ABL;SG,ADJ;ABL;PL
+instrumental,ADJ;INST;SG,ADJ;INST;PL
+locative,ADJ;LOC;SG,ADJ;LOC;PL
+,definite forms,
+nominative,ADJ;NOM;SG;DEF,ADJ;NOM;PL;DEF
+dative,ADJ;DAT;SG;DEF,ADJ;DAT;PL;DEF
+,1st person possessive forms (my),
+nominative,ADJ;NOM;SG;PSS1S,ADJ;NOM;PL;PSS1S
+dative,ADJ;DAT;SG;PSS1S,ADJ;DAT;PL;PSS1S
+ablative,ADJ;ABL;SG;PSS1S,ADJ;ABL;PL;PSS1S
+instrumental,ADJ;INST;SG;PSS1S,ADJ;INST;PL;PSS1S
+locative,ADJ;LOC;SG;PSS1S,ADJ;LOC;PL;PSS1S
+,2nd person possessive forms (your),
+nominative,ADJ;NOM;SG;PSS2S,ADJ;NOM;PL;PSS2S
+dative,ADJ;DAT;SG;PSS2S,ADJ;DAT;PL;PSS2S
+ablative,ADJ;ABL;SG;PSS2S,ADJ;ABL;PL;PSS2S
+instrumental,ADJ;INST;SG;PSS2S,ADJ;INST;PL;PSS2S
+locative,ADJ;LOC;SG;PSS2S,ADJ;LOC;PL;PSS2S

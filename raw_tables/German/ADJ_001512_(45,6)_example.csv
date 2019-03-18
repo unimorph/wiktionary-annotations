@@ -1,0 +1,46 @@
+0,1,2,3,4,5
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist grausig,sie ist grausig,es ist grausig,sie sind grausig,
+strong declension (without article),nominative,grausiger,grausige,grausiges,grausige
+genitive,grausigen,grausiger,grausigen,grausiger,
+dative,grausigem,grausiger,grausigem,grausigen,
+accusative,grausigen,grausige,grausiges,grausige,
+weak declension (with definite article),nominative,der grausige,die grausige,das grausige,die grausigen
+genitive,des grausigen,der grausigen,des grausigen,der grausigen,
+dative,dem grausigen,der grausigen,dem grausigen,den grausigen,
+accusative,den grausigen,die grausige,das grausige,die grausigen,
+mixed declension (with indefinite article),nominative,ein grausiger,eine grausige,ein grausiges,(keine) grausigen
+genitive,eines grausigen,einer grausigen,eines grausigen,(keiner) grausigen,
+dative,einem grausigen,einer grausigen,einem grausigen,(keinen) grausigen,
+accusative,einen grausigen,eine grausige,ein grausiges,(keine) grausigen,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist grausiger,sie ist grausiger,es ist grausiger,sie sind grausiger,
+strong declension (without article),nominative,grausigerer,grausigere,grausigeres,grausigere
+genitive,grausigeren,grausigerer,grausigeren,grausigerer,
+dative,grausigerem,grausigerer,grausigerem,grausigeren,
+accusative,grausigeren,grausigere,grausigeres,grausigere,
+weak declension (with definite article),nominative,der grausigere,die grausigere,das grausigere,die grausigeren
+genitive,des grausigeren,der grausigeren,des grausigeren,der grausigeren,
+dative,dem grausigeren,der grausigeren,dem grausigeren,den grausigeren,
+accusative,den grausigeren,die grausigere,das grausigere,die grausigeren,
+mixed declension (with indefinite article),nominative,ein grausigerer,eine grausigere,ein grausigeres,(keine) grausigeren
+genitive,eines grausigeren,einer grausigeren,eines grausigeren,(keiner) grausigeren,
+dative,einem grausigeren,einer grausigeren,einem grausigeren,(keinen) grausigeren,
+accusative,einen grausigeren,eine grausigere,ein grausigeres,(keine) grausigeren,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist am grausigsten,sie ist am grausigsten,es ist am grausigsten,sie sind am grausigsten,
+strong declension (without article),nominative,grausigster,grausigste,grausigstes,grausigste
+genitive,grausigsten,grausigster,grausigsten,grausigster,
+dative,grausigstem,grausigster,grausigstem,grausigsten,
+accusative,grausigsten,grausigste,grausigstes,grausigste,
+weak declension (with definite article),nominative,der grausigste,die grausigste,das grausigste,die grausigsten
+genitive,des grausigsten,der grausigsten,des grausigsten,der grausigsten,
+dative,dem grausigsten,der grausigsten,dem grausigsten,den grausigsten,
+accusative,den grausigsten,die grausigste,das grausigste,die grausigsten,
+mixed declension (with indefinite article),nominative,ein grausigster,eine grausigste,ein grausigstes,(keine) grausigsten
+genitive,eines grausigsten,einer grausigsten,eines grausigsten,(keiner) grausigsten,
+dative,einem grausigsten,einer grausigsten,einem grausigsten,(keinen) grausigsten,
+accusative,einen grausigsten,eine grausigste,ein grausigstes,(keine) grausigsten,

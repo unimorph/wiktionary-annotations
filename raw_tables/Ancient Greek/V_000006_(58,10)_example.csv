@@ -1,0 +1,59 @@
+0,1,2,3,4,5,6,7,8,9
+number,singular,dual,plural,,,,,,
+present,first,second,third,second,third,first,second,third,
+middle/ passive,indicative,ὠνοῦμαι,ὠνῇ/ὠνεῖ,ὠνεῖται,ὠνεῖσθον,ὠνεῖσθον,ὠνούμεθᾰ,ὠνεῖσθε,ὠνοῦνται
+subjunctive,ὠνῶμαι,ὠνῇ,ὠνῆται,ὠνῆσθον,ὠνῆσθον,ὠνώμεθᾰ,ὠνῆσθε,ὠνῶνται,
+optative,ὠνοίμην,ὠνοῖο,ὠνοῖτο,ὠνοῖσθον,ὠνοίσθην,ὠνοίμεθᾰ,ὠνοῖσθε,ὠνοῖντο,
+imperative,,ὠνοῦ,ὠνείσθω,ὠνεῖσθον,ὠνείσθων,,ὠνεῖσθε,ὠνείσθων,
+,infinitive,participle,,,,,,,
+middle/passive,ὠνεῖσθαι,"ὠνούμενος , ὠνουμένη , ὠνούμενον",,,,,,,
+number,singular,dual,plural,,,,,,
+present,first,second,third,second,third,first,second,third,
+middle/ passive,indicative,ὠνέομαι,ὠνέει/ὠνέῃ,ὠνέεται,ὠνέεσθον,ὠνέεσθον,ὠνεόμεθᾰ,ὠνέεσθε,ὠνέονται
+subjunctive,ὠνέωμαι,ὠνέῃ,ὠνέηται,ὠνέησθον,ὠνέησθον,ὠνεώμεθᾰ,ὠνέησθε,ὠνέωνται,
+optative,ὠνεοίμην,ὠνέοιο,ὠνέοιτο,ὠνέοισθον,ὠνεοίσθην,ὠνεοίμεθᾰ,ὠνέοισθε,ὠνέοιντο,
+imperative,,ὠνέου,ὠνεέσθω,ὠνέεσθον,ὠνεέσθων,,ὠνέεσθε,ὠνεέσθων,
+,infinitive,participle,,,,,,,
+middle/passive,ὠνέεσθαι,"ὠνεόμενος , ὠνεομένη , ὠνεόμενον",,,,,,,
+number,singular,dual,plural,,,,,,
+imperfect,first,second,third,second,third,first,second,third,
+middle/passive,indicative,ἐωνούμην,ἐωνοῦ,ἐωνεῖτο,ἐωνεῖσθον,ἐωνείσθην,ἐωνούμεθᾰ,ἐωνεῖσθε,ἐωνοῦντο
+number,singular,dual,plural,,,,,,
+imperfect,first,second,third,second,third,first,second,third,
+middle/passive,indicative,ἐωνεόμην,ἐωνέου,ἐωνέετο,ἐωνέεσθον,ἐωνεέσθην,ἐωνεόμεθᾰ,ἐωνέεσθε,ἐωνέοντο
+number,singular,dual,plural,,,,,,
+imperfect,first,second,third,second,third,first,second,third,
+middle/passive,indicative,ὠνούμην,ὠνοῦ,ὠνεῖτο,ὠνεῖσθον,ὠνείσθην,ὠνούμεθᾰ,ὠνεῖσθε,ὠνοῦντο
+number,singular,dual,plural,,,,,,
+imperfect,first,second,third,second,third,first,second,third,
+middle/passive,indicative,ὠνεόμην,ὠνέου,ὠνέετο,ὠνέεσθον,ὠνεέσθην,ὠνεόμεθᾰ,ὠνέεσθε,ὠνέοντο
+number,singular,dual,plural,,,,,,
+future,first,second,third,second,third,first,second,third,
+middle,indicative,ὠνήσομαι,ὠνήσει/ὠνήσῃ,ὠνήσεται,ὠνήσεσθον,ὠνήσεσθον,ὠνησόμεθᾰ,ὠνήσεσθε,ὠνήσονται
+optative,ὠνησοίμην,ὠνήσοιο,ὠνήσοιτο,ὠνήσοισθον,ὠνησοίσθην,ὠνησοίμεθᾰ,ὠνήσοισθε,ὠνήσοιντο,
+,infinitive,participle,,,,,,,
+infinitive,ὠνήσεσθαι,"ὠνησόμενος , ὠνησομένη , ὠνησόμενον",,,,,,,
+number,singular,dual,plural,,,,,,
+aorist,first,second,third,second,third,first,second,third,
+middle,indicative,ἐπριάμην,ἐπρίω,ἐπρίατο,ἐπρίασθον,ἐπριάσθην,ἐπριάμεθα,ἐπρίασθε,ἐπρίαντο
+subjunctive,πρίωμαι,πρίῃ,πρίηται,πρίησθον,πρίησθον,πριώμεθα,πρίησθε,πρίωνται,
+optative,πριαίμην,πρίαιο,πρίαιτο,πρίαισθον,πριαίσθην,πριαίμεθα,πρίαισθε,πρίαιντο,
+imperative,,πρίαι,πριάσθω,πρίασθον,πριάσθων,,πρίασθε,πριάσθων,
+,infinitive,participle,,,,,,,
+middle,πρίασθαι,"πριάμενος, πριαμένη, πριάμενον",,,,,,,
+number,singular,dual,plural,,,,,,
+aorist,first,second,third,second,third,first,second,third,
+middle,indicative,ἐωνησάμην,ἐωνήσω,ἐωνήσατο,ἐωνήσασθον,ἐωνησάσθην,ἐωνησάμεθα,ἐωνήσασθε,ἐωνήσαντο
+subjunctive,ὠνήσωμαι,ὠνήσῃ,ὠνήσηται,ὠνήσησθον,ὠνήσησθον,ὠνησώμεθα,ὠνήσησθε,ὠνήσωνται,
+optative,ὠνησαίμην,ὠνήσαιο,ὠνήσαιτο,ὠνήσαισθον,ὠνησαίσθην,ὠνησαίμεθα,ὠνήσαισθε,ὠνήσαιντο,
+imperative,,ὤνησαι,ὠνησάσθω,ὠνήσασθον,ὠνησάσθων,,ὠνήσασθε,ὠνησάσθων,
+,infinitive,participle,,,,,,,
+middle,ὠνήσασθαι,"ὠνησάμενος, ὠνησαμένη, ὠνησάμενον",,,,,,,
+number,singular,dual,plural,,,,,,
+perfect,first,second,third,second,third,first,second,third,
+middle/ passive,indicative,ἐώνημαι,ἐώνησαι,ἐώνηται,ἐώνησθον,ἐώνησθον,ἐωνήμεθα,ἐώνησθε,ἐώνηνται
+subjunctive,ἐωνημένος ὦ,ἐωνημένος ᾖς,ἐωνημένος ᾖ,ἐωνημένω ἦτον,ἐωνημένω ἦτον,ἐωνημένοι ὦμεν,ἐωνημένοι ἦτε,ἐωνημένοι ὦσῐ,
+optative,ἐωνημένος εἴην,ἐωνημένος εἴης,ἐωνημένος εἴη,ἐωνημένοι εἴητον/ἐωνημένοι εἶτον,ἐωνημένω εἰήτην/ἐωνημένω εἴτην,ἐωνημένοι εἴημεν/ἐωνημένοι εἶμεν,ἐωνημένοι εἴητε/ἐωνημένοι εἶτε,ἐωνημένοι εἴησαν/ἐωνημένοι εἶεν,
+imperative,,ἐώνησο,ἐωνήσθω,ἐώνησθον,ἐωνήσθων,,ἐώνησθε,ἐωνήσθων,
+,infinitive,participle,,,,,,,
+infinitive,ἐωνήσθαι,"ἐωνημένος , ἐωνημένη , ἐωνημένον",,,,,,,

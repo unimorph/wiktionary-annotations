@@ -1,0 +1,12 @@
+0,1,2,3,4,5,6,7,8,9
+Audio (France),,(file),,,,,,,
+Number,Person,Gender,Nominative(subject),Reflexive,Accusative(direct complement),Dative(indirect complement),Locative(at),Genitive(of),Disjunctive(tonic)
+Singular,First,—,"je, j’","me, m’",—,—,moi,,
+Second,—,tu,"te, t’",—,—,toi,,,
+Third,Masculine,il,"se, s’","le, l’",lui,y,en,lui,
+Feminine,elle,"la, l’",elle,,,,,,
+—,on,—,—,—,—,soi,,,
+Plural,First,—,nous,nous,—,—,nous,,
+Second,—,vous,vous,—,—,vous,,,
+Third,Masculine,ils,"se, s’",les,leur,y,en,eux,
+Feminine,elles,elles,,,,,,,

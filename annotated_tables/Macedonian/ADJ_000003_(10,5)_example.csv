@@ -1,0 +1,11 @@
+0,1,2,3,4
+,masculine,feminine,neuter,plural
+indefinite,ADJ;MASC;SG;INDF,ADJ;FEM;SG;INDF,ADJ;NEUT;SG;INDF,ADJ;PL;INDF
+definite unspecified,ADJ;MASC;SG;DEF,ADJ;FEM;SG;DEF,ADJ;NEUT;SG;DEF,ADJ;PL;DEF
+definite proximal,ADJ;MASC;SG;DEF;PROX,ADJ;FEM;SG;DEF;PROX,ADJ;NEUT;SG;DEF;PROX,ADJ;PL;DEF;PROX
+definite distal,ADJ;MASC;SG;DEF;REMT,ADJ;FEM;SG;DEF;REMT,ADJ;NEUT;SG;DEF;REMT,ADJ;PL;DEF;REMT
+,masculine,feminine,neuter,plural
+indefinite,сложен,сложна,сложно,сложни
+definite unspecified,сложниот,сложната,сложното,сложните
+definite proximal,сложниов,сложнава,сложново,сложниве
+definite distal,сложнион,сложнана,сложноно,сложнине

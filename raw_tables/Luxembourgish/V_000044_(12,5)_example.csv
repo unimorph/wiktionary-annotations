@@ -1,0 +1,13 @@
+0,1,2,3,4
+"Irregular with past tense, separable",,,,
+infinitive,V;NFIN,,,
+participle,V.PTCP;PST,,,
+auxiliary,sinn,,,
+,presentindicative,pastindicative,conditional,imperative
+1st singular,V;FIN;IND;PRS;1;SG,V;FIN;SBJV;PST;1;SG,V;FIN;COND;PST;1;SG,—
+2nd singular,V;FIN;IND;PRS;2;SG,V;FIN;SBJV;PST;2;SG,V;FIN;COND;PST;2;SG,V;IMP;SG
+3rd singular,V;FIN;IND;PRS;3;SG,V;FIN;SBJV;PST;3;SG,V;FIN;COND;PST;3;SG,—
+1st plural,V;FIN;IND;PRS;1;PL,V;FIN;SBJV;PST;1;PL,V;FIN;COND;PST;1;PL,—
+2nd plural,V;FIN;IND;PRS;2;PL,V;FIN;SBJV;PST;2;PL,V;FIN;COND;PST;2;PL,V;IMP;PL
+3rd plural,V;FIN;IND;PRS;3;PL,V;FIN;SBJV;PST;3;PL,V;FIN;COND;PST;3;PL,—
+(n) or (nn) indicates the Eifeler Regel.,,,,

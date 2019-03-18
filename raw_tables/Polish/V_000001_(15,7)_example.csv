@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6
+,,singular,plural,,,
+person,m,f,n,m pers,"m anim, m inan, n, f",
+infinitive,przyjrzeć,,,,,
+future tense,1st,przyjrzę,przyjrzymy,,,
+2nd,przyjrzysz,przyjrzycie,,,,
+3rd,przyjrzy,przyjrzą,,,,
+past tense,1st,przyjrzałem,przyjrzałam,,przyjrzeliśmy,przyjrzałyśmy
+2nd,przyjrzałeś,przyjrzałaś,,przyjrzeliście,przyjrzałyście,
+3rd,przyjrzał,przyjrzała,przyjrzało,przyjrzeli,przyjrzały,
+conditional,1st,przyjrzałbym,przyjrzałabym,,przyjrzelibyśmy,przyjrzałybyśmy
+2nd,przyjrzałbyś,przyjrzałabyś,,przyjrzelibyście,przyjrzałybyście,
+3rd,przyjrzałby,przyjrzałaby,przyjrzałoby,przyjrzeliby,przyjrzałyby,
+imperative,1st,niech przyjrzę,przyjrzyjmy,,,
+2nd,przyjrzyj,przyjrzyjcie,,,,
+3rd,niech przyjrzy,niech przyjrzą,,,,

@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6
+Audio,,(file),,,,
+case,singular,plural,,,,
+"m pers, m anim",m inan,n,f,m pers,other,
+"nominative, vocative",były,byłe,była,byli,byłe,
+genitive,byłego,byłej,byłych,,,
+dative,byłemu,byłym,,,,
+accusative,byłego,były,byłe,byłą,byłych,byłe
+instrumental,byłym,byłymi,,,,
+locative,byłej,byłych,,,,
+,singular,plural,,,,
+nominative,były,byli,,,,
+genitive,byłego,byłych,,,,
+dative,byłemu,byłym,,,,
+accusative,byłego,byłych,,,,
+instrumental,byłym,byłymi,,,,
+locative,byłym,byłych,,,,
+vocative,były,byli,,,,

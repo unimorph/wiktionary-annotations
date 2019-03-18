@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7
+,perfective,imperfective,,,,,
+masdar,არის,-,,,,,
+present participle,მყოფი/მყოფელი,-,,,,,
+future participle,სამყოფი/სამყოფელი,-,,,,,
+perfect participle,ყოფილა/ნამყოფი,-,,,,,
+person,singular,plural,,,,,
+first,second,third,first,second,third,,
+intransitive screeves,მე (me),შენ (šen),ის (is),ჩვენ (čven),თქვენ (tkven),ისინი (isini),
+present,present,ვარ,ხარ,არის,ვართ,ხართ,არიან
+imperfect,-,-,-,-,-,-,
+present subjunctive,-,-,-,-,-,-,
+future,future,ვიქნები,იქნები,იქნება,ვიქნებით,იქნებით,იქნებიან
+conditional,ვიქნებოდი,იქნებოდი,იქნებოდა,ვიქნებოდით,იქნებოდით,იქნებოდნენ,
+future subjunctive,ვიქნებოდე,იქნებოდე,იქნებოდეს,ვიქნებოდეთ,იქნებოდეთ,იქნებოდნენ,
+aorist,aorist,ვიყავი,იყავი,იყო,ვიყავით,იყავით,იყვნენ
+optative,ვიყო,იყო,იყოს,ვიყოთ,იყოთ,იყონ,
+perfect,perfect,ვყოფილვარ,ყოფილხარ,ყოფილა,ვყოფილვართ,ყოფილხართ,ყოფილან
+pluperfect,ვყოფილიყავი,ყოფილიყავი,ყოფილიყო,ვყოფილიყავით,ყოფილიყავით,ყოფილიყვნენ,
+perfect subjunctive,ვყოფილიყო,ყოფილიყო,ყოფილიყოს,ყოფილიყოთ,ყოფილიყოთ,ყოფილიყონ,
+imperative,–,შენ (šen),–,ჩვენ (čven),თქვენ (tkven),–,
+—,იყავი,—,ვიყოთ,იყავით,—,,
+negative imperative,—,ნუ ხარ,—,არ ვიყოთ,ნუ ხართ,—,

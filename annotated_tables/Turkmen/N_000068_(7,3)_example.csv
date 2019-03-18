@@ -1,0 +1,8 @@
+0,1,2
+,singular,plural
+nominative,N;NOM;SG,N;NOM;PL
+accusative,N;ACC;SG,N;ACC;PL
+genitive,N;GEN;SG,N;GEN;PL
+dative,N;DAT;SG,N;DAT;PL
+locative,N;LOC;SG,N;LOC;PL
+ablative,N;ABL;SG,N;ABL;PL

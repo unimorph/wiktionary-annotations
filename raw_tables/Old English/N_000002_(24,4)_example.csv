@@ -1,0 +1,25 @@
+0,1,2,3
+Singular,Masculine,Feminine,Neuter
+Nominative,dafen,dafen,dafen
+Accusative,dafenne,dafene,dafen
+Genitive,dafenes,dafenre,dafenes
+Dative,dafenum,dafenre,dafenum
+Instrumental,dafene,dafenre,dafene
+Plural,Masculine,Feminine,Neuter
+Nominative,dafene,"dafena, -e",dafen
+Accusative,dafene,"dafena, -e",dafen
+Genitive,dafenra,dafenra,dafenra
+Dative,dafenum,dafenum,dafenum
+Instrumental,dafenum,dafenum,dafenum
+Singular,Masculine,Feminine,Neuter
+Nominative,dafena,dafene,dafene
+Accusative,dafenan,dafenan,dafene
+Genitive,dafenan,dafenan,dafenan
+Dative,dafenan,dafenan,dafenan
+Instrumental,dafenan,dafenan,dafenan
+Plural,Masculine,Feminine,Neuter
+Nominative,dafenan,dafenan,dafenan
+Accusative,dafenan,dafenan,dafenan
+Genitive,"dafenra, dafenena","dafenra, dafenena","dafenra, dafenena"
+Dative,dafenum,dafenum,dafenum
+Instrumental,dafenum,dafenum,dafenum

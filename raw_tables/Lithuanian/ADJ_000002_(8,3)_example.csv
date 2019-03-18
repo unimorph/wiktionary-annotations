@@ -1,0 +1,9 @@
+0,1,2
+,singular (vienaskaita),plural (daugiskaita)
+nominative (vardininkas),alkanas,alkanai
+genitive (kilmininkas),alkano,alkanų
+dative (naudininkas),alkanui,alkanams
+accusative (galininkas),alkaną,alkanus
+instrumental (įnagininkas),alkanu,alkanais
+locative (vietininkas),alkane,alkanuose
+vocative (šauksmininkas),alkane,alkanai

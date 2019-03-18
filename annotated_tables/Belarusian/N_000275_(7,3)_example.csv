@@ -1,0 +1,8 @@
+0,1,2
+,singular,plural
+nominative (назоўны),N;NOM;SG,N;NOM;PL
+genitive (родны),N;GEN;SG,N;GEN;PL
+dative (давальны),N;DAT;SG,N;DAT;PL
+accusative (вінавальны),N;ACC;SG,N;ACC;PL
+instrumental (творны),N;INS;SG,N;INS;PL
+locative (месны),N;ESS;SG,N;ESS;PL

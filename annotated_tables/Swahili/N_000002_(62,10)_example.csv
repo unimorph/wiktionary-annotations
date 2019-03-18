@@ -1,0 +1,63 @@
+0,1,2,3,4,5,6,7,8,9
+infinitive,V;NFIN,,,,,,,,
+,,singular person,,,,,,,
+,,1st personmimi,2nd personwewe,3rd person/Class 1yeye/(m),Class 3(m),Class 5(ji),Class 7(ki),Class 9(n),Class 11/14(u)
+indicative,general,V;FIN;IND;IND;INDF1;SG,V;FIN;IND;IND;INDF2;SG,V;FIN;IND;IND;INDF3;SG;LGSPEC1,V;FIN;IND;IND;INDF3;SG;LGSPEC2,V;FIN;IND;INDF3;SG;LGSPEC3,V;FIN;IND;INDF3;SG;LGSPEC4,V;FIN;IND;INDF3;SG;LGSPEC5,V;FIN;IND;INDF3;SG;LGSPEC6
+progressive,V;FIN;IND;PRES;1;SG,V;FIN;IND;PRES;2;SG,V;FIN;IND;PRES;3;SG;LGSPEC1,V;FIN;IND;PRES;3;SG;LGSPEC2,V;FIN;IND;PRES;3;SG;LGSPEC3,V;FIN;IND;PRES;3;SG;LGSPEC4,V;FIN;IND;PRES;3;SG;LGSPEC5,V;FIN;IND;PRES;3;SG;LGSPEC6,
+habitual,V;FIN;IND;HAB;SG,,,,,,,,
+past,V;FIN;IND;PST;1;SG,V;FIN;IND;PST;2;SG,V;FIN;IND;PST;3;SG;LGSPEC1,V;FIN;IND;PST;3;SG;LGSPEC2,V;FIN;IND;PST;3;SG;LGSPEC3,V;FIN;IND;PST;3;SG;LGSPEC4,V;FIN;IND;PST;3;SG;LGSPEC5,V;FIN;IND;PST;3;SG;LGSPEC6,
+perfect,V;FIN;IND;PST;PRF;1;SG,V;FIN;IND;PST;PRF;2;SG,V;FIN;IND;PST;PRF;3;SG;LGSPEC1,V;FIN;IND;PST;PRF;3;SG;LGSPEC2,V;FIN;IND;PST;PRF;3;SG;LGSPEC3,V;FIN;IND;PST;PRF;3;SG;LGSPEC4,V;FIN;IND;PST;PRF;3;SG;LGSPEC5,V;FIN;IND;PST;PRF;3;SG;LGSPEC6,
+future,V;FIN;IND;FUT;1;SG,V;FIN;IND;FUT;2;SG,V;FIN;IND;FUT;3;SG;LGSPEC1,V;FIN;IND;FUT;3;SG;LGSPEC2,V;FIN;IND;FUT;3;SG;LGSPEC3,V;FIN;IND;FUT;3;SG;LGSPEC4,V;FIN;IND;FUT;3;SG;LGSPEC5,V;FIN;IND;FUT;3;SG;LGSPEC6,
+consecutive,V;FIN;IND;LGSPEC10;1;SG,V;FIN;IND;LGSPEC10;2;SG,V;FIN;IND;LGSPEC10;3;SG;LGSPEC1,V;FIN;IND;LGSPEC10;3;SG;LGSPEC2,V;FIN;IND;LGSPEC10;3;SG;LGSPEC3,V;FIN;IND;LGSPEC10;3;SG;LGSPEC4,V;FIN;IND;LGSPEC10;3;SG;LGSPEC5,V;FIN;IND;LGSPEC10;3;SG;LGSPEC6,
+conditional,present,V;FIN;IND;COND;PRES;1;SG,V;FIN;IND;COND;PRES;2;SG,V;FIN;IND;COND;PRES;3;SG;LGSPEC1,V;FIN;IND;COND;PRES;3;SG;LGSPEC2,V;FIN;IND;COND;PRES;3;SG;LGSPEC3,V;FIN;IND;COND;PRES;3;SG;LGSPEC4,V;FIN;IND;COND;PRES;3;SG;LGSPEC5,V;FIN;IND;COND;PRES;3;SG;LGSPEC6
+past,V;FIN;IND;COND;PST;1;SG,V;FIN;IND;COND;PST;2;SG,V;FIN;IND;COND;PST;3;SG;LGSPEC1,V;FIN;IND;COND;PST;3;SG;LGSPEC2,V;FIN;IND;COND;PST;3;SG;LGSPEC3,V;FIN;IND;COND;PST;3;SG;LGSPEC4,V;FIN;IND;COND;PST;3;SG;LGSPEC5,V;FIN;IND;COND;PST;3;SG;LGSPEC6,
+subjunctive,general,V;FIN;IND;PST;1;SG,V;FIN;IND;PST;2;SG,V;FIN;IND;PST;3;SG;LGSPEC1,V;FIN;IND;PST;3;SG;LGSPEC2,V;FIN;IND;PST;3;SG;LGSPEC3,V;FIN;IND;PST;3;SG;LGSPEC4,V;FIN;IND;PST;3;SG;LGSPEC5,V;FIN;IND;PST;3;SG;LGSPEC6
+consecutive,V;FIN;SUBJ;LGSPEC10;1;SG,V;FIN;SUBJ;LGSPEC10;2;SG,V;FIN;SUBJ;LGSPEC10;3;SG;LGSPEC1,V;FIN;SUBJ;LGSPEC10;3;SG;LGSPEC2,V;FIN;SUBJ;LGSPEC10;3;SG;LGSPEC3,V;FIN;SUBJ;LGSPEC10;3;SG;LGSPEC4,V;FIN;SUBJ;LGSPEC10;3;SG;LGSPEC5,V;FIN;SUBJ;LGSPEC10;3;SG;LGSPEC6,
+comitative,V;FIN;SUBJ;COM;PST;1;SG,V;FIN;SUBJ;COM;PST;2;SG,V;FIN;SUBJ;COM;PST;3;SG;LGSPEC1,V;FIN;SUBJ;COM;PST;3;SG;LGSPEC2,V;FIN;SUBJ;COM;PST;3;SG;LGSPEC3,V;FIN;SUBJ;COM;PST;3;SG;LGSPEC4,V;FIN;SUBJ;COM;PST;3;SG;LGSPEC5,V;FIN;SUBJ;COM;PST;3;SG;LGSPEC6,
+imperative,,badili!__badili!‡,,,,,,,
+,,plural person,,,,,,,
+,,1st personsisi,2nd personninyi,3rd person/Class 2wao/(wa),Class 4(mi),Class 6(ma),Class 8(vi),Class 10(n),Class 10(n)†
+indicative,general,V;FIN;INDF1;PL,V;FIN;INDF2;PL,V;FIN;INDF3;PL;LGSPEC1,V;FIN;INDF3;PL;LGSPEC2,V;FIN;INDF3;PL;LGSPEC3,V;FIN;INDF3;PL;LGSPEC4,V;FIN;INDF3;PL;LGSPEC5,V;FIN;INDF3;PL;LGSPEC6
+progressive,V;FIN;IND;PRES;1;PL,V;FIN;IND;PRES;2;PL,V;FIN;IND;PRES;3;PL;LGSPEC1,V;FIN;IND;PRES;3;PL;LGSPEC2,V;FIN;IND;PRES;3;PL;LGSPEC3,V;FIN;IND;PRES;3;PL;LGSPEC4,V;FIN;IND;PRES;3;PL;LGSPEC5,V;FIN;IND;PRES;3;PL;LGSPEC6,
+habitual,V;FIN;IND;HAB;PL,,,,,,,,
+past,V;FIN;IND;PST;1;PL,V;FIN;IND;PST;2;PL,V;FIN;IND;PST;3;PL;LGSPEC1,V;FIN;IND;PST;3;PL;LGSPEC2,V;FIN;IND;PST;3;PL;LGSPEC3,V;FIN;IND;PST;3;PL;LGSPEC4,V;FIN;IND;PST;3;PL;LGSPEC5,V;FIN;IND;PST;3;PL;LGSPEC6,
+perfect,V;FIN;IND;PST;PRF;1;PL,V;FIN;IND;PST;PRF;2;PL,V;FIN;IND;PST;PRF;3;PL;LGSPEC1,V;FIN;IND;PST;PRF;3;PL;LGSPEC2,V;FIN;IND;PST;PRF;3;PL;LGSPEC3,V;FIN;IND;PST;PRF;3;PL;LGSPEC4,V;FIN;IND;PST;PRF;3;PL;LGSPEC5,V;FIN;IND;PST;PRF;3;PL;LGSPEC6,
+future,V;FIN;IND;FUT;1;PL,V;FIN;IND;FUT;2;PL,V;FIN;IND;FUT;3;PL;LGSPEC1,V;FIN;IND;FUT;3;PL;LGSPEC2,V;FIN;IND;FUT;3;PL;LGSPEC3,V;FIN;IND;FUT;3;PL;LGSPEC4,V;FIN;IND;FUT;3;PL;LGSPEC5,V;FIN;IND;FUT;3;PL;LGSPEC6,
+consecutive,V;FIN;IND;LGSPEC10;1;PL,V;FIN;IND;LGSPEC10;2;PL,V;FIN;IND;LGSPEC10;3;PL;LGSPEC1,V;FIN;IND;LGSPEC10;3;PL;LGSPEC2,V;FIN;IND;LGSPEC10;3;PL;LGSPEC3,V;FIN;IND;LGSPEC10;3;PL;LGSPEC4,V;FIN;IND;LGSPEC10;3;PL;LGSPEC5,V;FIN;IND;LGSPEC7;3;PL;LGSPEC6,
+conditional,present,V;FIN;IND;COND;PRES;1;PL,V;FIN;IND;COND;PRES;2;PL,V;FIN;IND;COND;PRES;3;PL;LGSPEC1,V;FIN;IND;COND;PRES;3;PL;LGSPEC2,V;FIN;IND;COND;PRES;3;PL;LGSPEC3,V;FIN;IND;COND;PRES;3;PL;LGSPEC4,V;FIN;IND;COND;PRES;3;PL;LGSPEC5,V;FIN;IND;COND;PRES;3;PL;LGSPEC6
+past,V;FIN;IND;COND;PST;1;PL,V;FIN;IND;COND;PST;2;PL,V;FIN;IND;COND;PST;3;PL;LGSPEC1,V;FIN;IND;COND;PST;3;PL;LGSPEC2,V;FIN;IND;COND;PST;3;PL;LGSPEC3,V;FIN;IND;COND;PST;3;PL;LGSPEC4,V;FIN;IND;COND;PST;3;PL;LGSPEC5,V;FIN;IND;COND;PST;3;PL;LGSPEC6,
+subjunctive,general,V;FIN;SUBJ;PST;1;PL,V;FIN;SUBJ;PST;2;PL,V;FIN;SUBJ;PST;3;PL;LGSPEC1,V;FIN;SUBJ;PST;3;PL;LGSPEC2,V;FIN;SUBJ;PST;3;PL;LGSPEC3,V;FIN;SUBJ;PST;3;PL;LGSPEC4,V;FIN;SUBJ;PST;3;PL;LGSPEC5,V;FIN;SUBJ;PST;3;PL;LGSPEC6
+consecutive,V;FIN;SUBJ;LGSPEC10;1;PL,V;FIN;SUBJ;LGSPEC10;2;PL,V;FIN;SUBJ;LGSPEC10;3;PL;LGSPEC1,V;FIN;SUBJ;LGSPEC10;3;PL;LGSPEC2,V;FIN;SUBJ;LGSPEC10;3;PL;LGSPEC3,V;FIN;SUBJ;LGSPEC10;3;PL;LGSPEC4,V;FIN;SUBJ;LGSPEC10;3;PL;LGSPEC5,V;FIN;SUBJ;LGSPEC10;3;PL;LGSPEC6,
+comitative,V;FIN;SUBJ;COM;PST;1;PL,V;FIN;SUBJ;COM;PST;2;PL,V;FIN;SUBJ;COM;PST;3;PL;LGSPEC1,V;FIN;SUBJ;COM;PST;3;PL;LGSPEC2,V;FIN;SUBJ;COM;PST;3;PL;LGSPEC3,V;FIN;SUBJ;COM;PST;3;PL;LGSPEC4,V;FIN;SUBJ;COM;PST;3;PL;LGSPEC5,V;FIN;SUBJ;COM;PST;3;PL;LGSPEC6,
+imperative,tubadili,badilini!__badilini!‡,,,,,,,
+infinitive,kutobadili or kutokubadili,,,,,,,,
+,,singular person,,,,,,,
+,,1st personmimi,2nd personwewe,3rd person/Class 1yeye/(m),Class 3(m),Class 5(ji),Class 7(ki),Class 9(n),Class 11/14(u)
+indicative,general,sibadili,hubadili,habadili,haubadili,halibadili,hakibadili,haibadili,haubadili
+progressive,Use General Form,Use General Form,Use General Form,Use General Form,Use General Form,Use General Form,Use General Form,Use General Form,
+habitual,Use General Form,,,,,,,,
+past,sikubadili,hukubadili,hakubadili,haukubadili,halikubadili,hakikubadili,haikubadili,haukubadili,
+perfect,sijabadili,hujabadili,hajabadili,haujabadili,halijabadili,hakijabadili,haijabadili,haujabadili,
+future,sitabadili,hutabadili,hatabadili,hautabadili,halitabadili,hakitabadili,haitabadili,hautabadili,
+consecutive,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,
+conditional,present,nisingebadili,usingebadili,asingebadili,usingebadili,lisingebadili,kisingebadili,isingebadili,usingebadili
+past,nisingalibadili,usingalibadili,asingalibadili,usingalibadili,lisingalibadili,kisingalibadili,isingalibadili,usingalibadili,
+subjunctive,general,nisibadili,usibadili,asibadili,usibadili,lisibadili,kisibadili,isibadili,usibadili
+consecutive,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,
+comitative,nisipobadili,usipobadili,asipobadili,usipobadili,lisipobadili,kisipobadili,isipobadili,usipobadili,
+imperative,,usibadili!‡,,,,,,,
+,,plural person,,,,,,,
+,,1st personsisi,2nd personninyi,3rd person/Class 2wao/(wa),Class 4(mi),Class 6(ma),Class 8(vi),Class 10(n),Class 10(n)†
+indicative,general,hatubadili,hambadili,hawabadili,haibadili,hayabadili,havibadili,hazibadili,hazibadili
+progressive,Use General Form,Use General Form,Use General Form,Use General Form,Use General Form,Use General Form,Use General Form,Use General Form,
+habitual,Use General Form,,,,,,,,
+past,hatukubadili,hamkubadili,hawakubadili,haikubadili,hayakubadili,havikubadili,hazikubadili,hazikubadili,
+perfect,hatujabadili,hamjabadili,hawajabadili,haijabadili,hayajabadili,havijabadili,hazijabadili,hazijabadili,
+future,hatutabadili,hamtabadili,hawatabadili,haitabadili,hayatabadili,havitabadili,hazitabadili,hazitabadili,
+consecutive,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,
+conditional,present,tusingebadili,msingebadili,wasingebadili,isingebadili,yasingebadili,visingebadili,zisingebadili,zisingebadili
+past,tusingalibadili,msingalibadili,wasingalibadili,isingalibadili,yasingalibadili,visingalibadili,zisingalibadili,zisingalibadili,
+subjunctive,general,tusibadili,msibadili,wasibadili,isibadili,yasibadili,visibadili,zisibadili,zisibadili
+consecutive,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,
+comitative,tusipobadili,msipobadili,wasipobadili,isipobadili,yasipobadili,visipobadili,zisipobadili,zisipobadili,
+imperative,tusibadili,msibadili!‡,,,,,,,

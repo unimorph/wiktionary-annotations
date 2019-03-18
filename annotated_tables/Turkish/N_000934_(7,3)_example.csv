@@ -1,0 +1,8 @@
+0,1,2
+,singular (tekil),plural (çoğul)
+nominative (yalın),N;NOM;SG,N;NOM;PL
+definite accusative (belirtme),N;ACC;SG,N;ACC;PL
+dative (yönelme),N;DAT;SG,N;DAT;PL
+locative (bulunma),N;LOC;SG,N;LOC;PL
+ablative (çıkma),N;ABL;SG,N;ABL;PL
+genitive (tamlayan),N;GEN;SG,N;GEN;PL

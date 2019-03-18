@@ -1,0 +1,34 @@
+0,1,2,3
+Case,adjective,,
+"nominative, genitive, instrumental",ნაცნობი ‎(nacnobi),,
+ergative,ნაცნობმა ‎(nacnobma),,
+"dative, adverbial",ნაცნობ ‎(nacnob),,
+vocative,ნაცნობო ‎(nacnobo),,
+Case,adjective,,
+"nominative, genitive and instrumental",ნაცნობი ‎(nacnobi),,
+ergative,ნაცნობმა ‎(nacnobma),,
+dative and adverbial,ნაცნობ ‎(nacnob),,
+vocative,ნაცნობო ‎(nacnobo),,
+,Singular,Plural,Archaic plural
+nominative,ნაცნობი (nac'nobi),ნაცნობები (nac'nobebi),ნაცნობნი (nac'nobni)
+ergative,ნაცნობმა (nac'nobma),ნაცნობებმა (nac'nobebma),ნაცნობთა (nac'nobt'a)
+dative,ნაცნობს (nac'nobs),ნაცნობებს (nac'nobebs),ნაცნობთა (nac'nobt'a)
+genitive,ნაცნობის (nac'nobis),ნაცნობების (nac'nobebis),ნაცნობთა (nac'nobt'a)
+instrumental,ნაცნობით (nac'nobit'),ნაცნობებით (nac'nobebit'),
+adverbial,ნაცნობად (nac'nobad),ნაცნობებად (nac'nobebad),
+vocative,ნაცნობო (nac'nobo),ნაცნობებო (nac'nobebo),ნაცნობნო (nac'nobno)
+Postpositions taking a genitive case,singular,plural,
+-თვის (for - ),ნაცნობისთვის,ნაცნობებისთვის,
+-ებრ (like a - ),ნაცნობისებრ,ნაცნობებისებრ,
+-კენ (towards - ),ნაცნობისკენ,ნაცნობებისკენ,
+-გან (from/of - ),ნაცნობისგან,ნაცნობებისგან,
+Postpositions taking an adverbial case,singular,plural,
+-მდე (up to - ),ნაცნობამდე,ნაცნობებამდე,
+Postpositions taking a dative case,singular,plural,
+-ზე (on - ),ნაცნობზე,ნაცნობებზე,
+-თან (near - ),ნაცნობთან,ნაცნობებთან,
+-ში (in - ),ნაცნობში,ნაცნობებში,
+-ვით (like a - ),ნაცნობივით,ნაცნობებივით,
+Postpositions taking an instrumental case,singular,plural,
+-დან (from / since - ),ნაცნობიდან,ნაცნობებიდან,
+-ურთ (together with - ),ნაცნობითურთ,ნაცნობებითურთ,

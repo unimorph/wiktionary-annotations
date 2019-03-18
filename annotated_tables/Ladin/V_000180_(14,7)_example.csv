@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6
+infinitive,V;NFIN,,,,,
+auxiliary verb,,gerund,V.CVB;PRS,,,
+past participle,V.PTCP;PST,,,,,
+person,singular,plural,,,,
+first,second,third,first,second,third,
+indicative,ie,tu,el/ela,nos,vos,ei/eles
+present,V;IND;PRS;1;SG,V;IND;PRS;2;SG,V;IND;PRS;3;SG,V;IND;PRS;1;PL,V;IND;PRS;2;PL,V;IND;PRS;3;PL
+imperfect,V;IND;PST;1;SG;IPFV,V;IND;PST;2;SG;IPFV,V;IND;PST;3;SG;IPFV,V;IND;PST;1;PL;IPFV,V;IND;PST;2;PL;IPFV,V;IND;PST;3;PL;IPFV
+future,V;1;SG;IND;FUT,V;2;SG;IND;FUT,V;3;SG;IND;FUT,V;1;PL;IND;FUT,V;2;PL;IND;FUT,V;3;PL;IND;FUT
+subjunctive,che ie,che tu,che el/che ela,che nos,che vos,che ee/che eles
+present,V;1;SG;SBJV;PRS,V;2;SG;SBJV;PRS,V;3;SG;SBJV;PRS,V;1;PL;SBJV;PRS,V;2;PL;SBJV;PRS,V;3;PL;SBJV;PRS
+imperfect,V;1;SG;SBJV;PST;IPFV,V;2;SG;SBJV;PST;IPFV,V;3;SG;SBJV;PST;IPFV,V;1;PL;SBJV;PST;IPFV,V;2;PL;SBJV;PST;IPFV,V;3;PL;SBJV;PST;IPFV
+imperative,-,tu,,nos,vos,
+,V;2;SG;NFIN,,,V;2;PL;NFIN,,

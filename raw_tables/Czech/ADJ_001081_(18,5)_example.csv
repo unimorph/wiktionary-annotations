@@ -1,0 +1,19 @@
+0,1,2,3,4
+singular,,,,
+,masculine animate,masculine inanimate,feminine,neuter
+nominative,gramatický,gramatická,gramatické,
+genitive,gramatického,gramatické,gramatického,
+dative,gramatickému,gramatické,gramatickému,
+accusative,gramatického,gramatický,gramatickou,gramatické
+vocative,gramatický,gramatická,gramatické,
+locative,gramatickém,gramatické,gramatickém,
+instrumental,gramatickým,gramatickou,gramatickým,
+plural,,,,
+,masculine animate,masculine inanimate,feminine,neuter
+nominative,gramatičtí,gramatické,gramatická,
+genitive,gramatických,,,
+dative,gramatickým,,,
+accusative,gramatické,gramatická,,
+vocative,gramatičtí,gramatické,gramatická,
+locative,gramatických,,,
+instrumental,gramatickými,,,

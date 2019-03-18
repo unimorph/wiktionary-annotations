@@ -1,0 +1,13 @@
+0,1,2,3,4
+,masculine,feminine,neuter,plural
+indefinite,ADJ;MASC;SG;INDF,ADJ;FEM;SG;INDF,ADJ;NEUT;SG;INDF,ADJ;PL;INDF
+definite unspecified,ADJ;MASC;SG;DEF,ADJ;FEM;SG;DEF,ADJ;NEUT;SG;DEF,ADJ;PL;DEF
+definite proximal,ADJ;MASC;SG;DEF;PROX,ADJ;FEM;SG;DEF;PROX,ADJ;NEUT;SG;DEF;PROX,ADJ;PL;DEF;PROX
+definite distal,ADJ;MASC;SG;DEF;REMT,ADJ;FEM;SG;DEF;REMT,ADJ;NEUT;SG;DEF;REMT,ADJ;PL;DEF;REMT
+,singular,plural,,
+indefinite,јасен,јасени,,
+definite unspecified,јасенот,јасените,,
+definite proximal,јасенов,јасениве,,
+definite distal,јасенон,јасенине,,
+vocative,јасену,јасени,,
+count form,—,јасена,,

@@ -1,0 +1,47 @@
+0,1,2,3,4,5
+Audio,,(file),,,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist grausam,sie ist grausam,es ist grausam,sie sind grausam,
+strong declension (without article),nominative,grausamer,grausame,grausames,grausame
+genitive,grausamen,grausamer,grausamen,grausamer,
+dative,grausamem,grausamer,grausamem,grausamen,
+accusative,grausamen,grausame,grausames,grausame,
+weak declension (with definite article),nominative,der grausame,die grausame,das grausame,die grausamen
+genitive,des grausamen,der grausamen,des grausamen,der grausamen,
+dative,dem grausamen,der grausamen,dem grausamen,den grausamen,
+accusative,den grausamen,die grausame,das grausame,die grausamen,
+mixed declension (with indefinite article),nominative,ein grausamer,eine grausame,ein grausames,(keine) grausamen
+genitive,eines grausamen,einer grausamen,eines grausamen,(keiner) grausamen,
+dative,einem grausamen,einer grausamen,einem grausamen,(keinen) grausamen,
+accusative,einen grausamen,eine grausame,ein grausames,(keine) grausamen,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist grausamer,sie ist grausamer,es ist grausamer,sie sind grausamer,
+strong declension (without article),nominative,grausamerer,grausamere,grausameres,grausamere
+genitive,grausameren,grausamerer,grausameren,grausamerer,
+dative,grausamerem,grausamerer,grausamerem,grausameren,
+accusative,grausameren,grausamere,grausameres,grausamere,
+weak declension (with definite article),nominative,der grausamere,die grausamere,das grausamere,die grausameren
+genitive,des grausameren,der grausameren,des grausameren,der grausameren,
+dative,dem grausameren,der grausameren,dem grausameren,den grausameren,
+accusative,den grausameren,die grausamere,das grausamere,die grausameren,
+mixed declension (with indefinite article),nominative,ein grausamerer,eine grausamere,ein grausameres,(keine) grausameren
+genitive,eines grausameren,einer grausameren,eines grausameren,(keiner) grausameren,
+dative,einem grausameren,einer grausameren,einem grausameren,(keinen) grausameren,
+accusative,einen grausameren,eine grausamere,ein grausameres,(keine) grausameren,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist am grausamsten,sie ist am grausamsten,es ist am grausamsten,sie sind am grausamsten,
+strong declension (without article),nominative,grausamster,grausamste,grausamstes,grausamste
+genitive,grausamsten,grausamster,grausamsten,grausamster,
+dative,grausamstem,grausamster,grausamstem,grausamsten,
+accusative,grausamsten,grausamste,grausamstes,grausamste,
+weak declension (with definite article),nominative,der grausamste,die grausamste,das grausamste,die grausamsten
+genitive,des grausamsten,der grausamsten,des grausamsten,der grausamsten,
+dative,dem grausamsten,der grausamsten,dem grausamsten,den grausamsten,
+accusative,den grausamsten,die grausamste,das grausamste,die grausamsten,
+mixed declension (with indefinite article),nominative,ein grausamster,eine grausamste,ein grausamstes,(keine) grausamsten
+genitive,eines grausamsten,einer grausamsten,eines grausamsten,(keiner) grausamsten,
+dative,einem grausamsten,einer grausamsten,einem grausamsten,(keinen) grausamsten,
+accusative,einen grausamsten,eine grausamste,ein grausamstes,(keine) grausamsten,

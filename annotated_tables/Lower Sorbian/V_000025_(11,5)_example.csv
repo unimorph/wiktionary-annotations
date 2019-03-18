@@ -1,0 +1,12 @@
+0,1,2,3,4
+Present,Singular,Dual,Plural,
+1st person,V;PRS;1;SG,V;PRS;1;DU,V;PRS;1;PL,
+2nd person,V;PRS;2;SG,V;PRS;2;DU,V;PRS;2;PL,
+3rd person,V;PRS;3;SG,V;PRS;3;DU,V;PRS;3;PL,
+Preterite,Singular,Dual,Plural,
+1st person,V;PST;1;SG,V;PST;1;DU,V;PST;1;PL,
+2nd person,V;PST;2;SG,V;PST;2;DU,V;PST;2;PL,
+3rd person,V;PST;3;SG,V;PST;3;DU,V;PST;3;PL,
+Imperative,Singular,Dual,Plural,
+2nd person,V;IMP;2;SG,V;IMP;2;SG,V;IMP;2;SG,
+"dodychaś pf ‎(“breathe one’s last”)  dychadło n ‎(“organ of breathing”)  dychaŕ m ‎(“breather”)  dychaty ‎(“short of breath”)  dychawa f ‎(“windpipe”)  dychnjenje n ‎(“a breath”)  dychotaś impf ‎(“breathe heavily, pant”)",,"dychotaty ‎(“short of breath”)  dychotawy ‎(“short of breath”)  njedychaty ‎(“short of breath, asthmatic”)  pódychaś pf ‎(“breathe weakly”)  pózdychaś pf ‎(“sigh”)  wobdychaś pf ‎(“breathe on”)",,"wobzdychowaś pf ‎(“sigh over, lament”)  wódychaś pf ‎(“catch one’s breath”)  wótdychaś pf ‎(“catch one’s breath”)  wudychaś pf ‎(“breathe out, exhale”)  zadychaś pf ‎(“breathe in”)  zdychaś pf ‎(“sigh”)"

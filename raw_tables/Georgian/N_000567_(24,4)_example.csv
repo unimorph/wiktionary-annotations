@@ -1,0 +1,25 @@
+0,1,2,3
+,singular,plural,archaic plural
+nominative,ჰიმნი ‎(himni),ჰიმნები ‎(himnebi),ჰიმნნი ‎(himnni)
+ergative,ჰიმნმა ‎(himnma),ჰიმნებმა ‎(himnebma),ჰიმნთ(ა) ‎(himnt(a))
+dative,ჰიმნს(ა) ‎(himns(a)),ჰიმნებს(ა) ‎(himnebs(a)),ჰიმნთ(ა) ‎(himnt(a))
+genitive,ჰიმნის(ა) ‎(himnis(a)),ჰიმნების(ა) ‎(himnebis(a)),ჰიმნთ(ა) ‎(himnt(a))
+instrumental,ჰიმნით(ა) ‎(himnit(a)),ჰიმნებით(ა) ‎(himnebit(a)),
+adverbial,ჰიმნად(ა) ‎(himnad(a)),ჰიმნებად(ა) ‎(himnebad(a)),
+vocative,ჰიმნო ‎(himno),ჰიმნებო ‎(himnebo),ჰიმნნო ‎(himnno)
+Notes: archaic plurals might not exist.,,,
+postpositions taking a dative case,singular,plural,
+-ზე (on - ),ჰიმნზე ‎(himnze),ჰიმნებზე ‎(himnebze),
+-თან (near - ),ჰიმნთან ‎(himntan),ჰიმნებთან ‎(himnebtan),
+-ში (in - ),ჰიმნში ‎(himnši),ჰიმნებში ‎(himnebši),
+-ვით (like a - ),ჰიმნივით ‎(himnivit),ჰიმნებივით ‎(himnebivit),
+postpositions taking a genitive case,singular,plural,
+-თვის (for - ),ჰიმნისთვის ‎(himnistvis),ჰიმნებისთვის ‎(himnebistvis),
+-ებრ (like a - ),ჰიმნისებრ ‎(himnisebr),ჰიმნებისებრ ‎(himnebisebr),
+-კენ (towards - ),ჰიმნისკენ ‎(himnisḳen),ჰიმნებისკენ ‎(himnebisḳen),
+-გან (from/of - ),ჰიმნისგან ‎(himnisgan),ჰიმნებისგან ‎(himnebisgan),
+postpositions taking an instrumental case,singular,plural,
+-დან (from / since - ),ჰიმნიდან ‎(himnidan),ჰიმნებიდან ‎(himnebidan),
+-ურთ (together with - ),ჰიმნითურთ ‎(himniturt),ჰიმნებითურთ ‎(himnebiturt),
+postpositions taking an adverbial case,singular,plural,
+-მდე (up to - ),ჰიმნამდე ‎(himnamde),ჰიმნებამდე ‎(himnebamde),

@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6,7
+,singular,plural,,,,,
+,,masculine,neuter,feminine,masculine,neuter,feminine
+nominative/ accusative,indefinite,compus,compusă,compuși,compuse,,
+definite,compusul,compusa,compușii,compusele,,,
+genitive/ dative,indefinite,compus,compuse,compuși,compuse,,
+definite,compusului,compusei,compușilor,compuselor,,,
+component  componență,,compoziție  compune,,compunere,,,
+,singular,plural,,,,,
+,indefinite articulation,definite articulation,indefinite articulation,definite articulation,,,
+nominative/accusative,(un) compus,compusul,(niște) compuși,compușii,,,
+genitive/dative,(unui) compus,compusului,(unor) compuși,compușilor,,,
+vocative,compusule,compușilor,,,,,

@@ -1,0 +1,71 @@
+0,1,2
+,singular (tekil),plural (çoğul)
+nominative (yalın),terli,terliler
+definite accusative (belirtme),terliyi,terlileri
+dative (yönelme),terliye,terlilere
+locative (bulunma),terlide,terlilerde
+ablative (çıkma),terliden,terlilerden
+genitive (tamlayan),terlinin,terlilerin
+Nominative,singular,plural
+benim (my),terlim,terlilerim
+senin (your),terlin,terlilerin
+onun (her/his/its),terlisi,terlileri
+bizim (our),terlimiz,terlilerimiz
+sizin (your),terliniz,terlileriniz
+onların (their),terlisi / terlileri,terlileri
+Accusative,singular,plural
+benim (my),terlimi,terlilerimi
+senin (your),terlini,terlilerini
+onun (her/his/its),terlisini,terlilerini
+bizim (our),terlimizi,terlilerimizi
+sizin (your),terlinizi,terlilerinizi
+onların (their),terlisini / terlilerini,terlilerini
+Dative,singular,plural
+benim (my),terlime,terlilerime
+senin (your),terline,terlilerine
+onun (her/his/its),terlisine,terlilerine
+bizim (our),terlimize,terlilerimize
+sizin (your),terlinize,terlilerinize
+onların (their),terlisine / terlilerine,terlilerine
+Locative,singular,plural
+benim (my),terlimde,terlilerimde
+senin (your),terlinde,terlilerinde
+onun (her/his/its),terlisinde,terlilerinde
+bizim (our),terlimizde,terlilerimizde
+sizin (your),terlinizde,terlilerinizde
+onların (their),terlisinde / terlilerinde,terlilerinde
+Ablative,singular,plural
+benim (my),terlimden,terlilerimden
+senin (your),terlinden,terlilerinden
+onun (her/his/its),terlisinden,terlilerinden
+bizim (our),terlimizden,terlilerimizden
+sizin (your),terlinizden,terlilerinizden
+onların (their),terlisinden / terlilerinden,terlilerinden
+Genitive,singular,plural
+benim (my),terlimin,terlilerimin
+senin (your),terlinin,terlilerinin
+onun (her/his/its),terlisinin,terlilerinin
+bizim (our),terlimizin,terlilerimizin
+sizin (your),terlinizin,terlilerinizin
+onların (their),terlisinin / terlilerinin,terlilerinin
+Simple Present,singular,plural
+ben (I am),terliyim,terlilerim*
+sen (you are),terlisin,terlilersin*
+o (he/she/it is),terli / terlidir,terliler* / terlilerdir*
+biz (we are),terliyiz,terlileriz
+siz (you are),terlisiniz,terlilersiniz
+onlar (they are),terliler,terlilerdir
+Simple Past,singular,plural
+ben (I was),terliydim,terlilerdim*
+sen (you were),terliydin,terlilerdin*
+o (he/she/it was),terliydi,terlilerdi*
+biz (we were),terliydik,terlilerdik
+siz (you were),terliydiniz,terlilerdiniz
+onlar (they were),terliydiler,terlilerdi
+Aorist,singular,plural
+ben (I was),terliymişim,terlilermişim*
+sen (you were),terliymişsin,terlilermişsin*
+o (he/she/it was),terliymiş,terlilermiş*
+biz (we were),terliymişiz,terlilermişiz
+siz (you were),terliymişsiniz,terlilermişsiniz
+onlar (they were),terliymişler,terlilermiş

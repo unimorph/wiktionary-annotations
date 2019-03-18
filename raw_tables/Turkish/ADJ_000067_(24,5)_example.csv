@@ -1,0 +1,25 @@
+0,1,2,3,4
+present tense,,,,
+,"positive, declarative","positive, interrogative","negative, declarative","negative, interrogative"
+ben (I am),gizemliyim,gizemli miyim?,gizemli değilim,gizemli değil miyim?
+sen (you are),gizemlisin,gizemli misin?,gizemli değilsin,gizemli değil misin?
+o (he/she/it is),gizemli / gizemlidir,gizemli mi?,gizemli değil,gizemli değil mi?
+biz (we are),gizemliyiz,gizemli miyiz?,gizemli değiliz,gizemli değil miyiz?
+siz (you are),gizemlisiniz,gizemli misiniz?,gizemli değilsiniz,gizemli değil misiniz?
+onlar (they are),gizemli(ler),gizemli(ler) mi?,gizemli değil(ler),gizemli değiller mi?
+past tense,,,,
+,"positive, declarative","positive, interrogative","negative, declarative","negative, interrogative"
+ben (I was),gizemliydim,gizemli miydim?,gizemli değildim,gizemli değil miydim?
+sen (you were),gizemliydin,gizemli miydin?,gizemli değildin,gizemli değil miydin?
+o (he/she/it was),gizemliydi,gizemli miydi?,gizemli değildi,gizemli değil miydi?
+biz (we were),gizemliydik,gizemli miydik?,gizemli değildik,gizemli değil miydik?
+siz (you were),gizemliydiniz,gizemli miydiniz?,gizemli değildiniz,gizemli değil miydiniz?
+onlar (they were),gizemliydiler,gizemli miydiler?,gizemli değildi(ler) / değillerdi,gizemli değil miydiler?
+indirect past,,,,
+,"positive, declarative","positive, interrogative","negative, declarative","negative, interrogative"
+ben (I was),gizemliymişim,gizemli miymişim?,gizemli değilmişim,gizemli değil miymişim?
+sen (you were),gizemliymişsin,gizemli miymişsin?,gizemli değilmişsin,gizemli değil miymişsin?
+o (he/she/it was),gizemliymiş,gizemli miymiş?,gizemli değilmiş,gizemli değil miymiş?
+biz (we were),gizemliymişiz,gizemli miymişiz?,gizemli değilmişiz,gizemli değil miymişiz?
+siz (you were),gizemliymişsiniz,gizemli miymişsiniz?,gizemli değilmişsiniz,gizemli değil miymişsiniz?
+onlar (they were),gizemliymişler,gizemli miymişler?,gizemli değilmiş(ler) / değillermiş,gizemli değil miymişler?

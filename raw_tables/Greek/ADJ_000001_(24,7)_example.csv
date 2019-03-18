@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6
+number case / gender,singular,plural,,,,
+masculine,feminine,neuter,masculine,feminine,neuter,
+nominative,ευγενής,ευγενής,ευγενές,ευγενείς,ευγενείς,ευγενή
+genitive,ευγενούς,ευγενούς,ευγενούς,ευγενών,ευγενών,ευγενών
+accusative,ευγενή,ευγενή,ευγενές,ευγενείς,ευγενείς,ευγενή
+derivations,"comparative: πιο + positive forms (e.g. πιο ευγενής, etc.) relative superlative: definite article + πιο + positive forms (e.g. ο πιο ευγενής, etc.)",,,,,
+comparative,singular,plural,,,,
+masculine,feminine,neuter,masculine,feminine,neuter,
+nominative,ευγενέστερος,ευγενέστερη,ευγενέστερο,ευγενέστεροι,ευγενέστερες,ευγενέστερα
+genitive,ευγενέστερου,ευγενέστερης,ευγενέστερου,ευγενέστερων,ευγενέστερων,ευγενέστερων
+accusative,ευγενέστερο,ευγενέστερη,ευγενέστερο,ευγενέστερους,ευγενέστερες,ευγενέστερα
+vocative,ευγενέστερε,ευγενέστερη,ευγενέστερο,ευγενέστεροι,ευγενέστερες,ευγενέστερα
+derivations,"relative superlative: ο + comparative forms (eg ""ο ευγενέστερος"", etc)",,,,,
+absolute superlative,singular,plural,,,,
+masculine,feminine,neuter,masculine,feminine,neuter,
+nominative,ευγενέστατος,ευγενέστατη,ευγενέστατο,ευγενέστατοι,ευγενέστατες,ευγενέστατα
+genitive,ευγενέστατου,ευγενέστατης,ευγενέστατου,ευγενέστατων,ευγενέστατων,ευγενέστατων
+accusative,ευγενέστατο,ευγενέστατη,ευγενέστατο,ευγενέστατους,ευγενέστατες,ευγενέστατα
+vocative,ευγενέστατε,ευγενέστατη,ευγενέστατο,ευγενέστατοι,ευγενέστατες,ευγενέστατα
+,singular,plural,,,,
+nominative,ευγενής •,ευγενές •,,,,
+genitive,ευγενή •,ευγενών •,,,,
+accusative,ευγενή •,ευγενές •,,,,
+vocative,ευγενή •,ευγενές •,,,,

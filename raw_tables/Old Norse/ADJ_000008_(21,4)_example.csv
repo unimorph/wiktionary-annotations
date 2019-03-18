@@ -1,0 +1,22 @@
+0,1,2,3
+singular,masculine,feminine,neuter
+nominative,borinn,borin,borit
+accusative,borinn,borna,borit
+dative,bornum,borinni,borinu
+genitive,borins,borinnar,borins
+plural,masculine,feminine,neuter
+nominative,bornir,bornar,borin
+accusative,borna,bornar,borin
+dative,bornum,bornum,bornum
+genitive,borinna,borinna,borinna
+singular,masculine,feminine,neuter
+nominative,borni,borna,borna
+accusative,borna,bornu,borna
+dative,borna,bornu,borna
+genitive,borna,bornu,borna
+plural,masculine,feminine,neuter
+nominative,bornu,bornu,bornu
+accusative,bornu,bornu,bornu
+dative,bornum,bornum,bornum
+genitive,bornu,bornu,bornu
+Faroese: borin,,Icelandic: borinn,

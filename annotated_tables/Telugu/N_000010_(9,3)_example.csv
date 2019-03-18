@@ -1,0 +1,10 @@
+0,1,2
+,singular,plural
+nominative (ప్రథమా విభక్తి),N;SG;NOM,N;PL;NOM
+accusative (ద్వితీయా విభక్తి),N;SG;ACC,N;PL;ACC
+instrumental (తృతీయా విభక్తి),N;SG;INS,N;PL;INS
+dative (చతుర్థీ విభక్తి),N;SG;DAT,N;PL;DAT
+ablative (పంచమీ విభక్తి),N;SG;ABL,N;PL;ABL
+genitive (షష్ఠీ విభక్తి),N;SG;GEN,N;PL;GEN
+locative (సప్తమీ విభక్తి),N;SG;AT,N;PL;AT
+vocative (సంబోధనా ప్రథమా విభక్తి),N;SG;VOC,N;PL;VOC

@@ -1,0 +1,27 @@
+0,1,2,3,4,5,6,7,8,9,10,11
+Number,Singular,,Dual,,Plural,,,,,,
+Case/Gender,Masculine,Feminine,Neuter,,Masculine,Feminine,Neuter,,Masculine,Feminine,Neuter
+Nominative,ποσός,ποσή,ποσόν,,ποσώ,ποσᾱ́,ποσώ,,ποσοί,ποσαί,ποσᾰ́
+Genitive,ποσοῦ,ποσῆς,ποσοῦ,,ποσοῖν,ποσαῖν,ποσοῖν,,ποσῶν,ποσῶν,ποσῶν
+Dative,ποσῷ,ποσῇ,ποσῷ,,ποσοῖν,ποσαῖν,ποσοῖν,,ποσοῖς,ποσαῖς,ποσοῖς
+Accusative,ποσόν,ποσήν,ποσόν,,ποσώ,ποσᾱ́,ποσώ,,ποσούς,ποσᾱ́ς,ποσᾰ́
+Vocative,ποσέ,ποσή,ποσόν,,ποσώ,ποσᾱ́,ποσώ,,ποσοί,ποσαί,ποσᾰ́
+Derived forms,Adverb,,Comparative,,Superlative,,,,,,
+ποσῶς,,ποσώτερος,,ποσώτᾰτος,,,,,,,
+Notes:,"This table gives Attic inflectional endings. For declension in dialects other than Attic, see Appendix:Ancient Greek dialectal declension.",,,,,,,,,,
+type,interrogative,indefinite,(medial)demonstrative,proximaldemonstrative,distaldemonstrative,relative,indefiniterelative,identity,other,,
+basic,τίς,τις,"†ὁ, οὗτος",ὅδε,ἐκεῖνος,ὅς,ὅστις,"ὁ αὐτός, ὁμός","ἕτερος, ἄλλος",,
+dual,πότερος,"πότερος, ποτερός",,,,ὁπότερος,,,,,
+quality,ποῖος,ποιός,"†τοῖος, τοιοῦτος",τοιόσδε,,οἷος,ὁποῖος,ὅμοιος,"ἑτεροῖος, ἀλλοῖος",,
+quantity,πόσος,ποσός,"†τόσος, τοσοῦτος",τοσόσδε,,ὅσος,ὁπόσος,,,,
+manner,πῶς,πως,"†τώς, †ὥς, οὕτως",ὧδε,,ὡς,ὅπως,ὁμῶς,"ἑτέρως, ἄλλως",,
+place,"ποῦ, †πόθι","που, †ποθί",ἐνταῦθα,,"ἐκεῖ, ἔνθα, †ἐκεῖθι","οὗ, ἔνθα, †ὅθι","ὅπου, †ὁπόθι","αὐτόθι, ὁμοῦ",ἄλλοθι,,
+source,πόθεν,ποθέν,"†τόθεν, ἔνθεν, ἐντεῦθεν",,ἐκεῖθεν,ὅθεν,ὁπόθεν,†ὁμόθεν,ἄλλοθεν,,
+destination,"ποῖ, †πόσε",ποι,"ἔνθα, ἐνταῦθα",ἐνθάδε,ἐκεῖσε,οἷ,"ὅποι, †ὁπόσε","αὐτόσε, ὁμόσε",ἄλλοσε,,
+time,"πότε, πῆμος",ποτέ,"τότε, τῆμος",τημόσδε,,"ὅτε, ἦμος","ὁπότε, †ὁππῆμος",ἅμα,ἄλλοτε,,
+exact time,πηνίκα,πηνίκα,"†τηνίκα, τηνικαῦτα",τηνικάδε,,ἡνίκα,ὁπηνίκα,αὐτίκα,,,
+"size, age",πηλίκος,πηλίκος,"†τηλίκος, τηλικοῦτος",τηλικόσδε,,ἡλίκος,ὁπηλίκος,ὁμῆλιξ,,,
+repetition,"ποσάκις, ποσίνδα",ποσάκις,"τουτάκις, τόσακις",,,†ὁσάκις ὁποσάκις,ὁποσάκις,,,,
+multiplication,ποσαπλάσιος,,,,,"ὁσαπλάσιος, ὁσαπλασίων",,,,,
+order,πόστος,ποστός,,,,,ὁπόστος,,,,
+† Forms rarely or never used in Classical Attic proseRelative also used in exclamations; either relative or indefinite relative used in indirect questions.,,,,,,,,,,,

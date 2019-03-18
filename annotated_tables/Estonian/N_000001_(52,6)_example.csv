@@ -1,0 +1,53 @@
+0,1,2,3,4,5
+indicative,,,,,
+present,perfect,,,,
+person,positive,negative,person,positive,negative
+1st sing.,maadlen,ei maadle,1st sing.,olen maadelnud,ei ole maadelnudpole maadelnud
+2nd sing.,maadled,2nd sing.,oled maadelnud,,
+3rd sing.,maadleb,3rd sing.,on maadelnud,,
+1st plur.,maadleme,1st plur.,oleme maadelnud,,
+2nd plur.,maadlete,2nd plur.,olete maadelnud,,
+3rd plur.,maadlevad,3rd plur.,on maadelnud,,
+passive,maadeldakse,ei maadelda,passive,on maadeldud,ei ole maadeldudpole maadeldud
+past,pluperfect,,,,
+person,positive,negative,person,positive,negative
+1st sing.,maadlesin,ei maadelnud,1st sing.,olin maadelnud,ei olnud maadelnudpolnud maadelnud
+2nd sing.,maadlesid,2nd sing.,olid maadelnud,,
+3rd sing.,maadles,3rd sing.,oli maadelnud,,
+1st plur.,maadlesime,1st plur.,olime maadelnud,,
+2nd plur.,maadlesite,2nd plur.,olite maadelnud,,
+3rd plur.,maadlesid,3rd plur.,oli maadelnud,,
+passive,maadeldi,ei maadeldud,passive,oli maadeldud,ei olnud maadeldudpolnud maadeldud
+conditional,,,,,
+present,perfect,,,,
+person,positive,negative,person,positive,negative
+1st sing.,maadleksin,ei maadleks,1st sing.,oleksin maadelnud,ei oleks maadelnudpoleks maadelnud
+2nd sing.,maadleksid,2nd sing.,oleksid maadelnud,,
+3rd sing.,maadleks,3rd sing.,oleks maadelnud,,
+1st plur.,maadleksime,1st plur.,oleksime maadelnud,,
+2nd plur.,maadleksite,2nd plur.,oleksite maadelnud,,
+3rd plur.,maadleksid,3rd plur.,oleksid maadelnud,,
+passive,maadeldaks,ei maadeldaks,passive,oleks maadeldud,ei oleks maadeldudpoleks maadeldud
+imperative,,,,,
+present,perfect,,,,
+person,positive,negative,person,positive,negative
+1st sing.,—,—,1st sing.,—,—
+2nd sing.,maadle,ära maadle,2nd sing.,—,—
+3rd sing.,maadelgu,ärgu maadelgu,3rd sing.,olgu maadelnud,ärgu olgu maadelnud
+1st plur.,maadelgem,ärgem maadelgem,1st plur.,—,—
+2nd plur.,maadelge,ärge maadelge,2nd plur.,—,—
+3rd plur.,maadelgu,ärgu maadelgu,3rd plur.,olgu maadelnud,ärgu olgu maadelnud
+passive,maadeldagu,ärgu maadeldagu,passive,olgu maadeldud,ärgu olgu maadeldud
+quotative,,,,,
+present,perfect,,,,
+person,positive,negative,person,positive,negative
+active,maadlevat,ei maadlevat,active,olevat maadelnud,ei olevat maadelnudpolevat maadelnud
+passive,maadeldavat,ei maadeldavat,passive,olevat maadeldud,ei olevat maadeldudpolevat maadeldud
+Nominal forms,,,,,
+ma-infinitive,da-infinitive,,,,
+,active,passive,da-form,maadelda,
+nominative,maadlema,maadeldama,des-form,maadeldes,
+inessive,maadlemas,—,participle,,
+elative,maadlemast,—,,active,passive
+translative,maadlemaks,—,present,maadlev,maadeldav
+abessive,maadlemata,—,past,maadelnud,maadeldud

@@ -1,0 +1,38 @@
+0,1,2,3,4,5,6,7
+"Conjugation of tremulo (first conjugation, defective)",,,,,,,
+indicative,singular,plural,,,,,
+first,second,third,first,second,third,,
+active,present,tremulō,tremulās,tremulat,tremulāmus,tremulātis,tremulant
+imperfect,tremulābam,tremulābās,tremulābat,tremulābāmus,tremulābātis,tremulābant,
+future,tremulābō,tremulābis,tremulābit,tremulābimus,tremulābitis,tremulābunt,
+passive,present,tremulor,"tremulāris, tremulāre",tremulātur,tremulāmur,tremulāminī,tremulantur
+imperfect,tremulābar,"tremulābāris, tremulābāre",tremulābātur,tremulābāmur,tremulābāminī,tremulābantur,
+future,tremulābor,"tremulāberis, tremulābere",tremulābitur,tremulābimur,tremulābiminī,tremulābuntur,
+subjunctive,singular,plural,,,,,
+first,second,third,first,second,third,,
+active,present,tremulem,tremulēs,tremulet,tremulēmus,tremulētis,tremulent
+imperfect,tremulārem,tremulārēs,tremulāret,tremulārēmus,tremulārētis,tremulārent,
+passive,present,tremuler,"tremulēris, tremulēre",tremulētur,tremulēmur,tremulēminī,tremulentur
+imperfect,tremulārer,"tremulārēris, tremulārēre",tremulārētur,tremulārēmur,tremulārēminī,tremulārentur,
+imperative,singular,plural,,,,,
+first,second,third,first,second,third,,
+active,present,—,tremulā,—,—,tremulāte,—
+future,—,tremulātō,tremulātō,—,tremulātōte,tremulantō,
+passive,present,—,tremulāre,—,—,tremulāminī,—
+future,—,tremulātor,tremulātor,—,—,tremulantor,
+non-finite forms,active,passive,,,,,
+present,perfect,future,present,perfect,future,,
+infinitives,tremulāre,—,—,tremulārī,—,—,
+participles,tremulāns,—,—,—,—,tremulandus,
+verbal nouns,gerund,supine,,,,,
+nominative,genitive,dative/ablative,accusative,accusative,ablative,,
+tremulāre,tremulandī,tremulandō,tremulandum,—,—,,
+"Aromanian: treambur, trimburari  English: tremble  French: trembler, trémuler  Friulian: trimulâ  Catalan: tremolar  Italian: tremolare",,"Occitan: tremolar  Portuguese: tremular  Romanian: tremura, tremurare  Sardinian: tremuài, tremulai, tremulare, trimulare  Spanish: temblar, tremolar  Venetian: tremołar",,,,,
+Number,Singular,,Plural,,,,
+Case / Gender,Masculine,Feminine,Neuter,Masculine,Feminine,Neuter,
+nominative,tremulus,tremula,tremulum,,tremulī,tremulae,tremula
+genitive,tremulī,tremulae,tremulī,tremulōrum,tremulārum,tremulōrum,
+dative,tremulō,tremulō,tremulīs,,,,
+accusative,tremulum,tremulam,tremulum,tremulōs,tremulās,tremula,
+ablative,tremulō,tremulā,tremulō,tremulīs,,,
+vocative,tremule,tremula,tremulum,tremulī,tremulae,tremula,

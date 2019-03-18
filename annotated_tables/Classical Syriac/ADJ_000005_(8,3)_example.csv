@@ -1,0 +1,9 @@
+0,1,2
+masculine,singular,plural
+absolute,ADJ;ABS;SG;MASC,ADJ;ABS;PL;MASC
+construct,ADJ;PSSD;SG;MASC,ADJ;PSSD;PL;MASC
+emphatic,ADJ;DEF;SG;MASC,ADJ;DEF;PL;MASC
+feminine,singular,plural
+absolute,ADJ;ABS;SG;FEM,ADJ;ABS;PL;FEM
+construct,ADJ;PSSD;SG;FEM,ADJ;PSSD;PL;FEM
+emphatic,ADJ;DEF;SG;FEM,ADJ;DEF;PL;FEM

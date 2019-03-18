@@ -1,0 +1,6 @@
+0,1,2
+Audio,,(file)
+,singular,plural
+indefinite,N;SG;INDF,N;PL;INDF
+definite,N;SG;DEF,N;PL;DEF
+vocative form,N;SG;VOC,N;PL;VOC

@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6
+audio,,(file),,,,
+case,singular,plural,,,,
+"m pers, m anim",m inan,n,f,m pers,other,
+"nominative, vocative",francuski,francuskie,francuska,francuscy,francuskie,
+genitive,francuskiego,francuskiej,francuskich,,,
+dative,francuskiemu,francuskim,,,,
+accusative,francuskiego,francuski,francuskie,francuską,francuskich,francuskie
+instrumental,francuskim,francuskimi,,,,
+locative,francuskiej,francuskich,,,,
+old dative,francusku,,,,,

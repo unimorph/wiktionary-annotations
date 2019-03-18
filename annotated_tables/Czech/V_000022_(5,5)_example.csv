@@ -1,0 +1,6 @@
+0,1,2,3,4
+,Present Singular,Present Plural,Past Singular,Past Plural
+1st person,V;IND;PRS;1;SG,V;IND;PRS;1;PL,V;IND;PST;1;SG;MASC/FEM/NEUT,V;IND;PST;1;PL;MASC/FEM/NEUT
+2nd person,V;IND;PRS;2;SG,V;IND;PRS;2;PL,V;IND;PST;2;SG;MASC/FEM/NEUT,V;IND;PST;2;PL;MASC/FEM/NEUT
+3rd person,V;IND;PRS;3;SG,V;IND;PRS;3;PL,V;IND;PST;3;SG;MASC/FEM/NEUT,V;IND;PST;3;PL;MASC/FEM/NEUT
+podělit  rozdělit  nadělit  udělit  oddělit  přerozdělit,,dělení n  díl m  dělba f  podíl m  rozdíl m  nadílka f  dělenec m  dělitel m  rozdělení n  nadělení n,,dělitelný m  nedílný m

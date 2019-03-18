@@ -1,0 +1,17 @@
+0,1,2,3,4,5
+Audio,,(file),,,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist getrennt,sie ist getrennt,es ist getrennt,sie sind getrennt,
+strong declension (without article),nominative,getrennter,getrennte,getrenntes,getrennte
+genitive,getrennten,getrennter,getrennten,getrennter,
+dative,getrenntem,getrennter,getrenntem,getrennten,
+accusative,getrennten,getrennte,getrenntes,getrennte,
+weak declension (with definite article),nominative,der getrennte,die getrennte,das getrennte,die getrennten
+genitive,des getrennten,der getrennten,des getrennten,der getrennten,
+dative,dem getrennten,der getrennten,dem getrennten,den getrennten,
+accusative,den getrennten,die getrennte,das getrennte,die getrennten,
+mixed declension (with indefinite article),nominative,ein getrennter,eine getrennte,ein getrenntes,(keine) getrennten
+genitive,eines getrennten,einer getrennten,eines getrennten,(keiner) getrennten,
+dative,einem getrennten,einer getrennten,einem getrennten,(keinen) getrennten,
+accusative,einen getrennten,eine getrennte,ein getrenntes,(keine) getrennten,

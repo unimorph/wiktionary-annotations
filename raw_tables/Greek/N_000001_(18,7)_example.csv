@@ -1,0 +1,19 @@
+0,1,2,3,4,5,6
+number case / gender,singular,plural,,,,
+masculine,feminine,neuter,masculine,feminine,neuter,
+nominative,ασθενής,ασθενής,ασθενές,ασθενείς,ασθενείς,ασθενή
+genitive,ασθενούς,ασθενούς,ασθενούς,ασθενών,ασθενών,ασθενών
+accusative,ασθενή,ασθενή,ασθενές,ασθενείς,ασθενείς,ασθενή
+derivations,"comparative: πιο + positive forms (e.g. πιο ασθενής, etc.) relative superlative: definite article + πιο + positive forms (e.g. ο πιο ασθενής, etc.)",,,,,
+comparative,singular,plural,,,,
+masculine,feminine,neuter,masculine,feminine,neuter,
+nominative,ασθενέστερος,ασθενέστερη,ασθενέστερο,ασθενέστεροι,ασθενέστερες,ασθενέστερα
+genitive,ασθενέστερου,ασθενέστερης,ασθενέστερου,ασθενέστερων,ασθενέστερων,ασθενέστερων
+accusative,ασθενέστερο,ασθενέστερη,ασθενέστερο,ασθενέστερους,ασθενέστερες,ασθενέστερα
+vocative,ασθενέστερε,ασθενέστερη,ασθενέστερο,ασθενέστεροι,ασθενέστερες,ασθενέστερα
+derivations,"relative superlative: ο + comparative forms (eg ""ο ασθενέστερος"", etc)",,,,,
+,singular,plural,,,,
+nominative,ασθενής •,ασθενές •,,,,
+genitive,ασθενή •,ασθενών •,,,,
+accusative,ασθενή •,ασθενές •,,,,
+vocative,ασθενή •,ασθενές •,,,,

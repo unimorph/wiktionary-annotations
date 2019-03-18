@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6,7,8,9
+,singular,plural,relative,autonomous,,,,,
+first,second,third,first,second,third,,,,
+indicative,present,V;1;SG;PRS;IND,V;2;SG;PRS;IND,V;3;SG;PRS;IND,V;1;PL;PRS;IND,V;2;PL;PRS;IND,V;3;PL;PRS;IND,V;REL;PRS;IND,V;AUTO;PRS;IND
+past,V;1;SG;PST;IND,V;2;SG;PST;IND,V;3;SG;PST;IND,V;1;PL;PST;IND,V;2;PL;PST;IND,V;3;PL;PST;IND,V;REL;PST;IND,V;AUTO;PST;IND,
+past habitual,V;1;SG;PST;HAB;IND,V;2;SG;PST;HAB;IND,V;3;SG;PST;HAB;IND,V;1;PL;PST;HAB;IND,V;2;PL;PST;HAB;IND,V;3;PL;PST;HAB;IND,V;REL;PST;HAB;IND,V;AUTO;PST;HAB;IND,
+future,V;1;SG;FUT;IND,V;2;SG;FUT;IND,V;3;SG;FUT;IND,V;1;PL;FUT;IND,V;2;PL;FUT;IND,V;3;PL;FUT;IND,V;REL;FUT;IND,V;AUTO;FUT;IND,
+conditional,V;1;SG;COND,V;2;SG;COND,V;3;SG;COND,V;1;PL;COND,V;2;PL;COND,V;3;PL;COND,V;REL;COND,V;AUTO;COND,
+subjunctive,present,V;1;SG;SBJV;PRS,V;2:SG;SBJV;PRS,V;3;SG;SBJV;PRS,V;1;PL;SBJV;PRS,V;2;PL;SBJV;PRS,V;3;PL;SBJV;PRS,—,V;AUTO;SBJV;PRS
+past,V;1;SG;SBJV;PST,V;2:SG;SBJV;PST,V;3;SG;SBJV;PST,V;1;PL;SBJV;PST,V;2;PL;SBJV;PST,V;3;PL;SBJV;PST,—,V;AUTO;SBJV;PST,
+imperative,V;1;SG;IMP,V;2;SG;IMP,V;3;SG;IMP,V;1;PL;IMP,V;2;PL;IMP,V;3;PL;IMP,—,V;AUTO;IMP,
+verbal noun,V;V.MSDR,,,,,,,,
+past participle,V;V.PTCP;PST,,,,,,,,
+Irish mutation,,,,,,,,,
+Radical,Lenition,Eclipsis,,,,,,,
+goiligh,ghoiligh,ngoiligh,,,,,,,
+Note: Some of these forms may be hypothetical. Not everypossible mutated form of every word actually occurs.,,,,,,,,,

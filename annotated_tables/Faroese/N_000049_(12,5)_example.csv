@@ -1,0 +1,13 @@
+0,1,2,3,4
+m1,Singular,Plural,,
+,Indefinite,Definite,Indefinite,Definite
+Nominative,N;INDF;NOM;SG,N;DEF;NOM;SG,N;INDF;NOM;PL,N;DEF;NOM;PL
+Accusative,N;INDF;ACC;SG,N;DEF;ACC;SG,N;INDF;ACC;PL,N;DEF;ACC;PL
+Dative,N;INDF;DAT;SG,N;DEF;DAT;SG,N;INDF;DAT;PL,N;DEF;DAT;PL
+Genitive,N;INDF;GEN;SG,N;DEF;GEN;SG,N;INDF;GEN;PL,N;DEF;GEN;PL
+m4,Singular,Plural,,
+,Indefinite,Definite,Indefinite,Definite
+Nominative,granni,grannin,grannar,grannarnir
+Accusative,granna,grannan,grannar,grannarnar
+Dative,granna,grannanum,gronnum,gronnunum
+Genitive,granna,grannans,granna,grannanna

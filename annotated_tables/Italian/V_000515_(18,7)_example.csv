@@ -1,0 +1,19 @@
+0,1,2,3,4,5,6
+infinitive,V;NFIN,,,,,
+auxiliary verb,avere,gerund,V.CVB;PRS,,,
+present participle,V.PTCP;PRS,past participle,V.PTCP;PST,,,
+person,singular,plural,,,,
+first,second,third,first,second,third,
+indicative,io,tu,"lui/lei, esso/essa",noi,voi,"loro, essi/esse"
+present,V;IND;PRS;1;SG,V;IND;PRS;2;SG,V;IND;PRS;3;SG,V;IND;PRS;1;PL,V;IND;PRS;2;PL,V;IND;PRS;3;PL
+imperfect,V;IND;PST;1;SG;IPFV,V;IND;PST;2;SG;IPFV,V;IND;PST;3;SG;IPFV,V;IND;PST;1;PL;IPFV,V;IND;PST;2;PL;IPFV,V;IND;PST;3;PL;IPFV
+past historic,V;IND;PST;1;SG;PFV,V;IND;PST;2;SG;PFV,V;IND;PST;3;SG;PFV,V;IND;PST;1;PL;PFV,V;IND;PST;2;PL;PFV,V;IND;PST;3;PL;PFV
+future,V;IND;FUT;1;SG,V;IND;FUT;2;SG,V;IND;FUT;3;SG,V;IND;FUT;1;PL,V;IND;FUT;2;PL,V;IND;FUT;3;PL
+conditional,io,tu,"lui/lei, esso/essa",noi,voi,"loro, essi/esse"
+present,V;COND;1;SG,V;COND;2;SG,V;COND;3;SG,V;COND;1;PL,V;COND;2;PL,V;COND;3;PL
+subjunctive,che io,che tu,"che lui/che lei, che esso/che essa",che noi,che voi,"che loro, che essi/che esse"
+present,V;SBJV;PRS;1;SG,V;SBJV;PRS;2;SG,V;SBJV;PRS;3;SG,V;SBJV;PRS;1;PL,V;SBJV;PRS;2;PL,V;SBJV;PRS;3;PL
+imperfect,V;SBJV;PST;1;SG,V;SBJV;PST;2;SG,V;SBJV;PST;3;SG,V;SBJV;PST;1;PL,V;SBJV;PST;2;PL,V;SBJV;PST;3;PL
+imperative,—,tu,Lei,noi,voi,Loro
+,V;POS;IMP;2;SG,V;POS;IMP;3;SG,V;POS;IMP;1;PL,V;POS;IMP;2;PL,V;POS;IMP;3;PL,
+graffiante  graffiarsi  graffiata,,graffietto  graffio,,,,

@@ -1,0 +1,32 @@
+0,1,2,3,4
+m6,Singular,Plural,,
+,Indefinite,Definite,Indefinite,Definite
+Nominative,valdur,valdurin,valdar,valdarnir
+Accusative,vald,valdin,valdar,valdarnar
+Dative,valdi,valdinum,valdum,valdunum
+Genitive,valds,valdsins,valda,valdanna
+valdur a7,,,,
+Singular (eintal),m (kallkyn),f (kvennkyn),n (hvørkikyn),
+Nominative (hvørfall),valdur,vald,valt,
+Accusative (hvønnfall),valdan,valda,,
+Dative (hvørjumfall),valdum,valdari,valdum,
+Genitive (hvørsfall),(valds),(valdar/valdrar),(valds),
+,,,,
+Plural (fleirtal),m (kallkyn),f (kvennkyn),n (hvørkikyn),
+Nominative (hvørfall),valdir,valdar,vald,
+Accusative (hvønnfall),valdar,,,
+Dative (hvørjumfall),valdum,,,
+Genitive (hvørsfall),(valdavaldra),,,
+v-18,,,,
+,,,,
+infinitive,velja,,,
+present participle,veljandi,,,
+past participle a7,valdur,,,
+supine,valt,,,
+number,singular,plural,,
+person,first,second,third,all
+indicative,eg,tú,hann/hon/tað,"vit, tit, teir/tær/tey, tygum"
+present,velji,velur,velur,velja
+past,valdi,valdi,valdi,valdu
+imperative,–,tú,–,tit
+present,—,vel!,—,veljið!

@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6,7
+Number,Person,Nominative,Accusative,Dative,Reflexive,Possessive,Prepositional
+singular,first-person,io (i'),me,"mìo, mìa, mieje, meje","me, méne",,
+"second-person, familiar",tu,te,"tùjo, tòja, tùoje, tòje","te, téne",,,
+"second-person, formal",vuje,ve,"vuósto, vósta, vuóste, vóste",vuje,,,
+"third-person, masculine",ìsso,"'o, 'u (lo, lu)","'i, 'e (li, le)",se,"sùjo, sòja, sùoje, sòje",ìsso,
+"third-person, feminine",éssa,'a (la),'e (le),éssa,,,
+plural,first-person,nuje,ce,"nuósto, nòsta, nuóste, nòste",nuje,,
+"second-person, plural",vuje,ve,"vuósto, vòsta, vuóste, vòste",vuje,,,
+"third-person, masculine",ìsse,"'i, 'e (li, le)",llòro,se,llòro (invariable),llòro,
+"third-person, feminine",llòro,'e (le),,,,,

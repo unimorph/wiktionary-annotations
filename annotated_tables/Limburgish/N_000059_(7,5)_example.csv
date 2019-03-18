@@ -1,0 +1,8 @@
+0,1,2,3,4
+,Root singular,Root plural,Diminutive singular,Diminutive plural
+Nominative,N;NOM;SG,N;NOM;PL,europieke,europiekes
+Genitive,N;GEN;SG,N;GEN;PL,europiekes,europiekes
+Locative,N;ESS;SG,N;ESS;PL,europieëske,europieëskes
+Dative¹,N;DAT;SG,N;DAT;PL,europieke,—
+Accusative¹,N;ACC;SG,N;ACC;PL,europieke,—
+"¹Dative and accusative are nowadays obsolete, the nominative is used instead.",,,,

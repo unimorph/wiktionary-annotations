@@ -1,0 +1,6 @@
+0,1,2
+DURATIVE,singular,plural
+1st person: నేను / మేము,V;1;SG;PRS;DUR,V;1;PL;PRS;DUR
+2nd person: నీవు / మీరు,V;2;SG;PRS;DUR,V;2;PL;PRS;DUR
+3rd person m: అతను / వారు,V;3;MASC;SG;PRS;DUR,V;3;MASC;PL;PRS;DUR
+3rd person f: ఆమె / వారు,V;3;FEM;SG;PRS;DUR,V;3;FEM;PL;PRS;DUR

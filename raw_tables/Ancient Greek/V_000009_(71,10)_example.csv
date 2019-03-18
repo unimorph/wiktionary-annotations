@@ -1,0 +1,72 @@
+0,1,2,3,4,5,6,7,8,9
+number,singular,dual,plural,,,,,,
+,first,second,third,second,third,first,second,third,
+active,indicative,ῥώννῡμῐ,ῥώννῡς,ῥώννῡσῐ(ν),ῥώννῠτον,ῥώννῠτον,ῥώννῠμεν,ῥώννῠτε,ῥωννῠ́ᾱσῐ(ν)
+subjunctive,ῥωννῠ́ω,ῥωννῠ́ῃς,ῥωννῠ́ῃ,ῥωννῠ́ητον,ῥωννῠ́ητον,ῥωννῠ́ωμεν,ῥωννῠ́ητε,ῥωννῠ́ωσῐ(ν),
+optative,ῥωννῠ́οιμῐ,ῥωννῠ́οις,ῥωννῠ́οι,ῥωννῠ́οιτον,ῥωννῠοίτην,ῥωννῠ́οιμεν,ῥωννῠ́οιτε,ῥωννῠ́οιεν,
+imperative,,ῥώννῡ,ῥωννῠ́τω,ῥώννῠτον,ῥωννῠ́των,,ῥώννῠτε,ῥωννῠ́ντων,
+middle/passive,indicative,ῥώννῠμαι,ῥώννῠσαι,ῥώννῠται,ῥώννῠσθον,ῥώννῠσθον,ῥωννῠ́μεθα,ῥώννῠσθε,ῥώννῠνται
+subjunctive,ῥωννῠ́ωμαι,ῥωννῠ́ῃ,ῥωννῠ́ηται,ῥωννῠ́ησθον,ῥωννῠ́ησθον,ῥωννῠώμεθᾰ,ῥωννῠ́ησθε,ῥωννῠ́ωνται,
+optative,ῥωννῠοίμην,ῥωννῠ́οιο,ῥωννῠ́οιτο,ῥωννῠ́οισθον,ῥωννῠοίσθην,ῥωννῠοίμεθᾰ,ῥωννῠ́οισθε,ῥωννῠ́οιντο,
+imperative,,ῥώννῠσο,ῥωννῠ́σθω,ῥώννῠσθον,ῥωννῠ́σθων,,ῥώννῠσθε,ῥωννῠ́σθων,
+,active,middle/passive,,,,,,,
+infinitive,ῥωννῠ́ναι,ῥώννῠσθαι,,,,,,,
+participle,m,ῥωννῡ́ς,ῥωννῠ́μενος,,,,,,
+f,ῥωννῦσᾰ,ῥωννῠμένη,,,,,,,
+n,ῥωννῠ́ν,ῥωννῠ́μενον,,,,,,,
+Notes:,"This table gives Attic inflectional endings. For conjugation in dialects other than Attic, see Appendix:Ancient Greek dialectal conjugation.",,,,,,,,
+number,singular,dual,plural,,,,,,
+,first,second,third,second,third,first,second,third,
+active,indicative,ἐρρώννῡν,ἐρρώννῡς,ἐρρώννῡ,ἐρρώννῠτον,ἐρρωννῠ́την,ἐρρώννῠμεν,ἐρρώννῠτε,ἐρρώννῠσᾰν
+middle/passive,indicative,ἐρρωννῠ́μην,ἐρρώννῠσο,ἐρρώννῠτο,ἐρρώννῠσθον,ἐρρωννῠ́σθην,ἐρρωννῠ́μεθᾰ,ἐρρώννῠσθε,ἐρρώννῠντο
+Notes:,"This table gives Attic inflectional endings. For conjugation in dialects other than Attic, see Appendix:Ancient Greek dialectal conjugation.",,,,,,,,
+number,singular,dual,plural,,,,,,
+,first,second,third,second,third,first,second,third,
+active,indicative,ῥώσω,ῥώσεις,ῥώσει,ῥώσετον,ῥώσετον,ῥώσομεν,ῥώσετε,ῥώσουσῐ(ν)
+optative,ῥώσοιμῐ,ῥώσοις,ῥώσοι,ῥώσοιτον,ῥωσοίτην,ῥώσοιμεν,ῥώσοιτε,ῥώσοιεν,
+middle,indicative,ῥώσομαι,"ῥώσῃ,ῥώσει",ῥώσεται,ῥώσεσθον,ῥώσεσθον,ῥωσόμεθᾰ,ῥώσεσθε,ῥώσονται
+optative,ῥωσοίμην,ῥώσοιο,ῥώσοιτο,ῥώσοισθον,ῥωσοίσθην,ῥωσοίμεθᾰ,ῥώσοισθε,ῥώσοιντο,
+passive,indicative,ῥωσθήσομαι,ῥωσθήσῃ,ῥωσθήσεται,ῥωσθήσεσθον,ῥωσθήσεσθον,ῥωσθησόμεθᾰ,ῥωσθήσεσθε,ῥωσθήσονται
+optative,ῥωσθησοίμην,ῥωσθήσοιο,ῥωσθήσοιτο,ῥωσθήσοισθον,ῥωσθησοίσθην,ῥωσθησοίμεθᾰ,ῥωσθήσοισθε,ῥωσθήσοιντο,
+,active,middle,passive,,,,,,
+infinitive,ῥώσειν,ῥώσεσθαι,ῥωσθήσεσθαι,,,,,,
+participle,m,ῥώσων,ῥωσόμενος,ῥωσθησόμενος,,,,,
+f,ῥώσουσᾰ,ῥωσομένη,ῥωσθησομένη,,,,,,
+n,ῥῶσον,ῥωσόμενον,ῥωσθησόμενον,,,,,,
+Notes:,"This table gives Attic inflectional endings. For conjugation in dialects other than Attic, see Appendix:Ancient Greek dialectal conjugation.",,,,,,,,
+number,singular,dual,plural,,,,,,
+,first,second,third,second,third,first,second,third,
+active,indicative,ἔρρωσᾰ,ἔρρωσᾰς,ἔρρωσε(ν),ἐρρώσᾰτον,ἐρρωσᾰ́την,ἐρρώσᾰμεν,ἐρρώσᾰτε,ἔρρωσᾰν
+subjunctive,ῥώσω,ῥώσῃς,ῥώσῃ,ῥώσητον,ῥώσητον,ῥώσωμεν,ῥώσητε,ῥώσωσῐ(ν),
+optative,ῥώσαιμῐ,"ῥώσειᾰς,ῥώσαις","ῥώσειε(ν),ῥώσαι",ῥώσαιτον,ῥωσαίτην,ῥώσαιμεν,ῥώσαιτε,"ῥώσειᾰν,ῥώσαιεν",
+imperative,,ῥῶσον,ῥωσᾰ́τω,ῥώσᾰτον,ῥωσᾰ́των,,ῥώσᾰτε,ῥωσᾰ́ντων,
+middle,indicative,ἐρρωσᾰ́μην,ἐρρώσω,ἐρρώσᾰτο,ἐρρώσᾰσθον,ἐρρωσᾰ́σθην,ἐρρωσᾰ́μεθᾰ,ἐρρώσᾰσθε,ἐρρώσᾰντο
+subjunctive,ῥώσωμαι,ῥώσῃ,ῥώσηται,ῥώσησθον,ῥώσησθον,ῥωσώμεθᾰ,ῥώσησθε,ῥώσωνται,
+optative,ῥωσαίμην,ῥώσαιο,ῥώσαιτο,ῥώσαισθον,ῥωσαίσθην,ῥωσαίμεθᾰ,ῥώσαισθε,ῥώσαιντο,
+imperative,,ῥῶσαι,ῥωσᾰ́σθω,ῥώσᾰσθον,ῥωσᾰ́σθων,,ῥώσᾰσθε,ῥωσᾰ́σθων,
+passive,indicative,ἐρρώσθην,ἐρρώσθης,ἐρρώσθη,ἐρρώσθητον,ἐρρωσθήτην,ἐρρώσθημεν,ἐρρώσθητε,ἐρρώσθησᾰν
+subjunctive,ῥωσθῶ,ῥωσθῇς,ῥωσθῇ,ῥωσθῆτον,ῥωσθῆτον,ῥωσθῶμεν,ῥωσθῆτε,ῥωσθῶσῐ(ν),
+optative,ῥωσθείην,ῥωσθείης,ῥωσθείη,"ῥωσθεῖτον,ῥωσθείητον","ῥωσθείτην,ῥωσθειήτην","ῥωσθεῖμεν,ῥωσθείημεν","ῥωσθεῖτε,ῥωσθείητε","ῥωσθεῖεν,ῥωσθείησᾰν",
+imperative,,ῥώσθητῐ,ῥωσθήτω,ῥώσθητον,ῥωσθήτων,,ῥώσθητε,ῥωσθέντων,
+,active,middle,passive,,,,,,
+infinitive,ῥῶσαι,ῥώσᾰσθαι,ῥωσθῆναι,,,,,,
+participle,m,ῥώσᾱς,ῥωσᾰ́μενος,ῥωσθείς,,,,,
+f,ῥώσᾱσᾰ,ῥωσᾰμένη,ῥωσθεῖσᾰ,,,,,,
+n,ῥῶσᾰν,ῥωσᾰ́μενον,ῥωσθέν,,,,,,
+Notes:,"This table gives Attic inflectional endings. For conjugation in dialects other than Attic, see Appendix:Ancient Greek dialectal conjugation.",,,,,,,,
+number,singular,dual,plural,,,,,,
+,first,second,third,second,third,first,second,third,
+middle/passive,indicative,ἔρρωμαι,ἔρρωσαι,ἔρρωται,ἔρρωσθον,ἔρρωσθον,ἐρρώμεθᾰ,ἔρρωσθε,ἔρρωνται
+subjunctive,ἐρρωμένος ὦ,ἐρρωμένος ᾖς,ἐρρωμένος ᾖ,ἐρρωμένω ἦτον,ἐρρωμένω ἦτον,ἐρρωμένοι ὦμεν,ἐρρωμένοι ἦτε,ἐρρωμένοι ὦσῐ(ν),
+optative,ἐρρωμένος εἴην,ἐρρωμένος εἴης,ἐρρωμένος εἴη,ἐρρωμένοι εἴητον/εἶτον,ἐρρωμένω εἰήτην/εἴτην,ἐρρωμένοι εἴημεν/εἶμεν,ἐρρωμένοι εἴητε/εἶτε,ἐρρωμένοι εἴησᾰν/εἶεν,
+imperative,,ἔρρωσο,ἐρρώσθω,ἔρρωσθον,ἐρρώσθων,,ἔρρωσθε,ἐρρώσθων,
+,,middle/passive,,,,,,,
+infinitive,,ἔρρωσθαι,,,,,,,
+participle,m,,ἐρρωμένος,,,,,,
+f,,ἐρρωμένη,,,,,,,
+n,,ἐρρωμένον,,,,,,,
+Notes:,"This table gives Attic inflectional endings. For conjugation in dialects other than Attic, see Appendix:Ancient Greek dialectal conjugation.",,,,,,,,
+number,singular,dual,plural,,,,,,
+,first,second,third,second,third,first,second,third,
+middle/passive,indicative,ἐρρώμην,ἔρρωσο,ἔρρωτο,ἔρρωσθον,ἐρρώσθην,ἐρρώμεθᾰ,ἔρρωσθε,ἔρρωντο
+Notes:,"This table gives Attic inflectional endings. For conjugation in dialects other than Attic, see Appendix:Ancient Greek dialectal conjugation.",,,,,,,,

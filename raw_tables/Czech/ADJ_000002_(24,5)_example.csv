@@ -1,0 +1,25 @@
+0,1,2,3,4
+audio,,(file),,
+singular,,,,
+,masculine animate,masculine inanimate,feminine,neuter
+nominative,červený,červená,červené,
+genitive,červeného,červené,červeného,
+dative,červenému,červené,červenému,
+accusative,červeného,červený,červenou,červené
+vocative,červený,červená,červené,
+locative,červeném,červené,červeném,
+instrumental,červeným,červenou,červeným,
+plural,,,,
+,masculine animate,masculine inanimate,feminine,neuter
+nominative,červení,červené,červená,
+genitive,červených,,,
+dative,červeným,,,
+accusative,červené,červená,,
+vocative,červení,červené,červená,
+locative,červených,,,
+instrumental,červenými,,,
+Colors in Czech · barvy (layout · text),,,,
+červená,zelená,žlutá,béžová,bílá
+karmínová,purpurová,zelenomodrá,limetkově zelená,růžová
+indigo,modrá,oranžová,šedá,fialová
+černá,fialová,hnědá,modrá,azurová

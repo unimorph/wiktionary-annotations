@@ -1,0 +1,14 @@
+0,1,2,3,4,5
+infinitive,V;NFIN,,,,
+present participle,V.PTCP;PRS,,,,
+past participle,V.PTCP;PST,,,,
+,indicative,,subjunctive,,
+present,V;IND;PRS;1;SG,V;IND;PRS;1;PL,i,V;SBJV;PRS;1;SG,V;SBJV;PRS;1;PL
+V;IND;PRS;2;SG,V;IND;PRS;2;PL,V;SBJV;PRS;2;SG,V;SBJV;PRS;2;PL,,
+V;IND;PRS;3;SG,V;IND;PRS;3;PL,V;SBJV;PRS;3;SG,V;SBJV;PRS;3;PL,,
+,,,,,
+preterite,V;IND;PST;1;SG,V;IND;PST;1;PL,ii,V;SBJV;PST;1;SG,V;SBJV;PST;1;PL
+V;IND;PST;2;SG,V;IND;PST;2;PL,V;SBJV;PST;2;SG,V;SBJV;PST;2;PL,,
+V;IND;PST;3;SG,V;IND;PST;3;PL,V;SBJV;PST;3;SG,V;SBJV;PST;3;PL,,
+,,,,,
+imperative,V;IMP;2;SG,V;IMP;1;PL,V;IMP;2;PL,,

@@ -1,0 +1,10 @@
+0,1,2
+,singular (vienaskaita),plural (daugiskaita)
+nominative (vardininkas),N;NOM;SG,N;NOM;PL
+genitive (kilmininkas),N;GEN;SG,N;GEN;PL
+dative (naudininkas),N;DAT;SG,N;DAT;PL
+accusative (galininkas),N;ACC;SG,N;ACC;PL
+instrumental (įnagininkas),N;INST;SG,N;INST;PL
+locative (vietininkas),N;LOC;SG,N;LOC;PL
+vocative (šauksmininkas),N;VOC;SG,N;VOC;PL
+gerklos f pl  gurklys m,,

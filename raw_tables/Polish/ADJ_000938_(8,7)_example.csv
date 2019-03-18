@@ -1,0 +1,9 @@
+0,1,2,3,4,5,6
+case,singular,plural,,,,
+"m pers, m anim",m inan,n,f,m pers,other,
+"nominative, vocative",grafitowy,grafitowe,grafitowa,grafitowi,grafitowe,
+genitive,grafitowego,grafitowej,grafitowych,,,
+dative,grafitowemu,grafitowym,,,,
+accusative,grafitowego,grafitowy,grafitowe,grafitową,grafitowych,grafitowe
+instrumental,grafitowym,grafitowymi,,,,
+locative,grafitowej,grafitowych,,,,

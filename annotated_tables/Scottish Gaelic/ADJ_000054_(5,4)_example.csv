@@ -1,0 +1,6 @@
+0,1,2,3
+Case,Masculine singular,Feminine singular,Plural
+Nominative,ADJ;SG;MASC;NOM,ADJ;SG;FEM;NOM,ADJ;PL;NOM
+Vocative,ADJ;SG;MASC;VOC,ADJ;SG;FEM;VOC,ADJ;PL;VOC
+Genitive,ADJ;SG;MASC;GEN,ADJ;SG;FEM;GEN,ADJ;PL;GEN
+Dative,ADJ;SG;MASC;DAT,ADJ;SG;FEM;DAT,ADJ;PL;DAT

@@ -1,0 +1,14 @@
+0,1,2,3
+Case,adjective,,
+"nominative, genitive, instrumental",ფეხმძიმე ‎(pexmʒime),,
+ergative,ფეხმძიმე ‎(pexmʒime),,
+"dative, adverbial",ფეხმძიმე ‎(pexmʒime),,
+vocative,ფეხმძიმე ‎(pexmʒime),,
+,Singular,Plural,Archaic plural
+nominative,ADJ;SG;NOM,ADJ;PL;NOM,ADJ;PL;LGSPEC2;NOM
+ergative,ADJ;SG;ERG,ADJ;PL;ERG,ADJ;PL;LGSPEC2;ERG
+dative,ADJ;SG;DAT,ADJ;PL;DAT,ADJ;PL;LGSPEC2;DAT
+genitive,ADJ;SG;GEN,ADJ;PL;GEN,ADJ;PL;LGSPEC2;GEN
+instrumental,ADJ;SG;INST,ADJ;PL;INST,
+adverbial,ADJ;SG;LGSPEC1,ADJ;PL;LGSPEC1,
+vocative,ADJ;SG;VOC,ADJ;PL;VOC,ADJ;PL;LGSPEC2;VOC

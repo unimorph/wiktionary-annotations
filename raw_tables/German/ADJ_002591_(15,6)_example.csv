@@ -1,0 +1,16 @@
+0,1,2,3,4,5
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist grauviolett,sie ist grauviolett,es ist grauviolett,sie sind grauviolett,
+strong declension (without article),nominative,grauvioletter,grauviolette,grauviolettes,grauviolette
+genitive,grauvioletten,grauvioletter,grauvioletten,grauvioletter,
+dative,grauviolettem,grauvioletter,grauviolettem,grauvioletten,
+accusative,grauvioletten,grauviolette,grauviolettes,grauviolette,
+weak declension (with definite article),nominative,der grauviolette,die grauviolette,das grauviolette,die grauvioletten
+genitive,des grauvioletten,der grauvioletten,des grauvioletten,der grauvioletten,
+dative,dem grauvioletten,der grauvioletten,dem grauvioletten,den grauvioletten,
+accusative,den grauvioletten,die grauviolette,das grauviolette,die grauvioletten,
+mixed declension (with indefinite article),nominative,ein grauvioletter,eine grauviolette,ein grauviolettes,(keine) grauvioletten
+genitive,eines grauvioletten,einer grauvioletten,eines grauvioletten,(keiner) grauvioletten,
+dative,einem grauvioletten,einer grauvioletten,einem grauvioletten,(keinen) grauvioletten,
+accusative,einen grauvioletten,eine grauviolette,ein grauviolettes,(keine) grauvioletten,

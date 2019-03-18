@@ -1,0 +1,16 @@
+0,1,2
+state,singular,plural
+absolute,N;ABS;SG,N;ABS;PL
+construct,N;PSSD;SG,N;PSSD;PL
+emphatic,N;DEF;SG,N;DEF;PL
+possessive forms,,
+1st c. sg. (my),N;PSS1S;SG,N;PSS1S;PL
+2nd m. sg. (your),N;PSS2SM;SG,N;PSS2SM;PL
+2nd f. sg. (your),N;PSS2SF;SG,N;PSS2SF;PL
+3rd m. sg. (his),N;PSS3SM;SG,N;PSS3SM;PL
+3rd f. sg. (her),N;PSS3SF;SG,N;PSS3SF;PL
+1st c. pl. (our),N;PSS1P;SG,N;PSS1P;PL
+2nd m. pl. (your),N;PSS2PM;SG,N;PSS2PM;PL
+2nd f. pl. (your),N;PSS2PF;SG,N;PSS2PF;PL
+3rd m. pl. (their),N;PSS3PM;SG,N;PSS3PM;PL
+3rd f. pl. (their),N;PSS3PF;SG,N;PSS3PF;PL

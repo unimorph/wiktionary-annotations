@@ -1,0 +1,22 @@
+0,1,2,3,4,5
+,INDICATIVE (īstenības izteiksme),IMPERATIVE(pavēles izteiksme),,,
+,,Present(tagadne),Past(pagātne),Future(nākotne),
+1st pers. sg.,es,V;1;SG;PRS;IND,V;1;SG;PST;IND,V;1;SG;FUT;IND,V;1;SG;IMP
+2nd pers. sg.,tu,V;2;SG;PRS;IND,V;2;SG;PST;IND,V;2;SG;FUT;IND,V;2;SG;IMP
+3rd pers. sg.,"viņš, viņa",V;3;SG;PRS;IND,V;3;SG;PST;IND,V;3;SG;FUT;IND,V;3;SG;IMP
+1st pers. pl.,mēs,V;1;PL;PRS;IND,V;1;PL;PST;IND,V;1;PL;FUT;IND,V;1;PL;IMP
+2nd pers. pl.,jūs,V;2;PL;PRS;IND,V;2;PL;PST;IND,V;2;PL;FUT;IND,V;2;PL;IMP
+3rd pers. pl.,"viņi, viņas",V;3;PL;PRS;IND,V;3;PL;PST;IND,V;3;PL;FUT;IND,V;3;PL;IMP
+,,,,,
+CONJUNCTIVE (atstāstījuma izteiksme),PARTICIPLES (divdabji),,,,
+Present,V;LGSPEC1;PRS,Present Active 1 (Adj.),V;V.PTCP;PRS;LGSPEC3,,
+Past,V;LGSPEC1;PST,Present Active 2 (Adv.),V;V.PTCP;PRS;LGSPEC4,,
+Future,V;LGSPEC1;FUT,Present Active 3 (Adv.),V;V.PTCP;PRS;LGSPEC5,,
+Imperative,V;LGSPEC1;IMP,Present Active 4 (Obj.),V;V.PTCP;PRS;LGSPEC6,,
+CONDITIONAL (vēlējuma izteiksme),Past Active,V;V.PTCP;PST;ACT,,,
+Present,V;COND;PRS,Present Passive,V;V.PTCP;PRS;PASS,,
+Past,V;COND;PST,Past Passive,V;V.PTCP;PST;PASS,,
+DEBITIVE (vajadzības izteiksme),NOMINAL FORMS,,,,
+Indicative,V;LGSPEC2;IND,Infinitive (nenoteiksme),V;NFIN,,
+Conjunctive 1,V;LGSPEC2;LGSPEC7,Negative Infinitive,V;NFIN;NEG,,
+Conjunctive 2,V;LGSPEC2;LgSPEC8,Verbal noun,V;V.MSDR,,

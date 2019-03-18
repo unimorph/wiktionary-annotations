@@ -1,0 +1,19 @@
+0,1,2,3,4
+m12,Singular,Plural,,
+,Indefinite,Definite,Indefinite,Definite
+Nominative,rættur,rætturin,rættir,rættirnir
+Accusative,rætt,rættin,rættir,rættirnar
+Dative,rætti,rættinum,rættum,rættunum
+Genitive,rættar,rættarins,rætta,rættanna
+rættur a23,,,,
+Singular (eintal),m (kallkyn),f (kvennkyn),n (hvørkikyn),
+Nominative (hvørfall),rættur,rætt/røtt,rætt,
+Accusative (hvønnfall),rættan,rætta,,
+Dative (hvørjumfall),rættum/røttum,rættari,rættum/røttum,
+Genitive (hvørsfall),(ræts),(rættar),(ræts),
+,,,,
+Plural (fleirtal),m (kallkyn),f (kvennkyn),n (hvørkikyn),
+Nominative (hvørfall),rættir,rættar,rætt/røtt,
+Accusative (hvønnfall),rættar,,,
+Dative (hvørjumfall),rættum/røttum,,,
+Genitive (hvørsfall),(rætta),,,

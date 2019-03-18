@@ -1,0 +1,86 @@
+0,1,2,3,4,5
+Audio (Austria),,(file),,,
+Audio,,(file),,,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist bescheiden,sie ist bescheiden,es ist bescheiden,sie sind bescheiden,
+strong declension (without article),nominative,bescheidener,bescheidene,bescheidenes,bescheidene
+genitive,bescheidenen,bescheidener,bescheidenen,bescheidener,
+dative,bescheidenem,bescheidener,bescheidenem,bescheidenen,
+accusative,bescheidenen,bescheidene,bescheidenes,bescheidene,
+weak declension (with definite article),nominative,der bescheidene,die bescheidene,das bescheidene,die bescheidenen
+genitive,des bescheidenen,der bescheidenen,des bescheidenen,der bescheidenen,
+dative,dem bescheidenen,der bescheidenen,dem bescheidenen,den bescheidenen,
+accusative,den bescheidenen,die bescheidene,das bescheidene,die bescheidenen,
+mixed declension (with indefinite article),nominative,ein bescheidener,eine bescheidene,ein bescheidenes,(keine) bescheidenen
+genitive,eines bescheidenen,einer bescheidenen,eines bescheidenen,(keiner) bescheidenen,
+dative,einem bescheidenen,einer bescheidenen,einem bescheidenen,(keinen) bescheidenen,
+accusative,einen bescheidenen,eine bescheidene,ein bescheidenes,(keine) bescheidenen,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist bescheidener,sie ist bescheidener,es ist bescheidener,sie sind bescheidener,
+strong declension (without article),nominative,bescheidenerer,bescheidenere,bescheideneres,bescheidenere
+genitive,bescheideneren,bescheidenerer,bescheideneren,bescheidenerer,
+dative,bescheidenerem,bescheidenerer,bescheidenerem,bescheideneren,
+accusative,bescheideneren,bescheidenere,bescheideneres,bescheidenere,
+weak declension (with definite article),nominative,der bescheidenere,die bescheidenere,das bescheidenere,die bescheideneren
+genitive,des bescheideneren,der bescheideneren,des bescheideneren,der bescheideneren,
+dative,dem bescheideneren,der bescheideneren,dem bescheideneren,den bescheideneren,
+accusative,den bescheideneren,die bescheidenere,das bescheidenere,die bescheideneren,
+mixed declension (with indefinite article),nominative,ein bescheidenerer,eine bescheidenere,ein bescheideneres,(keine) bescheideneren
+genitive,eines bescheideneren,einer bescheideneren,eines bescheideneren,(keiner) bescheideneren,
+dative,einem bescheideneren,einer bescheideneren,einem bescheideneren,(keinen) bescheideneren,
+accusative,einen bescheideneren,eine bescheidenere,ein bescheideneres,(keine) bescheideneren,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist am bescheidensten,sie ist am bescheidensten,es ist am bescheidensten,sie sind am bescheidensten,
+strong declension (without article),nominative,bescheidenster,bescheidenste,bescheidenstes,bescheidenste
+genitive,bescheidensten,bescheidenster,bescheidensten,bescheidenster,
+dative,bescheidenstem,bescheidenster,bescheidenstem,bescheidensten,
+accusative,bescheidensten,bescheidenste,bescheidenstes,bescheidenste,
+weak declension (with definite article),nominative,der bescheidenste,die bescheidenste,das bescheidenste,die bescheidensten
+genitive,des bescheidensten,der bescheidensten,des bescheidensten,der bescheidensten,
+dative,dem bescheidensten,der bescheidensten,dem bescheidensten,den bescheidensten,
+accusative,den bescheidensten,die bescheidenste,das bescheidenste,die bescheidensten,
+mixed declension (with indefinite article),nominative,ein bescheidenster,eine bescheidenste,ein bescheidenstes,(keine) bescheidensten
+genitive,eines bescheidensten,einer bescheidensten,eines bescheidensten,(keiner) bescheidensten,
+dative,einem bescheidensten,einer bescheidensten,einem bescheidensten,(keinen) bescheidensten,
+accusative,einen bescheidensten,eine bescheidenste,ein bescheidenstes,(keine) bescheidensten,
+infinitive,bescheiden,,,,
+present participle,bescheidend,,,,
+past participle,beschieden,,,,
+auxiliary,haben,,,,
+,indicative,,subjunctive,,
+present,ich bescheide,wir bescheiden,i,ich bescheide,wir bescheiden
+du bescheidest,ihr bescheidet,du bescheidest,ihr bescheidet,,
+er bescheidet,sie bescheiden,er bescheide,sie bescheiden,,
+,,,,,
+preterite,ich beschied,wir beschieden,ii,ich beschiede,wir beschieden
+du beschiedest,ihr beschiedet,du beschiedest,ihr beschiedet,,
+er beschied,sie beschieden,er beschiede,sie beschieden,,
+,,,,,
+imperative,bescheide (du),bescheidet (ihr),,,
+perfect,,,,,
+indicative,ich habe beschieden,wir haben beschieden,subjunctive,ich habe beschieden,wir haben beschieden
+du hast beschieden,ihr habt beschieden,du habest beschieden,ihr habet beschieden,,
+er hat beschieden,sie haben beschieden,er habe beschieden,sie haben beschieden,,
+pluperfect,,,,,
+indicative,ich hatte beschieden,wir hatten beschieden,subjunctive,ich hätte beschieden,wir hätten beschieden
+du hattest beschieden,ihr hattet beschieden,du hättest beschieden,ihr hättet beschieden,,
+er hatte beschieden,sie hatten beschieden,er hätte beschieden,sie hätten beschieden,,
+future i,,,,,
+infinitive,bescheiden werden,subjunctive i,ich werde bescheiden,wir werden bescheiden,
+du werdest bescheiden,ihr werdet bescheiden,,,,
+er werde bescheiden,sie werden bescheiden,,,,
+,,,,,
+indicative,ich werde bescheiden,wir werden bescheiden,subjunctive ii,ich würde bescheiden,wir würden bescheiden
+du wirst bescheiden,ihr werdet bescheiden,du würdest bescheiden,ihr würdet bescheiden,,
+er wird bescheiden,sie werden bescheiden,er würde bescheiden,sie würden bescheiden,,
+future ii,,,,,
+infinitive,beschieden haben werden,subjunctive i,ich werde beschieden haben,wir werden beschieden haben,
+du werdest beschieden haben,ihr werdet beschieden haben,,,,
+er werde beschieden haben,sie werden beschieden haben,,,,
+,,,,,
+indicative,ich werde beschieden haben,wir werden beschieden haben,subjunctive ii,ich würde beschieden haben,wir würden beschieden haben
+du wirst beschieden haben,ihr werdet beschieden haben,du würdest beschieden haben,ihr würdet beschieden haben,,
+er wird beschieden haben,sie werden beschieden haben,er würde beschieden haben,sie würden beschieden haben,,

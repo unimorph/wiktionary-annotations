@@ -1,0 +1,47 @@
+0,1,2,3,4,5
+Audio,,(file),,,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist glänzend,sie ist glänzend,es ist glänzend,sie sind glänzend,
+strong declension (without article),nominative,glänzender,glänzende,glänzendes,glänzende
+genitive,glänzenden,glänzender,glänzenden,glänzender,
+dative,glänzendem,glänzender,glänzendem,glänzenden,
+accusative,glänzenden,glänzende,glänzendes,glänzende,
+weak declension (with definite article),nominative,der glänzende,die glänzende,das glänzende,die glänzenden
+genitive,des glänzenden,der glänzenden,des glänzenden,der glänzenden,
+dative,dem glänzenden,der glänzenden,dem glänzenden,den glänzenden,
+accusative,den glänzenden,die glänzende,das glänzende,die glänzenden,
+mixed declension (with indefinite article),nominative,ein glänzender,eine glänzende,ein glänzendes,(keine) glänzenden
+genitive,eines glänzenden,einer glänzenden,eines glänzenden,(keiner) glänzenden,
+dative,einem glänzenden,einer glänzenden,einem glänzenden,(keinen) glänzenden,
+accusative,einen glänzenden,eine glänzende,ein glänzendes,(keine) glänzenden,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist glänzender,sie ist glänzender,es ist glänzender,sie sind glänzender,
+strong declension (without article),nominative,glänzenderer,glänzendere,glänzenderes,glänzendere
+genitive,glänzenderen,glänzenderer,glänzenderen,glänzenderer,
+dative,glänzenderem,glänzenderer,glänzenderem,glänzenderen,
+accusative,glänzenderen,glänzendere,glänzenderes,glänzendere,
+weak declension (with definite article),nominative,der glänzendere,die glänzendere,das glänzendere,die glänzenderen
+genitive,des glänzenderen,der glänzenderen,des glänzenderen,der glänzenderen,
+dative,dem glänzenderen,der glänzenderen,dem glänzenderen,den glänzenderen,
+accusative,den glänzenderen,die glänzendere,das glänzendere,die glänzenderen,
+mixed declension (with indefinite article),nominative,ein glänzenderer,eine glänzendere,ein glänzenderes,(keine) glänzenderen
+genitive,eines glänzenderen,einer glänzenderen,eines glänzenderen,(keiner) glänzenderen,
+dative,einem glänzenderen,einer glänzenderen,einem glänzenderen,(keinen) glänzenderen,
+accusative,einen glänzenderen,eine glänzendere,ein glänzenderes,(keine) glänzenderen,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist am glänzendsten,sie ist am glänzendsten,es ist am glänzendsten,sie sind am glänzendsten,
+strong declension (without article),nominative,glänzendster,glänzendste,glänzendstes,glänzendste
+genitive,glänzendsten,glänzendster,glänzendsten,glänzendster,
+dative,glänzendstem,glänzendster,glänzendstem,glänzendsten,
+accusative,glänzendsten,glänzendste,glänzendstes,glänzendste,
+weak declension (with definite article),nominative,der glänzendste,die glänzendste,das glänzendste,die glänzendsten
+genitive,des glänzendsten,der glänzendsten,des glänzendsten,der glänzendsten,
+dative,dem glänzendsten,der glänzendsten,dem glänzendsten,den glänzendsten,
+accusative,den glänzendsten,die glänzendste,das glänzendste,die glänzendsten,
+mixed declension (with indefinite article),nominative,ein glänzendster,eine glänzendste,ein glänzendstes,(keine) glänzendsten
+genitive,eines glänzendsten,einer glänzendsten,eines glänzendsten,(keiner) glänzendsten,
+dative,einem glänzendsten,einer glänzendsten,einem glänzendsten,(keinen) glänzendsten,
+accusative,einen glänzendsten,eine glänzendste,ein glänzendstes,(keine) glänzendsten,

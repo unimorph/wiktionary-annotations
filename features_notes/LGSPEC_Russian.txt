@@ -1,0 +1,1 @@
+LGSPEC1 = Predicative short form adjective

@@ -1,0 +1,19 @@
+0,1,2,3,4,5,6
+audio,,(file),,,,
+,,singular,plural,,,
+person,m,f,n,m pers,"m anim, m inan, n, f",
+infinitive,wyjść,,,,,
+future tense,1st,wyjdę,wyjdziemy,,,
+2nd,wyjdziesz,wyjdziecie,,,,
+3rd,wyjdzie,wyjdą,,,,
+past tense,1st,wyszedłem,wyszłam,,wyszliśmy,wyszłyśmy
+2nd,wyszedłeś,wyszłaś,,wyszliście,wyszłyście,
+3rd,wyszedł,wyszła,wyszło,wyszli,wyszły,
+conditional,1st,wyszedłbym,wyszłabym,,wyszlibyśmy,wyszłybyśmy
+2nd,wyszedłbyś,wyszłabyś,,wyszlibyście,wyszłybyście,
+3rd,wyszedłby,wyszłaby,wyszłoby,wyszliby,wyszłyby,
+imperative,1st,niech wyjdę,wyjdźmy,,,
+2nd,wyjdź,wyjdźcie,,,,
+3rd,niech wyjdzie,niech wyjdą,,,,
+anterior adverbial participle,wyszedłszy,,,,,
+verbal noun,wyjście,,,,,

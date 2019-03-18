@@ -1,0 +1,2 @@
+LGSPEC1 = Future II (Second Future) = "Used only in subordinate clauses (mostly clauses beginning with kad(a) 'when' or ako 'if')"
+LGSPEC2 = Aorist = "serves to narrate events and express surprising perceived events"

@@ -1,0 +1,10 @@
+0,1,2,3,4,5,6,7,8
+Number,Singular,,Plural,,,,,
+Case / Gender,Masculine,Feminine,Neuter,Masculine,Feminine,Neuter,,
+nominative,vetustus,vetusta,vetustum,,vetustī,vetustae,vetusta,
+genitive,vetustī,vetustae,vetustī,vetustōrum,vetustārum,vetustōrum,,
+dative,vetustō,vetustō,vetustīs,,,,,
+accusative,vetustum,vetustam,vetustum,vetustōs,vetustās,vetusta,,
+ablative,vetustō,vetustā,vetustō,vetustīs,,,,
+vocative,vetuste,vetusta,vetustum,vetustī,vetustae,vetusta,,
+vetera  veterāmentārius  veterānus  veterārius  veterascō,,veterātor  veterātōriē  veterātōrius  veterātrix,,veterātus  veterētum  veterīnārius  veterīnus,,veternōsitās  veternōsus  veternus  veterō,,vetulus  vetus  vetusculus  vetustās

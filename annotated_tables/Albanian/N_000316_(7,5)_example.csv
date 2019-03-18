@@ -1,0 +1,8 @@
+0,1,2,3,4
+,indefinite forms (trajta të pashquara),,definite forms (trajta të shquara),
+singular (numri njëjës),plural (numri shumës),singular (numri njëjës),plural (numri shumës),
+nominative (emërore),N;NOM;SG;NDEF,N;NOM;PL;NDEF,N;NOM;SG;DEF,N;NOM;PL;DEF
+accusative (kallëzore),N;ACC;SG;NDEF,N;ACC;PL;NDEF,N;ACC;SG;DEF,N;ACC;PL;DEF
+genitive (gjinore)(i/e/të/së),N;GEN;SG;NDEF,N;GEN;PL;NDEF,N;GEN;SG;DEF,N;GEN;PL;DEF
+dative (dhanore),N;DAT;SG;NDEF,N;DAT;PL;NDEF,N;DAT;SG;DEF,N;DAT;PL;DEF
+ablative (rrjedhore),N;ABL;SG;NDEF,N;ABL;PL;NDEF,N;ABL;SG;DEF,N;ABL;PL;DEF

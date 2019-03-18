@@ -1,0 +1,10 @@
+0,1,2
+audio,,(file)
+,singular (vienskaitlis),plural (daudzskaitlis)
+nominative (nominatīvs),govs,govis
+accusative (akuzatīvs),govi,govis
+genitive (ģenitīvs),govs,govju
+dative (datīvs),govij,govīm
+instrumental (instrumentālis),govi,govīm
+locative (lokatīvs),govī,govīs
+vocative (vokatīvs),govs,govis

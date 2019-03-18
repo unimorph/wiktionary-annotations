@@ -1,0 +1,13 @@
+0,1,2
+,indefinite forms,
+nominative,N;NOM;NDEF,
+objective,N;ACC;NDEF,
+genitive,N;GEN;NDEF,
+locative,N;LOC;NDEF,
+,,
+,definite forms,
+,singular,plural
+nominative,N;NOM;SG;DEF,N;NOM;PL;DEF
+objective,N;ACC;SG;DEF,N;ACC;PL;DEF
+genitive,N;GEN;SG;DEF,N;GEN;PL;DEF
+locative,N;LOC;SG;DEF,N;LOC;PL;DEF

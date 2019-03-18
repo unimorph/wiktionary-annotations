@@ -1,0 +1,17 @@
+0,1,2,3,4
+singular,,,,
+,masculine animate,masculine inanimate,feminine,neuter
+nominative,ovčí,ovčia,ovčie,
+genitive,ovčieho,ovčej,ovčieho,
+dative,ovčiemu,ovčej,ovčiemu,
+accusative,ovčieho,ovčí,ovčiu,ovčie
+locative,ovčom,ovčej,ovčom,
+instrumental,ovčím,ovčou,ovčím,
+plural,,,,
+,masculine animate,masculine inanimate,feminine,neuter
+nominative,ovčí,ovčie,,
+genitive,ovčích,,,
+dative,ovčím,,,
+accusative,ovčích,ovčie,,
+locative,ovčích,,,
+instrumental,ovčími,,,

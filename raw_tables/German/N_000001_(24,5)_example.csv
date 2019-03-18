@@ -1,0 +1,25 @@
+0,1,2,3,4
+,singular,plural,,
+f gender,strong declension,,,
+nominative,Weiße,Weiße,,
+genitive,Weißer,Weißer,,
+dative,Weißer,Weißen,,
+accusative,Weiße,Weiße,,
+,weak declension,,,
+nominative,die,Weiße,die,Weißen
+genitive,der,Weißen,der,Weißen
+dative,der,Weißen,den,Weißen
+accusative,die,Weiße,die,Weißen
+,mixed declension,,,
+nominative,eine,Weiße,keine,Weißen
+genitive,einer,Weißen,keiner,Weißen
+dative,einer,Weißen,keinen,Weißen
+accusative,eine,Weiße,keine,Weißen
+,singular,,,
+,indef.,def.,noun,
+nominative,eine,die,Weiße,
+genitive,einer,der,Weiße,
+dative,einer,der,Weiße,
+accusative,eine,die,Weiße,
+ablative,die,,,
+vocative,die,,,

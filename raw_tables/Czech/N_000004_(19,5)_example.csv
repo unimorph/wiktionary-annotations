@@ -1,0 +1,20 @@
+0,1,2,3,4
+audio,,(file),,
+singular,,,,
+,masculine animate,masculine inanimate,feminine,neuter
+nominative,známý,známá,známé,
+genitive,známého,známé,známého,
+dative,známému,známé,známému,
+accusative,známého,známý,známou,známé
+vocative,známý,známá,známé,
+locative,známém,známé,známém,
+instrumental,známým,známou,známým,
+plural,,,,
+,masculine animate,masculine inanimate,feminine,neuter
+nominative,známí,známé,známá,
+genitive,známých,,,
+dative,známým,,,
+accusative,známé,známá,,
+vocative,známí,známé,známá,
+locative,známých,,,
+instrumental,známými,,,

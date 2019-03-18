@@ -1,0 +1,20 @@
+0,1,2,3,4
+л-participles,imperfect,aorist,non-finite forms,
+masculine,V.PTCP;PROG;PST;MASC;SG,V.PTCP;PST;MASC;SG,adjectival partc.,V.PTCP;PST;PASS
+feminine,V.PTCP;PROG;PST;FEM;SG,V.PTCP;PST;FEM;SG,adverbial partc.,V.CVB
+neuter,V.PTCP;PROG;PST;NEUT;SG,V.PTCP;PST;NEUT;SG,verbal noun,V.MSDR
+plural,V.PTCP;PROG;PST;PL,V.PTCP;PST;PL,,
+,present,imperfect,aorist,imperative
+1st singular,V;PRS;1;SG,V;PROG;PST;1;SG,V;PST;1;SG,—
+2nd singular,V;PRS;2;SG,V;PROG;PST;2;SG,V;PST;2;SG,V;IMP;2;SG
+3rd singular,V;PRS;3;SG,V;PROG;PST;3;SG,V;PST;3;SG,—
+1st plural,V;PRS;1;PL,V;PROG;PST;1;PL,V;PST;1;PL,—
+2nd plural,V;PRS;2;PL,V;PROG;PST;2;PL,V;PST;2;PL,V;IMP;2;PL
+3rd plural,V;PRS;3;PL,V;PROG;PST;3;PL,V;PST;3;PL,—
+Compound tenses,,,,
+perfect,сум ’рѓосувал,present of сум + imperfect л-participle,,
+pluperfect,бев ’рѓосувал,imperfect of сум + imperfect л-participle,,
+future,ќе ’рѓосувам,ќе + present,,
+future in the past,ќе ’рѓосував,ќе + imperfect,,
+future reported,ќе сум ’рѓосувал,ќе + imperfect л-participle,,
+conditional,би ’рѓосувал,би + imperfect л-participle,,

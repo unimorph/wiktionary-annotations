@@ -1,0 +1,6 @@
+0,1,2,3,4
+Number,Case,Masculine,Feminine,Neuter
+Singular,Subject,droituriers,droituriere,droiturier
+Oblique,droiturier,droituriere,droiturier,
+Plural,Subject,droiturier,droiturieres,droiturier
+Oblique,droituriers,droiturieres,droiturier,

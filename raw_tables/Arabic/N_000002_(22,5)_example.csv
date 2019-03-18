@@ -1,0 +1,23 @@
+0,1,2,3,4
+Audio,,(file),,
+Isolated pronouns,,,,
+,singular,dual,plural,
+1st person,أَنَا ‎(ʾanā),نَحْنُ ‎(naḥnu),,
+2nd person,m,أَنْتَ ‎(ʾanta),أَنْتُمَا ‎(ʾantumā)*,أَنْتُمْ ‎(ʾantum)
+f,أَنْتِ ‎(ʾanti),أَنْتُنَّ ‎(ʾantunna)*,,
+3rd person,m,هُوَ ‎(huwa),هُمَا ‎(humā)*,هُمْ ‎(hum)
+f,هِيَ ‎(hiya),هُنَّ ‎(hunna)*,,
+Enclitic pronouns,,,,
+,singular,dual,plural,
+1st person,ـنِي ‎(-nī)/ـي ‎(-ī)/ـيَ ‎(-ya)**,ـنَا ‎(-nā),,
+2nd person,m,ـكَ ‎(-ka),ـكُمَا ‎(-kumā),ـكُم ‎(-kum)
+f,ـكِ ‎(-ki),ـكُنَّ ‎(-kunna),,
+3rd person,m,ـهُ ‎(-hu)/ـهِ ‎(-hi)***,ـهُمَا ‎(-humā)/ـهِمَا ‎(-himā)***,ـهُم ‎(-hum)/ـهِم ‎(-him)***
+f,ـهَا ‎(-hā),ـهُنَّ ‎(-hunna)/ـهِنَّ ‎(-hinna)***,,
+"* Modern Standard Arabic avoids these pronouns, though they are used in Classical Arabic. ** Specifically, ـنِي ‎(-nī) 'me' is attached to verbs, but ـي ‎(-ī)/ـيَ ‎(-ya) 'my' is attached to nouns. In the latter case, ـيَ ‎(-ya) is attached to nouns whose construct state ends in a long vowel or diphthong (e.g. in the sound masculine plural and the dual), while ـي ‎(-ī) is attached to nouns whose construct state ends in a short vowel, in which case that vowel is elided (e.g. in the sound feminine plural, as well as the singular and broken plural of most nouns). Furthermore, -ū of the masculine sound plural is assimilated to -ī before ـيَ ‎(-ya) (presumably, -aw of masculine defective -an plurals is similarly assimilated to -ay). Prepositions use ـي ‎(-ī)/ـيَ ‎(-ya), even though in this case it has the meaning of ""me"" (rather than ""my""). The ""sisters of inna"" can use either form (e.g. إِنَّنِي ‎(innanī) or إِنِّي ‎(innī)), but the longer form (e.g. إِنَّنِي ‎(innanī)) is usually preferred. *** ـهُـ ‎(-hu-) occurs after the vowels ending in u or a (-a, -ā, -u, -ū, -aw), while ـهِـ ‎(-hi-) occurs after vowels ending in i (-i, -ī, -ay).",,,,
+Singular,singular invariable,,,
+Indefinite,Definite,Construct,,
+Informal,هُوَhuwa,الْهُوَal-huwa,هُوَhuwa,
+Nominative,هُوَhuwa,الْهُوَal-huwa,هُوَhuwa,
+Accusative,هُوَhuwa,الْهُوَal-huwa,هُوَhuwa,
+Genitive,هُوَhuwa,الْهُوَal-huwa,هُوَhuwa,

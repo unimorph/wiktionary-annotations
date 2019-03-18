@@ -1,0 +1,93 @@
+0,1,2,3,4,5,6,7,8,9
+number,singular,dual,plural,,,,,,
+,first,second,third,second,third,first,second,third,
+active,indicative,ἀγαπᾰ́ω,ἀγαπᾰ́εις,ἀγαπᾰ́ει,ἀγαπᾰ́ετον,ἀγαπᾰ́ετον,ἀγαπᾰ́ομεν,ἀγαπᾰ́ετε,ἀγαπᾰ́ουσῐ(ν)
+subjunctive,ἀγαπᾰ́ω,ἀγαπᾰ́ῃς,ἀγαπᾰ́ῃ,ἀγαπᾰ́ητον,ἀγαπᾰ́ητον,ἀγαπᾰ́ωμεν,ἀγαπᾰ́ητε,ἀγαπᾰ́ωσῐ(ν),
+optative,ἀγαπᾰ́οιμῐ,ἀγαπᾰ́οις,ἀγαπᾰ́οι,ἀγαπᾰ́οιτον,ἀγαπᾰοίτην,ἀγαπᾰ́οιμεν,ἀγαπᾰ́οιτε,ἀγαπᾰ́οιεν,
+imperative,,ἀγάπᾰε,ἀγαπᾰέτω,ἀγαπᾰ́ετον,ἀγαπᾰέτων,,ἀγαπᾰ́ετε,ἀγαπᾰόντων,
+middle/passive,indicative,ἀγαπᾰ́ομαι,"ἀγαπᾰ́ῃ,ἀγαπᾰ́ει",ἀγαπᾰ́εται,ἀγαπᾰ́εσθον,ἀγαπᾰ́εσθον,ἀγαπᾰόμεθᾰ,ἀγαπᾰ́εσθε,ἀγαπᾰ́ονται
+subjunctive,ἀγαπᾰ́ωμαι,ἀγαπᾰ́ῃ,ἀγαπᾰ́ηται,ἀγαπᾰ́ησθον,ἀγαπᾰ́ησθον,ἀγαπᾰώμεθᾰ,ἀγαπᾰ́ησθε,ἀγαπᾰ́ωνται,
+optative,ἀγαπᾰοίμην,ἀγαπᾰ́οιο,ἀγαπᾰ́οιτο,ἀγαπᾰ́οισθον,ἀγαπᾰοίσθην,ἀγαπᾰοίμεθᾰ,ἀγαπᾰ́οισθε,ἀγαπᾰ́οιντο,
+imperative,,ἀγαπᾰ́ου,ἀγαπᾰέσθω,ἀγαπᾰ́εσθον,ἀγαπᾰέσθων,,ἀγαπᾰ́εσθε,ἀγαπᾰέσθων,
+,active,middle/passive,,,,,,,
+infinitive,ἀγαπᾰ́ειν,ἀγαπᾰ́εσθαι,,,,,,,
+participle,m,ἀγαπᾰ́ων,ἀγαπᾰόμενος,,,,,,
+f,ἀγαπᾰ́ουσᾰ,ἀγαπᾰομένη,,,,,,,
+n,ἀγαπᾰ́ον,ἀγαπᾰόμενον,,,,,,,
+Notes:,"This table gives Attic inflectional endings. For conjugation in dialects other than Attic, see Appendix:Ancient Greek dialectal conjugation.",,,,,,,,
+number,singular,dual,plural,,,,,,
+,first,second,third,second,third,first,second,third,
+active,indicative,ἀγαπῶ,ἀγαπᾷς,ἀγαπᾷ,ἀγαπᾶτον,ἀγαπᾶτον,ἀγαπῶμεν,ἀγαπᾶτε,ἀγαπῶσῐ(ν)
+subjunctive,ἀγαπῶ,ἀγαπᾷς,ἀγαπᾷ,ἀγαπᾶτον,ἀγαπᾶτον,ἀγαπῶμεν,ἀγαπᾶτε,ἀγαπῶσῐ(ν),
+optative,"ἀγαπῴην,ἀγαπῷμῐ","ἀγαπῴης,ἀγαπῷς","ἀγαπῴη,ἀγαπῷ","ἀγαπῷτον,ἀγαπῴητον","ἀγαπῴτην,ἀγαπῳήτην","ἀγαπῷμεν,ἀγαπῴημεν","ἀγαπῷτε,ἀγαπῴητε","ἀγαπῷεν,ἀγαπῴησᾰν",
+imperative,,ἀγάπᾱ,ἀγαπᾱ́τω,ἀγαπᾶτον,ἀγαπᾱ́των,,ἀγαπᾶτε,ἀγαπώντων,
+middle/passive,indicative,ἀγαπῶμαι,ἀγαπᾷ,ἀγαπᾶται,ἀγαπᾶσθον,ἀγαπᾶσθον,ἀγαπώμεθᾰ,ἀγαπᾶσθε,ἀγαπῶνται
+subjunctive,ἀγαπῶμαι,ἀγαπᾷ,ἀγαπᾶται,ἀγαπᾶσθον,ἀγαπᾶσθον,ἀγαπώμεθᾰ,ἀγαπᾶσθε,ἀγαπῶνται,
+optative,ἀγαπῴμην,ἀγαπῷο,ἀγαπῷτο,ἀγαπῷσθον,ἀγαπῴσθην,ἀγαπῴμεθᾰ,ἀγαπῷσθε,ἀγαπῷντο,
+imperative,,ἀγαπῶ,ἀγαπᾱ́σθω,ἀγαπᾶσθον,ἀγαπᾱ́σθων,,ἀγαπᾶσθε,ἀγαπᾱ́σθων,
+,active,middle/passive,,,,,,,
+infinitive,ἀγαπᾶν,ἀγαπᾶσθαι,,,,,,,
+participle,m,ἀγαπῶν,ἀγαπώμενος,,,,,,
+f,ἀγαπῶσᾰ,ἀγαπωμένη,,,,,,,
+n,ἀγαπῶν,ἀγαπώμενον,,,,,,,
+Notes:,"This table gives Attic inflectional endings. For conjugation in dialects other than Attic, see Appendix:Ancient Greek dialectal conjugation.",,,,,,,,
+number,singular,dual,plural,,,,,,
+,first,second,third,second,third,first,second,third,
+active,indicative,ἠγάπᾰον,ἠγάπᾰες,ἠγάπᾰε(ν),ἠγαπᾰ́ετον,ἠγαπᾰέτην,ἠγαπᾰ́ομεν,ἠγαπᾰ́ετε,ἠγάπᾰον
+middle/passive,indicative,ἠγαπᾰόμην,ἠγαπᾰ́ου,ἠγαπᾰ́ετο,ἠγαπᾰ́εσθον,ἠγαπᾰέσθην,ἠγαπᾰόμεθᾰ,ἠγαπᾰ́εσθε,ἠγαπᾰ́οντο
+Notes:,"This table gives Attic inflectional endings. For conjugation in dialects other than Attic, see Appendix:Ancient Greek dialectal conjugation.",,,,,,,,
+number,singular,dual,plural,,,,,,
+,first,second,third,second,third,first,second,third,
+active,indicative,ἠγάπων,ἠγάπᾱς,ἠγάπᾱ,ἠγαπᾶτον,ἠγαπᾱ́την,ἠγαπῶμεν,ἠγαπᾶτε,ἠγάπων
+middle/passive,indicative,ἠγαπώμην,ἠγαπῶ,ἠγαπᾶτο,ἠγαπᾶσθον,ἠγαπᾱ́σθην,ἠγαπώμεθᾰ,ἠγαπᾶσθε,ἠγαπῶντο
+Notes:,"This table gives Attic inflectional endings. For conjugation in dialects other than Attic, see Appendix:Ancient Greek dialectal conjugation.",,,,,,,,
+number,singular,dual,plural,,,,,,
+,first,second,third,second,third,first,second,third,
+active,indicative,ἀγαπήσω,ἀγαπήσεις,ἀγαπήσει,ἀγαπήσετον,ἀγαπήσετον,ἀγαπήσομεν,ἀγαπήσετε,ἀγαπήσουσῐ(ν)
+optative,ἀγαπήσοιμῐ,ἀγαπήσοις,ἀγαπήσοι,ἀγαπήσοιτον,ἀγαπησοίτην,ἀγαπήσοιμεν,ἀγαπήσοιτε,ἀγαπήσοιεν,
+middle,indicative,ἀγαπήσομαι,"ἀγαπήσῃ,ἀγαπήσει",ἀγαπήσεται,ἀγαπήσεσθον,ἀγαπήσεσθον,ἀγαπησόμεθᾰ,ἀγαπήσεσθε,ἀγαπήσονται
+optative,ἀγαπησοίμην,ἀγαπήσοιο,ἀγαπήσοιτο,ἀγαπήσοισθον,ἀγαπησοίσθην,ἀγαπησοίμεθᾰ,ἀγαπήσοισθε,ἀγαπήσοιντο,
+passive,indicative,αγαπηθήσομαι,αγαπηθήσῃ,αγαπηθήσεται,αγαπηθήσεσθον,αγαπηθήσεσθον,αγαπηθησόμεθᾰ,αγαπηθήσεσθε,αγαπηθήσονται
+optative,αγαπηθησοίμην,αγαπηθήσοιο,αγαπηθήσοιτο,αγαπηθήσοισθον,αγαπηθησοίσθην,αγαπηθησοίμεθᾰ,αγαπηθήσοισθε,αγαπηθήσοιντο,
+,active,middle,passive,,,,,,
+infinitive,ἀγαπήσειν,ἀγαπήσεσθαι,αγαπηθήσεσθαι,,,,,,
+participle,m,ἀγαπήσων,ἀγαπησόμενος,αγαπηθησόμενος,,,,,
+f,ἀγαπήσουσᾰ,ἀγαπησομένη,αγαπηθησομένη,,,,,,
+n,ἀγαπῆσον,ἀγαπησόμενον,αγαπηθησόμενον,,,,,,
+Notes:,"This table gives Attic inflectional endings. For conjugation in dialects other than Attic, see Appendix:Ancient Greek dialectal conjugation.",,,,,,,,
+number,singular,dual,plural,,,,,,
+,first,second,third,second,third,first,second,third,
+active,indicative,ἠγάπησᾰ,ἠγάπησᾰς,ἠγάπησε(ν),ἠγαπήσᾰτον,ἠγαπησᾰ́την,ἠγαπήσᾰμεν,ἠγαπήσᾰτε,ἠγάπησᾰν
+subjunctive,ἀγαπήσω,ἀγαπήσῃς,ἀγαπήσῃ,ἀγαπήσητον,ἀγαπήσητον,ἀγαπήσωμεν,ἀγαπήσητε,ἀγαπήσωσῐ(ν),
+optative,ἀγαπήσαιμῐ,"ἀγαπήσειᾰς,ἀγαπήσαις","ἀγαπήσειε(ν),ἀγαπήσαι",ἀγαπήσαιτον,ἀγαπησαίτην,ἀγαπήσαιμεν,ἀγαπήσαιτε,"ἀγαπήσειᾰν,ἀγαπήσαιεν",
+imperative,,ἀγάπησον,ἀγαπησᾰ́τω,ἀγαπήσᾰτον,ἀγαπησᾰ́των,,ἀγαπήσᾰτε,ἀγαπησᾰ́ντων,
+middle,indicative,ἠγαπησᾰ́μην,ἠγαπήσω,ἠγαπήσᾰτο,ἠγαπήσᾰσθον,ἠγαπησᾰ́σθην,ἠγαπησᾰ́μεθᾰ,ἠγαπήσᾰσθε,ἠγαπήσᾰντο
+subjunctive,ἀγαπήσωμαι,ἀγαπήσῃ,ἀγαπήσηται,ἀγαπήσησθον,ἀγαπήσησθον,ἀγαπησώμεθᾰ,ἀγαπήσησθε,ἀγαπήσωνται,
+optative,ἀγαπησαίμην,ἀγαπήσαιο,ἀγαπήσαιτο,ἀγαπήσαισθον,ἀγαπησαίσθην,ἀγαπησαίμεθᾰ,ἀγαπήσαισθε,ἀγαπήσαιντο,
+imperative,,ἀγάπησαι,ἀγαπησᾰ́σθω,ἀγαπήσᾰσθον,ἀγαπησᾰ́σθων,,ἀγαπήσᾰσθε,ἀγαπησᾰ́σθων,
+passive,indicative,ἠγαπήθην,ἠγαπήθης,ἠγαπήθη,ἠγαπήθητον,ἠγαπηθήτην,ἠγαπήθημεν,ἠγαπήθητε,ἠγαπήθησᾰν
+subjunctive,ἀγαπηθῶ,ἀγαπηθῇς,ἀγαπηθῇ,ἀγαπηθῆτον,ἀγαπηθῆτον,ἀγαπηθῶμεν,ἀγαπηθῆτε,ἀγαπηθῶσῐ(ν),
+optative,ἀγαπηθείην,ἀγαπηθείης,ἀγαπηθείη,"ἀγαπηθεῖτον,ἀγαπηθείητον","ἀγαπηθείτην,ἀγαπηθειήτην","ἀγαπηθεῖμεν,ἀγαπηθείημεν","ἀγαπηθεῖτε,ἀγαπηθείητε","ἀγαπηθεῖεν,ἀγαπηθείησᾰν",
+imperative,,ἀγαπήθητῐ,ἀγαπηθήτω,ἀγαπήθητον,ἀγαπηθήτων,,ἀγαπήθητε,ἀγαπηθέντων,
+,active,middle,passive,,,,,,
+infinitive,ἀγαπῆσαι,ἀγαπήσᾰσθαι,ἀγαπηθῆναι,,,,,,
+participle,m,ἀγαπήσᾱς,ἀγαπησᾰ́μενος,ἀγαπηθείς,,,,,
+f,ἀγαπήσᾱσᾰ,ἀγαπησᾰμένη,ἀγαπηθεῖσᾰ,,,,,,
+n,ἀγαπῆσᾰν,ἀγαπησᾰ́μενον,ἀγαπηθέν,,,,,,
+Notes:,"This table gives Attic inflectional endings. For conjugation in dialects other than Attic, see Appendix:Ancient Greek dialectal conjugation.",,,,,,,,
+number,singular,dual,plural,,,,,,
+,first,second,third,second,third,first,second,third,
+active,indicative,ἠγάπηκᾰ,ἠγάπηκᾰς,ἠγάπηκε(ν),ἠγαπήκᾰτον,ἠγαπήκᾰτον,ἠγαπήκᾰμεν,ἠγαπήκᾰτε,ἠγαπήκᾱσῐ(ν)
+subjunctive,ἠγαπήκω,ἠγαπήκῃς,ἠγαπήκῃ,ἠγαπήκητον,ἠγαπήκητον,ἠγαπήκωμεν,ἠγαπήκητε,ἠγαπήκωσῐ(ν),
+optative,"ἠγαπήκοιμῐ,ἠγαπηκοίην","ἠγαπήκοις,ἠγαπηκοίης","ἠγαπήκοι,ἠγαπηκοίη",ἠγαπήκοιτον,ἠγαπηκοίτην,ἠγαπήκοιμεν,ἠγαπήκοιτε,ἠγαπήκοιεν,
+imperative,,ἠγάπηκε,ἠγαπηκέτω,ἠγαπήκετον,ἠγαπηκέτων,,ἠγαπήκετε,ἠγαπηκόντων,
+,active,,,,,,,,
+infinitive,ἠγαπηκέναι,,,,,,,,
+participle,m,ἠγαπηκώς,,,,,,,
+f,ἠγαπηκυῖᾰ,,,,,,,,
+n,ἠγαπηκός,,,,,,,,
+Notes:,"This table gives Attic inflectional endings. For conjugation in dialects other than Attic, see Appendix:Ancient Greek dialectal conjugation.",,,,,,,,
+number,singular,dual,plural,,,,,,
+,first,second,third,second,third,first,second,third,
+active,indicative,"ἠγαπήκειν,ἠγαπήκη","ἠγαπήκεις,ἠγαπήκης",ἠγαπήκει(ν),ἠγαπήκετον,ἠγαπηκέτην,ἠγαπήκεμεν,ἠγαπήκετε,ἠγαπήκεσᾰν
+Notes:,"This table gives Attic inflectional endings. For conjugation in dialects other than Attic, see Appendix:Ancient Greek dialectal conjugation.",,,,,,,,

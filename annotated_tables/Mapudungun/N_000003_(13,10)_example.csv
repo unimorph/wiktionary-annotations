@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6,7,8,9
+Infinitive,ban,,,,,,,,
+Root,ba-,,,,,,,,
+Tense particles (See particles),-a- (future tense),,,,,,,,
+-pe- (past tense),,,,,,,,,
+-fu- (distant past tense),,,,,,,,,
+person,singular,dual,plural,,,,,,
+first,second,third,first,second,third,first,second,third,
+Realis mood,iñce,eymi,fey,iñciw,eymu,feygu,iñciñ,eymvn,feygvn
+V;1;SG;REAL,V;2;SG;REAL,V;3;SG;REAL,V;1;DU;REAL,V;2;DU;REAL,V;3;DU;REAL,V;1;PL;REAL,V;2;PL;REAL,V;3;PL;REAL,
+Conditional mood,iñce,eymi,fey,iñciw,eymu,feygu,iñciñ,eymvn,feygvn
+V;1;SG;COND,V;2;SG;COND,V;3;SG;COND,V;1;DU;COND,V;2;DU;COND,V;3;DU;COND,V;1;PL;COND,V;2;PL;COND,V;3;PL;COND,
+Volitive mood,iñce,eymi,fey,iñciw,eymu,feygu,iñciñ,eymvn,feygvn
+V;1;SG;SBJV,V;2;SG;SBJV,V;3;SG;SBJV,V;1;DU;SBJV,V;2;DU;SBJV,V;3;DU;SBJV,V;1;PL;SBJV,V;2;PL;SBJV,V;3;PL;SBJV,

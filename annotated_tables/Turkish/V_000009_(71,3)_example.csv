@@ -1,0 +1,72 @@
+0,1,2
+,singular (tekil),plural (çoğul)
+nominative (yalın),ek,ekler
+definite accusative (belirtme),eki,ekleri
+dative (yönelme),eke,eklere
+locative (bulunma),ekte,eklerde
+ablative (çıkma),ekten,eklerden
+genitive (tamlayan),ekin,eklerin
+benim (my),singular (tekil),plural (çoğul)
+nominative (yalın),ekim,eklerim
+definite accusative (belirtme),ekimi,eklerimi
+dative (yönelme),ekime,eklerime
+locative (bulunma),ekimde,eklerimde
+ablative (çıkma),ekimden,eklerimden
+genitive (tamlayan),ekimin,eklerimin
+senin (your),singular (tekil),plural (çoğul)
+nominative (yalın),ekin,eklerin
+definite accusative (belirtme),ekini,eklerini
+dative (yönelme),ekine,eklerine
+locative (bulunma),ekinde,eklerinde
+ablative (çıkma),ekinden,eklerinden
+genitive (tamlayan),ekinin,eklerinin
+onun (her/his/its),singular (tekil),plural (çoğul)
+nominative (yalın),eki,ekleri
+definite accusative (belirtme),ekini,eklerini
+dative (yönelme),ekine,eklerine
+locative (bulunma),ekinde,eklerinde
+ablative (çıkma),ekinden,eklerinden
+genitive (tamlayan),ekinin,eklerinin
+bizim (our),singular (tekil),plural (çoğul)
+nominative (yalın),ekimiz,eklerimiz
+definite accusative (belirtme),ekimizi,eklerimizi
+dative (yönelme),ekimize,eklerimize
+locative (bulunma),ekimizde,eklerimizde
+ablative (çıkma),ekimizden,eklerimizden
+genitive (tamlayan),ekimizin,eklerimizin
+sizin (your),singular (tekil),plural (çoğul)
+nominative (yalın),ekiniz,ekleriniz
+definite accusative (belirtme),ekinizi,eklerinizi
+dative (yönelme),ekinize,eklerinize
+locative (bulunma),ekinizde,eklerinizde
+ablative (çıkma),ekinizden,eklerinizden
+genitive (tamlayan),ekinizin,eklerinizin
+onların (their),singular (tekil),plural (çoğul)
+nominative (yalın),ekleri,ekleri
+definite accusative (belirtme),eklerini,eklerini
+dative (yönelme),eklerine,eklerine
+locative (bulunma),eklerinde,eklerinde
+ablative (çıkma),eklerinden,eklerinden
+genitive (tamlayan),eklerinin,eklerinin
+simple present,singular,plural
+ben (I am),ekim,eklerim*
+sen (you are),eksin,eklersin*
+o (he/she/it is),ek / ektir,ekler* / eklerdir*
+biz (we are),ekiz,ekleriz
+siz (you are),eksiniz,eklersiniz
+onlar (they are),ekler,eklerdir
+simple past,singular,plural
+ben (I was),ektim,eklerdim*
+sen (you were),ektin,eklerdin*
+o (he/she/it was),ekti,eklerdi*
+biz (we were),ektik,eklerdik
+siz (you were),ektiniz,eklerdiniz
+onlar (they were),ektiler,eklerdi
+indirect / unwitnessed past,singular,plural
+ben (I was),ekmişim,eklermişim*
+sen (you were),ekmişsin,eklermişsin*
+o (he/she/it was),ekmiş,eklermiş*
+biz (we were),ekmişiz,eklermişiz
+siz (you were),ekmişsiniz,eklermişsiniz
+onlar (they were),ekmişler,eklermiş
+"*Not used, but perhaps rarely - chiefly grammatical formations. Note: Plural forms are not used with adjectives.",,

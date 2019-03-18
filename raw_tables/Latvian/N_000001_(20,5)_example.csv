@@ -1,0 +1,21 @@
+0,1,2,3,4
+,,(file),,
+,singular (vienskaitlis),plural (daudzskaitlis),,
+nominative (nominatīvs),mīts,mīti,,
+accusative (akuzatīvs),mītu,mītus,,
+genitive (ģenitīvs),mīta,mītu,,
+dative (datīvs),mītam,mītiem,,
+instrumental (instrumentālis),mītu,mītiem,,
+locative (lokatīvs),mītā,mītos,,
+vocative (vokatīvs),mīt,mīti,,
+,,(file),,
+,masculine (vīriešu dzimte),,feminine (sieviešu dzimte),
+singular (vienskaitlis),plural (daudzskaitlis),singular (vienskaitlis),plural (daudzskaitlis),
+nominative (nominatīvs),mīts,mīti,mīta,mītas
+accusative (akuzatīvs),mītu,mītus,mītu,mītas
+genitive (ģenitīvs),mīta,mītu,mītas,mītu
+dative (datīvs),mītam,mītiem,mītai,mītām
+instrumental (instrumentālis),mītu,mītiem,mītu,mītām
+locative (lokatīvs),mītā,mītos,mītā,mītās
+vocative (vokatīvs),—,—,—,—
+,,,,

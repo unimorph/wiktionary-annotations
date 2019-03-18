@@ -1,0 +1,31 @@
+0,1,2,3,4,5
+Demonstrative pronoun - ávísingarfornavn,,,,,
+Singular (eintal),m,f,n,,
+Nominative (hvørfall),tann (sá)†,tann (sú)†,tað,,
+Accusative (hvønnfall),tann,ta (tí),,,
+Dative (hvørjumfall),tí (tann),tí / teirri,tí,,
+Genitive (hvørsfall),tess,teirrar,tess,,
+,,,,,
+Plural (fleirtal),m,f,n,,
+Nominative (hvørfall),teir,tær,tey,,
+Accusative (hvønnfall),teir (tá)†,,,,
+Dative (hvørjumfall),teimum,,,,
+Genitive (hvørsfall),teirra,,,,
+Personal pronouns (Persónsfornøvn),,,,,
+Singular (eintal),1st person,2nd person,3rd person masc.,3rd person fem.,3rd person neut.
+Nominative (hvørfall),eg,tú,hann,hon,tað
+Accusative (hvønnfall),meg,teg,hana,,
+Dative (hvørjumfall),mær,tær,honum,henni,tí
+Genitive (hvørsfall),mín,tín,"hansara, hans†","hennara, hennar†",tess
+,,,,,
+Plural (fleirtal),1st person,2nd person,3rd person masc.,3rd person fem.,3rd person neut.
+Nominative (hvørfall),vit,tit,teir,tær,tey
+Accusative (hvønnfall),okkum,tykkum,,,
+Dative (hvørjumfall),"teimum, teim†",,,,
+Genitive (hvørsfall),okkara,tykkara,teirra,,
+f26,Singular,Plural,,,
+,Indefinite,Definite,Indefinite,Definite,
+Nominative,tá,táin,tær,tærnar,
+Accusative,tá,tánna,tær,tærnar,
+Dative,tá,tánni,tóm,tónum,
+Genitive,táar,táarinnar,táa,táanna,

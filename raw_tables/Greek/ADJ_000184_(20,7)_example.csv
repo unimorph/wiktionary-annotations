@@ -1,0 +1,21 @@
+0,1,2,3,4,5,6
+number case / gender,singular,plural,,,,
+masculine,feminine,neuter,masculine,feminine,neuter,
+nominative,ώριμος,ώριμη,ώριμο,ώριμοι,ώριμες,ώριμα
+genitive,ώριμου,ώριμης,ώριμου,ώριμων,ώριμων,ώριμων
+accusative,ώριμο,ώριμη,ώριμο,ώριμους,ώριμες,ώριμα
+vocative,ώριμε,ώριμη,ώριμο,ώριμοι,ώριμες,ώριμα
+derivations,"comparative: πιο + positive forms (e.g. πιο ώριμος, etc.) relative superlative: definite article + πιο + positive forms (e.g. ο πιο ώριμος, etc.)",,,,,
+comparative,singular,plural,,,,
+masculine,feminine,neuter,masculine,feminine,neuter,
+nominative,ωριμότερος,ωριμότερη,ωριμότερο,ωριμότεροι,ωριμότερες,ωριμότερα
+genitive,ωριμότερου,ωριμότερης,ωριμότερου,ωριμότερων,ωριμότερων,ωριμότερων
+accusative,ωριμότερο,ωριμότερη,ωριμότερο,ωριμότερους,ωριμότερες,ωριμότερα
+vocative,ωριμότερε,ωριμότερη,ωριμότερο,ωριμότεροι,ωριμότερες,ωριμότερα
+derivations,"relative superlative: ο + comparative forms (eg ""ο ωριμότερος"", etc)",,,,,
+absolute superlative,singular,plural,,,,
+masculine,feminine,neuter,masculine,feminine,neuter,
+nominative,ωριμότατος,ωριμότατη,ωριμότατο,ωριμότατοι,ωριμότατες,ωριμότατα
+genitive,ωριμότατου,ωριμότατης,ωριμότατου,ωριμότατων,ωριμότατων,ωριμότατων
+accusative,ωριμότατο,ωριμότατη,ωριμότατο,ωριμότατους,ωριμότατες,ωριμότατα
+vocative,ωριμότατε,ωριμότατη,ωριμότατο,ωριμότατοι,ωριμότατες,ωριμότατα

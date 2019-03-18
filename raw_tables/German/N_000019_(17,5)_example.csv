@@ -1,0 +1,18 @@
+0,1,2,3,4
+Audio,,(file),,
+,singular,plural,,
+m gender,strong declension,,,
+nominative,Liberaler,Liberale,,
+genitive,Liberalen,Liberaler,,
+dative,Liberalem,Liberalen,,
+accusative,Liberalen,Liberale,,
+,weak declension,,,
+nominative,der,Liberale,die,Liberalen
+genitive,des,Liberalen,der,Liberalen
+dative,dem,Liberalen,den,Liberalen
+accusative,den,Liberalen,die,Liberalen
+,mixed declension,,,
+nominative,ein,Liberaler,keine,Liberalen
+genitive,eines,Liberalen,keiner,Liberalen
+dative,einem,Liberalen,keinen,Liberalen
+accusative,einen,Liberalen,keine,Liberalen

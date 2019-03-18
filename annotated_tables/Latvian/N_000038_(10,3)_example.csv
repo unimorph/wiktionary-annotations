@@ -1,0 +1,11 @@
+0,1,2
+,,(file)
+,singular (vienskaitlis),plural (daudzskaitlis)
+nominative (nominatīvs),N;NOM;SG,N;NOM;PL
+accusative (akuzatīvs),N;ACC;SG,N;ACC;PL
+genitive (ģenitīvs),N;GEN;SG,N;GEN;PL
+dative (datīvs),N;DAT;SG,N;DAT;PL
+instrumental (instrumentālis),N;INST;SG,N;INST;PL
+locative (lokatīvs),N;LOC;SG,N;LOC;PL
+vocative (vokatīvs),N;VOC;SG,N;VOC;PL
+"barons, baronese  firsts, firstiene  grāfs, grāfiene  hercogs, hercogiene  erchercogs, erchercogiene  lielhercogs, lielhercogiene",,"kņazs, kņaziene  lielkņazs, lielkņaziene  marķīzs, marķīze  princis, princese  vikonts, vikontese"

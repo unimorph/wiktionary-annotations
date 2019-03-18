@@ -1,0 +1,18 @@
+0,1,2
+perfective aspect,,
+infinitive,ўчуць (ŭčucʹ),
+adverbial,present tense,past tense
+,—,ўчу́ўшы (ŭčúŭšy)
+,present tense,future tense
+1st singular (я ‎(ja)),V;PRS;1;SG,V;FUT;1;SG
+2nd singular (ты ‎(ty)),V;PRS;2;SG,V;FUT;2;SG
+3rd singular (ён ‎(jón)/яна́ ‎(janá)/яно́ ‎(janó)),V;PRS;3;SG,V;FUT;3;SG
+1st plural (мы ‎(my)),V;PRS;1;PL,V;FUT;1;PL
+2nd plural (вы ‎(vy)),V;PRS;2;PL,V;FUT;2;PL
+3rd plural (яны́ ‎(janý)),V;PRS;3;PL,V;FUT;3;PL
+imperative,singular,plural
+,V;IMP;2;SG,V;IMP;2;PL
+past tense,singular,"plural(мы ‎(my), вы ‎(vy), яны́ ‎(janý))"
+"masculine (я ‎(ja), ты ‎(ty), ён ‎(jón))",V;PST;SG;MASC,V;PST;PL
+"feminine (я ‎(ja), ты ‎(ty), яна́ ‎(janá))",V;PST;SG;FEM,
+neuter (яно́ ‎(janó)),V;PST;SG;NEUT,

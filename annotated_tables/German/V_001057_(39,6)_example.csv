@@ -1,0 +1,40 @@
+0,1,2,3,4,5
+audio,,(file),,,
+infinitive,V;NFIN,,,,
+present participle,V.PTCP;PRS,,,,
+past participle,V.PTCP;PST,,,,
+auxiliary,haben,,,,
+,indicative,,subjunctive,,
+present,V;IND;PRS;1;SG,V;IND;PRS;1;PL,i,V;SBJV;PRS;1;SG,V;SBJV;PRS;1;PL
+V;IND;PRS;2;SG,V;IND;PRS;2;PL,V;SBJV;PRS;2;SG,V;SBJV;PRS;2;PL,,
+V;IND;PRS;3;SG,V;IND;PRS;3;PL,V;SBJV;PRS;3;SG,V;SBJV;PRS;3;PL,,
+,,,,,
+preterite,V;IND;PST;1;SG,V;IND;PST;1;PL,ii,V;SBJV;PST;1;SG,V;SBJV;PST;1;PL
+V;IND;PST;2;SG,V;IND;PST;2;PL,V;SBJV;PST;2;SG,V;SBJV;PST;2;PL,,
+V;IND;PST;3;SG,V;IND;PST;3;PL,V;SBJV;PST;3;SG,V;SBJV;PST;3;PL,,
+,,,,,
+imperative,V;IMP;2;SG,V;IMP;2;PL,,,
+perfect,,,,,
+indicative,ich habe gratuliert,wir haben gratuliert,subjunctive,ich habe gratuliert,wir haben gratuliert
+du hast gratuliert,ihr habt gratuliert,du habest gratuliert,ihr habet gratuliert,,
+er hat gratuliert,sie haben gratuliert,er habe gratuliert,sie haben gratuliert,,
+pluperfect,,,,,
+indicative,ich hatte gratuliert,wir hatten gratuliert,subjunctive,ich hätte gratuliert,wir hätten gratuliert
+du hattest gratuliert,ihr hattet gratuliert,du hättest gratuliert,ihr hättet gratuliert,,
+er hatte gratuliert,sie hatten gratuliert,er hätte gratuliert,sie hätten gratuliert,,
+future i,,,,,
+infinitive,gratulieren werden,subjunctive i,ich werde gratulieren,wir werden gratulieren,
+du werdest gratulieren,ihr werdet gratulieren,,,,
+er werde gratulieren,sie werden gratulieren,,,,
+,,,,,
+indicative,ich werde gratulieren,wir werden gratulieren,subjunctive ii,ich würde gratulieren,wir würden gratulieren
+du wirst gratulieren,ihr werdet gratulieren,du würdest gratulieren,ihr würdet gratulieren,,
+er wird gratulieren,sie werden gratulieren,er würde gratulieren,sie würden gratulieren,,
+future ii,,,,,
+infinitive,gratuliert haben werden,subjunctive i,ich werde gratuliert haben,wir werden gratuliert haben,
+du werdest gratuliert haben,ihr werdet gratuliert haben,,,,
+er werde gratuliert haben,sie werden gratuliert haben,,,,
+,,,,,
+indicative,ich werde gratuliert haben,wir werden gratuliert haben,subjunctive ii,ich würde gratuliert haben,wir würden gratuliert haben
+du wirst gratuliert haben,ihr werdet gratuliert haben,du würdest gratuliert haben,ihr würdet gratuliert haben,,
+er wird gratuliert haben,sie werden gratuliert haben,er würde gratuliert haben,sie würden gratuliert haben,,

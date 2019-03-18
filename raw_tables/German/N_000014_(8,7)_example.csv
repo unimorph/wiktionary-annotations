@@ -1,0 +1,9 @@
+0,1,2,3,4,5,6
+Audio,,(file),,,,
+Abteilungsleitung  Amtsleitung  Anstaltsleitung,,Bauleitung  Fehlleitung  Geschäftsleitung,,Hauptleitung  Konzernleitung  Reiseleitung,,Schullleitung  Stromleitung  Zugleitung
+,singular,plural,,,,
+,indef.,def.,noun,def.,noun,
+nominative,eine,die,Leitung,die,Leitungen,
+genitive,einer,der,Leitung,der,Leitungen,
+dative,einer,der,Leitung,den,Leitungen,
+accusative,eine,die,Leitung,die,Leitungen,

@@ -1,0 +1,9 @@
+0,1
+,plural only (plurale tantum)
+nominative,ADJ;NOM;PL
+genitive,ADJ;GEN;PL
+dative,ADJ;DAT;PL
+accusative,ADJ;ACC;PL
+ablative,ADJ;ABL;PL
+instrumental,ADJ;INS;PL
+locative,ADJ;ESS;PL

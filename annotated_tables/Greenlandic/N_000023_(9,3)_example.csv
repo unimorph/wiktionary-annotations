@@ -1,0 +1,10 @@
+0,1,2
+,singular,plural
+absolutive,N;SG;ABS,N;PL;ABS
+ergative,N;SG;ERG,N;PL;ERG
+allative,N;SG;ALL,N;PL;ALL
+ablative,N;SG;ABL,N;PL;ABL
+prosecutive,N;SG;PROL,N;PL;PROL
+locative,N;SG;AT,N;PL;AT
+instrumental,N;SG;INS,N;PL;INS
+equative,N;SG;EQTV,N;PL;EQTV

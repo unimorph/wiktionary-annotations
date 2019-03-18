@@ -1,0 +1,8 @@
+0,1,2,3,4,5
+Audio,,(file),,,
+,singular,plural,,,
+,indef.,def.,noun,def.,noun
+nominative,ein,der,Kölner,die,Kölner
+genitive,eines,des,Kölners,der,Kölner
+dative,einem,dem,Kölner,den,Kölnern
+accusative,einen,den,Kölner,die,Kölner

@@ -1,0 +1,12 @@
+0,1,2,3,4,5,6
+,Present SV,Past SV,Present VS,Past VS,Subjunctive SV,Subjunctive VS
+First person singular,V;FIN;IND;PRS;1;SG,V;FIN;IND;PST;1;SG,éstós ich,éstósdje-n ich,V;FIN;SBJV;PRS;1;SG,V;FIN;SBJV;PST;1;SG
+Second person singular,V;FIN;IND;PRS;2;SG,V;FIN;IND;PST;2;SG,éstós se,éstósdjes se,V;FIN;SBJV;PRS;2;SG,V;FIN;SBJV;PST;2;SG
+Third person singular,V;FIN;IND;PRS;3;SG,V;FIN;IND;PST;3;SG,éstós t'r,éstósdje d'r,V;FIN;SBJV;PRS;3;SG,V;FIN;SBJV;PST;3;SG
+First person plural,V;FIN;IND;PRS;1;PL,V;FIN;IND;PST;1;PL,éstóstj v'r,éstósdje v'r,V;FIN;SBJV;PRS;1;PL,V;FIN;SBJV;PST;1;PL
+Second person plural,V;FIN;IND;PRS;2;PL,V;FIN;IND;PST;2;PL,éstós(tj) g'r,éstósdje g'r,V;FIN;SBJV;PRS;2;PL,V;FIN;SBJV;PST;2;PL
+Third person plural,V;FIN;IND;PRS;3;PL,V;FIN;IND;PST;3;PL,éstósse die,éstósdje die,V;FIN;SBJV;PRS;3;PL,V;FIN;SBJV;PST;3;PL
+Other:,Infinitive,Gerund,Present particle,Past particle,Adjective,Adverb
+Conjugation:,V;NFIN,V.MSDR,V.PTCP;PRS,V.PTCP;PST,geéstós(dje/dje-n/djer/djes),geéstós(djelik)
+Other:,Noun,Imperative singular impolite,Imperative singular polite,Imperative dual,Imperative plural,Ènkelzief
+Conjugation:,'t geéstós n,éstós!,éstós(tj)!,éstóssetj!,éstóstj!,éstóssem

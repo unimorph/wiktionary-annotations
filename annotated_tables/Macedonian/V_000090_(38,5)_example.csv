@@ -1,0 +1,39 @@
+0,1,2,3,4
+л-participles,imperfect,aorist,non-finite forms,
+masculine,V.PTCP;IPFV;PROG;PST;MASC;SG,V.PTCP;IPFV;PST;MASC;SG,adjectival partc.,V.PTCP;IPFV;PST;PASS
+feminine,V.PTCP;IPFV;PROG;PST;FEM;SG,V.PTCP;IPFV;PST;FEM;SG,adverbial partc.,V.CVB;IPFV
+neuter,V.PTCP;IPFV;PROG;PST;NEUT;SG,V.PTCP;IPFV;PST;NEUT;SG,verbal noun,V.MSDR;IPFV
+plural,V.PTCP;IPFV;PROG;PST;PL,V.PTCP;IPFV;PST;PL,,
+,present,imperfect,aorist,imperative
+1st singular,V;IPFV;PRS;1;SG,V;IPFV;PROG;PST;1;SG,V;IPFV;PST;1;SG,—
+2nd singular,V;IPFV;PRS;2;SG,V;IPFV;PROG;PST;2;SG,V;IPFV;PST;2;SG,V;IPFV;IMP;2;SG
+3rd singular,V;IPFV;PRS;3;SG,V;IPFV;PROG;PST;3;SG,V;IPFV;PST;3;SG,—
+1st plural,V;IPFV;PRS;1;PL,V;IPFV;PROG;PST;1;PL,V;IPFV;PST;1;PL,—
+2nd plural,V;IPFV;PRS;2;PL,V;IPFV;PROG;PST;2;PL,V;IPFV;PST;2;PL,V;IPFV;IMP;2;PL
+3rd plural,V;IPFV;PRS;3;PL,V;IPFV;PROG;PST;3;PL,V;IPFV;PST;3;PL,—
+Compound tenses,,,,
+perfect,сум шокирал,present of сум + imperfect л-participle,,
+pluperfect,бев шокирал,imperfect of сум + imperfect л-participle,,
+future,ќе шокирам,ќе + present,,
+future in the past,ќе шокирав,ќе + imperfect,,
+future reported,ќе сум шокирал,ќе + imperfect л-participle,,
+conditional,би шокирал,би + imperfect л-participle,,
+л-participles,imperfect,aorist,non-finite forms,
+masculine,V.PTCP;PFV;PROG;PST;MASC;SG,V.PTCP;PFV;PST;MASC;SG,adjectival partc.,V.PTCP;PFV;PST;PASS
+feminine,V.PTCP;PFV;PROG;PST;FEM;SG,V.PTCP;PFV;PST;FEM;SG,adverbial partc.,V.CVB;PFV
+neuter,V.PTCP;PFV;PROG;PST;NEUT;SG,V.PTCP;PFV;PST;NEUT;SG,verbal noun,V.MSDR;PFV
+plural,V.PTCP;PFV;PROG;PST;PL,V.PTCP;PFV;PST;PL,,
+,present,imperfect,aorist,imperative
+1st singular,V;PFV;PRS;1;SG,V;PFV;PROG;PST;1;SG,V;PFV;PST;1;SG,—
+2nd singular,V;PFV;PRS;2;SG,V;PFV;PROG;PST;2;SG,V;PFV;PST;2;SG,V;PFV;IMP;2;SG
+3rd singular,V;PFV;PRS;3;SG,V;PFV;PROG;PST;3;SG,V;PFV;PST;3;SG,—
+1st plural,V;PFV;PRS;1;PL,V;PFV;PROG;PST;1;PL,V;PFV;PST;1;PL,—
+2nd plural,V;PFV;PRS;2;PL,V;PFV;PROG;PST;2;PL,V;PFV;PST;2;PL,V;PFV;IMP;2;PL
+3rd plural,V;PFV;PRS;3;PL,V;PFV;PROG;PST;3;PL,V;PFV;PST;3;PL,—
+Compound tenses,,,,
+perfect,сум шокирал,present of сум + aorist л-participle,,
+pluperfect,бев шокирал,imperfect of сум + aorist л-participle,,
+future,ќе шокирам,ќе + present,,
+future in the past,ќе шокирав,ќе + imperfect,,
+future reported,ќе сум шокирал,ќе + imperfect л-participle,,
+conditional,би шокирал,би + aorist л-participle,,

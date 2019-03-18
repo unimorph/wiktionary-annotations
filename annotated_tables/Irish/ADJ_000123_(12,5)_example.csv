@@ -1,0 +1,13 @@
+0,1,2,3,4
+,Singular,Plural (m/f),,
+Positive,Masculine,Feminine,(strong noun),(weak noun)
+Nominative,ADJ;NOM;SG;MASC,ADJ;NOM+VOC;SG;FEM,ADJ;NOM;PL,
+Vocative,ADJ;VOC+GEN;SG;MASV,ADJ;VOC;PL,,
+Genitive,ADJ;GEN;SG;FEM,ADJ;GEN;PL;STRONG,ADJ;GEN;PL;WEAK,
+Dative,ADJ;DAT;SG;MASC,ADJ;DAT;SG;FEM,ADJ;DAT;PL,
+Comparative,ADJ;CMPR,,,
+Superlative,ADJ;SPRL,,,
+Irish mutation,,,,
+Radical,Lenition,Eclipsis,,
+gnóthach,ghnóthach,ngnóthach,,
+Note: Some of these forms may be hypothetical. Not everypossible mutated form of every word actually occurs.,,,,

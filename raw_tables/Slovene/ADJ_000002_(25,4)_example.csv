@@ -1,0 +1,26 @@
+0,1,2,3
+audio,,(file),
+singular,,,
+,masculine,feminine,neuter
+nominative,dober inddobri def,dobra,dobro
+accusative,nominativeinan or genitiveanim,dobro,dobro
+genitive,dobrega,dobre,dobrega
+dative,dobremu,dobri,dobremu
+locative,dobrem,dobri,dobrem
+instrumental,dobrim,dobro,dobrim
+dual,,,
+,masculine,feminine,neuter
+nominative,dobra,dobri,dobri
+accusative,dobra,dobri,dobri
+genitive,dobrih,dobrih,dobrih
+dative,dobrima,dobrima,dobrima
+locative,dobrih,dobrih,dobrih
+instrumental,dobrima,dobrima,dobrima
+plural,,,
+,masculine,feminine,neuter
+nominative,dobri,dobre,dobra
+accusative,dobre,dobre,dobra
+genitive,dobrih,dobrih,dobrih
+dative,dobrim,dobrim,dobrim
+locative,dobrih,dobrih,dobrih
+instrumental,dobrimi,dobrimi,dobrimi

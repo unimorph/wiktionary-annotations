@@ -1,0 +1,27 @@
+0,1,2,3,4
+singular,,,,
+,masculine animate,masculine inanimate,feminine,neuter
+nominative,strážný,strážná,strážné,
+genitive,strážného,strážné,strážného,
+dative,strážnému,strážné,strážnému,
+accusative,strážného,strážný,strážnou,strážné
+vocative,strážný,strážná,strážné,
+locative,strážném,strážné,strážném,
+instrumental,strážným,strážnou,strážným,
+plural,,,,
+,masculine animate,masculine inanimate,feminine,neuter
+nominative,strážní,strážné,strážná,
+genitive,strážných,,,
+dative,strážným,,,
+accusative,strážné,strážná,,
+vocative,strážní,strážné,strážná,
+locative,strážných,,,
+instrumental,strážnými,,,
+,singular,plural,,
+nominative,strážný,strážní,,
+genitive,strážného,strážných,,
+dative,strážnému,strážným,,
+accusative,strážného,strážné,,
+vocative,strážný,strážní,,
+locative,strážném,strážných,,
+instrumental,strážným,strážnými,,

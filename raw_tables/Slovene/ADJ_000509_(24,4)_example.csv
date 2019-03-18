@@ -1,0 +1,25 @@
+0,1,2,3
+singular,,,
+,masculine,feminine,neuter
+nominative,gostêjši,gostêjša,gostêjše
+accusative,nominativeinan or genitiveanim,gostêjšo,gostêjše
+genitive,gostêjšega,gostêjše,gostêjšega
+dative,gostêjšemu,gostêjši,gostêjšemu
+locative,gostêjšem,gostêjši,gostêjšem
+instrumental,gostêjšim,gostêjšo,gostêjšim
+dual,,,
+,masculine,feminine,neuter
+nominative,gostêjša,gostêjši,gostêjši
+accusative,gostêjša,gostêjši,gostêjši
+genitive,gostêjših,gostêjših,gostêjših
+dative,gostêjšima,gostêjšima,gostêjšima
+locative,gostêjših,gostêjših,gostêjših
+instrumental,gostêjšima,gostêjšima,gostêjšima
+plural,,,
+,masculine,feminine,neuter
+nominative,gostêjši,gostêjše,gostêjša
+accusative,gostêjše,gostêjše,gostêjša
+genitive,gostêjših,gostêjših,gostêjših
+dative,gostêjšim,gostêjšim,gostêjšim
+locative,gostêjših,gostêjših,gostêjših
+instrumental,gostêjšimi,gostêjšimi,gostêjšimi

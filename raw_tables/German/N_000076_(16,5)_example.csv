@@ -1,0 +1,17 @@
+0,1,2,3,4
+,singular,plural,,
+f gender,strong declension,,,
+nominative,gebundene Rotation,gebundene Rotationen,,
+genitive,gebundener Rotation,gebundener Rotationen,,
+dative,gebundener Rotation,gebundenen Rotationen,,
+accusative,gebundene Rotation,gebundene Rotationen,,
+,weak declension,,,
+nominative,die,gebundene Rotation,die,gebundenen Rotationen
+genitive,der,gebundenen Rotation,der,gebundenen Rotationen
+dative,der,gebundenen Rotation,den,gebundenen Rotationen
+accusative,die,gebundene Rotation,die,gebundenen Rotationen
+,mixed declension,,,
+nominative,eine,gebundene Rotation,keine,gebundenen Rotationen
+genitive,einer,gebundenen Rotation,keiner,gebundenen Rotationen
+dative,einer,gebundenen Rotation,keinen,gebundenen Rotationen
+accusative,eine,gebundene Rotation,keine,gebundenen Rotationen

@@ -1,0 +1,18 @@
+0,1,2,3,4
+,masculine,,feminine,
+singular,plural,singular,plural,
+nominative,pašalinis,pašaliniai,pašalinė,pašalinės
+genitive,pašalinio,pašalinių,pašalinės,pašalinių
+dative,pašaliniam,pašaliniams,pašalinei,pašalinėms
+accusative,pašalinį,pašalinius,pašalinę,pašalines
+instrumental,pašaliniu,pašaliniais,pašaline,pašalinėmis
+locative,pašaliniame,pašaliniuose,pašalinėje,pašalinėse
+vocative,pašalinis,pašaliniai,pašalinė,pašalinės
+,singular (vienaskaita),plural (daugiskaita),,
+nominative (vardininkas),pašalinis,pašaliniai,,
+genitive (kilmininkas),pašalinio,pašalinių,,
+dative (naudininkas),pašaliniui,pašaliniams,,
+accusative (galininkas),pašalinį,pašalinius,,
+instrumental (įnagininkas),pašaliniu,pašaliniais,,
+locative (vietininkas),pašalinyje,pašaliniuose,,
+vocative (šauksmininkas),pašalini,pašaliniai,,

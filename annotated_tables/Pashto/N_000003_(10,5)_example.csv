@@ -1,0 +1,11 @@
+0,1,2,3,4
+Audio,,(file),,
+,singular,,plural,
+direct,N;NOM;SG,N;NOM;PL,,
+oblique,N;(non)NOM;SG,N;(non)NOM;PL,,
+vocative,N;VOC;SG,N;VOC;PL,,
+,masculine,,feminine,
+,singular,plural,singular,plural
+direct,ځوان(źwân),ځوان(źwân),ځوانه(źwâna),ځوانې(źwâne)
+oblique,ځوان(źwân),ځوانو(źwâno),ځوانې(źwâne),ځوانو (źwâno)
+vocative,ځوانه(źwâna),ځوانو(źwâno),ځوانې(źwâne),ځوانو(źwâno)

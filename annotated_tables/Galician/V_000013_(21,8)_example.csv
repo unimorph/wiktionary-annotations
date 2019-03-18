@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6,7
+infinitive,V;NFIN,,,,,,
+gerund,V.CVB;PRS,,,,,,
+past participle,V.PTCP;PST,,,,,,
+person,singular,plural,,,,,
+first,second,third,first,second,third,,
+indicative,,eu,ti,el / ela / Vde.,nós,vós,eles / elas / Vdes.
+present,V;IND;PRS;1;SG,V;IND;PRS;2;SG,V;IND;PRS;3;SG,V;IND;PRS;1;PL,V;IND;PRS;2;PL,V;IND;PRS;3;PL,
+imperfect,V;IND;PST;1;SG;IPFV,V;IND;PST;2;SG;IPFV,V;IND;PST;3;SG;IPFV,V;IND;PST;1;PL;IPFV,V;IND;PST;2;PL;IPFV,V;IND;PST;3;PL;IPFV,
+preterite,V;IND;PST;1;SG;PFV,V;IND;PST;2;SG;PFV,V;IND;PST;3;SG;PFV,V;IND;PST;1;PL;PFV,V;IND;PST;2;PL;PFV,V;IND;PST;3;PL;PFV,
+pluperfect,V;1;SG;IND;PST;PRF,V;2;SG;IND;PST;PRF,V;3;SG;IND;PST;PRF,V;1;PL;IND;PST;PRF,V;2;PL;IND;PST;PRF,V;3;PL;IND;PST;PRF,
+future,V;1;SG;IND;FUT,V;2;SG;IND;FUT,V;3;SG;IND;FUT,V;1;PL;IND;FUT,V;2;PL;IND;FUT,V;3;PL;IND;FUT,
+conditional,V;1;SG;COND,V;2;SG;COND,V;3;SG;COND,V;1;PL;COND,V;2;PL;COND,V;3;PL;COND,
+subjunctive,,eu,ti,el / ela / Vde.,nós,vós,eles / elas / Vdes.
+present,V;1;SG;SBJV;PRS,V;2;SG;SBJV;PRS,V;3;SG;SBJV;PRS,V;1;PL;SBJV;PRS,V;2;PL;SBJV;PRS,V;3;PL;SBJV;PRS,
+preterite,V;1;SG;SBJV;PST;IPFV,V;2;SG;SBJV;PST;IPFV,V;3;SG;SBJV;PST;IPFV,V;1;PL;SBJV;PST;IPFV,V;2;PL;SBJV;PST;IPFV,V;3;PL;SBJV;PST;IPFV,
+future,V;1;SG;SBJV;FUT,V;2;SG;SBJV;FUT,V;3;SG;SBJV;FUT,V;1;PL;SBJV;FUT,V;2;PL;SBJV;FUT,V;3;PL;SBJV;FUT,
+imperative,,—,ti,Vde.,nós,vós,Vdes.
+affirmative,—,V;2;SG;IMP;POS,V;3;SG;IMP;POS,V;1;PL;IMP;POS,V;2;PL;IMP;POS,V;3;PL;IMP;POS,
+negative,—,V;2;SG;IMP;NEG,V;3;SG;IMP;NEG,V;1;PL;IMP;NEG,V;2;PL;IMP;NEG,V;3;PL;IMP;NEG,
+personal infinitive,eu,ti,el / ela / Vde.,nós,vós,eles / elas / Vdes.,
+V;1;SG;NFIN,V;2;SG;NFIN,V;3;SG;NFIN,V;1;PL;NFIN,V;2;PL;NFIN,V;3;PL;NFIN,,

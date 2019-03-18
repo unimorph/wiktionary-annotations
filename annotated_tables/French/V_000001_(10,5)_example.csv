@@ -1,0 +1,11 @@
+0,1,2,3,4
+Number,Case,Masculine,Feminine,Neuter
+Singular,Subject,avogles,avogle,avogle
+Oblique,avogle,avogle,avogle,
+Plural,Subject,avogle,avogles,avogle
+Oblique,avogles,avogles,avogle,
+Number,Case,Masculine,Feminine,
+Singular,Subject,avogles,avogle,
+Oblique,avogle,avogle,,
+Plural,Subject,avogle,avogles,
+Oblique,avogles,avogles,,

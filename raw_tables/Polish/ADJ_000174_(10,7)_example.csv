@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6
+Audio,,(file),,,,
+case,singular,plural,,,,
+"m pers, m anim",m inan,n,f,m pers,other,
+"nominative, vocative",gliwicki,gliwickie,gliwicka,gliwiccy,gliwickie,
+genitive,gliwickiego,gliwickiej,gliwickich,,,
+dative,gliwickiemu,gliwickim,,,,
+accusative,gliwickiego,gliwicki,gliwickie,gliwicką,gliwickich,gliwickie
+instrumental,gliwickim,gliwickimi,,,,
+locative,gliwickiej,gliwickich,,,,
+old dative,gliwicku,,,,,

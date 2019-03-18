@@ -1,0 +1,24 @@
+0,1,2
+infinitive,V;NFIN,
+supine,"govôrit, govorít, govorìt",
+verbal noun,V.MSDR,
+participles,adjectival,adverbial
+present active,V.PCTP;ACT;PRS,V.CVB;ACT;PRS
+past active,V.PCTP;ACT;PST,V.CVB;ACT;PST
+past passive,V.PCTP;PASS;PST,V.CVB;PASS;PST
+,present indicative,imperative
+1st singular,V;IND;PRS;1;SG,—
+2nd singular,V;IND;PRS;2;SG,V;IMP;2;SG
+3rd singular,V;IND;PRS;3;SG,—
+1st dual,V;IND;PRS;1;DU,V;IMP;1;DU
+2nd dual,V;IND;PRS;2;DU,V;IMP;2;DU
+3rd dual,V;IND;PRS;3;DU,—
+1st plural,V;IND;PRS;1;PL,V;IMP;1;PL
+2nd plural,V;IND;PRS;2;PL,V;IMP;2;PL
+3rd plural,V;IND;PRS;3;PL,—
+Compound tenses (see govóril for all forms),,
+past indic.,V;IND;PST,
+pluperfect indic.,V;IND;PRF;PST,
+future indic.,V;IND;FUT,
+present cond.,V;COND;PRS,
+past cond.,V;COND;PST,

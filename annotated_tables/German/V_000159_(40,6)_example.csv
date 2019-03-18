@@ -1,0 +1,41 @@
+0,1,2,3,4,5
+Audio,,(file),,,
+infinitive,V;NFIN,,,,
+present participle,V.PTCP;PRS,,,,
+past participle,V.PTCP;PST,,,,
+auxiliary,haben,,,,
+,indicative,,subjunctive,,
+present,V;IND;PRS;1;SG,V;IND;PRS;1;PL,i,V;SBJV;PRS;1;SG,V;SBJV;PRS;1;PL
+V;IND;PRS;2;SG,V;IND;PRS;2;PL,V;SBJV;PRS;2;SG,V;SBJV;PRS;2;PL,,
+V;IND;PRS;3;SG,V;IND;PRS;3;PL,V;SBJV;PRS;3;SG,V;SBJV;PRS;3;PL,,
+,,,,,
+preterite,V;IND;PST;1;SG,V;IND;PST;1;PL,ii,V;SBJV;PST;1;SG,V;SBJV;PST;1;PL
+V;IND;PST;2;SG,V;IND;PST;2;PL,V;SBJV;PST;2;SG,V;SBJV;PST;2;PL,,
+V;IND;PST;3;SG,V;IND;PST;3;PL,V;SBJV;PST;3;SG,V;SBJV;PST;3;PL,,
+,,,,,
+imperative,golf (du)golfe (du),golft (ihr),,,
+perfect,,,,,
+indicative,ich habe gegolft,wir haben gegolft,subjunctive,ich habe gegolft,wir haben gegolft
+du hast gegolft,ihr habt gegolft,du habest gegolft,ihr habet gegolft,,
+er hat gegolft,sie haben gegolft,er habe gegolft,sie haben gegolft,,
+pluperfect,,,,,
+indicative,ich hatte gegolft,wir hatten gegolft,subjunctive,ich hätte gegolft,wir hätten gegolft
+du hattest gegolft,ihr hattet gegolft,du hättest gegolft,ihr hättet gegolft,,
+er hatte gegolft,sie hatten gegolft,er hätte gegolft,sie hätten gegolft,,
+future i,,,,,
+infinitive,golfen werden,subjunctive i,ich werde golfen,wir werden golfen,
+du werdest golfen,ihr werdet golfen,,,,
+er werde golfen,sie werden golfen,,,,
+,,,,,
+indicative,ich werde golfen,wir werden golfen,subjunctive ii,ich würde golfen,wir würden golfen
+du wirst golfen,ihr werdet golfen,du würdest golfen,ihr würdet golfen,,
+er wird golfen,sie werden golfen,er würde golfen,sie würden golfen,,
+future ii,,,,,
+infinitive,gegolft haben werden,subjunctive i,ich werde gegolft haben,wir werden gegolft haben,
+du werdest gegolft haben,ihr werdet gegolft haben,,,,
+er werde gegolft haben,sie werden gegolft haben,,,,
+,,,,,
+indicative,ich werde gegolft haben,wir werden gegolft haben,subjunctive ii,ich würde gegolft haben,wir würden gegolft haben
+du wirst gegolft haben,ihr werdet gegolft haben,du würdest gegolft haben,ihr würdet gegolft haben,,
+er wird gegolft haben,sie werden gegolft haben,er würde gegolft haben,sie würden gegolft haben,,
+abgolfen  angolfen,,minigolfen,,,

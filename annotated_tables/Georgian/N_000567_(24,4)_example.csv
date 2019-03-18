@@ -1,0 +1,25 @@
+0,1,2,3
+,singular,plural,archaic plural
+nominative,N;SG;NOM,N;PL;NOM,N;PL;LGSPEC2;NOM
+ergative,N;SG;ERG,N;PL;ERG,N;PL;LGSPEC2;ERG
+dative,N;SG;DAT,N;PL;DAT,N;PL;LGSPEC2;DAT
+genitive,N;SG;GEN,N;PL;GEN,N;PL;LGSPEC2;GEN
+instrumental,N;SG;INST,N;PL;INST,
+adverbial,N;SG;LGSPEC1,N;PL;LGSPEC1,
+vocative,N;SG;VOC,N;PL;VOC,N;PL;LGSPEC2;VOC
+Notes: archaic plurals might not exist.,,,
+postpositions taking a dative case,singular,plural,
+-ზე (on - ),ჰიმნზე ‎(himnze),ჰიმნებზე ‎(himnebze),
+-თან (near - ),ჰიმნთან ‎(himntan),ჰიმნებთან ‎(himnebtan),
+-ში (in - ),ჰიმნში ‎(himnši),ჰიმნებში ‎(himnebši),
+-ვით (like a - ),ჰიმნივით ‎(himnivit),ჰიმნებივით ‎(himnebivit),
+postpositions taking a genitive case,singular,plural,
+-თვის (for - ),ჰიმნისთვის ‎(himnistvis),ჰიმნებისთვის ‎(himnebistvis),
+-ებრ (like a - ),ჰიმნისებრ ‎(himnisebr),ჰიმნებისებრ ‎(himnebisebr),
+-კენ (towards - ),ჰიმნისკენ ‎(himnisḳen),ჰიმნებისკენ ‎(himnebisḳen),
+-გან (from/of - ),ჰიმნისგან ‎(himnisgan),ჰიმნებისგან ‎(himnebisgan),
+postpositions taking an instrumental case,singular,plural,
+-დან (from / since - ),ჰიმნიდან ‎(himnidan),ჰიმნებიდან ‎(himnebidan),
+-ურთ (together with - ),ჰიმნითურთ ‎(himniturt),ჰიმნებითურთ ‎(himnebiturt),
+postpositions taking an adverbial case,singular,plural,
+-მდე (up to - ),ჰიმნამდე ‎(himnamde),ჰიმნებამდე ‎(himnebamde),

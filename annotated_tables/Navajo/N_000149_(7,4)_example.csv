@@ -1,0 +1,8 @@
+0,1,2,3
+,singular,duoplural,plural
+1st person,N;PSS1S,N;PSS1D,PSS1P
+2nd person,N;PSS2S,N;PSS2D,PSS2P
+3rd person,N;PSS3,,
+4th person (3o),N;PSS4;ARGAC3S,,
+4th person (3a),N;PSS4,,
+Indefinite (3i),N;PSS0,,

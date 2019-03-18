@@ -1,0 +1,20 @@
+0,1,2
+,singular (ainsus),plural (mitmus)
+nominative (nimetav),tugev,tugevad
+genitive (omastav),tugeva,tugevate
+partitive (osastav),tugevat,tugevaid
+,,
+illative (sisseütlev),tugevasse,"tugevatesse, tugevaisse"
+inessive (seesütlev),tugevas,"tugevates, tugevais"
+elative (seestütlev),tugevast,"tugevatest, tugevaist"
+,,
+allative (alaleütlev),tugevale,"tugevatele, tugevaile"
+adessive (alalütlev),tugeval,"tugevatel, tugevail"
+ablative (alaltütlev),tugevalt,"tugevatelt, tugevailt"
+,,
+translative (saav),tugevaks,"tugevateks, tugevaiks"
+terminative (rajav),tugevani,"tugevateni, tugevaini"
+essive (olev),tugevana,"tugevatena, tugevaina"
+,,
+abessive (ilmaütlev),tugevata,tugevateta
+comitative (kaasaütlev),tugevaga,tugevatega

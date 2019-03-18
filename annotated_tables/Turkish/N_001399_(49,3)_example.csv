@@ -1,0 +1,50 @@
+0,1,2
+,singular (tekil),plural (çoğul)
+nominative (yalın),N;NOM;SG,N;NOM;PL
+definite accusative (belirtme),N;ACC;SG,N;ACC;PL
+dative (yönelme),N;DAT;SG,N;DAT;PL
+locative (bulunma),N;LOC;SG,N;LOC;PL
+ablative (çıkma),N;ABL;SG,N;ABL;PL
+genitive (tamlayan),N;GEN;SG,N;GEN;PL
+benim (my),singular (tekil),plural (çoğul)
+nominative (yalın),N;NOM;SG;PSS1S,N;NOM;PL;PSS1S
+definite accusative (belirtme),N;ACC;SG;PSS1S,N;ACC;PL;PSS1S
+dative (yönelme),N;DAT;SG;PSS1S,N;DAT;PL;PSS1S
+locative (bulunma),N;LOC;SG;PSS1S,N;LOC;PL;PSS1S
+ablative (çıkma),N;ABL;SG;PSS1S,N;ABL;PL;PSS1S
+genitive (tamlayan),N;GEN;SG;PSS1S,N;GEN;PL;PSS1S
+senin (your),singular (tekil),plural (çoğul)
+nominative (yalın),N;NOM;SG;PSS2S,N;NOM;PL;PSS2S
+definite accusative (belirtme),N;ACC;SG;PSS2S,N;ACC;PL;PSS2S
+dative (yönelme),N;DAT;SG;PSS2S,N;DAT;PL;PSS2S
+locative (bulunma),N;LOC;SG;PSS2S,N;LOC;PL;PSS2S
+ablative (çıkma),N;ABL;SG;PSS2S,N;ABL;PL;PSS2S
+genitive (tamlayan),N;GEN;SG;PSS2S,N;GEN;PL;PSS2S
+onun (her/his/its),singular (tekil),plural (çoğul)
+nominative (yalın),N;NOM;SG;PSS3S,N;NOM;PL;PSS3S
+definite accusative (belirtme),N;ACC;SG;PSS3S,N;ACC;PL;PSS3S
+dative (yönelme),N;DAT;SG;PSS3S,N;DAT;PL;PSS3S
+locative (bulunma),N;LOC;SG;PSS3S,N;LOC;PL;PSS3S
+ablative (çıkma),N;ABL;SG;PSS3S,N;ABL;PL;PSS3S
+genitive (tamlayan),N;GEN;SG;PSS3S,N;GEN;PL;PSS3S
+bizim (our),singular (tekil),plural (çoğul)
+nominative (yalın),N;NOM;SG;PSS1P,N;NOM;PL;PSS1P
+definite accusative (belirtme),N;ACC;SG;PSS1P,N;ACC;PL;PSS1P
+dative (yönelme),N;DAT;SG;PSS1P,N;DAT;PL;PSS1P
+locative (bulunma),N;LOC;SG;PSS1P,N;LOC;PL;PSS1P
+ablative (çıkma),N;ABL;SG;PSS1P,N;ABL;PL;PSS1P
+genitive (tamlayan),N;GEN;SG;PSS1P,N;GEN;PL;PSS1P
+sizin (your),singular (tekil),plural (çoğul)
+nominative (yalın),N;NOM;SG;PSS2P,N;NOM;PL;PSS2P
+definite accusative (belirtme),N;ACC;SG;PSS2P,N;ACC;PL;PSS2P
+dative (yönelme),N;DAT;SG;PSS2P,N;DAT;PL;PSS2P
+locative (bulunma),N;LOC;SG;PSS2P,N;LOC;PL;PSS2P
+ablative (çıkma),N;ABL;SG;PSS2P,N;ABL;PL;PSS2P
+genitive (tamlayan),N;GEN;SG;PSS2P,N;GEN;PL;PSS2P
+onların (their),singular (tekil),plural (çoğul)
+nominative (yalın),N;NOM;SG;PSS3P,N;NOM;PL;PSS3P
+definite accusative (belirtme),N;ACC;SG;PSS3P,N;ACC;PL;PSS3P
+dative (yönelme),N;DAT;SG;PSS3P,N;DAT;PL;PSS3P
+locative (bulunma),N;LOC;SG;PSS3P,N;LOC;PL;PSS3P
+ablative (çıkma),N;ABL;SG;PSS3P,N;ABL;PL;PSS3P
+genitive (tamlayan),N;GEN;SG;PSS3P,N;GEN;PL;PSS3P

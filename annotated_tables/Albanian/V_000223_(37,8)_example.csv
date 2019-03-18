@@ -1,0 +1,38 @@
+0,1,2,3,4,5,6,7
+participle (pjesorja),V;V.PTCP,,,,,,
+gerund — present(përcjellorja — koha e tashme),V;V.PTCP;PRS,,,,,,
+gerund — past(përcjellorja — koha e kryer),V;V.PTCP;PST,,,,,,
+infinitive (paskajorja),V;NFIN,,,,,,
+,singular (numri njëjës),plural (numri shumës),,,,,
+,1st person (veta e parë),2nd person (veta e dytë),3rd person (veta e tretë),1st person (veta e parë),2nd person (veta e dytë),3rd person (veta e tretë),
+indicative (mënyra dëftore),,unë,ti,ai/ajo,ne,ju,ata/ato
+present (koha e tashme),V;1;SG;IND;PRS,V;2;SG;IND;PRS,V;3;SG;IND;PRS,V;1;PL;IND;PRS,V;2;PL;IND;PRS,V;3;PL;IND;PRS,
+imperfect (koha e pakryer),V;1;SG;IND;IPFV,V;2;SG;IND;IPFV,V;3;SG;IND;IPFV,V;1;PL;IND;IPFV,V;2;PL;IND;IPFV,V;3;PL;IND;IPFV,
+simple past (koha e kryer e thjeshtë),V;1;SG;IND;PST,V;2;SG;IND;PST,V;3;SG;IND;PST,V;1;PL;IND;PST,V;2;PL;IND;PST,V;3;PL;IND;PST,
+perfect (koha e kryer),V;1;SG;IND;PRF,V;2;SG;IND;PRF,V;3;SG;IND;PRF,V;1;PL;IND;PRF,V;2;PL;IND;PRF,V;3;PL;IND;PRF,
+pluperfect (koha e kryer e tejshkuar),V;1;SG;IND;PRF;PST,V;2;SG;IND;PRF;PST,V;3;SG;IND;PRF;PST,V;1;PL;IND;PRF;PST,V;2;PL;IND;PRF;PRF,V;3;PL;IND;PRF;PST,
+future (koha e ardhme),V;1;SG;IND;FUT,V;2;SG;IND;FUT,V;3;SG;IND;FUT,V;1;PL;IND;FUT,V;2;PL;IND;FUT,V;3;PL;IND;FUT,
+future perfect (koha e ardhme e përparme),V;1;SG;IND;PRF;FUT,V;2;SG;IND;PRF;FUT,V;3;SG;IND;PRF;FUT,V;1;PL;IND;PRF;FUT,V;2;PL;IND;PRF;FUT,V;3;PL;IND;PRF;FUT,
+,,,,,,,
+subjunctive (mënyra lidhore),,unë,ti,ai/ajo,ne,ju,ata/ato
+present (koha e tashme),V;1;SG;SBJV;PRS,V;2;SG;SBJV;PRS,V;3;SG;SBJV;PRS,V;1;PL;SBJV;PRS,V;2;PL;SBJV;PRS,V;3;PL;SBJV;PRS,
+past (koha e pakryer),V;1;SG;SBJV;PST,V;2;SG;SBJV;PST,V;3;SG;SBJV;PST,V;1;PL;SBJV;PST,V;2;PL;SBJV;PST,V;3;PL;SBJV;PST,
+perfect (koha e kryer),V;1;SG;SBJV;PRF,V;2;SG;SBJV;PRF,V;3;SG;SBJV;PRF,V;1;PL;SBJV;PRF,V;2;PL;SBJV;PRF,V;3;PL;SBJV;PRF,
+pluperfect (koha e kryer e tejshkuar),V;1;SG;SBJV;PRF;PST,V;2;SG;SBJV;PRF;PST,V;3;SG;SBJV;PRF;PST,V;1;PL;SBJV;PRF;PST,V;2;PL;SBJV;PRF;PRF,V;3;PL;SBJV;PRF;PST,
+,,,,,,,
+conditional (mënyra kushtore),,unë,ti,ai/ajo,ne,ju,ata/ato
+present (koha e tashme),V;1;SG;COND;PRS,V;2;SG;COND;PRS,V;3;SG;COND;PRS,V;1;PL;COND;PRS,V;2;PL;COND;PRS,V;3;PL;COND;PRS,
+perfect (koha e kryer),V;1;SG;COND;PRF,V;2;SG;COND;PRF,V;3;SG;COND;PRF,V;1;PL;COND;PRF,V;2;PL;COND;PRF,V;3;PL;COND;PRF,
+,,,,,,,
+optative (mënyra dëshirore),,unë,ti,ai/ajo,ne,ju,ata/ato
+present (koha e tashme),V;1;SG;OPT;PRS,V;2;SG;OPT;PRS,V;3;SG;OPT;PRS,V;1;PL;OPT;PRS,V;2;PL;OPT;PRS,V;3;PL;OPT;PRS,
+perfect (koha e kryer),V;1;SG;OPT;PRF,V;2;SG;OPT;PRF,V;3;SG;OPT;PRF,V;1;PL;OPT;PRF,V;2;PL;OPT;PRF,V;3;PL;OPT;PRF,
+,,,,,,,
+admirative (mënyra habitore),,unë,ti,ai/ajo,ne,ju,ata/ato
+present (koha e tashme),V;1;SG;ADM;PRS,V;2;SG;ADM;PRS,V;3;SG;ADM;PRS,V;1;PL;ADM;PRS,V;2;PL;ADM;PRS,V;3;PL;ADM;PRS,
+imperfect (koha e pakryer),V;1;SG;ADM;IPFV,V;2;SG;ADM;IPFV,V;3;SG;ADM;IPFV,V;1;PL;ADM;IPFV,V;2;PL;ADM;IPFV,V;3;PL;ADM;IPFV,
+perfect (koha e kryer),V;1;SG;ADM;PRF,V;2;SG;ADM;PRF,V;3;SG;ADM;PRF,V;1;PL;ADM;PRF,V;2;PL;ADM;PRF,V;3;PL;ADM;PRF,
+pluperfect (koha e kryer),V;1;SG;ADM;PRF;PST,V;2;SG;ADM;PRF;PST,V;3;SG;ADM;PRF;PST,V;1;PL;ADM;PRF;PST,V;2;PL;ADM;PRF;PRF,V;3;PL;ADM;PRF;PST,
+,,,,,,,
+imperative (mënyra urdhërore),—,ti,—,—,ju,—,
+,V;2;SG;IMP,,,V;2;PL;IMP,,,

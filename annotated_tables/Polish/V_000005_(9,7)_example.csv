@@ -1,0 +1,10 @@
+0,1,2,3,4,5,6
+audio,,(file),,,,
+case,singular,plural,,,,
+"m pers, m anim",m inan,n,f,m pers,other,
+"nominative, vocative",czuły,czułe,czuła,czuli,czułe,
+genitive,czułego,czułej,czułych,,,
+dative,czułemu,czułym,,,,
+accusative,czułego,czuły,czułe,czułą,czułych,czułe
+instrumental,czułym,czułymi,,,,
+locative,czułej,czułych,,,,

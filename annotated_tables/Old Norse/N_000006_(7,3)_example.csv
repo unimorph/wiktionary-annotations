@@ -1,0 +1,8 @@
+0,1,2
+feminine,singular,
+indefinite,definite,
+nominative,N;NOM;SG;INDEF;FEM,N;NOM;SG;DEF;FEM
+accusative,N;ACC;SG;INDEF;FEM,N;ACC;SG;DEF;FEM
+dative,N;DAT;SG;INDEF;FEM,N;DAT;SG;DEF;FEM
+genitive,N;GEN;SG;INDEF;FEM,N;GEN;SG;DEF;FEM
+Danish: ælde c  Faroese: elli f,,Icelandic: elli f  Norwegian Nynorsk: elde f

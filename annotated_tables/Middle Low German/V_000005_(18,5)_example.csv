@@ -1,0 +1,19 @@
+0,1,2,3,4
+,,,,
+Plain Infinitive,V;NFIN,,,
+Full Infinitive (Gerund),{V;NFIN/V.MSDR},,,
+Verbal Noun,V.MSDR,,,
+Participles,Imperatives,,,
+Present,V.PTCP;PRS,2nd Person Singular,V;IMP;2;SG,
+Past,V.PTCP;PST,2nd Person Plural,V;IMP;2;PL,
+Regular word order,Indicative,Subjunctive,,
+Present,Preterite,Present,Preterite,
+1st Person Singular,V;IND;PRS;1;SG,V;IND;PST;1;SG,V;SBJV;PRS;1;SG,V;SBJV;PST;1;SG
+2nd Person Singular,V;IND;PRS;2;SG,V;IND;PST;2;SG,V;SBJV;PRS;2;SG,V;SBJV;PST;2;SG
+3rd Person Singular,V;IND;PRS;3;SG,V;IND;PST;3;SG,V;SBJV;PRS;3;SG,V;SBJV;PST;3;SG
+Plural,V;IND;PRS;PL,V;IND;PST;PL,V;SBJV;PRS;PL,V;SBJV;PST;PL
+Optional alternative word order in Subordinate Clauses,Present,Preterite,Present,Preterite
+1st Person Singular,V;IND;PRS;1;SG,V;IND;PST;1;SG,V;SBJV;PRS;1;SG,V;SBJV;PST;1;SG
+2nd Person Singular,V;IND;PRS;2;SG,V;IND;PST;2;SG,V;SBJV;PRS;2;SG,V;SBJV;PST;2;SG
+3rd Person Singular,V;IND;PRS;3;SG,V;IND;PST;3;SG,V;SBJV;PRS;3;SG,V;SBJV;PST;3;SG
+Plural,V;IND;PRS;PL,V;IND;PST;PL,V;SBJV;PRS;PL,V;SBJV;PST;PL

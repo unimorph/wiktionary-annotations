@@ -1,0 +1,28 @@
+0,1,2,3,4,5
+Picture dictionary,,,,,
+,,,,,
+Tier,Tier,Tier,,,
+Tier,Tier,,,,
+Tier,,,,,
+Nutztier  Haustier  Wildtier,Nutztier  Haustier  Wildtier,Nutztier,Haustier,Wildtier,
+Nutztier  Haustier  Wildtier,Nutztier,Haustier,Wildtier,,
+Nutztier,,,,,
+Haustier,,,,,
+Wildtier,,,,,
+Tier,Tier,,,,
+Tier,,,,,
+Tier,,,,,
+Nutztier  Haustier  Wildtier,Nutztier,Haustier,Wildtier,,
+Nutztier,,,,,
+Haustier,,,,,
+Wildtier,,,,,
+Nutztier,,,,,
+Haustier,,,,,
+Wildtier,,,,,
+Audio,,(file),,,
+,singular,plural,,,
+,indef.,def.,noun,def.,noun
+nominative,ein,das,Säugetier,die,Säugetiere
+genitive,eines,des,Säugetiers,der,Säugetiere
+dative,einem,dem,Säugetier,den,Säugetieren
+accusative,ein,das,Säugetier,die,Säugetiere

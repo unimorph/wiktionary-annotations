@@ -1,0 +1,54 @@
+0,1,2
+Other scripts,,
+Cyrillic,дүшмән,
+Roman,düşmən,
+Perso-Arabic,"دوشمن, دشمن",
+,singular,plural
+absolute,N;NOM;SG,N;NOM;PL
+definite accusative,N;DEF;ACC;SG,N;DEF;ACC;PL
+dative,N;DEF;ACC;SG,N;DEF;ACC;PL
+locative,N;LOC;SG,N;LOC;PL
+ablative,N;ABL;SG,N;ABL;PL
+definite genitive,N;DEF;GEN;SG,N;DEF;GEN;PL
+nominative,singular,plural
+mənim (my),N;NOM;SG;PSS1S,N;NOM;PL;PSS1S
+sənin (your),N;NOM;SG;PSS2S,N;NOM;PL;PSS2S
+onun (his/her/its),N;NOM;SG;PSS3S,N;NOM;PL;PSS3S
+bizim (our),N;NOM;SG;PSS3P,N;NOM;PL;PSS3P
+sizin (your),N;NOM;SG;PSS2P,N;NOM;PL;PSS2P
+onların (their),N;NOM;SG;PSS3P,N;NOM;PL;PSS3P
+accusative,singular,plural
+mənim (my),N;ACC;SG;PSS1S,N;ACC;PL;PSS1S
+sənin (your),N;ACC;SG;PSS2S,N;ACC;PL;PSS2S
+onun (his/her/its),N;ACC;SG;PSS3S,N;ACC;PL;PSS3S
+bizim (our),N;ACC;SG;PSS3P,N;ACC;PL;PSS3P
+sizin (your),N;ACC;SG;PSS2P,N;ACC;PL;PSS2P
+onların (their),N;ACC;SG;PSS3P,N;ACC;PL;PSS3P
+dative,singular,plural
+mənim (my),N;DAT;SG;PSS1S,N;DAT;PL;PSS1S
+sənin (your),N;DAT;SG;PSS2S,N;DAT;PL;PSS2S
+onun (his/her/its),N;DAT;SG;PSS3S,N;DAT;PL;PSS3S
+bizim (our),N;DAT;SG;PSS3P,N;DAT;PL;PSS3P
+sizin (your),N;DAT;SG;PSS2P,N;DAT;PL;PSS2P
+onların (their),N;DAT;SG;PSS3P,N;DAT;PL;PSS3P
+locative,singular,plural
+mənim (my),N;LOC;SG;PSS1S,N;LOC;PL;PSS1S
+sənin (your),N;LOC;SG;PSS2S,N;LOC;PL;PSS2S
+onun (his/her/its),N;LOC;SG;PSS3S,N;LOC;PL;PSS3S
+bizim (our),N;LOC;SG;PSS3P,N;LOC;PL;PSS3P
+sizin (your),N;LOC;SG;PSS2P,N;LOC;PL;PSS2P
+onların (their),N;LOC;SG;PSS3P,N;LOC;PL;PSS3P
+ablative,singular,plural
+mənim (my),N;ABL;SG;PSS1S,N;ABL;PL;PSS1S
+sənin (your),N;ABL;SG;PSS2S,N;ABL;PL;PSS2S
+onun (his/her/its),N;ABL;SG;PSS3S,N;ABL;PL;PSS3S
+bizim (our),N;ABL;SG;PSS3P,N;ABL;PL;PSS3P
+sizin (your),N;ABL;SG;PSS2P,N;ABL;PL;PSS2P
+onların (their),N;ABL;SG;PSS3P,N;ABL;PL;PSS3P
+genitive,singular,plural
+mənim (my),N;GEN;SG;PSS1S,N;GEN;PL;PSS1S
+sənin (your),N;GEN;SG;PSS2S,N;GEN;PL;PSS2S
+onun (his/her/its),N;GEN;SG;PSS3S,N;GEN;PL;PSS3S
+bizim (our),N;GEN;SG;PSS3P,N;GEN;PL;PSS3P
+sizin (your),N;GEN;SG;PSS2P,N;GEN;PL;PSS2P
+onların (their),N;GEN;SG;PSS3P,N;GEN;PL;PSS3P

@@ -1,0 +1,17 @@
+0,1,2
+,singular,plural
+nominative,N;NOM;ANIM;SG,N;NOM;ANIM;PL
+genitive,N;GEN;ANIM;SG,N;GEN;ANIM;PL
+dative,N;DAT;ANIM;SG,N;DAT;ANIM;PL
+accusative,N;ACC;ANIM;SG,N;ACC;ANIM;PL
+vocative,N;VOC;ANIM;SG,N;VOC;ANIM;PL
+locative,N;ESS;ANIM;SG,N;ESS;ANIM;PL
+instrumental,N;INS;ANIM;SG,N;INS;ANIM;PL
+,singular,plural
+nominative,N;NOM;INAN;SG,N;NOM;INAN;PL
+genitive,N;GEN;INAN;SG,N;GEN;INAN;PL
+dative,N;DAT;INAN;SG,N;DAT;INAN;PL
+accusative,N;ACC;INAN;SG,N;ACC;INAN;PL
+vocative,N;VOC;INAN;SG,N;VOC;INAN;PL
+locative,N;ESS;INAN;SG,N;ESS;INAN;PL
+instrumental,N;INS;INAN;SG,N;INS;INAN;PL

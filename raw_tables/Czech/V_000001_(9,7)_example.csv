@@ -1,0 +1,10 @@
+0,1,2,3,4,5,6
+audio,,(file),,,,
+,Present Sg,Present Pl,Future Sg,Future Pl,Past Sg,Past Pl
+1st person,slyším,slyšíme,budu slyšet,budeme slyšet,slyšel/slyšela jsem,slyšeli/slyšely jsme
+2nd person,slyšíš,slyšíte,budeš slyšet,budete slyšet,slyšel/slyšela jsi,slyšeli/slyšely jste
+3rd person,slyší,slyší,bude slyšet,budou slyšet,slyšel/slyšela/slyšelo,slyšeli/slyšely/slyšela
+,Singular,Plural,,,,
+1st person,-,slyšme,,,,
+2nd person,slyš,slyšte,,,,
+3rd person,-,-,,,,

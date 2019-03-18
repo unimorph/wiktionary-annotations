@@ -1,0 +1,45 @@
+0,1,2
+infinitive,V;ACT;INF,
+present participle,V;ACT;PRS;V.PTCP,
+past participle,V;ACT;PAST;V.PTCP,
+indicative,present,past
+1st-person singular,V;ACT;1;SG;PRS;IND,V;ACT;1;SG;PAST;IND
+2nd-person singular,V;ACT;2;SG;PRS;IND,V;ACT;2;SG;PAST;IND
+3rd-person singular,V;ACT;3;SG;PRS;IND,V;ACT;3;SG;PAST;IND
+1st-person plural,V;ACT;1;PL;PRS;IND,V;ACT;1;PL;PAST;IND
+2nd-person plural,V;ACT;2;PL;PRS;IND,V;ACT;2;PL;PAST;IND
+3rd-person plural,V;ACT;3;PL;PRS;IND,V;ACT;3;PL;PAST;IND
+subjunctive,present,past
+1st-person singular,V;ACT;1;SG;PRS;SBJV,V;ACT;1;SG;PAST;SBJV
+2nd-person singular,V;ACT;2;SG;PRS;SBJV,V;ACT;2;SG;PAST;SBJV
+3rd-person singular,V;ACT;3;SG;PRS;SBJV,V;ACT;3;SG;PAST;SBJV
+1st-person plural,V;ACT;1;PL;PRS;SBJV,V;ACT;1;PL;PAST;SBJV
+2nd-person plural,V;ACT;2;PL;PRS;SBJV,V;ACT;2;PL;PAST;SBJV
+3rd-person plural,V;ACT;3;PL;PRS;SBJV,V;ACT;3;PL;PAST;SBJV
+imperative,present,
+2nd-person singular,V;ACT;2;SG;IMP,
+1st-person plural,V;ACT;1;PL;IMP,
+2nd-person plural,V;ACT;2;PL;IMP,
+infinitive,V;PASS;INF,
+present participle,V;PASS;PRS;V.PTCP,
+past participle,V;PASS;PAST;V.PTCP,
+indicative,present,past
+1st-person singular,V;PASS;1;SG;PRS;IND,V;PASS;1;SG;PAST;IND
+2nd-person singular,V;PASS;2;SG;PRS;IND,V;PASS;2;SG;PAST;IND
+3rd-person singular,V;PASS;3;SG;PRS;IND,V;PASS;3;SG;PAST;IND
+1st-person plural,V;PASS;1;PL;PRS;IND,V;PASS;1;PL;PAST;IND
+2nd-person plural,V;PASS;2;PL;PRS;IND,V;PASS;2;PL;PAST;IND
+3rd-person plural,V;PASS;3;PL;PRS;IND,V;PASS;3;PL;PAST;IND
+subjunctive,present,past
+1st-person singular,V;PASS;1;SG;PRS;SBJV,V;PASS;1;SG;PAST;SBJV
+2nd-person singular,V;PASS;2;SG;PRS;SBJV,V;PASS;2;SG;PAST;SBJV
+3rd-person singular,V;PASS;3;SG;PRS;SBJV,V;PASS;3;SG;PAST;SBJV
+1st-person plural,V;PASS;1;PL;PRS;SBJV,V;PASS;1;PL;PAST;SBJV
+2nd-person plural,V;PASS;2;PL;PRS;SBJV,V;PASS;2;PL;PAST;SBJV
+3rd-person plural,V;PASS;3;PL;PRS;SBJV,V;PASS;3;PL;PAST;SBJV
+imperative,present,
+2nd-person singular,V;PASS;2;SG;IMP,
+1st-person plural,V;PASS;1;PL;IMP,
+2nd-person plural,V;PASS;2;PL;IMP,
+"beðinn ‎(“asked, requested”)  biðja konu ‎(“to ask in marriage”)",,biðjask fyrir ‎(“to say one's prayers”)  biðjask undan ‎(“to excuse oneself”)
+Danish: bede  Faroese: biðja  Icelandic: biðja,,"Norwegian Bokmål: be, bede  Norwegian Nynorsk: be, bede  Swedish: bedja, be"

@@ -1,0 +1,54 @@
+0,1,2,3,4,5
+infinitive,eisen,,,,
+present participle,eisend,,,,
+past participle,geeist,,,,
+auxiliary,haben,,,,
+,indicative,,subjunctive,,
+present,ich eise,wir eisen,i,ich eise,wir eisen
+du eist,ihr eist,du eisest,ihr eiset,,
+er eist,sie eisen,er eise,sie eisen,,
+,,,,,
+preterite,ich eiste,wir eisten,ii,ich eiste,wir eisten
+du eistest,ihr eistet,du eistest,ihr eistet,,
+er eiste,sie eisten,er eiste,sie eisten,,
+,,,,,
+imperative,eis (du)eise (du),eist (ihr),,,
+perfect,,,,,
+indicative,ich habe geeist,wir haben geeist,subjunctive,ich habe geeist,wir haben geeist
+du hast geeist,ihr habt geeist,du habest geeist,ihr habet geeist,,
+er hat geeist,sie haben geeist,er habe geeist,sie haben geeist,,
+pluperfect,,,,,
+indicative,ich hatte geeist,wir hatten geeist,subjunctive,ich hätte geeist,wir hätten geeist
+du hattest geeist,ihr hattet geeist,du hättest geeist,ihr hättet geeist,,
+er hatte geeist,sie hatten geeist,er hätte geeist,sie hätten geeist,,
+future i,,,,,
+infinitive,eisen werden,subjunctive i,ich werde eisen,wir werden eisen,
+du werdest eisen,ihr werdet eisen,,,,
+er werde eisen,sie werden eisen,,,,
+,,,,,
+indicative,ich werde eisen,wir werden eisen,subjunctive ii,ich würde eisen,wir würden eisen
+du wirst eisen,ihr werdet eisen,du würdest eisen,ihr würdet eisen,,
+er wird eisen,sie werden eisen,er würde eisen,sie würden eisen,,
+future ii,,,,,
+infinitive,geeist haben werden,subjunctive i,ich werde geeist haben,wir werden geeist haben,
+du werdest geeist haben,ihr werdet geeist haben,,,,
+er werde geeist haben,sie werden geeist haben,,,,
+,,,,,
+indicative,ich werde geeist haben,wir werden geeist haben,subjunctive ii,ich würde geeist haben,wir würden geeist haben
+du wirst geeist haben,ihr werdet geeist haben,du würdest geeist haben,ihr würdet geeist haben,,
+er wird geeist haben,sie werden geeist haben,er würde geeist haben,sie würden geeist haben,,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist eisen,sie ist eisen,es ist eisen,sie sind eisen,
+strong declension (without article),nominative,eisener,eisene,eisenes,eisene
+genitive,eisenen,eisener,eisenen,eisener,
+dative,eisenem,eisener,eisenem,eisenen,
+accusative,eisenen,eisene,eisenes,eisene,
+weak declension (with definite article),nominative,der eisene,die eisene,das eisene,die eisenen
+genitive,des eisenen,der eisenen,des eisenen,der eisenen,
+dative,dem eisenen,der eisenen,dem eisenen,den eisenen,
+accusative,den eisenen,die eisene,das eisene,die eisenen,
+mixed declension (with indefinite article),nominative,ein eisener,eine eisene,ein eisenes,(keine) eisenen
+genitive,eines eisenen,einer eisenen,eines eisenen,(keiner) eisenen,
+dative,einem eisenen,einer eisenen,einem eisenen,(keinen) eisenen,
+accusative,einen eisenen,eine eisene,ein eisenes,(keine) eisenen,

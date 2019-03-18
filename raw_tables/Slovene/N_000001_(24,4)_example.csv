@@ -1,0 +1,25 @@
+0,1,2,3
+singular,,,
+,masculine,feminine,neuter
+nominative,môški,môška,môško
+accusative,nominativeinan or genitiveanim,môško,môško
+genitive,môškega,môške,môškega
+dative,môškemu,môški,môškemu
+locative,môškem,môški,môškem
+instrumental,môškim,môško,môškim
+dual,,,
+,masculine,feminine,neuter
+nominative,môška,môški,môški
+accusative,môška,môški,môški
+genitive,môških,môških,môških
+dative,môškima,môškima,môškima
+locative,môških,môških,môških
+instrumental,môškima,môškima,môškima
+plural,,,
+,masculine,feminine,neuter
+nominative,môški,môške,môška
+accusative,môške,môške,môška
+genitive,môških,môških,môških
+dative,môškim,môškim,môškim
+locative,môških,môških,môških
+instrumental,môškimi,môškimi,môškimi

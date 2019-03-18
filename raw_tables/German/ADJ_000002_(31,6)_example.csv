@@ -1,0 +1,32 @@
+0,1,2,3,4,5
+Audio,,(file),,,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist minder,sie ist minder,es ist minder,sie sind minder,
+strong declension (without article),nominative,minderer,mindere,minderes,mindere
+genitive,minderen,minderer,minderen,minderer,
+dative,minderem,minderer,minderem,minderen,
+accusative,minderen,mindere,minderes,mindere,
+weak declension (with definite article),nominative,der mindere,die mindere,das mindere,die minderen
+genitive,des minderen,der minderen,des minderen,der minderen,
+dative,dem minderen,der minderen,dem minderen,den minderen,
+accusative,den minderen,die mindere,das mindere,die minderen,
+mixed declension (with indefinite article),nominative,ein minderer,eine mindere,ein minderes,(keine) minderen
+genitive,eines minderen,einer minderen,eines minderen,(keiner) minderen,
+dative,einem minderen,einer minderen,einem minderen,(keinen) minderen,
+accusative,einen minderen,eine mindere,ein minderes,(keine) minderen,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist am mindesten,sie ist am mindesten,es ist am mindesten,sie sind am mindesten,
+strong declension (without article),nominative,mindester,mindeste,mindestes,mindeste
+genitive,mindesten,mindester,mindesten,mindester,
+dative,mindestem,mindester,mindestem,mindesten,
+accusative,mindesten,mindeste,mindestes,mindeste,
+weak declension (with definite article),nominative,der mindeste,die mindeste,das mindeste,die mindesten
+genitive,des mindesten,der mindesten,des mindesten,der mindesten,
+dative,dem mindesten,der mindesten,dem mindesten,den mindesten,
+accusative,den mindesten,die mindeste,das mindeste,die mindesten,
+mixed declension (with indefinite article),nominative,ein mindester,eine mindeste,ein mindestes,(keine) mindesten
+genitive,eines mindesten,einer mindesten,eines mindesten,(keiner) mindesten,
+dative,einem mindesten,einer mindesten,einem mindesten,(keinen) mindesten,
+accusative,einen mindesten,eine mindeste,ein mindestes,(keine) mindesten,

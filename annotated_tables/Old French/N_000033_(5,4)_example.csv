@@ -1,0 +1,6 @@
+0,1,2,3
+Number,Case,Masculine,Feminine
+Singular,Subject,N;SG;MASC;NOM,N;SG;FEM;NOM
+Oblique,N;SG;MASC;non{NOM},N;SG;FEM;non{NOM},
+Plural,Subject,N;PL;MASC;NOM,N;PL;FEM;NOM
+Oblique,N;PL;MASC;non{NOM},N;PL;FEM;non{NOM},

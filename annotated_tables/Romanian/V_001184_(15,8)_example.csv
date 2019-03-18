@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7
+infinitive,V;NFIN,,,,,,
+gerund,V.CVB;PRS,,,,,,
+past participle,V.PTCP;PST,,,,,,
+number,singular,plural,,,,,
+person,1st person,2nd person,3rd person,1st person,2nd person,3rd person,
+indicative,,eu,tu,el/ea,noi,voi,ei/ele
+present,V;IND;PRS;1;SG,V;IND;PRS;2;SG,V;IND;PRS;3;SG,V;IND;PRS;1;PL,V;IND;PRS;2;PL,V;IND;PRS;3;PL,
+imperfect,V;IND;PST;1;SG;IPFV,V;IND;PST;2;SG;IPFV,V;IND;PST;3;SG;IPFV,V;IND;PST;1;PL;IPFV,V;IND;PST;2;PL;IPFV,V;IND;PST;3;PL;IPFV,
+simple perfect,V;IND;PST;1;SG;PFV,V;IND;PST;2;SG;PFV,V;IND;PST;3;SG;PFV,V;IND;PST;1;PL;PFV,V;IND;PST;2;PL;PFV,V;IND;PST;3;PL;PFV,
+pluperfect,V;IND;PST;1;SG;PRF,V;IND;PST;2;SG;PRF,V;IND;PST;3;SG;PRF,V;IND;PST;1;PL;PRF,V;IND;PST;2;PL;PRF,V;IND;PST;3;PL;PRF,
+subjunctive,,eu,tu,el/ea,noi,voi,ei/ele
+present,V;SBJV;PRS;1;SG,V;SBJV;PRS;2;SG,V;SBJV;PRS;3;SG,V;SBJV;PRS;1;PL,V;SBJV;PRS;2;PL,V;SBJV;PRS;3;PL,
+imperative,,—,tu,—,—,voi,—
+affirmative,,V;POS;IMP;2;SG,,,V;POS;IMP;3;PL,,
+negative,,V;NEG;IMP;2;SG,,,V;NEG;IMP;3;PL,,

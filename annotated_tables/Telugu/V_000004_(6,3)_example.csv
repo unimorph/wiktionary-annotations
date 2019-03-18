@@ -1,0 +1,7 @@
+0,1,2
+Audio,,(file)
+PAST TENSE,singular,plural
+1st person: నేను / మేము,V;1;SG;PST,V;1;PL;PST
+2nd person: నీవు / మీరు,V;2;SG;PST,V;2;PL;PST
+3rd person m: అతను / వారు,V;3;MASC;SG;PST,V;3;MASC;PL;PST
+3rd person f: ఆమె / వారు,V;3;FEM;SG;PST,V;3;FEM;PL;PST

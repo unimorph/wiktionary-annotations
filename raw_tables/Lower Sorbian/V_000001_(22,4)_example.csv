@@ -1,0 +1,23 @@
+0,1,2,3
+Present,Singular,Dual,Plural
+1st person,som,smej,smy
+2nd person,sy,stej,sćo
+3rd person,jo,stej,su
+Present negative,Singular,Dual,Plural
+1st person,njejsom,njejsmej,njejsmy
+2nd person,njejsy,njejstej,njejsćo
+3rd person,njejo,njejstej,njejsu
+Future,Singular,Dual,Plural
+1st person,buźom / budu,buźomej,buźomy
+2nd person,buźoš,buźotej,buźośo
+3rd person,buźo,buźotej,budu
+Passive,Singular,Dual,Plural
+1st person,buch,buchmej,buchmy
+2nd person,bu,buštej,bušćo
+3rd person,bu,buštej,buchu
+Preterite,Singular,Dual,Plural
+1st person,běch,běchmej,běchmy
+2nd person,běšo,běštej,běšćo
+3rd person,běšo,běštej,běchu
+Imperative,Singular,Dual,Plural
+2nd person,buź,buźtej,buźćo

@@ -1,0 +1,8 @@
+0,1,2,3,4,5,6
+predicative,פֿאַראייניקטfareynikt,,,,,
+,,,,,,
+case,masculine,neuter,feminine,plural,,
+indefinite,definite,post./nom.,,,,
+nominative,ADJ;NOM;DEF/INDF;MASC;SG,ADJ;NOM/ACC/DAT;NEUT;INDF;SG,ADJ;NOM/ACC;NEUT;DEF;SG,ADJ;NOM/ACC;NEUT;LGSPEC1;SG,ADJ;NOM/ACC;DEF/INDF;FEM;SG,ADJ;NOM/ACC/DAT;DEF/INDF;PL
+accusative,ADJ;ACC/DAT;DEF/INDF;MASC;SG,,,,,
+dative,ADJ;DAT;DEF/LGSPEC1;NEUT;SG,ADJ;DAT;DEF/INDF;FEM;SG,,,,

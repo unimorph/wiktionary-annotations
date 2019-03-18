@@ -1,0 +1,24 @@
+0,1,2,3,4
+singular,,,,
+,masculine animate,masculine inanimate,feminine,neuter
+nominative,fialový,fialová,fialové,
+genitive,fialového,fialové,fialového,
+dative,fialovému,fialové,fialovému,
+accusative,fialového,fialový,fialovou,fialové
+vocative,fialový,fialová,fialové,
+locative,fialovém,fialové,fialovém,
+instrumental,fialovým,fialovou,fialovým,
+plural,,,,
+,masculine animate,masculine inanimate,feminine,neuter
+nominative,fialoví,fialové,fialová,
+genitive,fialových,,,
+dative,fialovým,,,
+accusative,fialové,fialová,,
+vocative,fialoví,fialové,fialová,
+locative,fialových,,,
+instrumental,fialovými,,,
+Colors in Czech · barvy (layout · text),,,,
+červená,zelená,žlutá,béžová,bílá
+karmínová,purpurová,zelenomodrá,limetkově zelená,růžová
+indigo,modrá,oranžová,šedá,fialová
+černá,fialová,hnědá,modrá,azurová

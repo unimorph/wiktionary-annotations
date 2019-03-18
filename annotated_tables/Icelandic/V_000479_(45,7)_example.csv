@@ -1,0 +1,46 @@
+0,1,2,3,4,5,6
+infinitive (nafnháttur),V;NFIN,,,,,
+supine (sagnbót),V.CVB,,,,,
+present participle (lýsingarháttur nútíðar),V.PTCP;PRS,,,,,
+,indicative (framsöguháttur),,subjunctive (viðtengingarháttur),,,
+present (nútíð),V;IND;PRS;1;SG,V;IND;PRS;1;PL,present (nútíð),V;SBJV;PRS;1;SG,V;SBJV;PRS;1;PL,
+V;IND;PRS;2;SG,V;IND;PRS;2;PL,V;SBJV;PRS;2;SG,V;SBJV;PRS;2;PL,,,
+V;IND;PRS;3;SG,V;IND;PRS;3;PL,V;SBJV;PRS;3;SG,V;SBJV;PRS;3;PL,,,
+,,,,,,
+past (þátíð),V;IND;PST;1;SG,V;IND;PRS;1;PL,past (þátíð),V;SBJV;PST;1;SG,V;SBJV;PST;1;PL,
+V;IND;PST;2;SG,V;IND;PST;2;PL,V;SBJV;PST;2;SG,V;SBJV;PST;2;PL,,,
+V;IND;PST;3;SG,V;IND;PST;3;PL,V;SBJV;PST;3;SG,V;SBJV;PST;3;PL,,,
+,,,,,,
+imperative (boðháttur),V;IMP;2;SG,V;IMP;2;PL,,,,
+Forms with appended personal pronoun,,,,,,
+grandaðu,grandiði *,,,,,
+"* Spoken form, usually not written; in writing, the unappended plural form (optionally followed by the full pronoun) is preferred.",,,,,,
+infinitive (nafnháttur),að grandast,,,,,
+supine (sagnbót),grandast,,,,,
+present participle (lýsingarháttur nútíðar),"grandandist ** ** the mediopassive present participle is extremely rare and normally not used; it is never used attributively or predicatively, only for explicatory subclauses",,,,,
+,indicative (framsöguháttur),,subjunctive (viðtengingarháttur),,,
+present (nútíð),ég grandast,við gröndumst,present (nútíð),ég grandist,við gröndumst,
+þú grandast,þið grandist,þú grandist,þið grandist,,,
+"hann, hún, það grandast","þeir, þær, þau grandast","hann, hún, það grandist","þeir, þær, þau grandist",,,
+,,,,,,
+past (þátíð),ég grandaðist,við grönduðumst,past (þátíð),ég grandaðist,við grönduðumst,
+þú grandaðist,þið grönduðust,þú grandaðist,þið grönduðust,,,
+"hann, hún, það grandaðist","þeir, þær, þau grönduðust","hann, hún, það grandaðist","þeir, þær, þau grönduðust",,,
+,,,,,,
+imperative (boðháttur),grandast (þú),grandist (þið),,,,
+Forms with appended personal pronoun,,,,,,
+grandastu,grandisti *,,,,,
+"* Spoken form, usually not written; in writing, the unappended plural form (optionally followed by the full pronoun) is preferred.",,,,,,
+strong declension (sterk beyging),singular (eintala),,plural (fleirtala),,,
+masculine (karlkyn),feminine (kvenkyn),neuter (hvorugkyn),masculine (karlkyn),feminine (kvenkyn),neuter (hvorugkyn),
+nominative (nefnifall),grandaður,grönduð,grandað,grandaðir,grandaðar,grönduð
+accusative (þolfall),grandaðan,grandaða,grandað,grandaða,grandaðar,grönduð
+dative (þágufall),grönduðum,grandaðri,grönduðu,grönduðum,grönduðum,grönduðum
+genitive (eignarfall),grandaðs,grandaðrar,grandaðs,grandaðra,grandaðra,grandaðra
+,,,,,,
+weak declension (veik beyging),singular (eintala),,plural (fleirtala),,,
+masculine (karlkyn),feminine (kvenkyn),neuter (hvorugkyn),masculine (karlkyn),feminine (kvenkyn),neuter (hvorugkyn),
+nominative (nefnifall),grandaði,grandaða,grandaða,grönduðu,grönduðu,grönduðu
+accusative (þolfall),grandaða,grönduðu,grandaða,grönduðu,grönduðu,grönduðu
+dative (þágufall),grandaða,grönduðu,grandaða,grönduðu,grönduðu,grönduðu
+genitive (eignarfall),grandaða,grönduðu,grandaða,grönduðu,grönduðu,grönduðu

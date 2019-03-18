@@ -1,0 +1,17 @@
+0,1,2,3,4,5
+Audio,,(file),,,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,—,—,—,—,
+strong declension (without article),nominative,Beschäftigter,Beschäftigte,Beschäftigtes,Beschäftigte
+genitive,Beschäftigten,Beschäftigter,Beschäftigten,Beschäftigter,
+dative,Beschäftigtem,Beschäftigter,Beschäftigtem,Beschäftigten,
+accusative,Beschäftigten,Beschäftigte,Beschäftigtes,Beschäftigte,
+weak declension (with definite article),nominative,der Beschäftigte,die Beschäftigte,das Beschäftigte,die Beschäftigten
+genitive,des Beschäftigten,der Beschäftigten,des Beschäftigten,der Beschäftigten,
+dative,dem Beschäftigten,der Beschäftigten,dem Beschäftigten,den Beschäftigten,
+accusative,den Beschäftigten,die Beschäftigte,das Beschäftigte,die Beschäftigten,
+mixed declension (with indefinite article),nominative,ein Beschäftigter,eine Beschäftigte,ein Beschäftigtes,(keine) Beschäftigten
+genitive,eines Beschäftigten,einer Beschäftigten,eines Beschäftigten,(keiner) Beschäftigten,
+dative,einem Beschäftigten,einer Beschäftigten,einem Beschäftigten,(keinen) Beschäftigten,
+accusative,einen Beschäftigten,eine Beschäftigte,ein Beschäftigtes,(keine) Beschäftigten,

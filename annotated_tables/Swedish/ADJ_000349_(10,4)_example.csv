@@ -1,0 +1,11 @@
+0,1,2,3
+Audio,,(file),
+Inflection of grann,,,
+Indefinite/attributive,Positive,Comparative,Superlative2
+Common singular,ADJ;INDF;MASC+FEM;SG,ADJ;INDF;MASC+FEM;SG;COMPV,ADJ;INDF;MASC+FEM;SG;SPRL
+Neuter singular,ADJ;INDF;NEUT;SG,ADJ;INDF;NEUT;SG;COMPV,ADJ;INDF;NEUT;SG;SPRL
+Plural,ADJ;INDF;PL,ADJ;INDF;PL;COMPV,ADJ;INDF;PL;SPRL
+Definite,Positive,Comparative,Superlative
+Masculine singular1,ADJ;DEF;MASC;SG,ADJ;INDF;MASC;SG;COMPV,ADJ;DEF;MASC;SG;SPRL
+All,ADJ;DEF,ADJ;DEF;COMPV,ADJ;DEF;SPRL
+"1) Only used, optionally, to refer to things whose natural gender is masculine.2) The indefinite superlative forms are only used in an attributive role.",,,

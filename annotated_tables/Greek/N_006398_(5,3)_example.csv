@@ -1,0 +1,6 @@
+0,1,2
+,singular,plural
+nominative,N;NOM;SG,N;NOM;PL
+genitive,N;GEN;SG,N;GEN;PL
+accusative,N;ACC;SG,N;ACC;PL
+vocative,N;VOC;SG,N;VOC;PL

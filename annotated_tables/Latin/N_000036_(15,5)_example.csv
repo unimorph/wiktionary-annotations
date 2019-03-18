@@ -1,0 +1,16 @@
+0,1,2,3,4
+Number,Singular,,Plural,
+Case / Gender,Masc./Fem.,Neuter,Masc./Fem.,Neuter
+nominative,dīves,,dīvitēs,dīvita
+genitive,dīvitis,dīvitum,,
+dative,dīvitī,dīvitibus,,
+accusative,dīvitem,dīves,dīvitēs,dīvita
+ablative,dīvite,dīvitibus,,
+vocative,dīves,dīvitēs,dīvita,
+Case,Singular,Plural,,
+nominative,dīves,dīvitēs,,
+genitive,dīvitis,dīvitum,,
+dative,dīvitī,dīvitibus,,
+accusative,dīvitem,dīvitēs,,
+ablative,dīvite,dīvitibus,,
+vocative,dīves,dīvitēs,,

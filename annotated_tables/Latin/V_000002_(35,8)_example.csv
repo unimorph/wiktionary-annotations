@@ -1,0 +1,36 @@
+0,1,2,3,4,5,6,7
+"Conjugation of urgeo (second conjugation, no passive perfect forms)",,,,,,,
+indicative,singular,plural,,,,,
+first,second,third,first,second,third,,
+active,present,urgeō,urgēs,urget,urgēmus,urgētis,urgent
+imperfect,urgēbam,urgēbās,urgēbat,urgēbāmus,urgēbātis,urgēbant,
+future,urgēbō,urgēbis,urgēbit,urgēbimus,urgēbitis,urgēbunt,
+perfect,ursī,ursistī,ursit,ursimus,ursistis,"ursērunt, ursēre",
+pluperfect,urseram,urserās,urserat,urserāmus,urserātis,urserant,
+future perfect,urserō,urseris,urserit,urserimus,urseritis,urserint,
+passive,present,urgeor,"urgēris, urgēre",urgētur,urgēmur,urgēminī,urgentur
+imperfect,urgēbar,"urgēbāris, urgēbāre",urgēbātur,urgēbāmur,urgēbāminī,urgēbantur,
+future,urgēbor,"urgēberis, urgēbere",urgēbitur,urgēbimur,urgēbiminī,urgēbuntur,
+subjunctive,singular,plural,,,,,
+first,second,third,first,second,third,,
+active,present,urgeam,urgeās,urgeat,urgeāmus,urgeātis,urgeant
+imperfect,urgērem,urgērēs,urgēret,urgērēmus,urgērētis,urgērent,
+perfect,urserim,urserīs,urserit,urserīmus,urserītis,urserint,
+pluperfect,ursissem,ursissēs,ursisset,ursissēmus,ursissētis,ursissent,
+passive,present,urgear,"urgeāris, urgeāre",urgeātur,urgeāmur,urgeāminī,urgeantur
+imperfect,urgērer,"urgērēris, urgērēre",urgērētur,urgērēmur,urgērēminī,urgērentur,
+imperative,singular,plural,,,,,
+first,second,third,first,second,third,,
+active,present,—,urgē,—,—,urgēte,—
+future,—,urgētō,urgētō,—,urgētōte,urgentō,
+passive,present,—,urgēre,—,—,urgēminī,—
+future,—,urgētor,urgētor,—,—,urgentor,
+non-finite forms,active,passive,,,,,
+present,perfect,future,present,perfect,future,,
+infinitives,urgēre,ursisse,—,urgērī,—,—,
+participles,urgēns,—,—,—,—,urgendus,
+verbal nouns,gerund,supine,,,,,
+nominative,genitive,dative/ablative,accusative,accusative,ablative,,
+urgēre,urgendī,urgendō,urgendum,—,—,,
+adurgeō  exurgeō,,inurgeō  perurgeō,,suburgeō  urgēns,,,
+English: urge  French: urger (through urgent)  German: urgieren,,Italian: urgere  Portuguese: urgir  Spanish: urgir,,,,,

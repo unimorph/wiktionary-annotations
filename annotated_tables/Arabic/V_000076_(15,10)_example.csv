@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7,8,9
+verbal nounالْمَصْدَر,V;V.MSDR,,,,,,,,
+active participleاِسْم الْفَاعِل,V;V.PTCP;ACT,,,,,,,,
+active voiceالْفِعْل الْمَعْلُوم,,,,,,,,,
+,singularالْمُفْرَد,,dualالْمُثَنَّى,,pluralالْجَمْع,,,,
+,1st personالْمُتَكَلِّم,2nd personالْمُخَاطَب,3rd personالْغَائِب,2nd personالْمُخَاطَب,3rd personالْغَائِب,1st personالْمُتَكَلِّم,2nd personالْمُخَاطَب,3rd personالْغَائِب,
+past (perfect) indicativeالْمَاضِي,m,V;1;SG;PST;PRF;IND;ACT,V;2;SG;MASC;PST;PRF;IND;ACT,V;3;SG;MASC;PST;PRF;IND;ACT,V;2;DU;PST;PRF;IND;ACT,V;3;DU;MASC;PST;PRF;IND;ACT,V;1;PL;PST;PRF;IND;ACT,V;2;PL;MASC;PST;PRF;IND;ACT,V;3;PL;MASC;PST;PRF;IND;ACT
+f,V;2;SG;FEM;PST;PRF;IND;ACT,V;3;SG;FEM;PST;PRF;IND;ACT,V;3;DU;FEM;PST;PRF;IND;ACT,V;2;PL;FEM;PST;PRF;IND;ACT,V;3;PL;FEM;PST;PRF;IND;ACT,,,,
+non-past (imperfect) indicativeالْمُضَارِع,m,V;1;SG;IPFV;IND;ACT,V;2;SG;MASC;IPFV;IND;ACT,V;3;SG;MASC;IPFV;IND;ACT,V;2;DU;IPFV;IND;ACT,V;3;DU;MASC;IPFV;IND;ACT,V;1;PL;IPFV;IND;ACT,V;2;PL;MASC;IPFV;IND;ACT,V;3;PL;MASC;IPFV;IND;ACT
+f,V;2;SG;FEM;IPFV;IND;ACT,V;3;SG;FEM;IPFV;IND;ACT,V;3;DU;FEM;IPFV;IND;ACT,V;2;PL;FEM;IPFV;IND;ACT,V;3;PL;FEM;IPFV;IND;ACT,,,,
+subjunctiveالْمُضَارِع الْمَنْصُوب,m,V;1;SG;SBJV;ACT,V;2;SG;MASC;SBJV;ACT,V;3;SG;MASC;SBJV;ACT,V;2;DU;SBJV;ACT,V;3;DU;MASC;SBJV;ACT,V;1;PL;SBJV;ACT,V;2;PL;MASC;SBJV;ACT,V;3;PL;MASC;SBJV;ACT
+f,V;2;SG;FEM;SBJV;ACT,V;3;SG;FEM;SBJV;ACT,V;3;DU;FEM;SBJV;ACT,V;2;PL;FEM;SBJV;ACT,V;3;PL;FEM;SBJV;ACT,,,,
+jussiveالْمُضَارِع الْمَجْزُوم,m,V;1;SG;LGSPEC1;ACT,V;2;SG;MASC;LGSPEC1;ACT,V;3;SG;MASC;LGSPEC1;ACT,V;2;DU;LGSPEC1;ACT,V;3;DU;MASC;LGSPEC1;ACT,V;1;PL;LGSPEC1;ACT,V;2;PL;MASC;LGSPEC1;ACT,V;3;PL;MASC;LGSPEC1;ACT
+f,V;2;SG;FEM;LGSPEC1;ACT,V;3;SG;FEM;LGSPEC1;ACT,V;3;DU;FEM;LGSPEC1;ACT,V;2;PL;FEM;LGSPEC1;ACT,V;3;PL;FEM;LGSPEC1;ACT,,,,
+imperativeالْأَمْر,m,,V;2;SG;MASC;IMP;ACT,,V;2;DU;IMP;ACT,,,V;2;PL;MASC;IMP;ACT,
+f,V;2;SG;FEM;IMP;ACT,V;2;PL;FEM;IMP;ACT,,,,,,,

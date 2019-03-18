@@ -1,0 +1,18 @@
+0,1,2,3,4
+PIE root,,,,
+*h₂er-,,,,
+Case,Singular,Plural,,
+nominative,artifex,artificēs,,
+genitive,artificis,artificum,,
+dative,artificī,artificibus,,
+accusative,artificem,artificēs,,
+ablative,artifice,artificibus,,
+vocative,artifex,artificēs,,
+Number,Singular,,Plural,
+Case / Gender,Masc./Fem.,Neuter,Masc./Fem.,Neuter
+nominative,artifex,,artificēs,artificia
+genitive,artificis,artificium,,
+dative,artificī,artificibus,,
+accusative,artificem,artifex,artificēs,artificia
+ablative,artificī,artificibus,,
+vocative,artifex,artificēs,artificia,

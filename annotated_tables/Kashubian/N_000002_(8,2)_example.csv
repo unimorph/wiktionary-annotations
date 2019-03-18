@@ -1,0 +1,9 @@
+0,1
+,Plural only
+Nominative,N;NOM;PL
+Genitive,N;GEN;PL
+Dative,N;DAT;PL
+Accusative,N;ACC;PL
+Instrumental,N;ACC;PL
+Locative,N;ESS;PL
+Vocative,N;VOC;PL

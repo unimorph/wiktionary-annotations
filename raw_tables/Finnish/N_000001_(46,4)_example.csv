@@ -1,0 +1,47 @@
+0,1,2,3
+"Inflection of sotilasarvo (Kotus type 1/valo, no gradation)",,,
+nominative,sotilasarvo,sotilasarvot,
+genitive,sotilasarvon,sotilasarvojen,
+partitive,sotilasarvoa,sotilasarvoja,
+illative,sotilasarvoon,sotilasarvoihin,
+,singular,plural,
+nominative,sotilasarvo,sotilasarvot,
+accusative,nom.,sotilasarvo,sotilasarvot
+gen.,sotilasarvon,,
+genitive,sotilasarvon,sotilasarvojen,
+partitive,sotilasarvoa,sotilasarvoja,
+inessive,sotilasarvossa,sotilasarvoissa,
+elative,sotilasarvosta,sotilasarvoista,
+illative,sotilasarvoon,sotilasarvoihin,
+adessive,sotilasarvolla,sotilasarvoilla,
+ablative,sotilasarvolta,sotilasarvoilta,
+allative,sotilasarvolle,sotilasarvoille,
+essive,sotilasarvona,sotilasarvoina,
+translative,sotilasarvoksi,sotilasarvoiksi,
+instructive,—,sotilasarvoin,
+abessive,sotilasarvotta,sotilasarvoitta,
+comitative,—,sotilasarvoineen,
+Army / Air Force,Navy,,
+Finnish,English,Finnish,English
+Officers,,,
+kenraali,general,amiraali,admiral
+kenraaliluutnantti,lieutenant general,vara-amiraali,vice admiral
+kenraalimajuri,major general,kontra-amiraali,rear admiral
+prikaatikenraali,brigadier general,lippueamiraali,commodore
+eversti,colonel,kommodori,captain
+everstiluutnantti,lieutenant colonel,komentaja,commander
+majuri,major,komentajakapteeni,lieutenant commander
+kapteeni,captain,kapteeniluutnantti,lieutenant senior grade
+yliluutnantti,senior lieutenant,yliluutnantti,lieutenant
+luutnantti,lieutenant,luutnantti,lieutenant junior grade
+vänrikki,second lieutenant,aliluutnantti,sub-lieutenant
+Non-commissioned officers,,,
+sotilasmestari,chief warrant officer,sotilasmestari,chief warrant officer
+vääpeli,warrant officer,pursimies,chief petty officer
+ylikersantti,staff sergeant,ylikersantti,petty officer first class
+kersantti,sergeant,kersantti,petty officer second class
+alikersantti,corporal,alikersantti,petty officer third class
+Rank and file,,,
+korpraali,lance corporal,ylimatruusi,able seaman
+sotamies/lentosotamies,private/airman,matruusi,seaman
+,,,

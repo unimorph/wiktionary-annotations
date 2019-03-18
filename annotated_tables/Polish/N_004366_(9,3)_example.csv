@@ -1,0 +1,10 @@
+0,1,2
+Audio,,(file)
+,singular,plural
+nominative,N;NOM;SG,N;NOM;PL
+genitive,N;GEN;SG,N;GEN;PL
+dative,N;DAT;SG,N;DAT;PL
+accusative,N;ACC;SG,N;ACC;PL
+instrumental,N;INS;SG,N;INS;PL
+locative,N;ESS;SG,N;ESS;PL
+vocative,N;VOC;SG,N;VOC;PL

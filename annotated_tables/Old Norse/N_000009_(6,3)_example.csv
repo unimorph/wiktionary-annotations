@@ -1,0 +1,7 @@
+0,1,2
+neuter,singular,
+indefinite,definite,
+nominative,N;NOM;SG;INDEF;NEUT,N;NOM;SG;DEF;NEUT
+accusative,N;ACC;SG;INDEF;NEUT,N;ACC;SG;DEF;NEUT
+dative,N;DAT;SG;INDEF;NEUT,N;DAT;SG;DEF;NEUT
+genitive,N;GEN;SG;INDEF;NEUT,N;GEN;SG;DEF;NEUT

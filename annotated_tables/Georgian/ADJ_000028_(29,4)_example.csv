@@ -1,0 +1,30 @@
+0,1,2,3
+Case,adjective,,
+"nominative, genitive, instrumental",ხმელი ‎(xmeli),,
+ergative,ხმელმა ‎(xmelma),,
+"dative, adverbial",ხმელ ‎(xmel),,
+vocative,ხმელო ‎(xmelo),,
+,singular,plural,archaic plural
+nominative,ADJ;SG;NOM,ADJ;PL;NOM,ADJ;PL;LGSPEC2;NOM
+ergative,ADJ;SG;ERG,ADJ;PL;ERG,ADJ;PL;LGSPEC2;ERG
+dative,ADJ;SG;DAT,ADJ;PL;DAT,ADJ;PL;LGSPEC2;DAT
+genitive,ADJ;SG;GEN,ADJ;PL;GEN,ADJ;PL;LGSPEC2;GEN
+instrumental,ADJ;SG;INST,ADJ;PL;INST,
+adverbial,ADJ;SG;LGSPEC1,ADJ;PL;LGSPEC1,
+vocative,ADJ;SG;VOC,ADJ;PL;VOC,ADJ;PL;LGSPEC2;VOC
+Notes: archaic plurals might not exist.,,,
+postpositions taking a dative case,singular,plural,
+-ზე (on - ),ხმელზე ‎(xmelze),ხმელებზე ‎(xmelebze),
+-თან (near - ),ხმელთან ‎(xmeltan),ხმელებთან ‎(xmelebtan),
+-ში (in - ),ხმელში ‎(xmelši),ხმელებში ‎(xmelebši),
+-ვით (like a - ),ხმელივით ‎(xmelivit),ხმელებივით ‎(xmelebivit),
+postpositions taking a genitive case,singular,plural,
+-თვის (for - ),ხმელისთვის ‎(xmelistvis),ხმელებისთვის ‎(xmelebistvis),
+-ებრ (like a - ),ხმელისებრ ‎(xmelisebr),ხმელებისებრ ‎(xmelebisebr),
+-კენ (towards - ),ხმელისკენ ‎(xmelisḳen),ხმელებისკენ ‎(xmelebisḳen),
+-გან (from/of - ),ხმელისგან ‎(xmelisgan),ხმელებისგან ‎(xmelebisgan),
+postpositions taking an instrumental case,singular,plural,
+-დან (from / since - ),ხმელიდან ‎(xmelidan),ხმელებიდან ‎(xmelebidan),
+-ურთ (together with - ),ხმელითურთ ‎(xmeliturt),ხმელებითურთ ‎(xmelebiturt),
+postpositions taking an adverbial case,singular,plural,
+-მდე (up to - ),ხმელამდე ‎(xmelamde),ხმელებამდე ‎(xmelebamde),

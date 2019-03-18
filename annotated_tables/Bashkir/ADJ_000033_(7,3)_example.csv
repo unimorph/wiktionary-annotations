@@ -1,0 +1,8 @@
+0,1,2
+,singular,plural
+absolute,ADJ;NOM;SG,ADJ;NOM;PL
+definite genitive,ADJ;DEF;GEN;SG,ADJ;DEF;GEN;PL
+dative,ADJ;DAT;SG,ADJ;DAT;PL
+definite accusative,ADJ;DEF;ACC;SG,ADJ;DEF;ACC;PL
+locative,ADJ;LOC;SG,ADJ;LOC;PL
+ablative,ADJ;ABL;SG,ADJ;ABL;PL

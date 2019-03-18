@@ -1,0 +1,8 @@
+0,1,2,3,4
+masculine,singular,plural,,
+indefinite,definite,indefinite,definite,
+nominative,N;NOM;SG;INDEF;MASC,N;NOM;SG;DEF;MASC,N;NOM;INDEF;PL;MASC,N;NOM;DEF;PL;MASC
+accusative,N;ACC;SG;INDEF;MASC,N;ACC;SG;DEF;MASC,N;ACC;INDEF;PL;MASC,N;ACC;DEF;PL;MASC
+dative,N;DAT;SG;INDEF;MASC,N;DAT;SG;DEF;MASC,N;DAT;INDEF;PL;MASC,N;DAT;DEF;PL;MASC
+genitive,N;GEN;SG;INDEF;MASC,N;GEN;SG;DEF;MASC,N;GEN;INDEF;PL;MASC,N;GEN;DEF;PL;MASC
+"Danish: far, fader m  Faroese: faðir m  Icelandic: faðir m",,"Norwegian: far, fader m  Swedish: far, fader m",,

@@ -1,0 +1,9 @@
+0,1,2,3,4,5,6,7,8,9,10
+Weak,Strong,,,,,,,,,
+case,singular,plural,case,singular,plural,,,,,
+m,n,f,m,n,f,m,n,f,,
+nominative,ealda,ealde,ealde,ealdan,nom.,eald,ealde,eald,"ealda, -e",
+accusative,ealdan,ealde,ealdan,acc.,ealdne,eald,ealde,ealde,eald,"ealda, -e"
+genitive,ealdan,"ealdra, ealdena",gen.,ealdes,ealdes,ealdre,ealdra,,,
+dative,ealdan,ealdum,dat.,ealdum,ealdum,ealdre,ealdum,,,
+instrumental,ealde,,,,,,,,,

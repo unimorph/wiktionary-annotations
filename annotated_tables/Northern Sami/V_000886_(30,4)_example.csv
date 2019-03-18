@@ -1,0 +1,31 @@
+0,1,2,3
+"Even, đđ-đ gradation",,,
+infinitive,gođđat,,
+1st sing. present,gođan,,
+1st sing. past,gođđen,,
+infinitive,gođđat,,
+present participle,gođ'đi,,
+past participle,gođđan,,
+verbal noun,gođđan,,
+,present indicative,past indicative,imperative
+1st singular,V;PRS;IND;1;SG,V;PST;IND;1;SG,V;IMP;1;SG
+2nd singular,V;PRS;IND;2;SG,V;PST;IND;2;SG,V;IMP;2;SG
+3rd singular,V;PRS;IND;3;SG,V;PST;IND;3;SG,V;IMP;3;SG
+1st dual,V;PRS;IND;1;DU,V;PST;IND;1;DU,V;IMP;1;DU
+2nd dual,V;PRS;IND;2;DU,V;PST;IND;2;DU,V;IMP;2;DU
+3rd dual,V;PRS;IND;3;DU,V;PST;IND;3;DU,V;IMP;3;DU
+1st plural,V;PRS;IND;1;PL,V;PST;IND;1;PL,V;IMP;1;PL
+2nd plural,V;PRS;IND;2;PL,V;PST;IND;2;PL,V;IMP;2;PL
+3rd plural,V;PRS;IND;3;PL,V;PST;IND;3;PL,V;IMP;3;PL
+connegative,gođa,gođđan,gođa
+,conditional 1,conditional 2,potential
+1st singular,V;COND;1;SG,V;COND;1;SG;LGSPEC,V;POT;1;SG
+2nd singular,V;COND;2;SG,V;COND;2;SG;LGSPEC,V;POT;2;SG
+3rd singular,V;COND;3;SG,V;COND;3;SG;LGSPEC,V;POT;3;SG
+1st dual,V;COND;1;DU,V;COND;1;DU;LGSPEC,V;POT;1;DU
+2nd dual,V;COND;2;DU,V;COND;2;DU;LGSPEC,V;POT;2;DU
+3rd dual,V;COND;3;DU,V;COND;3;DU;LGSPEC,V;POT;3;DU
+1st plural,V;COND;1;PL,V;COND;1;PL;LGSPEC,V;POT;1;PL
+2nd plural,V;COND;2;PL,V;COND;2;PL;LGSPEC,V;POT;2;PL
+3rd plural,V;COND;3;PL,V;COND;3;PL;LGSPEC,V;POT;3;PL
+connegative,gođaše,gođale,gođaš

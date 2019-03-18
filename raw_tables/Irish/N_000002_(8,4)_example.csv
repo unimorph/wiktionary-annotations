@@ -1,0 +1,9 @@
+0,1,2,3
+Masculine dental stem,,,
+Case,Singular,Dual,Plural
+Nominative,fili,filidL,filid
+Vocative,fili,filidL,fileda
+Accusative,filidN,filidL,
+Genitive,filed,filedL,filedN
+Dative,filidL,filedaib,
+Forms marked L trigger lenition of a following adjective; forms marked N trigger nasalization.,,,

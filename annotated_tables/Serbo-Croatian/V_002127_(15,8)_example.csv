@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7
+V;NFIN,V.CVB;PRS,V.CVB;PST,V.MSDR,,,,
+Number,Singular,Plural,,,,,
+Person,1st,2nd,3rd,1st,2nd,3rd,
+Verbal forms,ja,ti,on / ona / ono,mi,vi,oni / one / ona,
+Present,V;PRS;1;SG,V;PRS;2;SG,V;PRS;3;SG,V;PRS;1;PL,V;PRS;2;PL,V;PRS;3;PL,
+Future,Future I,V;FUT;1;SG,V;FUT;2;SG,V;FUT;3;SG,V;FUT;1;PL,V;FUT;2;PL,V;FUT;3;PL
+Future II,V;FUT;1;SG;LGSPEC1,V;FUT;2;SG;LGSPEC1,V;FUT;3;SG;LGSPEC1,V;FUT;1;PL;LGSPEC1,V;FUT;2;PL;LGSPEC1,V;FUT;3;PL;LGSPEC1,
+Past,Perfect,V;PST;1;SG,V;PST;2;SG,V;PST;3;SG,V;PST;1;PL,V;PST;2;PL,V;PST;3;PL
+Pluperfect,V;PRF;PST;1;SG,V;PRF;PST;2;SG,V;PRF;PST;3;SG,V;PRF;PST;1;PL,V;PRF;PST;2;PL,V;PRF;PST;3;PL,
+Aorist,V;PST;1;SG;LGSPEC2,V;PST;2;SG;LGSPEC2,V;PST;3;SG;LGSPEC2,V;PST;1;PL;LGSPEC2,V;PST;2;PL;LGSPEC2,V;PST;3;PL;LGSPEC2,
+Conditional I,V;COND;1;SG,V;COND;2;SG,V;COND;3;SG,V;COND;1;PL,V;COND;2;PL,V;COND;3;PL,
+Conditional II,V;COND;PST;1;SG,V;COND;PST;2;SG,V;COND;PST;3;SG,V;COND;PST;1;PL,V;COND;PST;2;PL,V;COND;PST;3;PL,
+Imperative,—,V;IMP;2;SG,—,V;IMP;1;PL,V;IMP;2;PL,—,
+Active past participle,V.PTCP;ACT;PST;SG,V.PTCP;ACT;PST;PL,,,,,
+"1   For the masculine; agent of feminine or neuter gender would use the feminine and neuter gender forms of the active past participle and the auxiliary verb, respectively.",,,,,,,

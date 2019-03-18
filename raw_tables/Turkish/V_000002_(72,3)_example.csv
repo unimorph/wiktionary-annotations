@@ -1,0 +1,73 @@
+0,1,2
+Audio,,(file)
+,singular (tekil),plural (çoğul)
+nominative (yalın),at,atlar
+definite accusative (belirtme),atı,atları
+dative (yönelme),ata,atlara
+locative (bulunma),atta,atlarda
+ablative (çıkma),attan,atlardan
+genitive (tamlayan),atın,atların
+benim (my),singular (tekil),plural (çoğul)
+nominative (yalın),atım,atlarım
+definite accusative (belirtme),atımı,atlarımı
+dative (yönelme),atıma,atlarıma
+locative (bulunma),atımda,atlarımda
+ablative (çıkma),atımdan,atlarımdan
+genitive (tamlayan),atımın,atlarımın
+senin (your),singular (tekil),plural (çoğul)
+nominative (yalın),atın,atların
+definite accusative (belirtme),atını,atlarını
+dative (yönelme),atına,atlarına
+locative (bulunma),atında,atlarında
+ablative (çıkma),atından,atlarından
+genitive (tamlayan),atının,atlarının
+onun (her/his/its),singular (tekil),plural (çoğul)
+nominative (yalın),atı,atları
+definite accusative (belirtme),atını,atlarını
+dative (yönelme),atına,atlarına
+locative (bulunma),atında,atlarında
+ablative (çıkma),atından,atlarından
+genitive (tamlayan),atının,atlarının
+bizim (our),singular (tekil),plural (çoğul)
+nominative (yalın),atımız,atlarımız
+definite accusative (belirtme),atımızı,atlarımızı
+dative (yönelme),atımıza,atlarımıza
+locative (bulunma),atımızda,atlarımızda
+ablative (çıkma),atımızdan,atlarımızdan
+genitive (tamlayan),atımızın,atlarımızın
+sizin (your),singular (tekil),plural (çoğul)
+nominative (yalın),atınız,atlarınız
+definite accusative (belirtme),atınızı,atlarınızı
+dative (yönelme),atınıza,atlarınıza
+locative (bulunma),atınızda,atlarınızda
+ablative (çıkma),atınızdan,atlarınızdan
+genitive (tamlayan),atınızın,atlarınızın
+onların (their),singular (tekil),plural (çoğul)
+nominative (yalın),atları,atları
+definite accusative (belirtme),atlarını,atlarını
+dative (yönelme),atlarına,atlarına
+locative (bulunma),atlarında,atlarında
+ablative (çıkma),atlarından,atlarından
+genitive (tamlayan),atlarının,atlarının
+simple present,singular,plural
+ben (I am),atım,atlarım*
+sen (you are),atsın,atlarsın*
+o (he/she/it is),at / attır,atlar* / atlardır*
+biz (we are),atız,atlarız
+siz (you are),atsınız,atlarsınız
+onlar (they are),atlar,atlardır
+simple past,singular,plural
+ben (I was),attım,atlardım*
+sen (you were),attın,atlardın*
+o (he/she/it was),attı,atlardı*
+biz (we were),attık,atlardık
+siz (you were),attınız,atlardınız
+onlar (they were),attılar,atlardı
+indirect / unwitnessed past,singular,plural
+ben (I was),atmışım,atlarmışım*
+sen (you were),atmışsın,atlarmışsın*
+o (he/she/it was),atmış,atlarmış*
+biz (we were),atmışız,atlarmışız
+siz (you were),atmışsınız,atlarmışsınız
+onlar (they were),atmışlar,atlarmış
+"*Not used, but perhaps rarely - chiefly grammatical formations. Note: Plural forms are not used with adjectives.",,

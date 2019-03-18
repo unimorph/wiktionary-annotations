@@ -1,0 +1,39 @@
+0,1,2,3,4,5
+infinitive,V;NFIN,,,,
+present participle,V.PTCP;PRS,,,,
+past participle,V.PTCP;PST,,,,
+auxiliary,haben,,,,
+,indicative,,subjunctive,,
+present,V;IND;PRS;1;SG,V;IND;PRS;1;PL,i,V;SBJV;PRS;1;SG,V;SBJV;PRS;1;PL
+V;IND;PRS;2;SG,V;IND;PRS;2;PL,V;SBJV;PRS;2;SG,V;SBJV;PRS;2;PL,,
+V;IND;PRS;3;SG,V;IND;PRS;3;PL,V;SBJV;PRS;3;SG,V;SBJV;PRS;3;PL,,
+,,,,,
+preterite,V;IND;PST;1;SG,V;IND;PST;1;PL,ii,V;SBJV;PST;1;SG,V;SBJV;PST;1;PL
+V;IND;PST;2;SG,V;IND;PST;2;PL,V;SBJV;PST;2;SG,V;SBJV;PST;2;PL,,
+V;IND;PST;3;SG,V;IND;PST;3;PL,V;SBJV;PST;3;SG,V;SBJV;PST;3;PL,,
+,,,,,
+imperative,V;IMP;2;SG,V;IMP;2;PL,,,
+perfect,,,,,
+indicative,ich habe gegraust,wir haben gegraust,subjunctive,ich habe gegraust,wir haben gegraust
+du hast gegraust,ihr habt gegraust,du habest gegraust,ihr habet gegraust,,
+er hat gegraust,sie haben gegraust,er habe gegraust,sie haben gegraust,,
+pluperfect,,,,,
+indicative,ich hatte gegraust,wir hatten gegraust,subjunctive,ich hätte gegraust,wir hätten gegraust
+du hattest gegraust,ihr hattet gegraust,du hättest gegraust,ihr hättet gegraust,,
+er hatte gegraust,sie hatten gegraust,er hätte gegraust,sie hätten gegraust,,
+future i,,,,,
+infinitive,grausen werden,subjunctive i,ich werde grausen,wir werden grausen,
+du werdest grausen,ihr werdet grausen,,,,
+er werde grausen,sie werden grausen,,,,
+,,,,,
+indicative,ich werde grausen,wir werden grausen,subjunctive ii,ich würde grausen,wir würden grausen
+du wirst grausen,ihr werdet grausen,du würdest grausen,ihr würdet grausen,,
+er wird grausen,sie werden grausen,er würde grausen,sie würden grausen,,
+future ii,,,,,
+infinitive,gegraust haben werden,subjunctive i,ich werde gegraust haben,wir werden gegraust haben,
+du werdest gegraust haben,ihr werdet gegraust haben,,,,
+er werde gegraust haben,sie werden gegraust haben,,,,
+,,,,,
+indicative,ich werde gegraust haben,wir werden gegraust haben,subjunctive ii,ich würde gegraust haben,wir würden gegraust haben
+du wirst gegraust haben,ihr werdet gegraust haben,du würdest gegraust haben,ihr würdet gegraust haben,,
+er wird gegraust haben,sie werden gegraust haben,er würde gegraust haben,sie würden gegraust haben,,

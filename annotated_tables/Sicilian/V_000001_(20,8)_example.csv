@@ -1,0 +1,21 @@
+0,1,2,3,4,5,6,7
+,simple,compound,,,,,
+infinitive,V;NFIN,aviri statu,,,,,
+past participle,V.PTCP;PST,-,,,,,
+gerund,V.CVB;PRS,avennu statu,,,,,
+person,singular,plural,,,,,
+first,second,third,first,second,third,,
+indicative,,iu,tu,iddu/idda,nuiatri,vuiatri,iddi
+present,V;IND;PRS;1;SG,V;IND;PRS;2;SG,V;IND;PRS;3;SG,V;IND;PRS;1;PL,V;IND;PRS;2;PL,V;IND;PRS;3;PL,
+imperfect,V;IND;PST;1;SG;IPFV,V;IND;PST;2;SG;IPFV,V;IND;PST;3;SG;IPFV,V;IND;PST;1;PL;IPFV,V;IND;PST;2;PL;IPFV,V;IND;PST;3;PL;IPFV,
+preterite,V;IND;PST;1;SG;PFV,V;IND;PST;2;SG;PFV,V;IND;PST;3;SG;PFV,V;IND;PST;1;PL;PFV,V;IND;PST;2;PL;PFV,V;IND;PST;3;PL;PFV,
+conditional,V;1;SG;COND,V;2;SG;COND,V;3;SG;COND,V;1;PL;COND,V;2;PL;COND,V;3;PL;COND,
+compoundtenses,present perfect,Use the present tense of aviri plus the past participle,,,,,
+past perfect,Use the imperfect tense of aviri plus the past participle,,,,,,
+past conditional,Use the conditional tense of aviri plus the past participle,,,,,,
+subjunctive,,iu,tu,iddu/idda,nuiatri,vuiatri,iddi
+present,V;1;SG;COND,V;2;SG;COND,V;3;SG;COND,V;1;PL;COND,V;2;PL;COND,V;3;PL;COND,
+imperfect,V;SBJV;PST;1;SG;IPFV,V;SBJV;PST;2;SG;IPFV,V;SBJV;PST;3;SG;IPFV,V;SBJV;PST;1;PL;IPFV,V;SBJV;PST;2;PL;IPFV,V;SBJV;PST;3;PL;IPFV,
+compoundtenses,present perfect,Use the imperfect subjunctive of aviri plus the past participle,,,,,
+imperative,-,tu,vassìa,nuiatri,vuiatri,-,
+,V;2;SG;IMP,V;3;SG;IMP,V;1;PL;IMP,V;2;PL;IMP,,,

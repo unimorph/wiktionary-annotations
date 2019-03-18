@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7
+Number,Singular,,Plural,,,,
+Case / Gender,Masculine,Feminine,Neuter,Masculine,Feminine,Neuter,
+nominative,gibber,gibbera,gibberum,,gibberī,gibberae,gibbera
+genitive,gibberī,gibberae,gibberī,gibberōrum,gibberārum,gibberōrum,
+dative,gibberō,gibberō,gibberīs,,,,
+accusative,gibberum,gibberam,gibberum,gibberōs,gibberās,gibbera,
+ablative,gibberō,gibberā,gibberō,gibberīs,,,
+vocative,gibber,gibbera,gibberum,gibberī,gibberae,gibbera,
+Case,Singular,Plural,,,,,
+nominative,gibber,gibberēs,,,,,
+genitive,gibberis,gibberum,,,,,
+dative,gibberī,gibberibus,,,,,
+accusative,gibberem,gibberēs,,,,,
+ablative,gibbere,gibberibus,,,,,
+vocative,gibber,gibberēs,,,,,

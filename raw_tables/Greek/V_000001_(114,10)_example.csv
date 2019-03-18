@@ -1,0 +1,115 @@
+0,1,2,3,4,5,6,7,8,9
+number,singular,dual,plural,,,,,,
+,first,second,third,second,third,first,second,third,
+active,indicative,τῐ́θημῐ,τῐ́θης,τῐ́θησῐ(ν),τῐ́θετον,τῐ́θετον,τῐ́θεμεν,τῐ́θετε,τῐθέᾱσῐ(ν)
+subjunctive,τῐθῶ,τῐθῇς,τῐθῇ,τῐθῆτον,τῐθῆτον,τῐθῶμεν,τῐθῆτε,τῐθῶσῐ(ν),
+optative,τῐθείην,τῐθείης,τῐθείη,"τῐθεῖτον,τῐθείητον","τῐθείτην,τῐθειήτην","τῐθεῖμεν,τῐθείημεν","τῐθεῖτε,τῐθείητε","τῐθεῖεν,τῐθείησᾰν",
+imperative,,τῐ́θει,τῐθέτω,τῐ́θετον,τῐθέτων,,τῐ́θετε,τῐθέντων,
+middle/passive,indicative,τῐ́θεμαι,τῐ́θεσαι,τῐ́θεται,τῐ́θεσθον,τῐ́θεσθον,τῐθέμεθᾰ,τῐ́θεσθε,τῐ́θενται
+subjunctive,τῐθῶμαι,τῐθῇ,τῐθῆται,τῐθῆσθον,τῐθῆσθον,τῐθώμεθᾰ,τῐθῆσθε,τῐθῶνται,
+optative,τῐθείμην,τῐθεῖο,"τῐθεῖτο,τῐθοῖτο","τῐθεῖσθον,τῐθοῖσθον","τῐθείσθην,τῐθοίσθην","τῐθείμεθᾰ,τῐθοίμεθᾰ","τῐθεῖσθε,τῐθοῖσθε","τῐθεῖντο,τῐθοῖντο",
+imperative,,τῐ́θεσο,τῐθέσθω,τῐ́θεσθον,τῐθέσθων,,τῐ́θεσθε,τῐθέσθων,
+,active,middle/passive,,,,,,,
+infinitive,τῐθέναι,τῐ́θεσθαι,,,,,,,
+participle,m,τῐθείς,τῐθέμενος,,,,,,
+f,τῐθεῖσᾰ,τῐθεμένη,,,,,,,
+n,τῐθέν,τῐθέμενον,,,,,,,
+Notes:,"This table gives Attic inflectional endings. For conjugation in dialects other than Attic, see Appendix:Ancient Greek dialectal conjugation.",,,,,,,,
+number,singular,dual,plural,,,,,,
+,first,second,third,second,third,first,second,third,
+active,indicative,ἐτῐ́θην,ἐτῐ́θεις,ἐτῐ́θει,ἐτῐ́θετον,ἐτῐθέτην,ἐτῐ́θεμεν,ἐτῐ́θετε,ἐτῐ́θεσᾰν
+middle/passive,indicative,ἐτῐθέμην,ἐτῐ́θεσο,ἐτῐ́θετο,ἐτῐ́θεσθον,ἐτῐθέσθην,ἐτῐθέμεθᾰ,ἐτῐ́θεσθε,ἐτῐ́θεντο
+Notes:,"This table gives Attic inflectional endings. For conjugation in dialects other than Attic, see Appendix:Ancient Greek dialectal conjugation.",,,,,,,,
+number,singular,dual,plural,,,,,,
+,first,second,third,second,third,first,second,third,
+active,indicative,τῐ́θεσκον,τῐ́θεσκες,τῐ́θεσκε(ν),τῐθέσκετον,τῐθεσκέτην,τῐθέσκομεν,τῐθέσκετε,τῐ́θεσκον
+middle/passive,indicative,τῐθεσκόμην,τῐθέσκου,τῐθέσκετο,τῐθέσκεσθον,τῐθεσκέσθην,τῐθεσκόμεθᾰ,τῐθέσκεσθε,τῐθέσκοντο
+Notes:,"This table gives Attic inflectional endings. For conjugation in dialects other than Attic, see Appendix:Ancient Greek dialectal conjugation.",,,,,,,,
+number,singular,dual,plural,,,,,,
+,first,second,third,second,third,first,second,third,
+active,indicative,ἐτῐ́θεον,ἐτῐ́θεες,ἐτῐ́θεε(ν),ἐτῐθέετον,ἐτῐθεέτην,ἐτῐθέομεν,ἐτῐθέετε,ἐτῐ́θεον
+middle/passive,indicative,ἐτῐθεόμην,ἐτῐθέου,ἐτῐθέετο,ἐτῐθέεσθον,ἐτῐθεέσθην,ἐτῐθεόμεθᾰ,ἐτῐθέεσθε,ἐτῐθέοντο
+Notes:,"This table gives Attic inflectional endings. For conjugation in dialects other than Attic, see Appendix:Ancient Greek dialectal conjugation.",,,,,,,,
+number,singular,dual,plural,,,,,,
+,first,second,third,second,third,first,second,third,
+active,indicative,ἐτῐ́θουν,ἐτῐ́θεις,ἐτῐ́θει,ἐτῐθεῖτον,ἐτῐθείτην,ἐτῐθοῦμεν,ἐτῐθεῖτε,ἐτῐ́θουν
+middle/passive,indicative,ἐτῐθούμην,ἐτῐθοῦ,ἐτῐθεῖτο,ἐτῐθεῖσθον,ἐτῐθείσθην,ἐτῐθούμεθᾰ,ἐτῐθεῖσθε,ἐτῐθοῦντο
+Notes:,"This table gives Attic inflectional endings. For conjugation in dialects other than Attic, see Appendix:Ancient Greek dialectal conjugation.",,,,,,,,
+number,singular,dual,plural,,,,,,
+,first,second,third,second,third,first,second,third,
+active,indicative,θήσω,θήσεις,θήσει,θήσετον,θήσετον,θήσομεν,θήσετε,θήσουσῐ(ν)
+optative,θήσοιμῐ,θήσοις,θήσοι,θήσοιτον,θησοίτην,θήσοιμεν,θήσοιτε,θήσοιεν,
+middle,indicative,θήσομαι,"θήσῃ,θήσει",θήσεται,θήσεσθον,θήσεσθον,θησόμεθᾰ,θήσεσθε,θήσονται
+optative,θησοίμην,θήσοιο,θήσοιτο,θήσοισθον,θησοίσθην,θησοίμεθᾰ,θήσοισθε,θήσοιντο,
+passive,indicative,τεθήσομαι,τεθήσῃ,τεθήσεται,τεθήσεσθον,τεθήσεσθον,τεθησόμεθᾰ,τεθήσεσθε,τεθήσονται
+optative,τεθησοίμην,τεθήσοιο,τεθήσοιτο,τεθήσοισθον,τεθησοίσθην,τεθησοίμεθᾰ,τεθήσοισθε,τεθήσοιντο,
+,active,middle,passive,,,,,,
+infinitive,θήσειν,θήσεσθαι,τεθήσεσθαι,,,,,,
+participle,m,θήσων,θησόμενος,τεθησόμενος,,,,,
+f,θήσουσᾰ,θησομένη,τεθησομένη,,,,,,
+n,θῆσον,θησόμενον,τεθησόμενον,,,,,,
+Notes:,"This table gives Attic inflectional endings. For conjugation in dialects other than Attic, see Appendix:Ancient Greek dialectal conjugation.",,,,,,,,
+number,singular,dual,plural,,,,,,
+,first,second,third,second,third,first,second,third,
+active,indicative,,,,ἔθετον,ἐθέτην,ἔθεμεν,ἔθετε,ἔθεσᾰν
+subjunctive,θῶ,θῇς,θῇ,θῆτον,θῆτον,θῶμεν,θῆτε,θῶσῐ(ν),
+optative,θείην,θείης,θείη,"θεῖτον,θείητον","θείτην,θειήτην","θεῖμεν,θείημεν","θεῖτε,θείητε","θεῖεν,θείησᾰν",
+imperative,,θές,θέτω,θέτον,θέτων,,θέτε,θέντων,
+middle,indicative,ἐθέμην,ἔθου,ἔθετο,ἔθεσθον,ἐθέσθην,ἐθέμεθᾰ,ἔθεσθε,ἔθεντο
+subjunctive,θῶμαι,θῇ,θῆται,θῆσθον,θῆσθον,θώμεθᾰ,θῆσθε,θῶνται,
+optative,θείμην,θεῖο,"θεῖτο,θοῖτο",θεῖσθον,θείσθην,θείμεθᾰ,θεῖσθε,θεῖντο,
+imperative,,θοῦ,θέσθω,θέσθον,θέσθων,,θέσθε,θέσθων,
+passive,indicative,ἐτέθην,ἐτέθης,ἐτέθη,ἐτέθητον,ἐτεθήτην,ἐτέθημεν,ἐτέθητε,ἐτέθησᾰν
+subjunctive,τεθῶ,τεθῇς,τεθῇ,τεθῆτον,τεθῆτον,τεθῶμεν,τεθῆτε,τεθῶσῐ(ν),
+optative,τεθείην,τεθείης,τεθείη,"τεθεῖτον,τεθείητον","τεθείτην,τεθειήτην","τεθεῖμεν,τεθείημεν","τεθεῖτε,τεθείητε","τεθεῖεν,τεθείησᾰν",
+imperative,,τέθηθῐ,τεθήτω,τέθητον,τεθήτων,,τέθητε,τεθέντων,
+,active,middle,passive,,,,,,
+infinitive,θεῖναι,θέσθαι,τεθῆναι,,,,,,
+participle,m,θείς,θέμενος,τεθείς,,,,,
+f,θεῖσᾰ,θεμένη,τεθεῖσᾰ,,,,,,
+n,θέν,θέμενον,τεθέν,,,,,,
+Notes:,"This table gives Attic inflectional endings. For conjugation in dialects other than Attic, see Appendix:Ancient Greek dialectal conjugation.",,,,,,,,
+number,singular,dual,plural,,,,,,
+,first,second,third,second,third,first,second,third,
+active,indicative,ἔθηκᾰ,ἔθηκᾰς,ἔθηκε(ν),ἐθήκᾰτον,ἐθηκᾰ́την,ἐθήκᾰμεν,ἐθήκᾰτε,ἔθηκᾰν
+middle,indicative,ἐθηκᾰ́μην,ἐθήκω,ἐθήκᾰτο,ἐθήκᾰσθον,ἐθηκᾰ́σθην,ἐθηκᾰ́μεθᾰ,ἐθήκᾰσθε,ἐθήκᾰντο
+Notes:,"This table gives Attic inflectional endings. For conjugation in dialects other than Attic, see Appendix:Ancient Greek dialectal conjugation.",,,,,,,,
+number,singular,dual,plural,,,,,,
+,first,second,third,second,third,first,second,third,
+active,indicative,θῆκᾰ,θῆκᾰς,θῆκε(ν),θήκᾰτον,θηκᾰ́την,θήκᾰμεν,θήκᾰτε,θῆκᾰν
+middle,indicative,θηκᾰ́μην,θήκω,θήκᾰτο,θήκᾰσθον,θηκᾰ́σθην,θηκᾰ́μεθᾰ,θήκᾰσθε,θήκᾰντο
+Notes:,"This table gives Attic inflectional endings. For conjugation in dialects other than Attic, see Appendix:Ancient Greek dialectal conjugation.",,,,,,,,
+number,singular,dual,plural,,,,,,
+,first,second,third,second,third,first,second,third,
+active,indicative,τέθηκᾰ,τέθηκᾰς,τέθηκε(ν),τεθήκᾰτον,τεθήκᾰτον,τεθήκᾰμεν,τεθήκᾰτε,τεθήκᾱσῐ(ν)
+subjunctive,τεθήκω,τεθήκῃς,τεθήκῃ,τεθήκητον,τεθήκητον,τεθήκωμεν,τεθήκητε,τεθήκωσῐ(ν),
+optative,"τεθήκοιμῐ,τεθηκοίην","τεθήκοις,τεθηκοίης","τεθήκοι,τεθηκοίη",τεθήκοιτον,τεθηκοίτην,τεθήκοιμεν,τεθήκοιτε,τεθήκοιεν,
+imperative,,τέθηκε,τεθηκέτω,τεθήκετον,τεθηκέτων,,τεθήκετε,τεθηκόντων,
+middle/passive,indicative,τέθειμαι,τέθεισαι,τέθειται,τέθεισθον,τέθεισθον,τεθείμεθᾰ,τέθεισθε,τέθεινται
+subjunctive,τεθειμένος ὦ,τεθειμένος ᾖς,τεθειμένος ᾖ,τεθειμένω ἦτον,τεθειμένω ἦτον,τεθειμένοι ὦμεν,τεθειμένοι ἦτε,τεθειμένοι ὦσῐ(ν),
+optative,τεθειμένος εἴην,τεθειμένος εἴης,τεθειμένος εἴη,τεθειμένοι εἴητον/εἶτον,τεθειμένω εἰήτην/εἴτην,τεθειμένοι εἴημεν/εἶμεν,τεθειμένοι εἴητε/εἶτε,τεθειμένοι εἴησᾰν/εἶεν,
+imperative,,τέθεισο,τεθείσθω,τέθεισθον,τεθείσθων,,τέθεισθε,τεθείσθων,
+,active,middle/passive,,,,,,,
+infinitive,τεθηκέναι,τέθεισθαι,,,,,,,
+participle,m,τεθηκώς,τεθειμένος,,,,,,
+f,τεθηκυῖᾰ,τεθειμένη,,,,,,,
+n,τεθηκός,τεθειμένον,,,,,,,
+Notes:,"This table gives Attic inflectional endings. For conjugation in dialects other than Attic, see Appendix:Ancient Greek dialectal conjugation.",,,,,,,,
+number,singular,dual,plural,,,,,,
+,first,second,third,second,third,first,second,third,
+active,indicative,τέθεικᾰ,τέθεικᾰς,τέθεικε(ν),τεθείκᾰτον,τεθείκᾰτον,τεθείκᾰμεν,τεθείκᾰτε,τεθείκᾱσῐ(ν)
+subjunctive,τεθείκω,τεθείκῃς,τεθείκῃ,τεθείκητον,τεθείκητον,τεθείκωμεν,τεθείκητε,τεθείκωσῐ(ν),
+optative,"τεθείκοιμῐ,τεθεικοίην","τεθείκοις,τεθεικοίης","τεθείκοι,τεθεικοίη",τεθείκοιτον,τεθεικοίτην,τεθείκοιμεν,τεθείκοιτε,τεθείκοιεν,
+imperative,,τέθεικε,τεθεικέτω,τεθείκετον,τεθεικέτων,,τεθείκετε,τεθεικόντων,
+middle/passive,indicative,τέθειμαι,τέθεισαι,τέθειται,τέθεισθον,τέθεισθον,τεθείμεθᾰ,τέθεισθε,τέθεινται
+subjunctive,τεθειμένος ὦ,τεθειμένος ᾖς,τεθειμένος ᾖ,τεθειμένω ἦτον,τεθειμένω ἦτον,τεθειμένοι ὦμεν,τεθειμένοι ἦτε,τεθειμένοι ὦσῐ(ν),
+optative,τεθειμένος εἴην,τεθειμένος εἴης,τεθειμένος εἴη,τεθειμένοι εἴητον/εἶτον,τεθειμένω εἰήτην/εἴτην,τεθειμένοι εἴημεν/εἶμεν,τεθειμένοι εἴητε/εἶτε,τεθειμένοι εἴησᾰν/εἶεν,
+imperative,,τέθεισο,τεθείσθω,τέθεισθον,τεθείσθων,,τέθεισθε,τεθείσθων,
+,active,middle/passive,,,,,,,
+infinitive,τεθεικέναι,τέθεισθαι,,,,,,,
+participle,m,τεθεικώς,τεθειμένος,,,,,,
+f,τεθεικυῖᾰ,τεθειμένη,,,,,,,
+n,τεθεικός,τεθειμένον,,,,,,,
+Notes:,"This table gives Attic inflectional endings. For conjugation in dialects other than Attic, see Appendix:Ancient Greek dialectal conjugation.",,,,,,,,
+ᾰ̓γωνοθετέω ‎(agōnothetéō)  ᾰ̓́θετος ‎(áthetos)  ᾱ̓θλοθετέω ‎(āthlothetéō)  ἀκμοθέτης ‎(akmothétēs)  ᾰ̓μφῐτῐ́θημῐ ‎(amphitíthēmi)  ᾰ̓νᾰτῐ́θημῐ ‎(anatíthēmi)  ᾰ̓ντῐτῐ́θημῐ ‎(antitíthēmi)  ᾰ̓οιδοθέτης ‎(aoidothétēs)  ᾰ̓ποτῐ́θημῐ ‎(apotíthēmi)  ᾰ̔ρμᾰτοθεσῐ́ᾱ ‎(harmatothesíā)  ᾰ̓στρόθετος ‎(astróthetos)  αὐλοθετέω ‎(aulothetéō)  αὐτόθετος ‎(autóthetos)  δεινοθέτης ‎(deinothétēs)  διᾰγωνοθετέω ‎(diagōnothetéō)  δῐᾰτῐ́θημῐ ‎(diatíthēmi)  δῐκαιοθέτης ‎(dikaiothétēs)  δῠ́σθετος ‎(dústhetos)  ἐγχειρῐ́θετος ‎(enkheiríthetos)  εἰστῐ́θημῐ ‎(eistíthēmi)  ἐκτῐ́θημῐ ‎(ektíthēmi)  ἐλαιοθετέω ‎(elaiothetéō)  ἐντῐ́θημῐ ‎(entíthēmi)  ἐπῐτῐ́θημῐ ‎(epitíthēmi),,εὔθετος ‎(eúthetos)  ζωοθετέω ‎(zōothetéō)  θεσμοθετέω ‎(thesmothetéō)  θημωνοθετέω ‎(thēmōnothetéō)  θῠγᾰτροθετέω ‎(thugatrothetéō)  ῐ̔εροθετέω ‎(hierothetéō)  κᾰτᾰτῐ́θημῐ ‎(katatíthēmi)  κεντροθεσῐ́ᾱ ‎(kentrothesíā)  κρεοθέτης ‎(kreothétēs)  λῐθοθεσῐ́ᾱ ‎(lithothesíā)  λογοθετέω ‎(logothetéō)  μελοθεσῐ́ᾱ ‎(melothesíā)  μετᾰτῐ́θημῐ ‎(metatíthēmi)  μοιροθεσῐ́ᾱ ‎(moirothesíā)  νομοθετέω ‎(nomothetéō)  νουθετέω ‎(nouthetéō)  οἰκόθετος ‎(oikóthetos)  οἰωνοθέτης ‎(oiōnothétēs)  ὀνομᾰτοθετέω ‎(onomatothetéō)  ὀργᾰνοθετέω ‎(organothetéō)  ὁρῐοθετέω ‎(horiothetéō)  ὁροθετέω ‎(horothetéō)  οὐρᾰνοθεσῐ́ᾱ ‎(ouranothesíā)  πᾰλαίθετος ‎(palaíthetos),,πᾰρᾰτῐ́θημῐ ‎(paratíthēmi)  πᾰρεμβολοθέτης ‎(parembolothétēs)  πεντάθετος ‎(pentáthetos)  περιτῐ́θημῐ ‎(peritíthēmi)  προστῐ́θημῐ ‎(prostíthēmi)  προτῐ́θημῐ ‎(protíthēmi)  σημόθετος ‎(sēmóthetos)  στηριγμοθέτης ‎(stērigmothétēs)  σῠμψηφοθετέω ‎(sumpsēphothetéō)  σῠνττῐ́θημῐ ‎(sunttíthēmi)  σφαιροθεσῐ́ᾱ ‎(sphairothesíā)  τοποθετέω ‎(topothetéō)  τρῐ́θετος ‎(tríthetos)  υἱόθετος ‎(huióthetos)  ῠ̔μνοθέτης ‎(humnothétēs)  ῠ̔περτῐ́θημῐ ‎(hupertíthēmi)  ῠ̔ποτῐ́θημῐ ‎(hupotíthēmi)  χειροθεσῐ́ᾱ ‎(kheirothesíā)  χωροθεσῐ́ᾱ ‎(khōrothesíā)  ψηφοθέτης ‎(psēphothétēs)  ὠμοθετέω ‎(ōmothetéō)  ᾠοθεσῐ́ᾱ ‎(ōiothesíā)  ὡροθετέω ‎(hōrothetéō),,,,,
+ἔθω ‎(éthō)  θέμᾰ ‎(théma)  θέμεθλᾰ ‎(thémethla)  θεμέλῐος ‎(themélios)  θέμις ‎(thémis)  θεός ‎(theós),,θέσῐς ‎(thésis)  θέσμῐον ‎(thésmion)  θέσμῐος ‎(thésmios)  Θέσμῐος ‎(Thésmios)  θεσμός ‎(thesmós)  θετέος ‎(thetéos),,θετήρ ‎(thetḗr)  θέτης ‎(thétēs)  θετῐκός ‎(thetikós)  θετός ‎(thetós)  θήκη ‎(thḗkē)  θῆμᾰ ‎(thêma),,θημών ‎(thēmṓn)  θής ‎(thḗs)  Θησεύς ‎(Thēseús),,,

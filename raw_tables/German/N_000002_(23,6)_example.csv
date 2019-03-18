@@ -1,0 +1,24 @@
+0,1,2,3,4,5
+audio (Austria),,(file),,,
+,singular,plural,,,
+,indef.,def.,noun,def.,noun
+nominative,ein,das,Alter,die,Alter
+genitive,eines,des,Alters,der,Alter
+dative,einem,dem,Alter,den,Altern
+accusative,ein,das,Alter,die,Alter
+,singular,plural,,,
+m gender,strong declension,,,,
+nominative,Alter,Alte,,,
+genitive,Alten,Alter,,,
+dative,Altem,Alten,,,
+accusative,Alten,Alte,,,
+,weak declension,,,,
+nominative,der,Alte,die,Alten,
+genitive,des,Alten,der,Alten,
+dative,dem,Alten,den,Alten,
+accusative,den,Alten,die,Alten,
+,mixed declension,,,,
+nominative,ein,Alter,keine,Alten,
+genitive,eines,Alten,keiner,Alten,
+dative,einem,Alten,keinen,Alten,
+accusative,einen,Alten,keine,Alten,

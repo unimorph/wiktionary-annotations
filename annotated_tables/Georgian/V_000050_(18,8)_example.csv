@@ -1,0 +1,19 @@
+0,1,2,3,4,5,6,7
+,perfective,imperfective,,,,,
+verbal noun,V;V.MSDR;PRF,V;V.MSDR;IPFV,,,,,
+person,singular,plural,,,,,
+first,second,third,first,second,third,,
+screeves,მე (me),შენ (šen),ის (is),ჩვენ (čven),თქვენ (tkven),ისინი (isini),
+present,present,V;1;SG;IND;PRS,V;2;SG;IND;PRS,V;3;SG;IND;PRS,V;1;PL;IND;PRS,V;2;PL;IND;PRS,V;3;PL;IND;PRS
+imperfect,V;1;SG;IND;IPFV,V;2;SG;IND;IPFV,V;3;SG;IND;IPFV,V;1;PL;IND;IPFV,V;2;PL;IND;IPFV,V;3;PL;IND;IPFV,
+present subjunctive,V;1;SG;SBJV;PRS,V;2;SG;SBJV;PRS,V;3;SG;SBJV;PRS,V;1;PL;SBJV;PRS,V;2;PL;SBJV;PRS,V;3;PL;SBJV;PRS,
+future,future,V;1;SG;IND;FUT,V;2;SG;IND;FUT,V;3;SG;IND;FUT,V;1;PL;IND;FUT,V;2;PL;IND;FUT,V;3;PL;IND;FUT
+conditional,V;1;SG;COND,V;2;SG;COND,V;3;SG;COND,V;1;PL;COND,V;2;PL;COND,V;3;PL;COND,
+future subjunctive,V;1;SG;SBJV;FUT,V;2;SG;SBJV;FUT,V;3;SG;SBJV;FUT,V;1;PL;SBJV;FUT,V;2;PL;SBJV;FUT,V;3;PL;SBJV;FUT,
+aorist,aorist,V;1;SG;IND;PST;PFV,V;2;SG;IND;PST;PFV,V;3;SG;IND;PST;PFV,V;1;PL;IND;PST;PFV,V;2;PL;IND;PST;PFV,V;3;PL;IND;PST;PFV
+optative,V;1;SG;OPT,V;2;SG;OPT,V;3;SG;OPT,V;1;PL;OPT,V;2;PL;OPT,V;3;PL;OPT,
+perfect,perfect,V;1;SG;IND;PRF,V;2;SG;IND;PRF,V;3;SG;IND;PRF,V;1;PL;IND;PRF,V;2;PL;IND;PRF,V;3;PL;IND;PRF
+pluperfect,V;1;SG;IND;PST;PRF,V;2;SG;IND;PST;PRF,V;3;SG;IND;PST;PRF,V;1;PL;IND;PST;PRF,V;2;PL;IND;PST;PRF,V;3;PL;IND;PST;PRF,
+perfect subjunctive,V;1;SG;SBJV;PRF,V;2;SG;SBJV;PRF,V;3;SG;SBJV;PRF,V;1;PL;SBJV;PRF,V;2;PL;SBJV;PRF,V;3;PL;SBJV;PRF,
+imperative,–,შენ (šen),–,ჩვენ (čven),თქვენ (tkven),–,
+—,V;2;SG;IMP,—,V;1;PL;IMP,V;2;PL;IMP,,,

@@ -1,0 +1,5 @@
+0,1,2,3
+,singular,,plural
+direct,N;NOM;SG,N;NOM;PL,
+oblique,N;(non)NOM;SG,N;(non)NOM;PL,
+vocative,N;VOC;SG,N;VOC;PL,

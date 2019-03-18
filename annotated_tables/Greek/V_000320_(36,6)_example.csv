@@ -1,0 +1,37 @@
+0,1,2,3,4,5
+,Present →,Imperfect →,Continuous future →,Continuous subjunctive →,Imperative →
+1s,V;1;SG;IPFV;PRS,V;1;SG;IPFV;PST,V;1;SG;IPFV;FUT,V;1;SG;IPFV;SBJV,
+2s,V;2;SG;IPFV;PRS,V;2;SG;IPFV;PST,V;2;SG;IPFV;FUT,V;2;SG;IPFV;SBJV,V;2;SG;IMP
+3s,V;3;SG;IPFV;PRS,V;3;SG;IPFV;PST,V;3;SG;IPFV;FUT,V;3;SG;IPFV;SBJV,
+,,,,,
+1p,V;1;PL;IPFV;PRS,V;1;PL;IPFV;PST,V;1;PL;IPFV;FUT,V;1;PL;IPFV;SBJV,
+2p,V;2;PL;IPFV;PRS,V;2;PL;IPFV;PST,V;2;PL;IPFV;FUT,V;2;PL;IPFV;SBJV,V;2;PL;IMP
+3p,V;3;PL;IPFV;PRS,V;3;PL;IPFV;PST,V;3;PL;IPFV;FUT,V;3;PL;IPFV;SBJV,
+,,,,,
+,Dependent †,Simple past →,Simple future →,Simple subjunctive →,Imperative →
+1s,ωφελήσω,V;1;SG;PFV;PST,V;1;SG;PFV;FUT,V;1;SG;PFV;SBJV,
+2s,ωφελήσεις,V;2;SG;PFV;PST,V;2;SG;PFV;FUT,V;2;SG;PFV;SBJV,V;2;SG;IMP
+3s,ωφελήσει,V;3;SG;PFV;PST,V;3;SG;PFV;FUT,V;3;SG;PFV;SBJV,
+,,,,,
+1p,"ωφελήσουμε, ωφελήσομε",V;1;PL;PFV;PST,V;1;PL;PFV;FUT,V;1;PL;PFV;SBJV,
+2p,ωφελήσετε,V;2;PL;PFV;PST,V;2;PL;PFV;FUT,V;2;PL;PFV;SBJV,V;2;PL;IMP
+3p,"ωφελήσουν, ωφελήσουνε",V;3;PL;PFV;PST,V;3;PL;PFV;FUT,V;3;PL;PFV;SBJV,
+,,,,,
+,Perfect →,Pluperfect →,Future perfect →,Subjunctive →,
+1s,V;1;SG;PRF;PRS,V;1;SG;PRF;PST,V;1;SG;PRF;FUT,V;1;SG;PRF;SBJV,
+2s,V;2;SG;PRF;PRS,V;2;SG;PRF;PST,V;2;SG;PRF;FUT,V;2;SG;PRF;SBJV,
+3s,V;3;SG;PRF;PRS,V;3;SG;PRF;PST,V;3;SG;PRF;FUT,V;3;SG;PRF;SBJV,
+,,,,,
+1p,V;1;PL;PRF;PRS,V;1;PL;PRF;PST,V;1;PL;PRF;FUT,V;1;PL;PRF;SBJV,
+2p,V;2;PL;PRF;PRS,V;2;PL;PRF;PST,V;2;PL;PRF;FUT,V;2;PL;PRF;SBJV,
+3p,V;3;PL;PRF;PRS,V;3;PL;PRF;PST,V;3;PL;PRF;FUT,V;3;PL;PRF;SBJV,
+,,,,,
+,Alternative* perfect:,"έχω (έχεις, έχει, έχουμε, έχετε, έχουν) ωφελημένο",,,
+,pluperfect:,"είχα (είχες, είχε , είχαμε, είχατε, είχαν) ωφελημένο",,,
+,future perfect:,"θα έχω (θα έχεις, θα έχει, θα έχουμε, θα έχετε, θα έχουν) ωφελημένο",,,
+,subjunctive:,"να έχω (να έχεις, να έχει, να έχουμε, να έχετε, να έχουν) ωφελημένο",,,
+,,,,,
+,Participle:,V;PTCP,Non-finite ‡,V;NFIN,"73, ησ, 2B1d, 2Β1"
+,,,,,
+,"This table is templatised, some forms shown may be rare or non-existant. Multiple forms are usually shown in order of reducing frequency.†   The dependent is not used alone, it is used to form future simple, perfective subjunctive and other forms.‡   The non-finite or aorist infinitive form is the same as the 3rd person singular dependent form, used with the auxiliary verb έχω ‎(écho) it produces perfect tense forms.*   Used with transitive senses",,,,
+,,,,,

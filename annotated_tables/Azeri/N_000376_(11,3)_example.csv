@@ -1,0 +1,12 @@
+0,1,2
+Other scripts,,
+Cyrillic,факүлтә,
+Roman,fakültə,
+Perso-Arabic,فاکولته,
+,singular,plural
+absolute,N;NOM;SG,N;NOM;PL
+definite accusative,N;DEF;ACC;SG,N;DEF;ACC;PL
+dative,N;DEF;ACC;SG,N;DEF;ACC;PL
+locative,N;LOC;SG,N;LOC;PL
+ablative,N;ABL;SG,N;ABL;PL
+definite genitive,N;DEF;GEN;SG,N;DEF;GEN;PL

@@ -1,0 +1,48 @@
+0,1,2,3,4,5
+Audio (Austria),,(file),,,
+Audio,,(file),,,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist geplant,sie ist geplant,es ist geplant,sie sind geplant,
+strong declension (without article),nominative,geplanter,geplante,geplantes,geplante
+genitive,geplanten,geplanter,geplanten,geplanter,
+dative,geplantem,geplanter,geplantem,geplanten,
+accusative,geplanten,geplante,geplantes,geplante,
+weak declension (with definite article),nominative,der geplante,die geplante,das geplante,die geplanten
+genitive,des geplanten,der geplanten,des geplanten,der geplanten,
+dative,dem geplanten,der geplanten,dem geplanten,den geplanten,
+accusative,den geplanten,die geplante,das geplante,die geplanten,
+mixed declension (with indefinite article),nominative,ein geplanter,eine geplante,ein geplantes,(keine) geplanten
+genitive,eines geplanten,einer geplanten,eines geplanten,(keiner) geplanten,
+dative,einem geplanten,einer geplanten,einem geplanten,(keinen) geplanten,
+accusative,einen geplanten,eine geplante,ein geplantes,(keine) geplanten,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist geplanter,sie ist geplanter,es ist geplanter,sie sind geplanter,
+strong declension (without article),nominative,geplanterer,geplantere,geplanteres,geplantere
+genitive,geplanteren,geplanterer,geplanteren,geplanterer,
+dative,geplanterem,geplanterer,geplanterem,geplanteren,
+accusative,geplanteren,geplantere,geplanteres,geplantere,
+weak declension (with definite article),nominative,der geplantere,die geplantere,das geplantere,die geplanteren
+genitive,des geplanteren,der geplanteren,des geplanteren,der geplanteren,
+dative,dem geplanteren,der geplanteren,dem geplanteren,den geplanteren,
+accusative,den geplanteren,die geplantere,das geplantere,die geplanteren,
+mixed declension (with indefinite article),nominative,ein geplanterer,eine geplantere,ein geplanteres,(keine) geplanteren
+genitive,eines geplanteren,einer geplanteren,eines geplanteren,(keiner) geplanteren,
+dative,einem geplanteren,einer geplanteren,einem geplanteren,(keinen) geplanteren,
+accusative,einen geplanteren,eine geplantere,ein geplanteres,(keine) geplanteren,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist am geplantesten,sie ist am geplantesten,es ist am geplantesten,sie sind am geplantesten,
+strong declension (without article),nominative,geplantester,geplanteste,geplantestes,geplanteste
+genitive,geplantesten,geplantester,geplantesten,geplantester,
+dative,geplantestem,geplantester,geplantestem,geplantesten,
+accusative,geplantesten,geplanteste,geplantestes,geplanteste,
+weak declension (with definite article),nominative,der geplanteste,die geplanteste,das geplanteste,die geplantesten
+genitive,des geplantesten,der geplantesten,des geplantesten,der geplantesten,
+dative,dem geplantesten,der geplantesten,dem geplantesten,den geplantesten,
+accusative,den geplantesten,die geplanteste,das geplanteste,die geplantesten,
+mixed declension (with indefinite article),nominative,ein geplantester,eine geplanteste,ein geplantestes,(keine) geplantesten
+genitive,eines geplantesten,einer geplantesten,eines geplantesten,(keiner) geplantesten,
+dative,einem geplantesten,einer geplantesten,einem geplantesten,(keinen) geplantesten,
+accusative,einen geplantesten,eine geplanteste,ein geplantestes,(keine) geplantesten,

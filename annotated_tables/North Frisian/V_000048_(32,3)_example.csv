@@ -1,0 +1,33 @@
+0,1,2
+infinitive I,V;NFIN,
+infinitive II,V;NFIN,
+past participle,V.PTCP;PST,
+imperative singular,V;IMP;SG,
+imperative plural,V;IMP;PL,
+,present,past
+1st-person singular,V;IND;PRS;1;SG,V;IND;PST;PFV;1;SG
+2nd-person singular,V;IND;PRS;2;SG,V;IND;PST;PFV;2;SG
+3rd-person singular,V;IND;PRS;3;SG,V;IND;PST;PFV;3;SG
+1st-person dual,V;IND;PRS;1;DU,V;IND;PST;PFV;1;DU
+2nd-person dual,V;IND;PRS;2;DU,V;IND;PST;PFV;2;DU
+1st-person plural,V;IND;PRS;1;PL,V;IND;PST;PFV;1;PL
+2nd-person plural,V;IND;PRS;2;PL,V;IND;PST;PFV;2;PL
+3rd-person plural,V;IND;PRS;3;PL,V;IND;PST;PFV;3;PL
+,perfect,pluperfect
+1st-person singular,V;IND;PST;PRF;1;SG,V;IND;PST;RMT;PRF;1;SG
+2nd-person singular,V;IND;PST;PRF;2;SG,V;IND;PST;RMT;PRF;2;SG
+3rd-person singular,V;IND;PST;PRF;3;SG,V;IND;PST;RMT;PRF;3;SG
+1st-person dual,V;IND;PST;PRF;1;DU,V;IND;PST;RMT;PRF;1;DU
+2nd-person dual,V;IND;PST;PRF;2;DU,V;IND;PST;RMT;PRF;2;DU
+1st-person plural,V;IND;PST;PRF;1;PL,V;IND;PST;RMT;PRF;1;PL
+2nd-person plural,V;IND;PST;PRF;2;PL,V;IND;PST;RMT;PRF;2;PL
+3rd-person plural,V;IND;PST;PRF;3;PL,V;IND;PST;RMT;PRF;3;PL
+,future (skel),future (wel)
+1st-person singular,V;IND;FUT;LGSPEC1;1;SG,V;IND;FUT;LGSPEC2;1;SG
+2nd-person singular,V;IND;FUT;LGSPEC1;2;SG,V;IND;FUT;LGSPEC2;2;SG
+3rd-person singular,V;IND;FUT;LGSPEC1;3;SG,V;IND;FUT;LGSPEC2;3;SG
+1st-person dual,V;IND;FUT;LGSPEC1;1;DU,V;IND;FUT;LGSPEC2;1;DU
+2nd-person dual,V;IND;FUT;LGSPEC1;2;DU,V;IND;FUT;LGSPEC2;2;DU
+1st-person plural,V;IND;FUT;LGSPEC1;1;PL,V;IND;FUT;LGSPEC2;1;PL
+2nd-person plural,V;IND;FUT;LGSPEC1;2;PL,V;IND;FUT;LGSPEC2;2;PL
+3rd-person plural,V;IND;FUT;LGSPEC1;3;PL,V;IND;FUT;LGSPEC2;3;PL

@@ -1,0 +1,6 @@
+0,1,2,3,4
+Number,Case,Masculine,Feminine,Neuter
+Singular,Subject,"generals, generaus, generax",generale,general
+Oblique,general,generale,general,
+Plural,Subject,general,generales,general
+Oblique,"generals, generaus, generax",generales,general,

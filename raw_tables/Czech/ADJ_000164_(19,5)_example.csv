@@ -1,0 +1,20 @@
+0,1,2,3,4
+Audio,,(file),,
+singular,,,,
+,masculine animate,masculine inanimate,feminine,neuter
+nominative,genetický,genetická,genetické,
+genitive,genetického,genetické,genetického,
+dative,genetickému,genetické,genetickému,
+accusative,genetického,genetický,genetickou,genetické
+vocative,genetický,genetická,genetické,
+locative,genetickém,genetické,genetickém,
+instrumental,genetickým,genetickou,genetickým,
+plural,,,,
+,masculine animate,masculine inanimate,feminine,neuter
+nominative,genetičtí,genetické,genetická,
+genitive,genetických,,,
+dative,genetickým,,,
+accusative,genetické,genetická,,
+vocative,genetičtí,genetické,genetická,
+locative,genetických,,,
+instrumental,genetickými,,,

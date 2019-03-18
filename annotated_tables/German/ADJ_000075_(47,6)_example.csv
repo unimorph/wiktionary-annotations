@@ -1,0 +1,48 @@
+0,1,2,3,4,5
+audio,,(file),,,
+ergrauen  Grau  graue Maus,,Graugesicht  Grauzone,,,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist grau,sie ist grau,es ist grau,sie sind grau,
+strong declension (without article),nominative,grauer,graue,graues,graue
+genitive,grauen,grauer,grauen,grauer,
+dative,grauem,grauer,grauem,grauen,
+accusative,grauen,graue,graues,graue,
+weak declension (with definite article),nominative,der graue,die graue,das graue,die grauen
+genitive,des grauen,der grauen,des grauen,der grauen,
+dative,dem grauen,der grauen,dem grauen,den grauen,
+accusative,den grauen,die graue,das graue,die grauen,
+mixed declension (with indefinite article),nominative,ein grauer,eine graue,ein graues,(keine) grauen
+genitive,eines grauen,einer grauen,eines grauen,(keiner) grauen,
+dative,einem grauen,einer grauen,einem grauen,(keinen) grauen,
+accusative,einen grauen,eine graue,ein graues,(keine) grauen,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist grauer,sie ist grauer,es ist grauer,sie sind grauer,
+strong declension (without article),nominative,grauerer,grauere,graueres,grauere
+genitive,graueren,grauerer,graueren,grauerer,
+dative,grauerem,grauerer,grauerem,graueren,
+accusative,graueren,grauere,graueres,grauere,
+weak declension (with definite article),nominative,der grauere,die grauere,das grauere,die graueren
+genitive,des graueren,der graueren,des graueren,der graueren,
+dative,dem graueren,der graueren,dem graueren,den graueren,
+accusative,den graueren,die grauere,das grauere,die graueren,
+mixed declension (with indefinite article),nominative,ein grauerer,eine grauere,ein graueres,(keine) graueren
+genitive,eines graueren,einer graueren,eines graueren,(keiner) graueren,
+dative,einem graueren,einer graueren,einem graueren,(keinen) graueren,
+accusative,einen graueren,eine grauere,ein graueres,(keine) graueren,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist am grausten,sie ist am grausten,es ist am grausten,sie sind am grausten,
+strong declension (without article),nominative,grauster,grauste,graustes,grauste
+genitive,grausten,grauster,grausten,grauster,
+dative,graustem,grauster,graustem,grausten,
+accusative,grausten,grauste,graustes,grauste,
+weak declension (with definite article),nominative,der grauste,die grauste,das grauste,die grausten
+genitive,des grausten,der grausten,des grausten,der grausten,
+dative,dem grausten,der grausten,dem grausten,den grausten,
+accusative,den grausten,die grauste,das grauste,die grausten,
+mixed declension (with indefinite article),nominative,ein grauster,eine grauste,ein graustes,(keine) grausten
+genitive,eines grausten,einer grausten,eines grausten,(keiner) grausten,
+dative,einem grausten,einer grausten,einem grausten,(keinen) grausten,
+accusative,einen grausten,eine grauste,ein graustes,(keine) grausten,

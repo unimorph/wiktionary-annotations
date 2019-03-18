@@ -1,0 +1,7 @@
+0,1,2,3,4,5
+,singular,plural,,,
+,indef.,def.,noun,def.,noun
+nominative,eine,die,N;NOM;SG,die,N;NOM;PL
+genitive,einer,der,N;GEN;SG,der,N;GEN;PL
+dative,einer,der,N;DAT;SG,den,N;DAT;PL
+accusative,eine,die,N;ACC;SG,die,N;ACC;PL

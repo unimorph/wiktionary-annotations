@@ -1,0 +1,41 @@
+0,1,2,3,4,5,6
+,,,,,,
+Strong declension,,,,,,
+gender,masculine,neuter,feminine,,,
+case,singular,plural,singular,plural,singular,plural
+nominative,ēgan,ēgane,ēgan,ēgane,ēgan,ēganu
+accusative,ēganana,ēgane,ēgan,ēgane,ēgana,ēganu
+genitive,ēganes,ēganarō,ēganes,ēganarō,ēganaro,ēganarō
+dative,ēganumu,ēganum,ēganumu,ēganum,ēganaro,ēganum
+,,,,,,
+Weak declension,,,,,,
+gender,masculine,neuter,feminine,,,
+case,singular,plural,singular,plural,singular,plural
+nominative,ēgano,ēganu,ēgana,ēganu,ēgana,ēganu
+accusative,ēganun,ēganun,ēgana,ēganun,ēganun,ēganun
+genitive,ēganun,ēganonō,ēganun,ēganonō,ēganun,ēganonō
+dative,ēganun,ēganum,ēganun,ēganum,ēganun,ēganum
+,,,,,,
+,Singular,Plural,,,,
+nominative,ēgan,ēgan,,,,
+accusative,ēgan,ēgan,,,,
+genitive,ēganes,ēganō,,,,
+dative,ēgane,ēganum,,,,
+instrumental,—,—,,,,
+,,,,,,
+infinitive,ēgan,,,,,
+indicative,present,past,,,,
+1st person singular,ēh,ehta,,,,
+2nd person singular,ēhst,ehtes,,,,
+3rd person singular,ēh,ehta,,,,
+plural,ēgun,ehtun,,,,
+subjunctive,present,past,,,,
+1st person singular,ēgi,ehti,,,,
+2nd person singular,ēgis,ehtis,,,,
+3rd person singular,ēgi,ehti,,,,
+plural,ēgin,ehtin,,,,
+imperative,present,,,,,
+singular,—,,,,,
+plural,—,,,,,
+participle,present,past,,,,
+,ēgandi,—,,,,

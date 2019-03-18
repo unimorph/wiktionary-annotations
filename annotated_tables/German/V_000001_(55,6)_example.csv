@@ -1,0 +1,56 @@
+0,1,2,3,4,5
+Audio (Austria),,(file),,,
+Audio,,(file),,,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist erfahren,sie ist erfahren,es ist erfahren,sie sind erfahren,
+strong declension (without article),nominative,erfahrener,erfahrene,erfahrenes,erfahrene
+genitive,erfahrenen,erfahrener,erfahrenen,erfahrener,
+dative,erfahrenem,erfahrener,erfahrenem,erfahrenen,
+accusative,erfahrenen,erfahrene,erfahrenes,erfahrene,
+weak declension (with definite article),nominative,der erfahrene,die erfahrene,das erfahrene,die erfahrenen
+genitive,des erfahrenen,der erfahrenen,des erfahrenen,der erfahrenen,
+dative,dem erfahrenen,der erfahrenen,dem erfahrenen,den erfahrenen,
+accusative,den erfahrenen,die erfahrene,das erfahrene,die erfahrenen,
+mixed declension (with indefinite article),nominative,ein erfahrener,eine erfahrene,ein erfahrenes,(keine) erfahrenen
+genitive,eines erfahrenen,einer erfahrenen,eines erfahrenen,(keiner) erfahrenen,
+dative,einem erfahrenen,einer erfahrenen,einem erfahrenen,(keinen) erfahrenen,
+accusative,einen erfahrenen,eine erfahrene,ein erfahrenes,(keine) erfahrenen,
+infinitive,erfahren,,,,
+present participle,erfahrend,,,,
+past participle,erfahren,,,,
+auxiliary,haben,,,,
+,indicative,,subjunctive,,
+present,ich erfahre,wir erfahren,i,ich erfahre,wir erfahren
+du erfährst,ihr erfahrt,du erfahrest,ihr erfahret,,
+er erfährt,sie erfahren,er erfahre,sie erfahren,,
+,,,,,
+preterite,ich erfuhr,wir erfuhren,ii,ich erführe,wir erführen
+du erfuhrst,ihr erfuhrt,du erführest,ihr erführet,,
+er erfuhr,sie erfuhren,er erführe,sie erführen,,
+,,,,,
+imperative,erfahr (du)erfahre (du),erfahrt (ihr),,,
+perfect,,,,,
+indicative,ich habe erfahren,wir haben erfahren,subjunctive,ich habe erfahren,wir haben erfahren
+du hast erfahren,ihr habt erfahren,du habest erfahren,ihr habet erfahren,,
+er hat erfahren,sie haben erfahren,er habe erfahren,sie haben erfahren,,
+pluperfect,,,,,
+indicative,ich hatte erfahren,wir hatten erfahren,subjunctive,ich hätte erfahren,wir hätten erfahren
+du hattest erfahren,ihr hattet erfahren,du hättest erfahren,ihr hättet erfahren,,
+er hatte erfahren,sie hatten erfahren,er hätte erfahren,sie hätten erfahren,,
+future i,,,,,
+infinitive,erfahren werden,subjunctive i,ich werde erfahren,wir werden erfahren,
+du werdest erfahren,ihr werdet erfahren,,,,
+er werde erfahren,sie werden erfahren,,,,
+,,,,,
+indicative,ich werde erfahren,wir werden erfahren,subjunctive ii,ich würde erfahren,wir würden erfahren
+du wirst erfahren,ihr werdet erfahren,du würdest erfahren,ihr würdet erfahren,,
+er wird erfahren,sie werden erfahren,er würde erfahren,sie würden erfahren,,
+future ii,,,,,
+infinitive,erfahren haben werden,subjunctive i,ich werde erfahren haben,wir werden erfahren haben,
+du werdest erfahren haben,ihr werdet erfahren haben,,,,
+er werde erfahren haben,sie werden erfahren haben,,,,
+,,,,,
+indicative,ich werde erfahren haben,wir werden erfahren haben,subjunctive ii,ich würde erfahren haben,wir würden erfahren haben
+du wirst erfahren haben,ihr werdet erfahren haben,du würdest erfahren haben,ihr würdet erfahren haben,,
+er wird erfahren haben,sie werden erfahren haben,er würde erfahren haben,sie würden erfahren haben,,

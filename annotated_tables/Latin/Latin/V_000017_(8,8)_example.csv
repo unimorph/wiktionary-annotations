@@ -1,0 +1,9 @@
+0,1,2,3,4,5,6,7
+Number,Singular,,Plural,,,,
+Case / Gender,Masculine,Feminine,Neuter,Masculine,Feminine,Neuter,
+nominative,fūnctus,fūncta,fūnctum,,fūnctī,fūnctae,fūncta
+genitive,fūnctī,fūnctae,fūnctī,fūnctōrum,fūnctārum,fūnctōrum,
+dative,fūnctō,fūnctō,fūnctīs,,,,
+accusative,fūnctum,fūnctam,fūnctum,fūnctōs,fūnctās,fūncta,
+ablative,fūnctō,fūnctā,fūnctō,fūnctīs,,,
+vocative,fūncte,fūncta,fūnctum,fūnctī,fūnctae,fūncta,

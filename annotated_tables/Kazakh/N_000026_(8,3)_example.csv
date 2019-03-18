@@ -1,0 +1,9 @@
+0,1,2
+,singular (жекеше),plural (көпше)
+nominative (атау),N;NOM;SG,N;NOM;PL
+genitive (ілік),N;GEN;SG,N;GEN;PL
+dative (барыс),N;DAT;SG,N;DAT;PL
+accusative (табыс),N;ACC;SG,N;ACC;PL
+locative (жатыс),N;LOC;SG,N;LOC;PL
+ablative (шығыс),N;ABL;SG,N;ABL;PL
+instrumental (көмектес),N;INST;SG,N;INST;PL

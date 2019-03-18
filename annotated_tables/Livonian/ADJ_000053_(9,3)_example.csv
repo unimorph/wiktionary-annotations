@@ -1,0 +1,10 @@
+0,1,2
+,singular (ikšlug),plural (pǟgiņlug)
+nominative (nominatīv),ADJ;SG;NOM,ADJ;PL;NOM
+genitive (genitīv),ADJ;SG;GEN,ADJ;PL;GEN
+partitive (partitīv),ADJ;SG;PRT,ADJ;PL;PRT
+dative (datīv),ADJ;SG;DAT,ADJ;PL;DAT
+instrumental (instrumentāl),ADJ;SG;INS,ADJ;PL;INS
+illative (illatīv),ADJ;SG;IN+ALL,ADJ;PL;IN+ALL
+inessive (inesīv),ADJ;SG;IN+ESS,ADJ;PL;IN+ESS
+elative (elatīv),ADJ;SG;IN+ABL,ADJ;PL;IN+ABL

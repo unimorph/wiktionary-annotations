@@ -1,0 +1,14 @@
+0,1,2,3,4,5
+audio,,(file),,,
+,singular,plural,,,
+,indef.,def.,noun,def.,noun
+nominative,ein,das,Moos,die,Moose
+genitive,eines,des,Mooses,der,Moose
+dative,einem,dem,"Moos, Moose1",den,Moosen
+accusative,ein,das,Moos,die,Moose
+,singular,plural,,,
+,indef.,def.,noun,def.,noun
+nominative,ein,das,Moos,die,Möser
+genitive,eines,des,Mooses,der,Möser
+dative,einem,dem,"Moos, Moose1",den,Mösern
+accusative,ein,das,Moos,die,Möser

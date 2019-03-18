@@ -1,0 +1,8 @@
+0,1,2,3
+,singular,dual,plural
+nominative,NLP,NLP-ja,NLP-ji
+accusative,NLP,NLP-ja,NLP-je
+genitive,NLP-ja,NLP-jev,NLP-jev
+dative,NLP-ju,NLP-jema,NLP-jem
+locative,NLP-ju,NLP-jih,NLP-jih
+instrumental,NLP-jem,NLP-jema,NLP-ji

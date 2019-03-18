@@ -1,0 +1,61 @@
+0,1,2,3,4,5
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist getreu,sie ist getreu,es ist getreu,sie sind getreu,
+strong declension (without article),nominative,getreuer,getreue,getreues,getreue
+genitive,getreuen,getreuer,getreuen,getreuer,
+dative,getreuem,getreuer,getreuem,getreuen,
+accusative,getreuen,getreue,getreues,getreue,
+weak declension (with definite article),nominative,der getreue,die getreue,das getreue,die getreuen
+genitive,des getreuen,der getreuen,des getreuen,der getreuen,
+dative,dem getreuen,der getreuen,dem getreuen,den getreuen,
+accusative,den getreuen,die getreue,das getreue,die getreuen,
+mixed declension (with indefinite article),nominative,ein getreuer,eine getreue,ein getreues,(keine) getreuen
+genitive,eines getreuen,einer getreuen,eines getreuen,(keiner) getreuen,
+dative,einem getreuen,einer getreuen,einem getreuen,(keinen) getreuen,
+accusative,einen getreuen,eine getreue,ein getreues,(keine) getreuen,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist getreuer,sie ist getreuer,es ist getreuer,sie sind getreuer,
+strong declension (without article),nominative,getreuerer,getreuere,getreueres,getreuere
+genitive,getreueren,getreuerer,getreueren,getreuerer,
+dative,getreuerem,getreuerer,getreuerem,getreueren,
+accusative,getreueren,getreuere,getreueres,getreuere,
+weak declension (with definite article),nominative,der getreuere,die getreuere,das getreuere,die getreueren
+genitive,des getreueren,der getreueren,des getreueren,der getreueren,
+dative,dem getreueren,der getreueren,dem getreueren,den getreueren,
+accusative,den getreueren,die getreuere,das getreuere,die getreueren,
+mixed declension (with indefinite article),nominative,ein getreuerer,eine getreuere,ein getreueres,(keine) getreueren
+genitive,eines getreueren,einer getreueren,eines getreueren,(keiner) getreueren,
+dative,einem getreueren,einer getreueren,einem getreueren,(keinen) getreueren,
+accusative,einen getreueren,eine getreuere,ein getreueres,(keine) getreueren,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist am getreusten,sie ist am getreusten,es ist am getreusten,sie sind am getreusten,
+strong declension (without article),nominative,getreuster,getreuste,getreustes,getreuste
+genitive,getreusten,getreuster,getreusten,getreuster,
+dative,getreustem,getreuster,getreustem,getreusten,
+accusative,getreusten,getreuste,getreustes,getreuste,
+weak declension (with definite article),nominative,der getreuste,die getreuste,das getreuste,die getreusten
+genitive,des getreusten,der getreusten,des getreusten,der getreusten,
+dative,dem getreusten,der getreusten,dem getreusten,den getreusten,
+accusative,den getreusten,die getreuste,das getreuste,die getreusten,
+mixed declension (with indefinite article),nominative,ein getreuster,eine getreuste,ein getreustes,(keine) getreusten
+genitive,eines getreusten,einer getreusten,eines getreusten,(keiner) getreusten,
+dative,einem getreusten,einer getreusten,einem getreusten,(keinen) getreusten,
+accusative,einen getreusten,eine getreuste,ein getreustes,(keine) getreusten,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist am getreuesten,sie ist am getreuesten,es ist am getreuesten,sie sind am getreuesten,
+strong declension (without article),nominative,getreuester,getreueste,getreuestes,getreueste
+genitive,getreuesten,getreuester,getreuesten,getreuester,
+dative,getreuestem,getreuester,getreuestem,getreuesten,
+accusative,getreuesten,getreueste,getreuestes,getreueste,
+weak declension (with definite article),nominative,der getreueste,die getreueste,das getreueste,die getreuesten
+genitive,des getreuesten,der getreuesten,des getreuesten,der getreuesten,
+dative,dem getreuesten,der getreuesten,dem getreuesten,den getreuesten,
+accusative,den getreuesten,die getreueste,das getreueste,die getreuesten,
+mixed declension (with indefinite article),nominative,ein getreuester,eine getreueste,ein getreuestes,(keine) getreuesten
+genitive,eines getreuesten,einer getreuesten,eines getreuesten,(keiner) getreuesten,
+dative,einem getreuesten,einer getreuesten,einem getreuesten,(keinen) getreuesten,
+accusative,einen getreuesten,eine getreueste,ein getreuestes,(keine) getreuesten,

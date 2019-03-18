@@ -1,0 +1,102 @@
+0,1,2,3,4
+"Cognate with Old Turkic 𐰽𐰺𐰃𐰍 ‎(sarıɣ, “yellow”), Karakhanid [script needed] ‎(sarıɣ, “yellow”), Old Uighur [script needed] ‎(sarıɣ, “yellow”), Azeri sarı ‎(“yellow”), Bashkir һары ‎(harï, “yellow”), Chuvash шурӑ ‎(šură, “white”), Kazakh сары ‎(sarı, “yellow”), Khakas сарығ ‎(sarığ, “yellow”), Kyrgyz сары ‎(sarı, “yellow”), Tatar сары ‎(sarı, “yellow”), Turkmen sāry ‎(“yellow”), Tuvan сарыг ‎(sarıg, “yellow”), Uyghur سېرىق ‎(sëriq, “yellow”), Uzbek sariq ‎(“yellow”), Yakut араҕас ‎(arağas, “yellow”), арыы ‎(arıı, “butter”).",,,,
+present tense,,,,
+,"positive, declarative","positive, interrogative","negative, declarative","negative, interrogative"
+ben (I am),sarıyım,sarı mıyım?,sarı değilim,sarı değil miyim?
+sen (you are),sarısın,sarı mısın?,sarı değilsin,sarı değil misin?
+o (he/she/it is),sarı / sarıdır,sarı mı?,sarı değil,sarı değil mi?
+biz (we are),sarıyız,sarı mıyız?,sarı değiliz,sarı değil miyiz?
+siz (you are),sarısınız,sarı mısınız?,sarı değilsiniz,sarı değil misiniz?
+onlar (they are),sarı(lar),sarı(lar) mı?,sarı değil(ler),sarı değiller mi?
+past tense,,,,
+,"positive, declarative","positive, interrogative","negative, declarative","negative, interrogative"
+ben (I was),sarıydım,sarı mıydım?,sarı değildim,sarı değil miydim?
+sen (you were),sarıydın,sarı mıydın?,sarı değildin,sarı değil miydin?
+o (he/she/it was),sarıydı,sarı mıydı?,sarı değildi,sarı değil miydi?
+biz (we were),sarıydık,sarı mıydık?,sarı değildik,sarı değil miydik?
+siz (you were),sarıydınız,sarı mıydınız?,sarı değildiniz,sarı değil miydiniz?
+onlar (they were),sarıydılar,sarı mıydılar?,sarı değildi(ler) / değillerdi,sarı değil miydiler?
+indirect past,,,,
+,"positive, declarative","positive, interrogative","negative, declarative","negative, interrogative"
+ben (I was),sarıymışım,sarı mıymışım?,sarı değilmişim,sarı değil miymişim?
+sen (you were),sarıymışsın,sarı mıymışsın?,sarı değilmişsin,sarı değil miymişsin?
+o (he/she/it was),sarıymış,sarı mıymış?,sarı değilmiş,sarı değil miymiş?
+biz (we were),sarıymışız,sarı mıymışız?,sarı değilmişiz,sarı değil miymişiz?
+siz (you were),sarıymışsınız,sarı mıymışsınız?,sarı değilmişsiniz,sarı değil miymişsiniz?
+onlar (they were),sarıymışlar,sarı mıymışlar?,sarı değilmiş(ler) / değillermiş,sarı değil miymişler?
+Colors in Turkish · renkler (layout · text),,,,
+"kırmızı, kızıl",yeşil,sarı,bej,"beyaz, ak"
+"kırmızı, al",pembe,turkuaz,limon çürüğü,yavruağzı
+mor,lacivert,turuncu,"gri, boz",eflatun
+"siyah, kara",mor,"kahverengi, boz",gök,"mavi,"
+,singular (tekil),plural (çoğul),,
+nominative (yalın),sarı,sarılar,,
+definite accusative (belirtme),sarıyı,sarıları,,
+dative (yönelme),sarıya,sarılara,,
+locative (bulunma),sarıda,sarılarda,,
+ablative (çıkma),sarıdan,sarılardan,,
+genitive (tamlayan),sarının,sarıların,,
+benim (my),singular (tekil),plural (çoğul),,
+nominative (yalın),sarım,sarılarım,,
+definite accusative (belirtme),sarımı,sarılarımı,,
+dative (yönelme),sarıma,sarılarıma,,
+locative (bulunma),sarımda,sarılarımda,,
+ablative (çıkma),sarımdan,sarılarımdan,,
+genitive (tamlayan),sarımın,sarılarımın,,
+senin (your),singular (tekil),plural (çoğul),,
+nominative (yalın),sarın,sarıların,,
+definite accusative (belirtme),sarını,sarılarını,,
+dative (yönelme),sarına,sarılarına,,
+locative (bulunma),sarında,sarılarında,,
+ablative (çıkma),sarından,sarılarından,,
+genitive (tamlayan),sarının,sarılarının,,
+onun (her/his/its),singular (tekil),plural (çoğul),,
+nominative (yalın),sarısı,sarıları,,
+definite accusative (belirtme),sarısını,sarılarını,,
+dative (yönelme),sarısına,sarılarına,,
+locative (bulunma),sarısında,sarılarında,,
+ablative (çıkma),sarısından,sarılarından,,
+genitive (tamlayan),sarısının,sarılarının,,
+bizim (our),singular (tekil),plural (çoğul),,
+nominative (yalın),sarımız,sarılarımız,,
+definite accusative (belirtme),sarımızı,sarılarımızı,,
+dative (yönelme),sarımıza,sarılarımıza,,
+locative (bulunma),sarımızda,sarılarımızda,,
+ablative (çıkma),sarımızdan,sarılarımızdan,,
+genitive (tamlayan),sarımızın,sarılarımızın,,
+sizin (your),singular (tekil),plural (çoğul),,
+nominative (yalın),sarınız,sarılarınız,,
+definite accusative (belirtme),sarınızı,sarılarınızı,,
+dative (yönelme),sarınıza,sarılarınıza,,
+locative (bulunma),sarınızda,sarılarınızda,,
+ablative (çıkma),sarınızdan,sarılarınızdan,,
+genitive (tamlayan),sarınızın,sarılarınızın,,
+onların (their),singular (tekil),plural (çoğul),,
+nominative (yalın),sarıları,sarıları,,
+definite accusative (belirtme),sarılarını,sarılarını,,
+dative (yönelme),sarılarına,sarılarına,,
+locative (bulunma),sarılarında,sarılarında,,
+ablative (çıkma),sarılarından,sarılarından,,
+genitive (tamlayan),sarılarının,sarılarının,,
+simple present,singular,plural,,
+ben (I am),sarıyım,sarılarım*,,
+sen (you are),sarısın,sarılarsın*,,
+o (he/she/it is),sarı / sarıdır,sarılar* / sarılardır*,,
+biz (we are),sarıyız,sarılarız,,
+siz (you are),sarısınız,sarılarsınız,,
+onlar (they are),sarılar,sarılardır,,
+simple past,singular,plural,,
+ben (I was),sarıydım,sarılardım*,,
+sen (you were),sarıydın,sarılardın*,,
+o (he/she/it was),sarıydı,sarılardı*,,
+biz (we were),sarıydık,sarılardık,,
+siz (you were),sarıydınız,sarılardınız,,
+onlar (they were),sarıydılar,sarılardı,,
+indirect / unwitnessed past,singular,plural,,
+ben (I was),sarıymışım,sarılarmışım*,,
+sen (you were),sarıymışsın,sarılarmışsın*,,
+o (he/she/it was),sarıymış,sarılarmış*,,
+biz (we were),sarıymışız,sarılarmışız,,
+siz (you were),sarıymışsınız,sarılarmışsınız,,
+onlar (they were),sarıymışlar,sarılarmış,,
+"*Not used, but perhaps rarely - chiefly grammatical formations. Note: Plural forms are not used with adjectives.",,,,

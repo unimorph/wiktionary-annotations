@@ -1,0 +1,31 @@
+0,1,2
+,singular,plural
+nominative,ruun,a{{{3}}}d
+genitive,a{{{3}}},ruun{{{3}}}de
+partitive,ruun{{{3}}},ruuni / ruun{{{3}}}sid
+illative,ruun{{{3}}} / a{{{3}}}sse,ruun{{{3}}}desse / ruunisse
+inessive,a{{{3}}}s,ruun{{{3}}}des / ruunis
+elative,a{{{3}}}st,ruun{{{3}}}dest / ruunist
+allative,a{{{3}}}le,ruun{{{3}}}dele / ruunile
+adessive,a{{{3}}}l,ruun{{{3}}}del / ruunil
+ablative,a{{{3}}}lt,ruun{{{3}}}delt / ruunilt
+translative,a{{{3}}}ks,ruun{{{3}}}deks / ruuniks
+terminative,a{{{3}}}ni,ruun{{{3}}}deni
+essive,a{{{3}}}na,ruun{{{3}}}dena
+abessive,a{{{3}}}ta,ruun{{{3}}}deta
+comitative,a{{{3}}}ga,ruun{{{3}}}dega
+,singular,plural
+nominative,ruun,ruunid
+genitive,ruuni,ruunide
+partitive,ruuni,ruune / ruunisid
+illative,ruuni / ruunisse,ruunidesse
+inessive,ruunis,ruunides
+elative,ruunist,ruunidest
+allative,ruunile,ruunidele
+adessive,ruunil,ruunidel
+ablative,ruunilt,ruunidelt
+translative,ruuniks,ruunideks
+terminative,ruunini,ruunideni
+essive,ruunina,ruunidena
+abessive,ruunita,ruunideta
+comitative,ruuniga,ruunidega

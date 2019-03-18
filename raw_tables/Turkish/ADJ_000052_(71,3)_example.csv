@@ -1,0 +1,72 @@
+0,1,2
+,singular (tekil),plural (çoğul)
+nominative (yalın),gerzek,gerzekler
+definite accusative (belirtme),gerzeği,gerzekleri
+dative (yönelme),gerzeğe,gerzeklere
+locative (bulunma),gerzekte,gerzeklerde
+ablative (çıkma),gerzekten,gerzeklerden
+genitive (tamlayan),gerzeğin,gerzeklerin
+benim (my),singular (tekil),plural (çoğul)
+nominative (yalın),gerzeğim,gerzeklerim
+definite accusative (belirtme),gerzeğimi,gerzeklerimi
+dative (yönelme),gerzeğime,gerzeklerime
+locative (bulunma),gerzeğimde,gerzeklerimde
+ablative (çıkma),gerzeğimden,gerzeklerimden
+genitive (tamlayan),gerzeğimin,gerzeklerimin
+senin (your),singular (tekil),plural (çoğul)
+nominative (yalın),gerzeğin,gerzeklerin
+definite accusative (belirtme),gerzeğini,gerzeklerini
+dative (yönelme),gerzeğine,gerzeklerine
+locative (bulunma),gerzeğinde,gerzeklerinde
+ablative (çıkma),gerzeğinden,gerzeklerinden
+genitive (tamlayan),gerzeğinin,gerzeklerinin
+onun (her/his/its),singular (tekil),plural (çoğul)
+nominative (yalın),gerzeği,gerzekleri
+definite accusative (belirtme),gerzeğini,gerzeklerini
+dative (yönelme),gerzeğine,gerzeklerine
+locative (bulunma),gerzeğinde,gerzeklerinde
+ablative (çıkma),gerzeğinden,gerzeklerinden
+genitive (tamlayan),gerzeğinin,gerzeklerinin
+bizim (our),singular (tekil),plural (çoğul)
+nominative (yalın),gerzeğimiz,gerzeklerimiz
+definite accusative (belirtme),gerzeğimizi,gerzeklerimizi
+dative (yönelme),gerzeğimize,gerzeklerimize
+locative (bulunma),gerzeğimizde,gerzeklerimizde
+ablative (çıkma),gerzeğimizden,gerzeklerimizden
+genitive (tamlayan),gerzeğimizin,gerzeklerimizin
+sizin (your),singular (tekil),plural (çoğul)
+nominative (yalın),gerzeğiniz,gerzekleriniz
+definite accusative (belirtme),gerzeğinizi,gerzeklerinizi
+dative (yönelme),gerzeğinize,gerzeklerinize
+locative (bulunma),gerzeğinizde,gerzeklerinizde
+ablative (çıkma),gerzeğinizden,gerzeklerinizden
+genitive (tamlayan),gerzeğinizin,gerzeklerinizin
+onların (their),singular (tekil),plural (çoğul)
+nominative (yalın),gerzekleri,gerzekleri
+definite accusative (belirtme),gerzeklerini,gerzeklerini
+dative (yönelme),gerzeklerine,gerzeklerine
+locative (bulunma),gerzeklerinde,gerzeklerinde
+ablative (çıkma),gerzeklerinden,gerzeklerinden
+genitive (tamlayan),gerzeklerinin,gerzeklerinin
+simple present,singular,plural
+ben (I am),gerzeğim,gerzeklerim*
+sen (you are),gerzeksin,gerzeklersin*
+o (he/she/it is),gerzek / gerzektir,gerzekler* / gerzeklerdir*
+biz (we are),gerzeğiz,gerzekleriz
+siz (you are),gerzeksiniz,gerzeklersiniz
+onlar (they are),gerzekler,gerzeklerdir
+simple past,singular,plural
+ben (I was),gerzektim,gerzeklerdim*
+sen (you were),gerzektin,gerzeklerdin*
+o (he/she/it was),gerzekti,gerzeklerdi*
+biz (we were),gerzektik,gerzeklerdik
+siz (you were),gerzektiniz,gerzeklerdiniz
+onlar (they were),gerzektiler,gerzeklerdi
+indirect / unwitnessed past,singular,plural
+ben (I was),gerzekmişim,gerzeklermişim*
+sen (you were),gerzekmişsin,gerzeklermişsin*
+o (he/she/it was),gerzekmiş,gerzeklermiş*
+biz (we were),gerzekmişiz,gerzeklermişiz
+siz (you were),gerzekmişsiniz,gerzeklermişsiniz
+onlar (they were),gerzekmişler,gerzeklermiş
+"*Not used, but perhaps rarely - chiefly grammatical formations. Note: Plural forms are not used with adjectives.",,

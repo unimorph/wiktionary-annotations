@@ -1,0 +1,20 @@
+0,1,2,3,4,5,6
+number case / gender,singular,plural,,,,
+masculine,feminine,neuter,masculine,feminine,neuter,
+nominative,υγιής,υγιής,υγιές,υγιείς,υγιείς,υγιή
+genitive,υγιούς,υγιούς,υγιούς,υγιών,υγιών,υγιών
+accusative,υγιή,υγιή,υγιές,υγιείς,υγιείς,υγιή
+derivations,"comparative: πιο + positive forms (e.g. πιο υγιής, etc.) relative superlative: definite article + πιο + positive forms (e.g. ο πιο υγιής, etc.)",,,,,
+comparative,singular,plural,,,,
+masculine,feminine,neuter,masculine,feminine,neuter,
+nominative,υγιέστερος,υγιέστερη,υγιέστερο,υγιέστεροι,υγιέστερες,υγιέστερα
+genitive,υγιέστερου,υγιέστερης,υγιέστερου,υγιέστερων,υγιέστερων,υγιέστερων
+accusative,υγιέστερο,υγιέστερη,υγιέστερο,υγιέστερους,υγιέστερες,υγιέστερα
+vocative,υγιέστερε,υγιέστερη,υγιέστερο,υγιέστεροι,υγιέστερες,υγιέστερα
+derivations,"relative superlative: ο + comparative forms (eg ""ο υγιέστερος"", etc)",,,,,
+absolute superlative,singular,plural,,,,
+masculine,feminine,neuter,masculine,feminine,neuter,
+nominative,υγιέστατος,υγιέστατη,υγιέστατο,υγιέστατοι,υγιέστατες,υγιέστατα
+genitive,υγιέστατου,υγιέστατης,υγιέστατου,υγιέστατων,υγιέστατων,υγιέστατων
+accusative,υγιέστατο,υγιέστατη,υγιέστατο,υγιέστατους,υγιέστατες,υγιέστατα
+vocative,υγιέστατε,υγιέστατη,υγιέστατο,υγιέστατοι,υγιέστατες,υγιέστατα

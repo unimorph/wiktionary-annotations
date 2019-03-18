@@ -1,0 +1,40 @@
+0,1,2,3,4
+"Cognate with Old Turkic 𐰀𐰲 ‎(āç, “hungry”), Old Uighur [script needed] ‎(aç, “hungry”), Karakhanid [script needed] ‎(āç, “hungry”), Azeri ac ‎(“hungry”), Bashkir ас ‎(as, “hungry”), Chuvash выҫӑ ‎(vyśă, “hunger, hungry”), Kazakh аш ‎(aş, “hunger”), Khakas ас ‎(as, “hunger, hungry”), Kipchak [Arabic needed] ‎(aç, “hungry”), Kyrgyz ач ‎(aç, “hungry”), Southern Altai ач ‎(ač, “hunger”), Turkmen āç ‎(“hungry”), Tuvan аш ‎(aš, “hunger, hungry”), Uyghur ئاچ ‎(ach, “hungry”), Uzbek och ‎(“hungry”), Yakut аас ‎(aas, “hunger”).",,,,
+,singular (tekil),plural (çoğul),,
+nominative (yalın),aç,açlar,,
+definite accusative (belirtme),açı,açları,,
+dative (yönelme),aça,açlara,,
+locative (bulunma),açta,açlarda,,
+ablative (çıkma),açtan,açlardan,,
+genitive (tamlayan),açın,açların,,
+,singular (tekil),plural (çoğul),,
+nominative (yalın),aç,açlar,,
+definite accusative (belirtme),acı,açları,,
+dative (yönelme),aca,açlara,,
+locative (bulunma),açta,açlarda,,
+ablative (çıkma),açtan,açlardan,,
+genitive (tamlayan),acın,açların,,
+present tense,,,,
+,"positive, declarative","positive, interrogative","negative, declarative","negative, interrogative"
+ben (I am),acım,aç mıyım?,aç değilim,aç değil miyim?
+sen (you are),açsın,aç mısın?,aç değilsin,aç değil misin?
+o (he/she/it is),aç / açtır,aç mı?,aç değil,aç değil mi?
+biz (we are),acız,aç mıyız?,aç değiliz,aç değil miyiz?
+siz (you are),açsınız,aç mısınız?,aç değilsiniz,aç değil misiniz?
+onlar (they are),aç(lar),aç(lar) mı?,aç değil(ler),aç değiller mi?
+past tense,,,,
+,"positive, declarative","positive, interrogative","negative, declarative","negative, interrogative"
+ben (I was),açtım,aç mıydım?,aç değildim,aç değil miydim?
+sen (you were),açtın,aç mıydın?,aç değildin,aç değil miydin?
+o (he/she/it was),açtı,aç mıydı?,aç değildi,aç değil miydi?
+biz (we were),açtık,aç mıydık?,aç değildik,aç değil miydik?
+siz (you were),açtınız,aç mıydınız?,aç değildiniz,aç değil miydiniz?
+onlar (they were),açtılar,aç mıydılar?,aç değildi(ler) / değillerdi,aç değil miydiler?
+indirect past,,,,
+,"positive, declarative","positive, interrogative","negative, declarative","negative, interrogative"
+ben (I was),açmışım,aç mıymışım?,aç değilmişim,aç değil miymişim?
+sen (you were),açmışsın,aç mıymışsın?,aç değilmişsin,aç değil miymişsin?
+o (he/she/it was),açmış,aç mıymış?,aç değilmiş,aç değil miymiş?
+biz (we were),açmışız,aç mıymışız?,aç değilmişiz,aç değil miymişiz?
+siz (you were),açmışsınız,aç mıymışsınız?,aç değilmişsiniz,aç değil miymişsiniz?
+onlar (they were),açmışlar,aç mıymışlar?,aç değilmiş(ler) / değillermiş,aç değil miymişler?

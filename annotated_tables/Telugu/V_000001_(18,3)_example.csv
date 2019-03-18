@@ -1,0 +1,19 @@
+0,1,2
+PARTICIPLES,affirmative,negative
+present participle,[[]],[[]]
+past participle,[[]],[[]]
+DURATIVE,singular,plural
+1st person: నేను / మేము,V;1;SG;PRS;DUR,V;1;PL;PRS;DUR
+2nd person: నీవు / మీరు,V;2;SG;PRS;DUR,V;2;PL;PRS;DUR
+3rd person m: అతను / వారు,V;3;MASC;SG;PRS;DUR,V;3;MASC;PL;PRS;DUR
+3rd person f: ఆమె / వారు,V;3;FEM;SG;PRS;DUR,V;3;FEM;PL;PRS;DUR
+PAST TENSE,singular,plural
+1st person: నేను / మేము,V;1;SG;PST,V;1;PL;PST
+2nd person: నీవు / మీరు,V;2;SG;PST,V;2;PL;PST
+3rd person m: అతను / వారు,V;3;MASC;SG;PST,V;3;MASC;PL;PST
+3rd person f: ఆమె / వారు,V;3;FEM;SG;PST,V;3;FEM;PL;PST
+FUTURE TENSE,singular,plural
+1st person: నేను / మేము,V;1;SG;FUT,V;1;PL;FUT
+2nd person: నీవు / మీరు,V;2;SG;FUT,V;2;PL;FUT
+3rd person m: అతను / వారు,V;3;MASC;SG;FUT,V;3;MASC;PL;FUT
+3rd person f: ఆమె / వారు,V;3;FEM;SG;FUT,V;3;FEM;PL;FUT

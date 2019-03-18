@@ -1,0 +1,21 @@
+0,1,2,3
+singular,masculine,feminine,neuter
+nominative,gramber,gram,grampt
+accusative,graman,grama,grampt
+dative,"gramum, -om",grambri,"gramu, -o"
+genitive,grams,grambrar,grams
+plural,masculine,feminine,neuter
+nominative,"gramir, -e(r)",gramar,gram
+accusative,grama,gramar,gram
+dative,"gramum, -om","gramum, -om","gramum, -om"
+genitive,grambra,grambra,grambra
+singular,masculine,feminine,neuter
+nominative,"grami, -e",grama,grama
+accusative,grama,"gramu, -o",grama
+dative,grama,"gramu, -o",grama
+genitive,grama,"gramu, -o",grama
+plural,masculine,feminine,neuter
+nominative,"gramu, -o","gramu, -o","gramu, -o"
+accusative,"gramu, -o","gramu, -o","gramu, -o"
+dative,"gramu, -o","gramu, -o","gramu, -o"
+genitive,"gramu, -o","gramu, -o","gramu, -o"

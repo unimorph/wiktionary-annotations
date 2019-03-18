@@ -1,0 +1,21 @@
+0,1,2,3,4,5,6,7,8,9,10
+Case/Form,Singular,Plural,,,,,,,,
+Nominative,ಮೀಯು ‎(mīyu),ಮೀಗಳು ‎(mīgaḷu),,,,,,,,
+Accusative,ಮೀಯನ್ನು ‎(mīyannu),ಮೀಗಳನ್ನು ‎(mīgaḷannu),,,,,,,,
+Instrumental,ಮೀಯಿಂದ ‎(mīyiṃda),ಮೀಗಳಿಂದ ‎(mīgaḷiṃda),,,,,,,,
+Dative,ಮೀಗೆ ‎(mīge),ಮೀಗಳಿಗೆ ‎(mīgaḷige),,,,,,,,
+Genitive,ಮೀಯ ‎(mīya),ಮೀಗಳ ‎(mīgaḷa),,,,,,,,
+present verbal participle,ಮೀಯುತ್ತ ‎(mīyutta)ಮೀಯುತ್ತಾ ‎(mīyuttā),past verbal participle,ಮಿಂದು ‎(miṃdu),negative verbal participle,ಮೀಯದೆ ‎(mīyade),infinitive,ಮೀಯಲು ‎(mīyalu),conditional form,ಮಿಂದರೆ ‎(miṃdare),
+present-future relative participle,ಮೀಯುವ ‎(mīyuva),past relative participle,ಮಿಂದ ‎(miṃda),negative relative participle,ಮೀಯದ ‎(mīyada),dative infinitive,ಮೀಯಲಿಕ್ಕೆ ‎(mīyalikke),optative form,ಮೀಯಲಿ ‎(mīyali),
+person,singular,plural,,,,,,,,
+first,second,third masculine,third feminine,third neuter,first,second,third epicene,third neuter,,
+affirmative,,ನಾನು,ನೀನು,ಅವನು,ಅವಳು,ಅದು,ನಾವು,ನೀವು,ಅವರು,ಅವು
+present,ಮೀಯುತ್ತೇನೆ ‎(mīyuttēne),ಮೀಯುತ್ತೀಯೆ ‎(mīyuttīye)ಮೀಯುತ್ತೀ ‎(mīyuttī),ಮೀಯುತ್ತಾನೆ ‎(mīyuttāne),ಮೀಯುತ್ತಾಳೆ ‎(mīyuttāḷe),ಮೀಯುತ್ತದೆ ‎(mīyuttade),ಮೀಯುತ್ತೇವೆ ‎(mīyuttēve),ಮೀಯುತ್ತೀರಿ ‎(mīyuttīri),ಮೀಯುತ್ತಾರೆ ‎(mīyuttāre),ಮೀಯುತ್ತವೆ ‎(mīyuttave),
+past,ಮಿಂದೆನು ‎(miṃdenu)ಮಿಂದೆ ‎(miṃde),ಮಿಂದೆ ‎(miṃde)ಮಿಂದಿ ‎(miṃdi),ಮಿಂದನು ‎(miṃdanu)ಮಿಂದ ‎(miṃda),ಮಿಂದಳು ‎(miṃdaḷu),{{{5}}} ‎({{{5}}}),ಮಿಂದೆವು ‎(miṃdevu),ಮಿಂದಿರಿ ‎(miṃdiri),ಮಿಂದರು ‎(miṃdaru),ಮಿಂದುವು ‎(miṃduvu),
+future,ಮೀಯುವೆನು ‎(mīyuvenu)ಮೀಯುವೆ ‎(mīyuve),ಮೀಯುವೆ ‎(mīyuve)ಮೀಯುವಿ ‎(mīyuvi),ಮೀಯುವನು ‎(mīyuvanu)ಮೀಯುವ ‎(mīyuva),ಮೀಯುವಳು ‎(mīyuvaḷu),ಮೀಯುವುದು ‎(mīyuvudu),ಮೀಯುವೆವು ‎(mīyuvevu),ಮೀಯುವಿರಿ ‎(mīyuviri),ಮೀಯುವರು ‎(mīyuvaru),ಮೀಯುವುವು ‎(mīyuvuvu),
+negative,,ನಾನು,ನೀನು,ಅವನು,ಅವಳು,ಅದು,ನಾವು,ನೀವು,ಅವರು,ಅವು
+tenseless,ಮೀಯೆನು ‎(mīyenu)ಮೀಯೆ ‎(mīye),ಮೀಯೆ ‎(mīye),ಮೀಯನು ‎(mīyanu)ಮೀಯ ‎(mīya),ಮೀಯಳು ‎(mīyaḷu),ಮೀಯದು ‎(mīyadu),ಮೀಯೆವು ‎(mīyevu),ಮೀಯರಿ ‎(mīyari),ಮೀಯರು ‎(mīyaru),ಮೀಯವು ‎(mīyavu),
+contingent,,ನಾನು,ನೀನು,ಅವನು,ಅವಳು,ಅದು,ನಾವು,ನೀವು,ಅವರು,ಅವು
+future,ಮಿಂದೇನು ‎(miṃdēnu),ಮಿಂದೀಯೆ ‎(miṃdīye),ಮಿಂದಾನು ‎(miṃdānu),ಮಿಂದಾಳು ‎(miṃdāḷu),ಮಿಂದೀತು ‎(miṃdītu),ಮಿಂದೇವು ‎(miṃdēvu),ಮಿಂದೀರಿ ‎(miṃdīri),ಮಿಂದಾರು ‎(miṃdāru),ಮಿಂದಾವು ‎(miṃdāvu),
+imperative,ನಾನು,ನೀನು,——,——,——,ನಾವು,ನೀವು,——,——,
+ಮೀಯುವೆ ‎(mīyuve),ಮೀ ‎(mī),,,,ಮೀಯುವಾ ‎(mīyuvā)ಮೀಯೋಣ ‎(mīyōṇa),ಮೀಯಿರಿ ‎(mīyiri),,,,

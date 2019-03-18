@@ -1,0 +1,33 @@
+0,1,2,3,4,5,6,7
+"Conjugation of vegeo (second conjugation, only third-person forms in passive)",,,,,,,
+indicative,singular,plural,,,,,
+first,second,third,first,second,third,,
+active,present,vegeō,vegēs,veget,vegēmus,vegētis,vegent
+imperfect,vegēbam,vegēbās,vegēbat,vegēbāmus,vegēbātis,vegēbant,
+future,vegēbō,vegēbis,vegēbit,vegēbimus,vegēbitis,vegēbunt,
+perfect,veguī,veguistī,veguit,veguimus,veguistis,"veguērunt, veguēre",
+pluperfect,vegueram,veguerās,veguerat,veguerāmus,veguerātis,veguerant,
+future perfect,veguerō,vegueris,veguerit,veguerimus,vegueritis,veguerint,
+passive,present,—,—,vegētur,—,—,vegentur
+imperfect,—,—,vegēbātur,—,—,vegēbantur,
+future,—,—,vegēbitur,—,—,vegēbuntur,
+subjunctive,singular,plural,,,,,
+first,second,third,first,second,third,,
+active,present,vegeam,vegeās,vegeat,vegeāmus,vegeātis,vegeant
+imperfect,vegērem,vegērēs,vegēret,vegērēmus,vegērētis,vegērent,
+perfect,veguerim,veguerīs,veguerit,veguerīmus,veguerītis,veguerint,
+pluperfect,veguissem,veguissēs,veguisset,veguissēmus,veguissētis,veguissent,
+passive,present,—,—,vegeātur,—,—,vegeantur
+imperfect,—,—,vegērētur,—,—,vegērentur,
+imperative,singular,plural,,,,,
+first,second,third,first,second,third,,
+active,present,—,vegē,—,—,vegēte,—
+future,—,vegētō,vegētō,—,vegētōte,vegentō,
+non-finite forms,active,passive,,,,,
+present,perfect,future,present,perfect,future,,
+infinitives,vegēre,veguisse,—,vegērī,—,—,
+participles,vegēns,—,—,—,—,vegendus,
+verbal nouns,gerund,supine,,,,,
+nominative,genitive,dative/ablative,accusative,accusative,ablative,,
+vegēre,vegendī,vegendō,vegendum,—,—,,
+vegetābilis  vegetālis  vegetāmen,,vegetātiō  vegetātor  vegetō,,,,,

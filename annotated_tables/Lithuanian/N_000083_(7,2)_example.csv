@@ -1,0 +1,8 @@
+0,1
+nominative,N;NOM;SG
+genitive,N;GEN;SG
+dative,N;DAT;SG
+accusative,N;ACC;SG
+instrumental,N;INST;SG
+locative,N;LOC;SG
+vocative,N;VOC;SG

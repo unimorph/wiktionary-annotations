@@ -1,0 +1,16 @@
+0,1,2,3,4,5
+Number,Singular,,Plural,,
+Case / Gender,Masc./Fem.,Neuter,Masc./Fem.,Neuter,
+nominative,familiāris,familiāre,,familiārēs,familiāria
+genitive,familiāris,familiārium,,,
+dative,familiārī,familiāribus,,,
+accusative,familiārem,familiāre,familiārēs,familiāria,
+ablative,familiārī,familiāribus,,,
+vocative,familiāris,familiāre,familiārēs,familiāria,
+Case,Singular,Plural,,,
+nominative,familiāris,familiārēs,,,
+genitive,familiāris,familiārium,,,
+dative,familiārī,familiāribus,,,
+accusative,familiārem,familiārēs,,,
+ablative,familiāre,familiāribus,,,
+vocative,familiāris,familiārēs,,,

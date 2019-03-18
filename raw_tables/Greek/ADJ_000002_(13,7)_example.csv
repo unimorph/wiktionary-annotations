@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6
+number case / gender,singular,plural,,,,
+masculine,feminine,neuter,masculine,feminine,neuter,
+nominative,ολίγος,ολίγη,ολίγο,ολίγοι,ολίγες,ολίγα
+genitive,ολίγου,ολίγης,ολίγου,ολίγων,ολίγων,ολίγων
+accusative,ολίγο,ολίγη,ολίγο,ολίγους,ολίγες,ολίγα
+vocative,ολίγε,ολίγη,ολίγο,ολίγοι,ολίγες,ολίγα
+comparative,singular,plural,,,,
+masculine,feminine,neuter,masculine,feminine,neuter,
+nominative,ολιγότερος,ολιγότερη,ολιγότερο,ολιγότεροι,ολιγότερες,ολιγότερα
+genitive,ολιγότερου,ολιγότερης,ολιγότερου,ολιγότερων,ολιγότερων,ολιγότερων
+accusative,ολιγότερο,ολιγότερη,ολιγότερο,ολιγότερους,ολιγότερες,ολιγότερα
+vocative,ολιγότερε,ολιγότερη,ολιγότερο,ολιγότεροι,ολιγότερες,ολιγότερα
+derivations,"relative superlative: ο + comparative forms (eg ""ο ολιγότερος"", etc)",,,,,

@@ -1,0 +1,8 @@
+0,1,2,3,4
+listen,,(file),,
+n-s,singular,plural,,
+,indefinite,definite,indefinite,definite
+nominative,salt,saltið,sölt,söltin
+accusative,salt,saltið,sölt,söltin
+dative,salti,saltinu,söltum,söltunum
+genitive,salts,saltsins,salta,saltanna

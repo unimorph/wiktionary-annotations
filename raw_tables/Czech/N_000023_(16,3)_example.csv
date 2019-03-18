@@ -1,0 +1,17 @@
+0,1,2
+,singular,plural
+nominative,forward,forwardi
+genitive,forwarda,forwardů
+dative,"forwardovi, forwardu",forwardům
+accusative,forwarda,forwardy
+vocative,forwarde,forwardi
+locative,"forwardovi, forwardu",forwardech
+instrumental,forwardem,forwardy
+,singular,plural
+nominative,forward,forwardy
+genitive,forwardu,forwardů
+dative,forwardu,forwardům
+accusative,forward,forwardy
+vocative,forwarde,forwardy
+locative,forwardu,forwardech
+instrumental,forwardem,forwardy

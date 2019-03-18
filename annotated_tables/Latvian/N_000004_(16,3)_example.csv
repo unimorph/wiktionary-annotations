@@ -1,0 +1,17 @@
+0,1,2
+Picture dictionary,,
+,,
+(Cilvēka) ķermenis,(Cilvēka) ķermenis,
+(Cilvēka) ķermenis,,
+"1=galva 2=seja 3=kakls 4=plecs 5=krūtis, lāde 6=naba 7=vēders 8=cirksnis 9=dzimumloceklis 10-14=kāja 10=augšstilbs, ciska 11=celis 12=stilbs 13=potīte 14=pēda 15-19=roka 16=elkonis 18=plauksta 19=roka","1=galva 2=seja 3=kakls 4=plecs 5=krūtis, lāde 6=naba 7=vēders 8=cirksnis 9=dzimumloceklis 10-14=kāja 10=augšstilbs, ciska 11=celis 12=stilbs 13=potīte 14=pēda 15-19=roka 16=elkonis 18=plauksta 19=roka",
+"1=galva 2=seja 3=kakls 4=plecs 5=krūtis, lāde 6=naba 7=vēders 8=cirksnis 9=dzimumloceklis 10-14=kāja 10=augšstilbs, ciska 11=celis 12=stilbs 13=potīte 14=pēda 15-19=roka 16=elkonis 18=plauksta 19=roka",,
+(Cilvēka) ķermenis,,
+"1=galva 2=seja 3=kakls 4=plecs 5=krūtis, lāde 6=naba 7=vēders 8=cirksnis 9=dzimumloceklis 10-14=kāja 10=augšstilbs, ciska 11=celis 12=stilbs 13=potīte 14=pēda 15-19=roka 16=elkonis 18=plauksta 19=roka",,
+,singular (vienskaitlis),plural (daudzskaitlis)
+nominative (nominatīvs),ķermenis,ķermeņi
+accusative (akuzatīvs),ķermeni,ķermeņus
+genitive (ģenitīvs),ķermeņa,ķermeņu
+dative (datīvs),ķermenim,ķermeņiem
+instrumental (instrumentālis),ķermeni,ķermeņiem
+locative (lokatīvs),ķermenī,ķermeņos
+vocative (vokatīvs),ķermeni,ķermeņi

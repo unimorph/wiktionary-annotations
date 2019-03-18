@@ -1,0 +1,8 @@
+0,1,2
+Declension of gikt (singular only),,
+f2s,singular,
+indefinite,definite,
+nominative,N;INDF;NOM;SG,N;INDF;NOM;PL
+accusative,N;INDF;ACC;SG,N;INDF;ACC;PL
+dative,N;INDF;DAT;SG,N;INDF;DAT;PL
+genitive,N;INDF;GEN;SG,N;INDF;GEN;PL

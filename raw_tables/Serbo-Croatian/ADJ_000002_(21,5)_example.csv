@@ -1,0 +1,22 @@
+0,1,2,3,4
+singular,masculine,feminine,neuter,
+nominative,сињи,сиња,сиње,
+genitive,сињег(а),сиње,сињег(а),
+dative,сињем(у),сињој,сињем(у),
+accusative,inanimateanimate,сињисињег(а),сињу,сиње
+vocative,сињи,сиња,сиње,
+locative,сињем(у),сињој,сињем(у),
+instrumental,сињим,сињом,сињим,
+plural,masculine,feminine,neuter,
+nominative,сињи,сиње,сиња,
+genitive,сињих,сињих,сињих,
+dative,сињим(а),сињим(а),сињим(а),
+accusative,сиње,сиње,сиња,
+vocative,сињи,сиње,сиња,
+locative,сињим(а),сињим(а),сињим(а),
+instrumental,сињим(а),сињим(а),сињим(а),
+Colors in Serbo-Croatian · boje / боје (layout · text),,,,
+"crven, rumenцрвен, румен",zelenзелен,žutжут,žutжут,"bijel, beoбијел, бео"
+?,ljubičast (magenta)љубичаст (магента),tirkizanтиркизан,zelenзелен,"ružičast, rozaружичаст, роза"
+modar (indigo)модар (индиго),modarмодар,"narandžast, narančastнаранџаст, наранчаст","siv, sinjiсив, сињи",ljubičastљубичаст
+crnцрн,ljubičastљубичаст,"smeđ, braonсмеђ, браон",plavплав,tirkizan (cijan)тиркизан (цијан)

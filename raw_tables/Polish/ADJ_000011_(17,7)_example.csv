@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6
+Audio,,(file),,,,
+,singular,plural,,,,
+nominative,dorosły,dorośli,,,,
+genitive,dorosłego,dorosłych,,,,
+dative,dorosłemu,dorosłym,,,,
+accusative,dorosłego,dorosłych,,,,
+instrumental,dorosłym,dorosłymi,,,,
+locative,dorosłym,dorosłych,,,,
+vocative,dorosły,dorośli,,,,
+case,singular,plural,,,,
+"m pers, m anim",m inan,n,f,m pers,other,
+"nominative, vocative",dorosły,dorosłe,dorosła,dorośli,dorosłe,
+genitive,dorosłego,dorosłej,dorosłych,,,
+dative,dorosłemu,dorosłym,,,,
+accusative,dorosłego,dorosły,dorosłe,dorosłą,dorosłych,dorosłe
+instrumental,dorosłym,dorosłymi,,,,
+locative,dorosłej,dorosłych,,,,

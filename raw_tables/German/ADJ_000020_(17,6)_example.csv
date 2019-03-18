@@ -1,0 +1,18 @@
+0,1,2,3,4,5
+Audio (Austria),,(file),,,
+Audio,,(file),,,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist gewohnt,sie ist gewohnt,es ist gewohnt,sie sind gewohnt,
+strong declension (without article),nominative,gewohnter,gewohnte,gewohntes,gewohnte
+genitive,gewohnten,gewohnter,gewohnten,gewohnter,
+dative,gewohntem,gewohnter,gewohntem,gewohnten,
+accusative,gewohnten,gewohnte,gewohntes,gewohnte,
+weak declension (with definite article),nominative,der gewohnte,die gewohnte,das gewohnte,die gewohnten
+genitive,des gewohnten,der gewohnten,des gewohnten,der gewohnten,
+dative,dem gewohnten,der gewohnten,dem gewohnten,den gewohnten,
+accusative,den gewohnten,die gewohnte,das gewohnte,die gewohnten,
+mixed declension (with indefinite article),nominative,ein gewohnter,eine gewohnte,ein gewohntes,(keine) gewohnten
+genitive,eines gewohnten,einer gewohnten,eines gewohnten,(keiner) gewohnten,
+dative,einem gewohnten,einer gewohnten,einem gewohnten,(keinen) gewohnten,
+accusative,einen gewohnten,eine gewohnte,ein gewohntes,(keine) gewohnten,

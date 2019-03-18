@@ -1,0 +1,39 @@
+0,1,2
+perfective aspect,,
+infinitive,V;PFV;NFIN,
+participles,present tense,past tense
+active,V.PTCP;PFV;ACT;PRS,V.PTCP;PFV;ACT;PST
+passive,V.PTCP;PFV;PASS;PRS,V.PTCP;PFV;PASS;PST
+adverbial,V.CVB;PFV;PRS,V.CVB;PFV;PST
+,present tense,future tense
+1st singular (я),V;PFV;PRS;1;SG,V;PFV;FUT;1;SG
+2nd singular (ты),V;PFV;PRS;2;SG,V;PFV;FUT;2;SG
+3rd singular (он/она́/оно́),V;PFV;PRS;3;SG,V;PFV;FUT;3;SG
+1st plural (мы),V;PFV;PRS;1;PL,V;PFV;FUT;1;PL
+2nd plural (вы),V;PFV;PRS;2;PL,V;PFV;FUT;2;PL
+3rd plural (они́),V;PFV;PRS;3;PL,V;PFV;FUT;3;PL
+imperative,singular,plural
+,V;PFV;IMP;2;SG,V;PFV;IMP;2;PL
+past tense,singular,plural(мы/вы/они́)
+masculine (я/ты/он),V;PFV;PST;SG;MASC,V;PFV;PST;PL
+feminine (я/ты/она́),V;PFV;PST;SG;FEM,
+neuter (оно́),V;PFV;PST;SG;NEUT,
+perfective aspect,,
+infinitive,V;PFV;NFIN,
+participles,present tense,past tense
+active,V.PTCP;PFV;ACT;PRS,V.PTCP;PFV;ACT;PST
+passive,V.PTCP;PFV;PASS;PRS,V.PTCP;PFV;PASS;PST
+adverbial,V.CVB;PFV;PRS,V.CVB;PFV;PST
+,present tense,future tense
+1st singular (я),V;PFV;PRS;1;SG,V;PFV;FUT;1;SG
+2nd singular (ты),V;PFV;PRS;2;SG,V;PFV;FUT;2;SG
+3rd singular (он/она́/оно́),V;PFV;PRS;3;SG,V;PFV;FUT;3;SG
+1st plural (мы),V;PFV;PRS;1;PL,V;PFV;FUT;1;PL
+2nd plural (вы),V;PFV;PRS;2;PL,V;PFV;FUT;2;PL
+3rd plural (они́),V;PFV;PRS;3;PL,V;PFV;FUT;3;PL
+imperative,singular,plural
+,V;PFV;IMP;2;SG,V;PFV;IMP;2;PL
+past tense,singular,plural(мы/вы/они́)
+masculine (я/ты/он),V;PFV;PST;SG;MASC,V;PFV;PST;PL
+feminine (я/ты/она́),V;PFV;PST;SG;FEM,
+neuter (оно́),V;PFV;PST;SG;NEUT,

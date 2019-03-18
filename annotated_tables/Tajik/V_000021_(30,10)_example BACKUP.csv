@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6,7,8,9
+Dari,شنیدن,,,,,,,,
+Iranian Persian,شنیدن,,,,,,,,
+Tajik,шунидан (šunidan),,,,,,,,
+infinitive,V;NFIN,,,,,,,,
+,,,,,,,,,
+present stem,шунав (šunav),past stem,шунид (šunid),,,,,,
+present participle,V.PTCP;NFIN;PRS,past participle,V.PTCP;NFIN;PST,,,,,,
+indicative,,,,,,,,,
+future,ман,V;FIN;IND;FUT;1;SG,мо,V;FIN;IND;FUT;1;PL,past,ман,V;FIN;IND;PST;PFV;1;SG,мо,V;FIN;IND;PST;PFV;1;PL
+ту,V;FIN;IND;FUT;2;SG;INFM,шумо,V;FIN;IND;FUT;2;PL;INFM,ту,V;FIN;IND;PST;PFV;2;SG;INFM,шумо,V;FIN;IND;PST;PFV;2;PL;INFM,,
+ӯ,V;FIN;IND;FUT;SG;{2;FORM}/3,онҳо,V;FIN;IND;FUT;PL;{2;FORM}/3,ӯ,V;FIN;IND;PST;PFV;SG;{2;FORM}/3,онҳо,V;FIN;IND;PST;PFV;PL;{2;FORM}/3,,
+,,,,,,,,,
+present (imperfect),ман,V;FIN;IND;PRS;IPFV;1;SG,мо,V;FIN;IND;PRS;IPFV;1;PL,past (imperfect),ман,V;FIN;IND;PST;IPFV;1;SG,мо,V;FIN;IND;PST;IPFV;1;PL
+ту,V;FIN;IND;PRS;IPFV;2;SG;INFM,шумо,V;FIN;IND;PRS;IPFV;2;PL;INFM,ту,V;FIN;IND;PST;IPFV;2;SG;INFM,шумо,V;FIN;IND;PST;IPFV;2;PL;INFM,,
+ӯ,V;FIN;IND;PRS;IPFV;SG;{2;FORM}/3,онҳо,V;FIN;IND;PRS;IPFV;PL;{2;FORM}/3,ӯ,V;FIN;IND;PST;IPFV;SG;{2;FORM}/3,онҳо,V;FIN;IND;PST;IPFV;PL;{2;FORM}/3,,
+,,,,,,,,,
+present progressive,ман,шунида истодаам (šunida istodaam),мо,шунида истодаем (šunida istodayem),past progressive,ман,шунида истода будам (šunida istoda budam),мо,шунида истода будем (šunida istoda budem)
+ту,шунида истодаӣ (šunida istodayī),шумо,шунида истодаед (šunida istodayed),ту,шунида истода будӣ (šunida istoda budī),шумо,шунида истода будед (šunida istoda buded),,
+ӯ,шунида истода (šunida istoda),онҳо,шунида истодаанд (šunida istodaand),ӯ,шунида истода буд (šunida istoda bud),онҳо,шунида истода буданд (šunida istoda budand),,
+,,,,,,,,,
+present perfect,ман,V;FIN;IND;PRS;PRF;1;SG,мо,V;FIN;IND;PRS;PRF;1;PL,pluperfect,ман,V;FIN;IND;PST;PRF;1;SG,мо,V;FIN;IND;PST;PRF;1;PL
+ту,V;FIN;IND;PRS;PRF;2;SG;INFM,шумо,V;FIN;IND;PRS;PRF;2;PL;INFM,ту,V;FIN;IND;PST;PRF;2;SG;INFM,шумо,V;FIN;IND;PST;PRF;2;PL;INFM,,
+ӯ,V;FIN;IND;PRS;PRF;SG;{2;FORM}/3,онҳо,V;FIN;IND;PRS;PRF;PL;{2;FORM}/3,ӯ,V;FIN;IND;PST;PRF;SG;{2;FORM}/3,онҳо,V;FIN;IND;PST;PRF;PL;{2;FORM}/3,,
+,,,,,,,,,
+subjunctive,,,,,,,,,
+present,ман,V;FIN;SBJV;PRS;1;SG,мо,V;FIN;SBJV;PRS;1;PL,past,ман,V;FIN;SBJV;PST;1;SG,мо,V;FIN;SBJV;PST;1;PL
+ту,V;FIN;SBJV;PRS;2;SG;INFM,шумо,V;FIN;SBJV;PRS;2;PL;INFM,ту,V;FIN;SBJV;PST;2;SG;INFM,шумо,V;FIN;SBJV;PST;2;PL;INFM,,
+ӯ,V;FIN;SBJV;PRS;SG;{2;FORM}/3,онҳо,V;FIN;SBJV;PRS;PL;{2;FORM}/3,ӯ,V;FIN;SBJV;PST;SG;{2;FORM}/3,онҳо,V;FIN;SBJV;PST;PL;{2;FORM}/3,,
+,,,,,,,,,
+imperative,ту,V;IMP;2;SG,шумо,V;IMP;2;PL,,,,,

@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6
+number case / gender,singular,plural,,,,
+masculine,feminine,neuter,masculine,feminine,neuter,
+nominative,φτηνός,φτηνή,φτηνό,φτηνοί,φτηνές,φτηνά
+genitive,φτηνού,φτηνής,φτηνού,φτηνών,φτηνών,φτηνών
+accusative,φτηνό,φτηνή,φτηνό,φτηνούς,φτηνές,φτηνά
+vocative,φτηνέ,φτηνή,φτηνό,φτηνοί,φτηνές,φτηνά
+derivations,"comparative: πιο + positive forms (e.g. πιο φτηνός, etc.) relative superlative: definite article + πιο + positive forms (e.g. ο πιο φτηνός, etc.)",,,,,
+comparative,singular,plural,,,,
+masculine,feminine,neuter,masculine,feminine,neuter,
+nominative,φτηνότερος,φτηνότερη,φτηνότερο,φτηνότεροι,φτηνότερες,φτηνότερα
+genitive,φτηνότερου,φτηνότερης,φτηνότερου,φτηνότερων,φτηνότερων,φτηνότερων
+accusative,φτηνότερο,φτηνότερη,φτηνότερο,φτηνότερους,φτηνότερες,φτηνότερα
+vocative,φτηνότερε,φτηνότερη,φτηνότερο,φτηνότεροι,φτηνότερες,φτηνότερα
+derivations,"relative superlative: ο + comparative forms (eg ""ο φτηνότερος"", etc)",,,,,

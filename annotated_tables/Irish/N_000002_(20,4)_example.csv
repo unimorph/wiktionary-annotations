@@ -1,0 +1,21 @@
+0,1,2,3
+Feminine n-stem,,,
+Case,Singular,Dual,Plural
+Nominative,accuisL,aicsinL,aicsin
+Vocative,accuisL,aicsinL,*acsna? *accusna?
+Accusative,aicsinN,aicsinL,
+Genitive,"*acsan, *acson","*acsan, *acsonL","*acsan, *acsonN"
+Dative,"aicsinL, accuisL",aicsenaib,
+Forms marked L trigger lenition of a following adjective; forms marked N trigger nasalization.,,,
+Feminine i-stem,,,
+Case,Singular,Dual,Plural
+Nominative,accuisL,accuisL,a(i)csi
+Vocative,accuisL,accuisL,a(i)csi
+Accusative,accuisN,accuisL,
+Genitive,"*acso, *acsa","*acso, *acsaL",*aicseN
+Dative,accuisL,*aicsib,
+Forms marked L trigger lenition of a following adjective; forms marked N trigger nasalization.,,,
+Old Irish mutation,,,
+Radical,Lenition,Nasalization,
+accuis,unchanged,n-accuis,
+Note: Some of these forms may be hypothetical. Not everypossible mutated form of every word actually occurs.,,,

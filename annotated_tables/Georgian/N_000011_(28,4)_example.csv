@@ -1,0 +1,29 @@
+0,1,2,3
+Case,adjective,,
+"nominative, genitive, instrumental",ცისფერი ‎(cisperi),,
+ergative,ცისფერმა ‎(cisperma),,
+"dative, adverbial",ცისფერ ‎(cisper),,
+vocative,ცისფერო ‎(cispero),,
+,Singular,Plural,Archaic plural
+nominative,N;SG;NOM,N;PL;NOM,N;PL;LGSPEC2;NOM
+ergative,N;SG;ERG,N;PL;ERG,N;PL;LGSPEC2;ERG
+dative,N;SG;DAT,N;PL;DAT,N;PL;LGSPEC2;DAT
+genitive,N;SG;GEN,N;PL;GEN,N;PL;LGSPEC2;GEN
+instrumental,N;SG;INST,N;PL;INST,
+adverbial,N;SG;LGSPEC1,N;PL;LGSPEC1,
+vocative,N;SG;VOC,N;PL;VOC,N;PL;LGSPEC2;VOC
+Postpositions taking a genitive case,singular,plural,
+-თვის (for - ),ცისფერისთვის,ცისფერებისთვის,
+-ებრ (like a - ),ცისფერისებრ,ცისფერებისებრ,
+-კენ (towards - ),ცისფერისკენ,ცისფერებისკენ,
+-გან (from/of - ),ცისფერისგან,ცისფერებისგან,
+Postpositions taking an adverbial case,singular,plural,
+-მდე (up to - ),ცისფერამდე,ცისფერებამდე,
+Postpositions taking a dative case,singular,plural,
+-ზე (on - ),ცისფერზე,ცისფერებზე,
+-თან (near - ),ცისფერთან,ცისფერებთან,
+-ში (in - ),ცისფერში,ცისფერებში,
+-ვით (like a - ),ცისფერივით,ცისფერებივით,
+Postpositions taking an instrumental case,singular,plural,
+-დან (from / since - ),ცისფერიდან,ცისფერებიდან,
+-ურთ (together with - ),ცისფერითურთ,ცისფერებითურთ,

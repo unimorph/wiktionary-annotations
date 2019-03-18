@@ -1,0 +1,55 @@
+0,1,2,3,4,5
+Audio,,(file),,,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist erwachsen,sie ist erwachsen,es ist erwachsen,sie sind erwachsen,
+strong declension (without article),nominative,erwachsener,erwachsene,erwachsenes,erwachsene
+genitive,erwachsenen,erwachsener,erwachsenen,erwachsener,
+dative,erwachsenem,erwachsener,erwachsenem,erwachsenen,
+accusative,erwachsenen,erwachsene,erwachsenes,erwachsene,
+weak declension (with definite article),nominative,der erwachsene,die erwachsene,das erwachsene,die erwachsenen
+genitive,des erwachsenen,der erwachsenen,des erwachsenen,der erwachsenen,
+dative,dem erwachsenen,der erwachsenen,dem erwachsenen,den erwachsenen,
+accusative,den erwachsenen,die erwachsene,das erwachsene,die erwachsenen,
+mixed declension (with indefinite article),nominative,ein erwachsener,eine erwachsene,ein erwachsenes,(keine) erwachsenen
+genitive,eines erwachsenen,einer erwachsenen,eines erwachsenen,(keiner) erwachsenen,
+dative,einem erwachsenen,einer erwachsenen,einem erwachsenen,(keinen) erwachsenen,
+accusative,einen erwachsenen,eine erwachsene,ein erwachsenes,(keine) erwachsenen,
+infinitive,erwachsen,,,,
+present participle,erwachsend,,,,
+past participle,erwachsen,,,,
+auxiliary,sein,,,,
+,indicative,,subjunctive,,
+present,ich erwachse,wir erwachsen,i,ich erwachse,wir erwachsen
+du erwächst,ihr erwachst,du erwachsest,ihr erwachset,,
+er erwächst,sie erwachsen,er erwachse,sie erwachsen,,
+,,,,,
+preterite,ich erwuchs,wir erwuchsen,ii,ich erwüchse,wir erwüchsen
+du erwuchst,ihr erwuchst,du erwüchsest,ihr erwüchset,,
+er erwuchs,sie erwuchsen,er erwüchse,sie erwüchsen,,
+,,,,,
+imperative,erwachs (du)erwachse (du),erwachst (ihr),,,
+perfect,,,,,
+indicative,ich bin erwachsen,wir sind erwachsen,subjunctive,ich sei erwachsen,wir seien erwachsen
+du bist erwachsen,ihr seid erwachsen,du seist erwachsen,ihr seiet erwachsen,,
+er ist erwachsen,sie sind erwachsen,er sei erwachsen,sie seien erwachsen,,
+pluperfect,,,,,
+indicative,ich war erwachsen,wir waren erwachsen,subjunctive,ich wäre erwachsen,wir wären erwachsen
+du warst erwachsen,ihr wart erwachsen,du wärst erwachsen,ihr wärt erwachsen,,
+er war erwachsen,sie waren erwachsen,er wäre erwachsen,sie wären erwachsen,,
+future i,,,,,
+infinitive,erwachsen werden,subjunctive i,ich werde erwachsen,wir werden erwachsen,
+du werdest erwachsen,ihr werdet erwachsen,,,,
+er werde erwachsen,sie werden erwachsen,,,,
+,,,,,
+indicative,ich werde erwachsen,wir werden erwachsen,subjunctive ii,ich würde erwachsen,wir würden erwachsen
+du wirst erwachsen,ihr werdet erwachsen,du würdest erwachsen,ihr würdet erwachsen,,
+er wird erwachsen,sie werden erwachsen,er würde erwachsen,sie würden erwachsen,,
+future ii,,,,,
+infinitive,erwachsen sein werden,subjunctive i,ich werde erwachsen sein,wir werden erwachsen sein,
+du werdest erwachsen sein,ihr werdet erwachsen sein,,,,
+er werde erwachsen sein,sie werden erwachsen sein,,,,
+,,,,,
+indicative,ich werde erwachsen sein,wir werden erwachsen sein,subjunctive ii,ich würde erwachsen sein,wir würden erwachsen sein
+du wirst erwachsen sein,ihr werdet erwachsen sein,du würdest erwachsen sein,ihr würdet erwachsen sein,,
+er wird erwachsen sein,sie werden erwachsen sein,er würde erwachsen sein,sie würden erwachsen sein,,

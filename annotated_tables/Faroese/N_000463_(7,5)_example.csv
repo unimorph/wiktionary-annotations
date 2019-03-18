@@ -1,0 +1,8 @@
+0,1,2,3,4
+Declension of grann,,,,
+f2,singular,plural,,
+indefinite,definite,indefinite,definite,
+nominative,N;INDF;NOM;SG,N;DEF;NOM;SG,N;INDF;NOM;PL,N;DEF;NOM;PL
+accusative,N;INDF;ACC;SG,N;DEF;ACC;SG,N;INDF;ACC;PL,N;DEF;ACC;PL
+dative,N;INDF;DAT;SG,N;DEF;DAT;SG,N;INDF;DAT;PL,N;DEF;DAT;PL
+genitive,N;INDF;GEN;SG,N;DEF;GEN;SG,N;INDF;GEN;PL,N;DEF;GEN;PL

@@ -1,0 +1,19 @@
+0,1,2,3,4,5,6
+verbal noun,V;V.MSDR,,,,,
+infinitive,V;V.NFIN,,,,,
+progressive participle,V;V.PTCP;PROG,,,,,
+conditional participle,V;V.PTCP;COND,,,,,
+perfect participle,V;V.PTCP;PRF,,,,,
+habitual participle,V;V.PTCP;HAB,,,,,
+,1st person,2nd person,3rd person,2nd person,3rd person,
+very familiar,familiar,familiar,polite,,,
+singular,আমি (ami),তুই (tui),তুমি (tumi),"এ (e), ও (o), সে (she)",আপনি (apni),"ইনি (ini), উনি (uni), তিনি (tini)"
+plural,আমরা (amra),তোরা (tora),তোমরা (tomra),"এরা (era), ওরা (ora), তারা (tara)",আপনারা (apnara),"এঁরা (ẽra), ওঁরা (õra), তাঁরা (tãra)"
+simple present,V;1;PRS,V;2;PRS;LGSPEC1,V;3;PRS;INFM,V;2;PRS;POL,V;3;PRS;POL,
+present continuous,V;1;PRS;PROG,V;2;PRS;PROG;LGSPEC1,V;3;PRS;PROG;INFM,V;2;PRS;PROG;POL,V;3;PRS;PROG;POL,
+present perfect,V;1;PRS;PRF,V;2;PRS;PRF;LGSPEC1,V;3;PRS;PRF;INFM,V;2;PRS;PRF;POL,V;3;PRS;PRF;POL,
+simple past,V;1;PST,V;2;PST;LGSPEC1,V;3;PST;INFM,V;2;PST;POL,V;3;PST;POL,
+past continuous,V;1;PST;PROG,V;2;PST;PROG;LGSPEC1,V;3;PST;PROG;INFM,V;2;PST;PROG;POL,V;3;PST;PROG;POL,
+past perfect,V;1;PST;PRF,V;2;PST;PRF;LGSPEC1,V;3;PST;PRF;INFM,V;2;PST;PRF;POL,V;3;PST;PRF;POL,
+habitual/ conditional past,V;1;PST;HAB,V;2;PST;HAB;LGSPEC1,V;3;PST;HAB;INFM,V;2;PST;HAB;POL,V;3;PST;HAB;POL,
+future,V;1;FUT,V;2;FUT;LGSPEC1,V;3;FUT;INFM,V;2;FUT;POL,V;3;FUT;POL,

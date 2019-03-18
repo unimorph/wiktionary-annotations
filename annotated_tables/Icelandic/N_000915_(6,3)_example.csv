@@ -1,0 +1,7 @@
+0,1,2
+f-w2,singular,
+,indefinite,definite
+nominative,N;INDF;NOM;SG,N;DEF;NOM;SG
+accusative,N;INDF;ACC;SG,N;DEF;ACC;SG
+dative,N;INDF;DAT;SG,N;DEF;DAT;SG
+genitive,N;INDF;GEN;SG,N;DEF;GEN;SG

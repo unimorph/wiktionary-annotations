@@ -1,0 +1,16 @@
+0,1,2,3,4,5
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist graubraun,sie ist graubraun,es ist graubraun,sie sind graubraun,
+strong declension (without article),nominative,graubrauner,graubraune,graubraunes,graubraune
+genitive,graubraunen,graubrauner,graubraunen,graubrauner,
+dative,graubraunem,graubrauner,graubraunem,graubraunen,
+accusative,graubraunen,graubraune,graubraunes,graubraune,
+weak declension (with definite article),nominative,der graubraune,die graubraune,das graubraune,die graubraunen
+genitive,des graubraunen,der graubraunen,des graubraunen,der graubraunen,
+dative,dem graubraunen,der graubraunen,dem graubraunen,den graubraunen,
+accusative,den graubraunen,die graubraune,das graubraune,die graubraunen,
+mixed declension (with indefinite article),nominative,ein graubrauner,eine graubraune,ein graubraunes,(keine) graubraunen
+genitive,eines graubraunen,einer graubraunen,eines graubraunen,(keiner) graubraunen,
+dative,einem graubraunen,einer graubraunen,einem graubraunen,(keinen) graubraunen,
+accusative,einen graubraunen,eine graubraune,ein graubraunes,(keine) graubraunen,

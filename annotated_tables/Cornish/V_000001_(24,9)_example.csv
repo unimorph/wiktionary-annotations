@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6,7,8
+,Indicative,Subjunctive,Imperative,,,,,
+Present,Imperfect,Preterite,Conditional,Future,Present-future,Imperfect,,
+1s,V;FIN;IND;PRS;1;SG,V;FIN;IND;PST;IPFV;1;SG,V;FIN;IND;PST;PFV;1;SG,V;FIN;IND;COND;1;SG,V;FIN;IND;FUT;1;SG,V;FIN;SBJV;PRS/FUT;1;SG,V;FIN;SBJV;PST;IPFV;1;SG,-
+2s,V;FIN;IND;PRS;2;SG,V;FIN;IND;PST;IPFV;2;SG,V;FIN;IND;PST;PFV;2;SG,V;FIN;IND;COND;2;SG,V;FIN;IND;FUT;2;SG,V;FIN;SBJV;PRS/FUT;2;SG,V;FIN;SBJV;PST;IPFV;2;SG,-
+3s (m),V;FIN;IND;PRS;3;SG;MASC,V;FIN;IND;PST;IPFV;3;SG;MASC,V;FIN;IND;PST;PFV;3;SG;MASC,V;FIN;IND;COND;3;SG;MASC,V;FIN;IND;FUT;3;SG;MASC,V;FIN;SBJV;PRS/FUT;3;SG;MASC,V;FIN;SBJV;PST;IPFV;3;SG;MASC,-
+3s (f),V;FIN;IND;PRS;3;SG;FEM,V;FIN;IND;PST;IPFV;3;SG;FEM,V;FIN;IND;PST;PFV;3;SG;FEM,V;FIN;IND;COND;3;SG;FEM,V;FIN;IND;FUT;3;SG;FEM,V;FIN;SBJV;PRS/FUT;3;SG;FEM,V;FIN;SBJV;PST;IPFV;3;SG;FEM,-
+1p,V;FIN;IND;PRS;1;PL,V;FIN;IND;PST;IPFV;1;PL,V;FIN;IND;PST;PFV;1;PL,V;FIN;IND;COND;1;PL,V;FIN;IND;FUT;1;PL,V;FIN;SBJV;PRS/FUT;1;PL,V;FIN;SBJV;PST;IPFV;1;PL,-
+2p,V;FIN;IND;PRS;2;PL,V;FIN;IND;PST;IPFV;2;PL,V;FIN;IND;PST;PFV;2;PL,V;FIN;IND;COND;2;PL,V;FIN;IND;FUT;2;PL,V;FIN;SBJV;PRS/FUT;2;PL,V;FIN;SBJV;PST;IPFV;2;PL,-
+3p,V;FIN;IND;PRS;3;PL,V;FIN;IND;PST;IPFV;3;PL,V;FIN;IND;PST;PFV;3;PL,V;FIN;IND;COND;3;PL,V;FIN;IND;FUT;3;PL,V;FIN;SBJV;PRS/FUT;3;PL,V;FIN;SBJV;PST;IPFV;3;PL,-
+,,,,,,,,
+Present participle: ow kavos Verbal adjective: (not used),,,,,,,,
+,Indicative,Subjunctive,Imperative,,,,,
+Pres-fut,Imperfect,Preterite,Conditional,Pres-fut,Imperfect,,,
+1s,kavav,kaven,kevis,kavsen,kyffiv,kaffen,-,
+2s,kevydh,kaves,kevsys,kavses,kyffi,kaffes,kav,
+3s,kav,kava,kavas,kavsa,kaffo,kaffa,kaves,
+1p,kevyn,kaven,kevsyn,kavsen,keffyn,kaffen,kevyn,
+2p,kevowgh,kavewgh,kevsowgh,kavsewgh,keffowgh,kaffewgh,kevowgh,
+3p,kavons,kavens,kevsons,kavsens,kaffons,kaffens,kavens,
+0,kevir,kaves,kavas,kavsys,kyffer,kaffys,-,
+Present participle: ow kavos Verbal adjective: kevys,,,,,,,,
+Cornish consonant mutation,,,,,,,,
+unmutated,soft,aspirate,hard,mixed,mixed after 'th,,,
+kavos,gavos,havos,unchanged,unchanged,unchanged,,,

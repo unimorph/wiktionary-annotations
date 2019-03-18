@@ -1,0 +1,7 @@
+0,1,2
+,singular,plural
+indefinite,N;SG;INDF,N;PL;INDF
+definite(subject form),N;SG;NOM;DEF,N;PL;DEF
+definite(object form),N;SG;ACC;DEF,
+count form,—,N;PL
+vocative form,N;SG;VOC,N;PL;VOC

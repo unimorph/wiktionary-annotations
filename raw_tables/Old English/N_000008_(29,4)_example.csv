@@ -1,0 +1,30 @@
+0,1,2,3
+Case,Singular,Plural,
+nominative,ēast,ēastas,
+accusative,ēast,ēastas,
+genitive,ēastes,ēasta,
+dative,ēaste,ēastum,
+Singular,Masculine,Feminine,Neuter
+Nominative,ēast,ēast,ēast
+Accusative,ēastne,ēaste,ēast
+Genitive,ēastes,ēastre,ēastes
+Dative,ēastum,ēastre,ēastum
+Instrumental,ēaste,ēastre,ēaste
+Plural,Masculine,Feminine,Neuter
+Nominative,ēaste,"ēasta, -e",ēast
+Accusative,ēaste,"ēasta, -e",ēast
+Genitive,ēastra,ēastra,ēastra
+Dative,ēastum,ēastum,ēastum
+Instrumental,ēastum,ēastum,ēastum
+Singular,Masculine,Feminine,Neuter
+Nominative,ēasta,ēaste,ēaste
+Accusative,ēastan,ēastan,ēaste
+Genitive,ēastan,ēastan,ēastan
+Dative,ēastan,ēastan,ēastan
+Instrumental,ēastan,ēastan,ēastan
+Plural,Masculine,Feminine,Neuter
+Nominative,ēastan,ēastan,ēastan
+Accusative,ēastan,ēastan,ēastan
+Genitive,"ēastra, ēastena","ēastra, ēastena","ēastra, ēastena"
+Dative,ēastum,ēastum,ēastum
+Instrumental,ēastum,ēastum,ēastum

@@ -1,0 +1,71 @@
+0,1,2
+,singular (tekil),plural (çoğul)
+nominative (yalın),tuğra,tuğralar
+definite accusative (belirtme),tuğrayı,tuğraları
+dative (yönelme),tuğraya,tuğralara
+locative (bulunma),tuğrada,tuğralarda
+ablative (çıkma),tuğradan,tuğralardan
+genitive (tamlayan),tuğranın,tuğraların
+benim (my),singular (tekil),plural (çoğul)
+nominative (yalın),tuğram,tuğralarım
+definite accusative (belirtme),tuğramı,tuğralarımı
+dative (yönelme),tuğrama,tuğralarıma
+locative (bulunma),tuğramda,tuğralarımda
+ablative (çıkma),tuğramdan,tuğralarımdan
+genitive (tamlayan),tuğramın,tuğralarımın
+senin (your),singular (tekil),plural (çoğul)
+nominative (yalın),tuğran,tuğraların
+definite accusative (belirtme),tuğranı,tuğralarını
+dative (yönelme),tuğrana,tuğralarına
+locative (bulunma),tuğranda,tuğralarında
+ablative (çıkma),tuğrandan,tuğralarından
+genitive (tamlayan),tuğranın,tuğralarının
+onun (her/his/its),singular (tekil),plural (çoğul)
+nominative (yalın),tuğrası,tuğraları
+definite accusative (belirtme),tuğrasını,tuğralarını
+dative (yönelme),tuğrasına,tuğralarına
+locative (bulunma),tuğrasında,tuğralarında
+ablative (çıkma),tuğrasından,tuğralarından
+genitive (tamlayan),tuğrasının,tuğralarının
+bizim (our),singular (tekil),plural (çoğul)
+nominative (yalın),tuğramız,tuğralarımız
+definite accusative (belirtme),tuğramızı,tuğralarımızı
+dative (yönelme),tuğramıza,tuğralarımıza
+locative (bulunma),tuğramızda,tuğralarımızda
+ablative (çıkma),tuğramızdan,tuğralarımızdan
+genitive (tamlayan),tuğramızın,tuğralarımızın
+sizin (your),singular (tekil),plural (çoğul)
+nominative (yalın),tuğranız,tuğralarınız
+definite accusative (belirtme),tuğranızı,tuğralarınızı
+dative (yönelme),tuğranıza,tuğralarınıza
+locative (bulunma),tuğranızda,tuğralarınızda
+ablative (çıkma),tuğranızdan,tuğralarınızdan
+genitive (tamlayan),tuğranızın,tuğralarınızın
+onların (their),singular (tekil),plural (çoğul)
+nominative (yalın),tuğraları,tuğraları
+definite accusative (belirtme),tuğralarını,tuğralarını
+dative (yönelme),tuğralarına,tuğralarına
+locative (bulunma),tuğralarında,tuğralarında
+ablative (çıkma),tuğralarından,tuğralarından
+genitive (tamlayan),tuğralarının,tuğralarının
+Simple Present,singular,plural
+ben (I am),tuğrayım,tuğralarım*
+sen (you are),tuğrasın,tuğralarsın*
+o (he/she/it is),tuğra / tuğradır,tuğralar* / tuğralardır*
+biz (we are),tuğrayız,tuğralarız
+siz (you are),tuğrasınız,tuğralarsınız
+onlar (they are),tuğralar,tuğralardır
+Simple Past,singular,plural
+ben (I was),tuğraydım,tuğralardım*
+sen (you were),tuğraydın,tuğralardın*
+o (he/she/it was),tuğraydı,tuğralardı*
+biz (we were),tuğraydık,tuğralardık
+siz (you were),tuğraydınız,tuğralardınız
+onlar (they were),tuğraydılar,tuğralardı
+Aorist,singular,plural
+ben (I was),tuğraymışım,tuğralarmışım*
+sen (you were),tuğraymışsın,tuğralarmışsın*
+o (he/she/it was),tuğraymış,tuğralarmış*
+biz (we were),tuğraymışız,tuğralarmışız
+siz (you were),tuğraymışsınız,tuğralarmışsınız
+onlar (they were),tuğraymışlar,tuğralarmış

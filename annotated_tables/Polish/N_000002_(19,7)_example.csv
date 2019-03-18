@@ -1,0 +1,20 @@
+0,1,2,3,4,5,6
+,,singular,plural,,,
+person,m,f,n,m pers,"m anim, m inan, n, f",
+infinitive,sprzedać,,,,,
+future tense,1st,sprzedam,sprzedamy,,,
+2nd,sprzedasz,sprzedacie,,,,
+3rd,sprzeda,sprzedadzą,,,,
+past tense,1st,sprzedałem,sprzedałam,,sprzedaliśmy,sprzedałyśmy
+2nd,sprzedałeś,sprzedałaś,,sprzedaliście,sprzedałyście,
+3rd,sprzedał,sprzedała,sprzedało,sprzedali,sprzedały,
+conditional,1st,sprzedałbym,sprzedałabym,,sprzedalibyśmy,sprzedałybyśmy
+2nd,sprzedałbyś,sprzedałabyś,,sprzedalibyście,sprzedałybyście,
+3rd,sprzedałby,sprzedałaby,sprzedałoby,sprzedaliby,sprzedałyby,
+imperative,1st,niech sprzedam,sprzedajmy,,,
+2nd,sprzedaj,sprzedajcie,,,,
+3rd,niech sprzeda,niech sprzedadzą,,,,
+passive adjectival participle,sprzedany,sprzedana,sprzedane,sprzedani,sprzedane,
+anterior adverbial participle,sprzedawszy,,,,,
+impersonal past,sprzedano,,,,,
+verbal noun,sprzedanie,,,,,

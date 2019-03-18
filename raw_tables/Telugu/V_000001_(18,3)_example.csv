@@ -1,0 +1,19 @@
+0,1,2
+PARTICIPLES,affirmative,negative
+present participle,[[]],[[]]
+past participle,[[]],[[]]
+DURATIVE,singular,plural
+1st person: నేను / మేము,తింటున్నాను,తింటున్నాము
+2nd person: నీవు / మీరు,తింటున్నావు,తింటున్నారు
+3rd person m: అతను / వారు,తింటున్నాడు,తింటున్నారు
+3rd person f: ఆమె / వారు,తింటున్నది,తింటున్నారు
+PAST TENSE,singular,plural
+1st person: నేను / మేము,తిన్నాను,తిన్నాము
+2nd person: నీవు / మీరు,తిన్నావు,తిన్నారు
+3rd person m: అతను / వారు,తిన్నాడు,తిన్నారు
+3rd person f: ఆమె / వారు,తిన్నది,తిన్నారు
+FUTURE TENSE,singular,plural
+1st person: నేను / మేము,తింటాను,తింటాము
+2nd person: నీవు / మీరు,తింటావు,తింటారు
+3rd person m: అతను / వారు,తింటాడు,తింటారు
+3rd person f: ఆమె / వారు,తింటుంది,తింటారు

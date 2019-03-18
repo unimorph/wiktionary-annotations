@@ -1,0 +1,58 @@
+0,1,2,3,4,5,6,7,8,9
+indicative,,,,,,,,,
+present,perfect,,,,,,,,
+,pos,neg,,pos,neg,,,,
+person,s,pl,s,pl,person,s,pl,s,pl
+1st,erkanen,erkanemme,en erkane,emme erkane,1st,—,—,—,—
+2nd,erkanet,erkanette,et erkane,ette erkane,2nd,—,—,—,—
+3rd,erkanee,erkanevat,ei erkane,eivät erkane,3rd,—,—,—,—
+passive,—,—,passive,—,—,,,,
+imperfect,pluperfect,,,,,,,,
+,pos,neg,,pos,neg,,,,
+person,s,pl,s,pl,person,s,pl,s,pl
+1st,erkanin,erkanimme,—,—,1st,—,—,—,—
+2nd,erkanit,erkanitte,—,—,2nd,—,—,—,—
+3rd,erkani,erkanivat,—,—,3rd,—,—,—,—
+passive,—,—,passive,—,—,,,,
+conditional,,,,,,,,,
+present,perfect,,,,,,,,
+,pos,neg,,pos,neg,,,,
+person,s,pl,s,pl,person,s,pl,s,pl
+1st,erkanisin,erkanisimme,en erkanisi,emme erkanisi,1st,—,—,—,—
+2nd,erkanisit,erkanisitte,et erkanisi,ette erkanisi,2nd,—,—,—,—
+3rd,erkanisi,erkanisivat,ei erkanisi,eivät erkanisi,3rd,—,—,—,—
+passive,—,—,passive,—,—,,,,
+,,,,,,,,,
+imperative,,,,,,,,,
+present,perfect,,,,,,,,
+,pos,neg,,pos,neg,,,,
+person,s,pl,s,pl,person,s,pl,s,pl
+1st,–,—,–,—,1st,–,—,–,—
+2nd,erkane,—,älä erkane,—,2nd,—,—,—,—
+3rd,—,—,—,—,3rd,—,—,—,—
+passive,—,—,passive,—,—,,,,
+potential,,,,,,,,,
+present,perfect,,,,,,,,
+,pos,neg,,pos,neg,,,,
+person,s,pl,s,pl,person,s,pl,s,pl
+1st,—,—,—,—,1st,—,—,—,—
+2nd,—,—,—,—,2nd,—,—,—,—
+3rd,—,—,—,—,3rd,—,—,—,—
+passive,—,—,passive,—,—,,,,
+,,,,,,,,,
+Nominal forms,,,,,,,,,
+infinitive,participle,,,,,,,,
+,active,passive,,active,passive,,,,
+I,—,present,erkaneva,—,,,,,
+long I,—2,past,—,—,,,,,
+II,inessive,—1,—,agent,"—1, 3",,,,
+instructive,—,—,negative,erkanematon,,,,,
+III,inessive,erkanemassa,—,1) Can be used with a possessive suffix. 2) Used only with a possessive suffix; this is the form for the third-person singular and third-person plural. 3) Does not exist in the case of intransitive verbs. Do not confuse with nouns formed with the -ma suffix.,,,,,
+elative,erkanemasta,—,,,,,,,
+illative,erkanemaan,—,,,,,,,
+adessive,erkanemalla,—,,,,,,,
+abessive,erkanematta,—,,,,,,,
+instructive,erkaneman,—,,,,,,,
+IV,nominative,erkaneminen,,,,,,,
+partitive,erkanemista,,,,,,,,
+V,erkanemaisillaan2,,,,,,,,

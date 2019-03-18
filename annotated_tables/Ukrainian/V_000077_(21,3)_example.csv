@@ -1,0 +1,22 @@
+0,1,2
+Audio,,(file)
+imperfective aspect,,
+infinitive,V;NFIN,
+participles,present tense,past tense
+active,V.PTCP;ACT;PRS,V.PTCP;ACT;PST
+passive,V.PTCP;PASS;PRS,V.PTCP;PASS;PST
+adverbial,V.CVB;PRS,V.CVB;PST
+,present tense,future tense
+1st singular я,V;PRS;1;SG,V;FUT;1;SG
+2nd singular ти,V;PRS;2;SG,V;FUT;2;SG
+3rd singular він / вона / воно,V;PRS;3;SG,V;FUT;3;SG
+1st plural ми,V;PRS;1;PL,V;FUT;1;PL
+2nd plural ви,V;PRS;2;PL,V;FUT;2;PL
+3rd plural вони,V;PRS;3;PL,V;FUT;3;PL
+imperative,singular,plural
+first-person,—,V;IMP;1;PL
+second-person,V;IMP;2;SG,V;IMP;2;PL
+past tense,singular,plural ми / ви / вони
+masculine я / ти / він,V;PST;MASC;SG,V;PST;PL
+feminine я / ти / вона,V;PST;FEM;SG,
+neuter воно,V;PST;NEUT;SG,

@@ -1,0 +1,74 @@
+0,1,2,3,4
+,singular (tekil),plural (çoğul),,
+nominative (yalın),faydalı,faydalılar,,
+definite accusative (belirtme),faydalıyı,faydalıları,,
+dative (yönelme),faydalıya,faydalılara,,
+locative (bulunma),faydalıda,faydalılarda,,
+ablative (çıkma),faydalıdan,faydalılardan,,
+genitive (tamlayan),faydalının,faydalıların,,
+benim (my),singular (tekil),plural (çoğul),,
+nominative (yalın),faydalım,faydalılarım,,
+definite accusative (belirtme),faydalımı,faydalılarımı,,
+dative (yönelme),faydalıma,faydalılarıma,,
+locative (bulunma),faydalımda,faydalılarımda,,
+ablative (çıkma),faydalımdan,faydalılarımdan,,
+genitive (tamlayan),faydalımın,faydalılarımın,,
+senin (your),singular (tekil),plural (çoğul),,
+nominative (yalın),faydalın,faydalıların,,
+definite accusative (belirtme),faydalını,faydalılarını,,
+dative (yönelme),faydalına,faydalılarına,,
+locative (bulunma),faydalında,faydalılarında,,
+ablative (çıkma),faydalından,faydalılarından,,
+genitive (tamlayan),faydalının,faydalılarının,,
+onun (her/his/its),singular (tekil),plural (çoğul),,
+nominative (yalın),faydalısı,faydalıları,,
+definite accusative (belirtme),faydalısını,faydalılarını,,
+dative (yönelme),faydalısına,faydalılarına,,
+locative (bulunma),faydalısında,faydalılarında,,
+ablative (çıkma),faydalısından,faydalılarından,,
+genitive (tamlayan),faydalısının,faydalılarının,,
+bizim (our),singular (tekil),plural (çoğul),,
+nominative (yalın),faydalımız,faydalılarımız,,
+definite accusative (belirtme),faydalımızı,faydalılarımızı,,
+dative (yönelme),faydalımıza,faydalılarımıza,,
+locative (bulunma),faydalımızda,faydalılarımızda,,
+ablative (çıkma),faydalımızdan,faydalılarımızdan,,
+genitive (tamlayan),faydalımızın,faydalılarımızın,,
+sizin (your),singular (tekil),plural (çoğul),,
+nominative (yalın),faydalınız,faydalılarınız,,
+definite accusative (belirtme),faydalınızı,faydalılarınızı,,
+dative (yönelme),faydalınıza,faydalılarınıza,,
+locative (bulunma),faydalınızda,faydalılarınızda,,
+ablative (çıkma),faydalınızdan,faydalılarınızdan,,
+genitive (tamlayan),faydalınızın,faydalılarınızın,,
+onların (their),singular (tekil),plural (çoğul),,
+nominative (yalın),faydalıları,faydalıları,,
+definite accusative (belirtme),faydalılarını,faydalılarını,,
+dative (yönelme),faydalılarına,faydalılarına,,
+locative (bulunma),faydalılarında,faydalılarında,,
+ablative (çıkma),faydalılarından,faydalılarından,,
+genitive (tamlayan),faydalılarının,faydalılarının,,
+present tense,,,,
+,"positive, declarative","positive, interrogative","negative, declarative","negative, interrogative"
+ben (I am),faydalıyım,faydalı mıyım?,faydalı değilim,faydalı değil miyim?
+sen (you are),faydalısın,faydalı mısın?,faydalı değilsin,faydalı değil misin?
+o (he/she/it is),faydalı / faydalıdır,faydalı mı?,faydalı değil,faydalı değil mi?
+biz (we are),faydalıyız,faydalı mıyız?,faydalı değiliz,faydalı değil miyiz?
+siz (you are),faydalısınız,faydalı mısınız?,faydalı değilsiniz,faydalı değil misiniz?
+onlar (they are),faydalı(lar),faydalı(lar) mı?,faydalı değil(ler),faydalı değiller mi?
+past tense,,,,
+,"positive, declarative","positive, interrogative","negative, declarative","negative, interrogative"
+ben (I was),faydalıydım,faydalı mıydım?,faydalı değildim,faydalı değil miydim?
+sen (you were),faydalıydın,faydalı mıydın?,faydalı değildin,faydalı değil miydin?
+o (he/she/it was),faydalıydı,faydalı mıydı?,faydalı değildi,faydalı değil miydi?
+biz (we were),faydalıydık,faydalı mıydık?,faydalı değildik,faydalı değil miydik?
+siz (you were),faydalıydınız,faydalı mıydınız?,faydalı değildiniz,faydalı değil miydiniz?
+onlar (they were),faydalıydılar,faydalı mıydılar?,faydalı değildi(ler) / değillerdi,faydalı değil miydiler?
+indirect past,,,,
+,"positive, declarative","positive, interrogative","negative, declarative","negative, interrogative"
+ben (I was),faydalıymışım,faydalı mıymışım?,faydalı değilmişim,faydalı değil miymişim?
+sen (you were),faydalıymışsın,faydalı mıymışsın?,faydalı değilmişsin,faydalı değil miymişsin?
+o (he/she/it was),faydalıymış,faydalı mıymış?,faydalı değilmiş,faydalı değil miymiş?
+biz (we were),faydalıymışız,faydalı mıymışız?,faydalı değilmişiz,faydalı değil miymişiz?
+siz (you were),faydalıymışsınız,faydalı mıymışsınız?,faydalı değilmişsiniz,faydalı değil miymişsiniz?
+onlar (they were),faydalıymışlar,faydalı mıymışlar?,faydalı değilmiş(ler) / değillermiş,faydalı değil miymişler?

@@ -1,0 +1,19 @@
+0,1,2,3,4,5
+Picture dictionary,,,,,
+Schädel Gehirn Auge Nase Mund Kinn Kiefer Ohr Schläfe Hals,,,,,
+Click on labels in the image,Click on labels in the image,,,,
+Click on labels in the image,,,,,
+Körper,Körper,Körper,,,
+Körper,Körper,,,,
+Körper,,,,,
+Click on labels in the image,,,,,
+Körper,Körper,,,,
+Körper,,,,,
+Körper,,,,,
+audio (Standard German),,(file),,,
+,singular,plural,,,
+,indef.,def.,noun,def.,noun
+nominative,ein,der,Kopf,die,Köpfe
+genitive,eines,des,"Kopfes,Kopfs",der,Köpfe
+dative,einem,dem,"Kopf,Kopfe1",den,Köpfen
+accusative,einen,den,Kopf,die,Köpfe

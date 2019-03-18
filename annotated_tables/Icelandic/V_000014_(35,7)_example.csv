@@ -1,0 +1,36 @@
+0,1,2,3,4,5,6
+f-w1,singular,plural,,,,
+,indefinite,definite,indefinite,definite,,
+nominative,fjara,fjaran,fjörur,fjörurnar,,
+accusative,fjöru,fjöruna,fjörur,fjörurnar,,
+dative,fjöru,fjörunni,fjörum,fjörunum,,
+genitive,fjöru,fjörunnar,fjara,fjaranna,,
+infinitive (nafnháttur),að fjara,,,,,
+supine (sagnbót),fjarað,,,,,
+present participle (lýsingarháttur nútíðar),fjarandi,,,,,
+,indicative (framsöguháttur),,subjunctive (viðtengingarháttur),,,
+present (nútíð),ég fjara,við fjörum,present (nútíð),ég fjari,við fjörum,
+þú fjarar,þið fjarið,þú fjarir,þið fjarið,,,
+"hann, hún, það fjarar","þeir, þær, þau fjara","hann, hún, það fjari","þeir, þær, þau fjari",,,
+,,,,,,
+past (þátíð),ég fjaraði,við fjöruðum,past (þátíð),ég fjaraði,við fjöruðum,
+þú fjaraðir,þið fjöruðuð,þú fjaraðir,þið fjöruðuð,,,
+"hann, hún, það fjaraði","þeir, þær, þau fjöruðu","hann, hún, það fjaraði","þeir, þær, þau fjöruðu",,,
+,,,,,,
+imperative (boðháttur),fjara (þú),fjarið (þið),,,,
+Forms with appended personal pronoun,,,,,,
+fjaraðu,fjariði *,,,,,
+"* Spoken form, usually not written; in writing, the unappended plural form (optionally followed by the full pronoun) is preferred.",,,,,,
+strong declension (sterk beyging),singular (eintala),,plural (fleirtala),,,
+masculine (karlkyn),feminine (kvenkyn),neuter (hvorugkyn),masculine (karlkyn),feminine (kvenkyn),neuter (hvorugkyn),
+nominative (nefnifall),fjaraður,fjöruð,fjarað,fjaraðir,fjaraðar,fjöruð
+accusative (þolfall),fjaraðan,fjaraða,fjarað,fjaraða,fjaraðar,fjöruð
+dative (þágufall),fjöruðum,fjaraðri,fjöruðu,fjöruðum,fjöruðum,fjöruðum
+genitive (eignarfall),fjaraðs,fjaraðrar,fjaraðs,fjaraðra,fjaraðra,fjaraðra
+,,,,,,
+weak declension (veik beyging),singular (eintala),,plural (fleirtala),,,
+masculine (karlkyn),feminine (kvenkyn),neuter (hvorugkyn),masculine (karlkyn),feminine (kvenkyn),neuter (hvorugkyn),
+nominative (nefnifall),fjaraði,fjaraða,fjaraða,fjöruðu,fjöruðu,fjöruðu
+accusative (þolfall),fjaraða,fjöruðu,fjaraða,fjöruðu,fjöruðu,fjöruðu
+dative (þágufall),fjaraða,fjöruðu,fjaraða,fjöruðu,fjöruðu,fjöruðu
+genitive (eignarfall),fjaraða,fjöruðu,fjaraða,fjöruðu,fjöruðu,fjöruðu

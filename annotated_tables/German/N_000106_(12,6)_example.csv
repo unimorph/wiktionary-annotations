@@ -1,0 +1,13 @@
+0,1,2,3,4,5
+,singular,plural,,,
+,indef.,def.,noun,def.,noun
+nominative,ein,der,Mugel,die,Mugel
+genitive,eines,des,Mugels,der,Mugel
+dative,einem,dem,Mugel,den,Mugeln
+accusative,einen,den,Mugel,die,Mugel
+,singular,plural,,,
+,indef.,def.,noun,def.,noun
+nominative,ein,der,N;NOM;SG,die,N;NOM;PL
+genitive,eines,des,N;GEN;SG,der,N;GEN;PL
+dative,einem,dem,N;DAT;SG,den,N;DAT;PL
+accusative,einen,den,N;ACC;SG,die,N;ACC;PL

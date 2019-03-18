@@ -1,0 +1,33 @@
+0,1,2,3,4,5
+,,,,,
+gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,he is goot,se is goot,dat is goot,se sünd goot,
+partitive,een Goods,een Goods,wat Goods,allens Good,
+strong declension (without article),nominative,gode,gode,goot,gode
+oblique,goden,gode,goot,gode,
+weak declension (with definite article),nominative,de gode,de gode,dat gode,de goden
+oblique,den goden,de gode,dat gode,de goden,
+mixed declension (with indefinite article),nominative,en gode,en gode,en goot/godet,(keen) goden
+oblique,en goden,en gode,en goot/godet,(keen) goden,
+,,,,,
+gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,he is beter,se is beter,dat is beter,se sünd beter,
+partitive,een beters,een beters,wat beters,allens beter,
+strong declension (without article),nominative,betere,betere,beter,betere
+oblique,betern,betere,beter,betere,
+weak declension (with definite article),nominative,de betere,de betere,dat betere,de betern
+oblique,den betern,de betere,dat betere,de betern,
+mixed declension (with indefinite article),nominative,en betere,en betere,en beter,(keen) betern
+oblique,en betern,en betere,en beter,(keen) betern,
+,,,,,
+gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,he is de Beste,se is de Beste,dat is dat Beste,se sünd de Besten,
+strong declension (without article),nominative,beste,beste,best,beste
+oblique,besten,beste,best,beste,
+weak declension (with definite article),nominative,de beste,de beste,dat beste,de besten
+oblique,den besten,de beste,dat beste,de besten,
+mixed declension (with indefinite article),nominative,en beste,en beste,en best,(keen) besten
+oblique,en besten,en beste,en best,(keen) besten,

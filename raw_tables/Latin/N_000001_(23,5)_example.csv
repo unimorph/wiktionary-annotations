@@ -1,0 +1,24 @@
+0,1,2,3,4
+Number,Singular,,Plural,
+Case / Gender,Masc./Fem.,Neuter,Masc./Fem.,Neuter
+nominative,continēns,,continentēs,continentia
+genitive,continentis,continentium,,
+dative,continentī,continentibus,,
+accusative,continentem,continēns,continentēs,continentia
+ablative,continentī,continentibus,,
+vocative,continēns,continentēs,continentia,
+Case,Singular,Plural,,
+nominative,continēns,continentēs,,
+genitive,continentis,continentum,,
+dative,continentī,continentibus,,
+accusative,continentem,continentēs,,
+ablative,continente,continentibus,,
+vocative,continēns,continentēs,,
+Number,Singular,,Plural,
+Case / Gender,Masc./Fem.,Neuter,Masc./Fem.,Neuter
+nominative,continēns,,continentēs,continentia
+genitive,continentis,continentium,,
+dative,continentī,continentibus,,
+accusative,continentem,continēns,continentēs,continentia
+ablative,"continente, continentī1",continentibus,,
+vocative,continēns,continentēs,continentia,

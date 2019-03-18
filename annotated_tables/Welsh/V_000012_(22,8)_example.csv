@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7
+Audio,,(file),,,,,
+,singular,plural,impersonal,,,,
+first,second,third,first,second,third,,
+present/future,V;LIT;1;SG;IND;PRS,V;LIT;2;SG;IND;PRS,V;LIT;3;SG;IND;PRS,V;LIT;1;PL;IND;PRS,V;LIT;2;PL;IND;PRS,V;LIT;3;PL;IND;PRS,V;LIT;4;IND;PRS
+imperfect/conditional,V;LIT;1;SG;IND;IPFV,V;LIT;2;SG;IND;IPFV,V;LIT;3;SG;IND;IPFV,V;LIT;1;PL;IND;IPFV,V;LIT;2;PL;IND;IPFV,V;LIT;3;PL;IND;IPFV,V;LIT;4;IND;IPFV
+preterite,V;LIT;1;SG;IND;PST,V;LIT;2;SG;IND;PST,V;LIT;3;SG;IND;PST,V;LIT;1;PL;IND;PST,V;LIT;2;PL;IND;PST,V;LIT;3;PL;IND;PST,V;LIT;4;IND;PST
+pluperfect,V;LIT;1;SG;IND;PST;PFV,V;LIT;2;SG;IND;PST;PFV,V;LIT;3;SG;IND;PST;PFV,V;LIT;1;PL;IND;PST;PFV,V;LIT;2;PL;IND;PST;PFV,V;LIT;3;PL;IND;PST;PFV,V;LIT;4;IND;PST;PFV
+subjunctive,V;LIT;1;SG;SBJV,V;LIT;2;SG;SBJV,V;LIT;3;SG;SBJV,V;LIT;1;PL;SBJV,V;LIT;2;PL;SBJV,V;LIT;3;PL;SBJV,V;LIT;4;SBJV
+imperative,—,V;LIT;2;SG;IMP,V;LIT;3;SG;IMP,V;LIT;1;PL;IMP,V;LIT;2;PL;IMP,V;LIT;3;PL;IMP,V;LIT;4;IMP
+verbal noun,V;V.MSDR,,,,,,
+verbal adjectives,V;V.PTCP,,,,,,
+Inflected colloquial forms,singular,plural,,,,,
+first,second,third,first,second,third,,
+future,V;COL;1;SG;IND;PRS,V;COL;2;SG;IND;PRS,V;COL;3;SG;IND;PRS,V;COL;1;PL;IND;PRS,V;COL;2;PL;IND;PRS,V;COL;3;PL;IND;PRS,
+conditional,V;COL;1;SG;IND;IPFV,V;COL;2;SG;IND;IPFV,V;COL;3;SG;IND;IPFV,V;COL;1;PL;IND;IPFV,V;COL;2;PL;IND;IPFV,V;COL;3;PL;IND;IPFV,
+preterite,V;COL;1;SG;IND;PST,V;COL;2;SG;IND;PST,V;COL;3;SG;IND;PST,V;COL;1;PL;IND;PST,V;COL;2;PL;IND;PST,V;COL;3;PL;IND;PST,
+imperative,—,V;COL;2;SG;IMP,—,—,V;COL;2;PL;IMP,—,
+"Note: All other forms are periphrastic, as usual in colloquial Welsh.",,,,,,,
+Welsh mutation,,,,,,,
+radical,soft,nasal,aspirate,,,,
+dysgu,ddysgu,nysgu,unchanged,,,,
+Note: Some of these forms may be hypothetical. Not everypossible mutated form of every word actually occurs.,,,,,,,

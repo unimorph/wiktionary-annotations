@@ -1,0 +1,18 @@
+0,1,2,3,4
+singular,,,,
+,masculine animate,masculine inanimate,feminine,neuter
+nominative,ADJ;MASC;NOM;SG,ADJ;FEM;NOM;SG,ADJ;NEUT;NOM;SG,
+genitive,ADJ;MASC;GEN;SG,ADJ;FEM;GEN;SG,ADJ;NEUT;GEN;SG,
+dative,ADJ;MASC;DAT;SG,ADJ;FEM;DAT;SG,ADJ;NEUT;DAT;SG,
+accusative,ADJ;MASC;ANIM;ACC;SG,ADJ;MASC;INAN;ACC;SG,ADJ;FEM;ACC;SG,ADJ;NEUT;ACC;SG
+locative,ADJ;MASC;ESS;SG,ADJ;FEM;ESS;SG,ADJ;NEUT;ESS;SG,
+instrumental,ADJ;MASC;INS;SG,ADJ;FEM;INS;SG,ADJ;NEUT;INS;SG,
+plural,,,,
+,masculine animate,masculine inanimate,feminine,neuter
+nominative,ADJ;MASC;ANIM;NOM;PL,ADJ;NOM;PL,,
+genitive,ADJ;GEN;PL,,,
+dative,ADJ;DAT;PL,,,
+accusative,ADJ;MASC;ANIM;ACC;PL,ADJ;ACC;PL,,
+locative,ADJ;ESS;PL,,,
+instrumental,ADJ;INS;PL,,,
+otepliť sa  steplieť  teplo n  teplomer m,,teplota f  teploš m  zateplený m  zatepliť,,

@@ -1,0 +1,19 @@
+0,1,2,3,4
+,singular (vienskaitlis),plural (daudzskaitlis),,
+nominative (nominatīvs),sinonīms,sinonīmi,,
+accusative (akuzatīvs),sinonīmu,sinonīmus,,
+genitive (ģenitīvs),sinonīma,sinonīmu,,
+dative (datīvs),sinonīmam,sinonīmiem,,
+instrumental (instrumentālis),sinonīmu,sinonīmiem,,
+locative (lokatīvs),sinonīmā,sinonīmos,,
+vocative (vokatīvs),sinonīm,sinonīmi,,
+,masculine (vīriešu dzimte),,feminine (sieviešu dzimte),
+singular (vienskaitlis),plural (daudzskaitlis),singular (vienskaitlis),plural (daudzskaitlis),
+nominative (nominatīvs),sinonīms,sinonīmi,sinonīma,sinonīmas
+accusative (akuzatīvs),sinonīmu,sinonīmus,sinonīmu,sinonīmas
+genitive (ģenitīvs),sinonīma,sinonīmu,sinonīmas,sinonīmu
+dative (datīvs),sinonīmam,sinonīmiem,sinonīmai,sinonīmām
+instrumental (instrumentālis),sinonīmu,sinonīmiem,sinonīmu,sinonīmām
+locative (lokatīvs),sinonīmā,sinonīmos,sinonīmā,sinonīmās
+vocative (vokatīvs),—,—,—,—
+,,,,

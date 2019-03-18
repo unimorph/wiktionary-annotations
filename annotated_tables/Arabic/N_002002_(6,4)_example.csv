@@ -1,0 +1,7 @@
+0,1,2,3
+Singular,basic singular triptote,,
+Indefinite,Definite,Construct,
+Informal,N;SG;NDEF;INFM,N;SG;DEF;INFM,N;SG;PSSD;INFM
+Nominative,N;SG;NDEF;NOM,N;SG;DEF;NOM,N;SG;PSSD;NOM
+Accusative,N;SG;NDEF;ACC,N;SG;DEF;ACC,N;SG;PSSD;ACC
+Genitive,N;SG;NDEF;GEN,N;SG;DEF;GEN,N;SG;PSSD;GEN

@@ -1,0 +1,38 @@
+0,1,2,3,4
+singular,masculine,feminine,neuter,
+nominative,љубичаст,љубичаста,љубичасто,
+genitive,љубичаста,љубичасте,љубичаста,
+dative,љубичасту,љубичастој,љубичасту,
+accusative,inanimateanimate,љубичастљубичаста,љубичасту,љубичасто
+vocative,љубичаст,љубичаста,љубичасто,
+locative,љубичасту,љубичастој,љубичасту,
+instrumental,љубичастим,љубичастом,љубичастим,
+plural,masculine,feminine,neuter,
+nominative,љубичасти,љубичасте,љубичаста,
+genitive,љубичастих,љубичастих,љубичастих,
+dative,љубичастим(а),љубичастим(а),љубичастим(а),
+accusative,љубичасте,љубичасте,љубичаста,
+vocative,љубичасти,љубичасте,љубичаста,
+locative,љубичастим(а),љубичастим(а),љубичастим(а),
+instrumental,љубичастим(а),љубичастим(а),љубичастим(а),
+singular,masculine,feminine,neuter,
+nominative,љубичасти,љубичаста,љубичасто,
+genitive,љубичастог(а),љубичасте,љубичастог(а),
+dative,љубичастом(у/е),љубичастој,љубичастом(у/е),
+accusative,inanimateanimate,љубичастиљубичастог(а),љубичасту,љубичасто
+vocative,љубичасти,љубичаста,љубичасто,
+locative,љубичастом(е/у),љубичастој,љубичастом(е/у),
+instrumental,љубичастим,љубичастом,љубичастим,
+plural,masculine,feminine,neuter,
+nominative,љубичасти,љубичасте,љубичаста,
+genitive,љубичастих,љубичастих,љубичастих,
+dative,љубичастим(а),љубичастим(а),љубичастим(а),
+accusative,љубичасте,љубичасте,љубичаста,
+vocative,љубичасти,љубичасте,љубичаста,
+locative,љубичастим(а),љубичастим(а),љубичастим(а),
+instrumental,љубичастим(а),љубичастим(а),љубичастим(а),
+Colors in Serbo-Croatian · boje / боје (layout · text),,,,
+"crven, rumenцрвен, румен",zelenзелен,žutжут,žutжут,"bijel, beoбијел, бео"
+?,ljubičast (magenta)љубичаст (магента),tirkizanтиркизан,zelenзелен,"ružičast, rozaружичаст, роза"
+modar (indigo)модар (индиго),modarмодар,"narandžast, narančastнаранџаст, наранчаст","siv, sinjiсив, сињи",ljubičastљубичаст
+crnцрн,ljubičastљубичаст,"smeđ, braonсмеђ, браон",plavплав,tirkizan (cijan)тиркизан (цијан)

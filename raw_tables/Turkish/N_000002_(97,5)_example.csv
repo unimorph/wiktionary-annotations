@@ -1,0 +1,98 @@
+0,1,2,3,4
+"Cognate with Karakhanid [script needed] ‎(kertü, “truth, oath”), Old Uighur [script needed] ‎(kertü, “truth”), [script needed] ‎(kertgün-, “to believe”), Azeri gərçək ‎(“true”), Khakas киртiнерге ‎(kirtinerge, “to believe”), Turkmen gerçek ‎(“brave, courageous”), Yakut кырдьык ‎(kırcık, “true, veritable, exact”).",,,,
+Audio,,(file),,
+present tense,,,,
+,"positive, declarative","positive, interrogative","negative, declarative","negative, interrogative"
+ben (I am),gerçeğim,gerçek miyim?,gerçek değilim,gerçek değil miyim?
+sen (you are),gerçeksin,gerçek misin?,gerçek değilsin,gerçek değil misin?
+o (he/she/it is),gerçek / gerçektir,gerçek mi?,gerçek değil,gerçek değil mi?
+biz (we are),gerçeğiz,gerçek miyiz?,gerçek değiliz,gerçek değil miyiz?
+siz (you are),gerçeksiniz,gerçek misiniz?,gerçek değilsiniz,gerçek değil misiniz?
+onlar (they are),gerçek(ler),gerçek(ler) mi?,gerçek değil(ler),gerçek değiller mi?
+past tense,,,,
+,"positive, declarative","positive, interrogative","negative, declarative","negative, interrogative"
+ben (I was),gerçektim,gerçek miydim?,gerçek değildim,gerçek değil miydim?
+sen (you were),gerçektin,gerçek miydin?,gerçek değildin,gerçek değil miydin?
+o (he/she/it was),gerçekti,gerçek miydi?,gerçek değildi,gerçek değil miydi?
+biz (we were),gerçektik,gerçek miydik?,gerçek değildik,gerçek değil miydik?
+siz (you were),gerçektiniz,gerçek miydiniz?,gerçek değildiniz,gerçek değil miydiniz?
+onlar (they were),gerçektiler,gerçek miydiler?,gerçek değildi(ler) / değillerdi,gerçek değil miydiler?
+indirect past,,,,
+,"positive, declarative","positive, interrogative","negative, declarative","negative, interrogative"
+ben (I was),gerçekmişim,gerçek miymişim?,gerçek değilmişim,gerçek değil miymişim?
+sen (you were),gerçekmişsin,gerçek miymişsin?,gerçek değilmişsin,gerçek değil miymişsin?
+o (he/she/it was),gerçekmiş,gerçek miymiş?,gerçek değilmiş,gerçek değil miymiş?
+biz (we were),gerçekmişiz,gerçek miymişiz?,gerçek değilmişiz,gerçek değil miymişiz?
+siz (you were),gerçekmişsiniz,gerçek miymişsiniz?,gerçek değilmişsiniz,gerçek değil miymişsiniz?
+onlar (they were),gerçekmişler,gerçek miymişler?,gerçek değilmiş(ler) / değillermiş,gerçek değil miymişler?
+,singular (tekil),plural (çoğul),,
+nominative (yalın),gerçek,gerçekler,,
+definite accusative (belirtme),gerçeği,gerçekleri,,
+dative (yönelme),gerçeğe,gerçeklere,,
+locative (bulunma),gerçekte,gerçeklerde,,
+ablative (çıkma),gerçekten,gerçeklerden,,
+genitive (tamlayan),gerçeğin,gerçeklerin,,
+benim (my),singular (tekil),plural (çoğul),,
+nominative (yalın),gerçeğim,gerçeklerim,,
+definite accusative (belirtme),gerçeğimi,gerçeklerimi,,
+dative (yönelme),gerçeğime,gerçeklerime,,
+locative (bulunma),gerçeğimde,gerçeklerimde,,
+ablative (çıkma),gerçeğimden,gerçeklerimden,,
+genitive (tamlayan),gerçeğimin,gerçeklerimin,,
+senin (your),singular (tekil),plural (çoğul),,
+nominative (yalın),gerçeğin,gerçeklerin,,
+definite accusative (belirtme),gerçeğini,gerçeklerini,,
+dative (yönelme),gerçeğine,gerçeklerine,,
+locative (bulunma),gerçeğinde,gerçeklerinde,,
+ablative (çıkma),gerçeğinden,gerçeklerinden,,
+genitive (tamlayan),gerçeğinin,gerçeklerinin,,
+onun (her/his/its),singular (tekil),plural (çoğul),,
+nominative (yalın),gerçeği,gerçekleri,,
+definite accusative (belirtme),gerçeğini,gerçeklerini,,
+dative (yönelme),gerçeğine,gerçeklerine,,
+locative (bulunma),gerçeğinde,gerçeklerinde,,
+ablative (çıkma),gerçeğinden,gerçeklerinden,,
+genitive (tamlayan),gerçeğinin,gerçeklerinin,,
+bizim (our),singular (tekil),plural (çoğul),,
+nominative (yalın),gerçeğimiz,gerçeklerimiz,,
+definite accusative (belirtme),gerçeğimizi,gerçeklerimizi,,
+dative (yönelme),gerçeğimize,gerçeklerimize,,
+locative (bulunma),gerçeğimizde,gerçeklerimizde,,
+ablative (çıkma),gerçeğimizden,gerçeklerimizden,,
+genitive (tamlayan),gerçeğimizin,gerçeklerimizin,,
+sizin (your),singular (tekil),plural (çoğul),,
+nominative (yalın),gerçeğiniz,gerçekleriniz,,
+definite accusative (belirtme),gerçeğinizi,gerçeklerinizi,,
+dative (yönelme),gerçeğinize,gerçeklerinize,,
+locative (bulunma),gerçeğinizde,gerçeklerinizde,,
+ablative (çıkma),gerçeğinizden,gerçeklerinizden,,
+genitive (tamlayan),gerçeğinizin,gerçeklerinizin,,
+onların (their),singular (tekil),plural (çoğul),,
+nominative (yalın),gerçekleri,gerçekleri,,
+definite accusative (belirtme),gerçeklerini,gerçeklerini,,
+dative (yönelme),gerçeklerine,gerçeklerine,,
+locative (bulunma),gerçeklerinde,gerçeklerinde,,
+ablative (çıkma),gerçeklerinden,gerçeklerinden,,
+genitive (tamlayan),gerçeklerinin,gerçeklerinin,,
+simple present,singular,plural,,
+ben (I am),gerçeğim,gerçeklerim*,,
+sen (you are),gerçeksin,gerçeklersin*,,
+o (he/she/it is),gerçek / gerçektir,gerçekler* / gerçeklerdir*,,
+biz (we are),gerçeğiz,gerçekleriz,,
+siz (you are),gerçeksiniz,gerçeklersiniz,,
+onlar (they are),gerçekler,gerçeklerdir,,
+simple past,singular,plural,,
+ben (I was),gerçektim,gerçeklerdim*,,
+sen (you were),gerçektin,gerçeklerdin*,,
+o (he/she/it was),gerçekti,gerçeklerdi*,,
+biz (we were),gerçektik,gerçeklerdik,,
+siz (you were),gerçektiniz,gerçeklerdiniz,,
+onlar (they were),gerçektiler,gerçeklerdi,,
+indirect / unwitnessed past,singular,plural,,
+ben (I was),gerçekmişim,gerçeklermişim*,,
+sen (you were),gerçekmişsin,gerçeklermişsin*,,
+o (he/she/it was),gerçekmiş,gerçeklermiş*,,
+biz (we were),gerçekmişiz,gerçeklermişiz,,
+siz (you were),gerçekmişsiniz,gerçeklermişsiniz,,
+onlar (they were),gerçekmişler,gerçeklermiş,,
+"*Not used, but perhaps rarely - chiefly grammatical formations. Note: Plural forms are not used with adjectives.",,,,

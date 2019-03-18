@@ -1,0 +1,30 @@
+0,1,2
+,singular (tekil),plural (çoğul)
+nominative (yalın),boşanma,boşanmalar
+definite accusative (belirtme),boşanmayı,boşanmaları
+dative (yönelme),boşanmaya,boşanmalara
+locative (bulunma),boşanmada,boşanmalarda
+ablative (çıkma),boşanmadan,boşanmalardan
+genitive (tamlayan),boşanmanın,boşanmaların
+simple present,singular,plural
+ben (I am),boşanmayım,boşanmalarım*
+sen (you are),boşanmasın,boşanmalarsın*
+o (he/she/it is),boşanma / boşanmadır,boşanmalar* / boşanmalardır*
+biz (we are),boşanmayız,boşanmalarız
+siz (you are),boşanmasınız,boşanmalarsınız
+onlar (they are),boşanmalar,boşanmalardır
+simple past,singular,plural
+ben (I was),boşanmaydım,boşanmalardım*
+sen (you were),boşanmaydın,boşanmalardın*
+o (he/she/it was),boşanmaydı,boşanmalardı*
+biz (we were),boşanmaydık,boşanmalardık
+siz (you were),boşanmaydınız,boşanmalardınız
+onlar (they were),boşanmaydılar,boşanmalardı
+indirect / unwitnessed past,singular,plural
+ben (I was),boşanmaymışım,boşanmalarmışım*
+sen (you were),boşanmaymışsın,boşanmalarmışsın*
+o (he/she/it was),boşanmaymış,boşanmalarmış*
+biz (we were),boşanmaymışız,boşanmalarmışız
+siz (you were),boşanmaymışsınız,boşanmalarmışsınız
+onlar (they were),boşanmaymışlar,boşanmalarmış
+"*Not used, but perhaps rarely - chiefly grammatical formations. Note: Plural forms are not used with adjectives.",,

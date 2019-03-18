@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6,7
+Personal forms,,,,,,,
+,Indicative,Conditional,Imperative,,,,
+Present,Imperfect,Preterite,Future,Present,Imperfect,,
+1s,V;IND;PRS;1;SG,V;IND;PST;IPFV;1;SG,V;IND;PST;PFV;1;SG,V;IND;FUT;1;SG,V;COND;PRS;1;SG,V;COND;PST;IPFV;1;SG,-
+2s,V;IND;PRS;2;SG,V;IND;PST;IPFV;2;SG,V;IND;PST;PFV;2;SG,V;IND;FUT;2;SG,V;COND;PRS;2;SG,V;COND;PST;IPFV;2;SG,V;IMP;2;SG
+3s,V;IND;PRS;3;SG,V;IND;PST;IPFV;3;SG,V;IND;PST;PFV;3;SG,V;IND;FUT;3;SG,V;COND;PRS;3;SG,V;COND;PST;IPFV;3;SG,V;IMP;3;SG
+1p,V;IND;PRS;1;PL,V;IND;PST;IPFV;1;PL,V;IND;PST;PFV;1;PL,V;IND;FUT;1;PL,V;COND;PRS;1;PL,V;COND;PST;IPFV;1;PL,V;IMP;1;PL
+2p,V;IND;PRS;2;PL,V;IND;PST;IPFV;2;PL,V;IND;PST;PFV;2;PL,V;IND;FUT;2;PL,V;COND;PRS;2;PL,V;COND;PST;IPFV;2;PL,V;IMP;2;PL
+3p,V;IND;PRS;3;PL,V;IND;PST;IPFV;3;PL,V;IND;PST;PFV;3;PL,V;IND;FUT;3;PL,V;COND;PRS;3;PL,V;COND;PST;IPFV;3;PL,V;IMP;3;PL
+0,V;IND;PRS;0,V;IND;PST;IPFV;0,V;IND;PST;PFV;0,V;IND;FUT;0,V;COND;PRS;0,V;COND;PST;IPFV;0,-
+Impersonal forms,Mutated forms,,,,,,
+Infinitive: lenn Present participle: lenn Past participle: lennet (auxiliary verb: kaout),Soft mutation after a: a lenn- Mixed mutation after e: e lenn- Soft mutation after ne/na: ne/na lenn-,,,,,,

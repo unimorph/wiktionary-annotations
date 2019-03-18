@@ -1,0 +1,19 @@
+0,1,2,3
+n13s,Singular,,
+,Indefinite,Definite,
+Nominative,bølamyrkur,bølamyrkrið,
+Accusative,bølamyrkur,bølamyrkrið,
+Dative,bølamyrkri,bølamyrkrinum,
+Genitive,bølamyrkurs,bølamyrkursins,
+bølamyrkur a1,,,
+Singular (eintal),m (kallkyn),f (kvennkyn),n (hvørkikyn)
+Nominative (hvørfall),bølamyrkur,bølamyrk,bølamyrkt
+Accusative (hvønnfall),bølamyrkan,bølamyrka,
+Dative (hvørjumfall),bølamyrkum,bølamyrkari,bølamyrkum
+Genitive (hvørsfall),(bølamyrks),(bølamyrkar),(bølamyrks)
+,,,
+Plural (fleirtal),m (kallkyn),f (kvennkyn),n (hvørkikyn)
+Nominative (hvørfall),bølamyrkir,bølamyrkar,bølamyrk
+Accusative (hvønnfall),bølamyrkar,,
+Dative (hvørjumfall),bølamyrkum,,
+Genitive (hvørsfall),(bølamyrka),,

@@ -1,0 +1,53 @@
+0,1,2,3,4,5
+indicative,,,,,
+present,perfect,,,,
+person,positive,negative,person,positive,negative
+1st sing.,erinen,ei erine,1st sing.,olen erinenud,ei ole erinenudpole erinenud
+2nd sing.,erined,2nd sing.,oled erinenud,,
+3rd sing.,erineb,3rd sing.,on erinenud,,
+1st plur.,erineme,1st plur.,oleme erinenud,,
+2nd plur.,erinete,2nd plur.,olete erinenud,,
+3rd plur.,erinevad,3rd plur.,on erinenud,,
+passive,erinetakse,ei erineta,passive,on erinetud,ei ole erinetudpole erinetud
+past,pluperfect,,,,
+person,positive,negative,person,positive,negative
+1st sing.,erinesin,ei erinenud,1st sing.,olin erinenud,ei olnud erinenudpolnud erinenud
+2nd sing.,erinesid,2nd sing.,olid erinenud,,
+3rd sing.,erines,3rd sing.,oli erinenud,,
+1st plur.,erinesime,1st plur.,olime erinenud,,
+2nd plur.,erinesite,2nd plur.,olite erinenud,,
+3rd plur.,erinesid,3rd plur.,oli erinenud,,
+passive,erineti,ei erinetud,passive,oli erinetud,ei olnud erinetudpolnud erinetud
+conditional,,,,,
+present,perfect,,,,
+person,positive,negative,person,positive,negative
+1st sing.,erineksin,ei erineks,1st sing.,oleksin erinenud,ei oleks erinenudpoleks erinenud
+2nd sing.,erineksid,2nd sing.,oleksid erinenud,,
+3rd sing.,erineks,3rd sing.,oleks erinenud,,
+1st plur.,erineksime,1st plur.,oleksime erinenud,,
+2nd plur.,erineksite,2nd plur.,oleksite erinenud,,
+3rd plur.,erineksid,3rd plur.,oleksid erinenud,,
+passive,erinetaks,ei erinetaks,passive,oleks erinetud,ei oleks erinetudpoleks erinetud
+imperative,,,,,
+present,perfect,,,,
+person,positive,negative,person,positive,negative
+1st sing.,—,—,1st sing.,—,—
+2nd sing.,erine,ära erine,2nd sing.,—,—
+3rd sing.,erinegu,ärgu erinegu,3rd sing.,olgu erinenud,ärgu olgu erinenud
+1st plur.,erinegem,ärgem erinegem,1st plur.,—,—
+2nd plur.,erinege,ärge erinege,2nd plur.,—,—
+3rd plur.,erinegu,ärgu erinegu,3rd plur.,olgu erinenud,ärgu olgu erinenud
+passive,erinetagu,ärgu erinetagu,passive,olgu erinetud,ärgu olgu erinetud
+quotative,,,,,
+present,perfect,,,,
+person,positive,negative,person,positive,negative
+active,erinevat,ei erinevat,active,olevat erinenud,ei olevat erinenudpolevat erinenud
+passive,erinetavat,ei erinetavat,passive,olevat erinetud,ei olevat erinetudpolevat erinetud
+Nominal forms,,,,,
+ma-infinitive,da-infinitive,,,,
+,active,passive,da-form,erineda,
+nominative,erinema,erinetama,des-form,erinedes,
+inessive,erinemas,—,participle,,
+elative,erinemast,—,,active,passive
+translative,erinemaks,—,present,erinev,erinetav
+abessive,erinemata,—,past,erinenud,erinetud

@@ -1,0 +1,6 @@
+0,1,2
+,singular,
+f gender,indefinite articulation,definite articulation
+nominative/accusative,N;NOM/ACC;SG;INDF,N;NOM/ACC;PL;DEF
+genitive/dative,N;GEN/DAT;SG;INDF,N;GEN/DAT;PL;DEF
+vocative,N;VOC;SG,

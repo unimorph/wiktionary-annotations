@@ -1,0 +1,11 @@
+0,1
+Case,adjective
+"nominative, genitive, instrumental",ხსნადი ‎(xsnadi)
+ergative,ხსნადმა ‎(xsnadma)
+"dative, adverbial",ხსნად ‎(xsnad)
+vocative,ხსნადო ‎(xsnado)
+Case,adjective
+"nominative, genitive and instrumental",ADJ;SG;NOM
+ergative,ADJ;SG;ERG
+dative and adverbial,ADJ;SG;DAT
+vocative,ADJ;SG;VOC

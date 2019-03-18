@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6
+,,,,,,
+Strong declension,,,,,,
+gender,masculine,neuter,feminine,,,
+case,singular,plural,singular,plural,singular,plural
+nominative,fast,faste,fast,faste,fast,fastu
+accusative,fastana,faste,fast,faste,fasta,fastu
+genitive,fastes,fastarō,fastes,fastarō,fastaro,fastarō
+dative,fastumu,fastum,fastumu,fastum,fastaro,fastum
+,,,,,,
+Weak declension,,,,,,
+gender,masculine,neuter,feminine,,,
+case,singular,plural,singular,plural,singular,plural
+nominative,fasto,fastu,fasta,fastu,fasta,fastu
+accusative,fastun,fastun,fasta,fastun,fastun,fastun
+genitive,fastun,fastonō,fastun,fastonō,fastun,fastonō
+dative,fastun,fastum,fastun,fastum,fastun,fastum

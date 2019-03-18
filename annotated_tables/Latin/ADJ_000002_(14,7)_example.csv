@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6
+Number,Singular,,Plural,,,
+Case / Gender,Masculine,Feminine,Neuter,Masculine,Feminine,Neuter
+nominative,quispiam,quidpiam /quippiam,,quīpiam,quaepiam,
+genitive,cuiuspiam /cujuspiam,quōrumpiam,quārumpiam,quōrumpiam,,
+dative,cuipiam,quibuspiam,,,,
+accusative,quempiam,quidpiam /quippiam,quōspiam,quāspiam,quaepiam,
+ablative,quōpiam,quibuspiam,,,,
+Number,Singular,,Plural,,,
+Case / Gender,Masculine,Feminine,Neuter,Masculine,Feminine,Neuter
+nominative,quispiam,quaepiam,quodpiam,,quīpiam,quaepiam
+genitive,cuiuspiam /cujuspiam,quōrumpiam,quārumpiam,quōrumpiam,,
+dative,cuipiam,quibuspiam,,,,
+accusative,quempiam,quampiam,quodpiam,quōspiam,quāspiam,quaepiam
+ablative,quōpiam,quāpiam,quōpiam,quibuspiam,,

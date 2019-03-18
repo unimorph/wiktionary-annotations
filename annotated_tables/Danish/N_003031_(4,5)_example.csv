@@ -1,0 +1,5 @@
+0,1,2,3,4
+commongender,Singular,Plural,,
+indefinite,definite,indefinite,definite,
+nominative,N;INDF;NOM;SG,N;DEF;NOM;SG,N;INDF;NOM;PL,N;DEF;NOM;PL
+genitive,N;INDF;GEN;SG,N;DEF;NOM;SG,N;INDF;GEN;PL,N;DEF;NOM;PL

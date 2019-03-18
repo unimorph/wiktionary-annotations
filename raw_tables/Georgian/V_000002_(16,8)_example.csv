@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6,7
+person (third person object assumed),singular,plural,,,,,
+first,second,third,first,second,third,,
+transitive,მე (me),შენ (šen),ის (is),ჩვენ (čven),თქვენ (tkven),ისინი (isini),
+present,present,ვჭამ včam,ჭამ čam,ჭამს čams,ვჭამთ včamt,ჭამთ čamt,ჭამენ čamen
+imperfect,ვჭამდი včamdi,ჭამდი čamdi,ჭამდა čamda,ვჭამდით včamdit,ჭამდით čamdit,ჭამდნენ čamdnen,
+present subjunctive,ვჭამდე včamde,ჭამდე čamde,ჭამდეს čamdes,ვჭამდეთ včamdet,ჭამდეთ čamdet,ჭამდნენ čamdnen,
+future,future,შევჭამ ševčam,შეჭამ šečam,შეჭამს šečams,შევჭამთ ševčamt,შეჭამთ šečamt,შეჭამენ šečamen
+conditional,შევჭამდი ševčamdi,შეჭამდი šečamdi,შეჭამდა šečamda,შევჭამდით ševčamdit,შეჭამდით šečamdit,შეჭამდნენ šečamdnen,
+future subjunctive,შევჭამდე ševčamde,შეჭამდე šečamde,შეჭამდეს šečamdes,შევჭამდეთ ševčamdet,შეჭამდეთ šečamdet,შეჭამდნენ šečamdnen,
+intransitive,მე (me),შენ (šen),ის (is),ჩვენ (čven),თქვენ (tkven),ისინი (isini),
+present,present,ვიჭმები vičmebi,იჭმები ičmebi,იჭმება ičmeba,ვიჭმებით vičmebit,იჭმებით ičmebit,იჭმებიან ičmebian
+imperfect,ვიჭმებოდი vičmebodi,იჭმებოდი ičmebodi,იჭმებოდა ičmeboda,ვიჭმებოდით vičmebodit,იჭმებოდით ičmebodit,იჭმებოდნენ ičmebodnen,
+present subjunctive,ვიჭმებოდე vičmebode,იჭმებოდე ičmebode,იჭმებოდეს ičmebodes,ვიჭმებოდეთ vičmebodet,იჭმებოდეთ ičmebodet,იჭმებოდნენ ičmebodnen,
+future,future,შევიჭმები ševičmebi,შეიჭმები šeičmebi,შეიჭმება šeičmeba,შევიჭმებით ševičmebit,შეიჭმებით šeičmebit,შეიჭმებიან šeičmebian
+conditional,შევიჭმებოდი ševičmebodi,შეიჭმებოდი šeičmebodi,შეიჭმებოდა šeičmeboda,შევიჭმებოდით ševičmebodit,შეიჭმებოდით šeičmebodit,შეიჭმებოდნენ šeičmebodnen,
+future subjunctive,შევიჭმებოდე ševičmebode,შეიჭმებოდე šeičmebode,შეიჭმებოდეს šeičmebodes,შევიჭმებოდეთ ševičmebodet,შეიჭმებოდეთ šeičmebodet,შეიჭმებოდნენ šeičmebodnen,

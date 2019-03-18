@@ -1,0 +1,8 @@
+0,1,2,3
+Audio,,(file),
+Audio Northern,,(file),
+,singular,,plural
+direct,N;NOM;SG,N;NOM;PL,
+oblique I,N;(non)NOM;SG,N;(non)NOM;PL,
+oblique II,N;(non)NOM;LGSPEC1;SG,N;(non)NOM;LGSPEC1;PL,
+vocative,N;VOC;SG,N;VOC;PL,

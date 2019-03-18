@@ -1,0 +1,43 @@
+0,1,2
+,singular (singulare tantum),
+nominative,N;NOM;SG,
+dative,N;DAT;SG,
+ablative,N;ABL;SG,
+instrumental,N;INST;SG,
+locative,N;LOC;SG,
+,definite forms,
+nominative,N;NOM;SG;DEF,
+dative,N;DAT;SG;DEF,
+,1st person possessive forms (my),
+nominative,N;NOM;SG;PSS1S,
+dative,N;DAT;SG;PSS1S,
+ablative,N;ABL;SG;PSS1S,
+instrumental,N;INST;SG;PSS1S,
+locative,N;LOC;SG;PSS1S,
+,2nd person possessive forms (your),
+nominative,N;NOM;SG;PSS2S,
+dative,N;DAT;SG;PSS2S,
+ablative,N;ABL;SG;PSS2S,
+instrumental,N;INST;SG;PSS2S,
+locative,N;LOC;SG;PSS2S,
+,singular,plural
+nominative,ֆրիուլերեն ‎(friuleren),ֆրիուլերեններ ‎(friulerenner)
+dative,ֆրիուլերենի ‎(friulereni),ֆրիուլերենների ‎(friulerenneri)
+ablative,ֆրիուլերենից ‎(friulerenicʿ),ֆրիուլերեններից ‎(friulerennericʿ)
+instrumental,ֆրիուլերենով ‎(friulerenov),ֆրիուլերեններով ‎(friulerennerov)
+locative,ֆրիուլերենում ‎(friulerenum),ֆրիուլերեններում ‎(friulerennerum)
+,definite forms,
+nominative,ֆրիուլերենը/ֆրիուլերենն ‎(friulerenə/friulerenn),ֆրիուլերենները/ֆրիուլերեններն ‎(friulerennerə/friulerennern)
+dative,ֆրիուլերենին ‎(friulerenin),ֆրիուլերեններին ‎(friulerennerin)
+,1st person possessive forms (my),
+nominative,ֆրիուլերենս ‎(friulerens),ֆրիուլերեններս ‎(friulerenners)
+dative,ֆրիուլերենիս ‎(friulerenis),ֆրիուլերեններիս ‎(friulerenneris)
+ablative,ֆրիուլերենիցս ‎(friulerenicʿs),ֆրիուլերեններիցս ‎(friulerennericʿs)
+instrumental,ֆրիուլերենովս ‎(friulerenovs),ֆրիուլերեններովս ‎(friulerennerovs)
+locative,ֆրիուլերենումս ‎(friulerenums),ֆրիուլերեններումս ‎(friulerennerums)
+,2nd person possessive forms (your),
+nominative,ֆրիուլերենդ ‎(friulerend),ֆրիուլերեններդ ‎(friulerennerd)
+dative,ֆրիուլերենիդ ‎(friulerenid),ֆրիուլերեններիդ ‎(friulerennerid)
+ablative,ֆրիուլերենիցդ ‎(friulerenicʿd),ֆրիուլերեններիցդ ‎(friulerennericʿd)
+instrumental,ֆրիուլերենովդ ‎(friulerenovd),ֆրիուլերեններովդ ‎(friulerennerovd)
+locative,ֆրիուլերենումդ ‎(friulerenumd),ֆրիուլերեններումդ ‎(friulerennerumd)

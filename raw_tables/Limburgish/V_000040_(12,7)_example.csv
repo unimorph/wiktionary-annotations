@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6
+non-finite forms,infinitive,gerund,present participle,past participle,adjective,adverb
+(tö) estósse,V;NFIN,V.PTCP;PRS,höbbe geestós,V.PTCP;PST,"geestós, geestósdjelik",
+number & tense,verb-second,verb-first,,,,
+present,past,subjunctive,present,past,subjunctive,
+first person singular,V;FIN;IND;PRS;1;SG,V;FIN;IND;PST;1;SG,V;FIN;SBJV;PRS;1;SG,V;FIN;SBJV;PST;1;SG,estósdje-n,estósse-n
+second person singular,V;FIN;IND;PRS;2;SG,V;FIN;IND;PST;2;SG,V;FIN;SBJV;PRS;2;SG,V;FIN;SBJV;PST;2;SG,estósdjes,estósser
+third person singular,V;FIN;IND;PRS;3;SG,V;FIN;IND;PST;3;SG,V;FIN;SBJV;PRS;3;SG,V;FIN;SBJV;PST;3;SG,estósdje,estósser
+first person plural,V;FIN;IND;PRS;1;PL,V;FIN;IND;PST;1;PL,V;FIN;SBJV;PRS;1;PL,V;FIN;SBJV;PST;1;PL,estósdje,estósse
+second person plural,V;FIN;IND;PRS;2;PL,V;FIN;IND;PST;2;PL,V;FIN;SBJV;PRS;2;PL,V;FIN;SBJV;PST;2;PL,estósdje,estóssetj
+third person plural,V;FIN;IND;PRS;3;PL,V;FIN;IND;PST;3;PL,V;FIN;SBJV;PRS;3;PL,V;FIN;SBJV;PST;3;PL,estósdje,estósser
+other forms,noun,imperative singular impolite,imperative singular polite,imperative dual,imperative plural,inclusive
+'t geestós n,estós!,V;IMP;SG,V;IMP;SG;FORM,V;IMP;DU,V;IMP;PL,

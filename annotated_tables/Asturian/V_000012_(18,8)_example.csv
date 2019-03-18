@@ -1,0 +1,19 @@
+0,1,2,3,4,5,6,7
+Impersonal forms,,,,,,,
+Infinitive,V;NFIN,,,,,,
+Gerund,V.CVB;PRS,,,,,,
+Past participle,V.PTCP;PST,,,,,,
+Personal forms,,,,,,,
+,yo,tu,él~elli/-a/-o,nosotros/-es~nós,vosotros/-es~vós,ellos/-es,
+Indicative,Present,V;IND;PRS;1;SG,V;IND;PRS;2;SG,V;IND;PRS;3;SG,V;IND;PRS;1;PL,V;IND;PRS;2;PL,V;IND;PRS;3;PL
+Imperfect preterite,V;IND;PST;1;SG;IPFV,V;IND;PST;2;SG;IPFV,V;IND;PST;3;SG;IPFV,V;IND;PST;1;PL;IPFV,V;IND;PST;2;PL;IPFV,V;IND;PST;3;PL;IPFV,
+Perfect preterite,V;IND;PST;1;SG;PFV,V;IND;PST;2;SG;PFV,V;IND;PST;3;SG;PFV,V;IND;PST;1;PL;PFV,V;IND;PST;2;PL;PFV,V;IND;PST;3;PL;PFV,
+Pluperfect preterite,V;1;SG;IND;PST;PRF,V;2;SG;IND;PST;PRF,V;3;SG;IND;PST;PRF,V;1;PL;IND;PST;PRF,V;2;PL;IND;PST;PRF,V;3;PL;IND;PST;PRF,
+,yo,tu,él~elli/-a/-o,nosotros/-es~nós,vosotros/-es~vós,ellos/-es,
+Subjunctive,Present,V;1;SG;SBJV;PRS,V;2;SG;SBJV;PRS,V;3;SG;SBJV;PRS,V;1;PL;SBJV;PRS,V;2;PL;SBJV;PRS,V;3;PL;SBJV;PRS
+Imperfect preterite,V;1;SG;SBJV;PST;IPFV,V;2;SG;SBJV;PST;IPFV,V;3;SG;SBJV;PST;IPFV,V;1;PL;SBJV;PST;IPFV,V;2;PL;SBJV;PST;IPFV,V;3;PL;SBJV;PST;IPFV,
+,yo,tu,él~elli/-a/-o,nosotros/-es~nós,vosotros/-es~vós,ellos/-es,
+Potential,Future,V;1;SG;IND;FUT,V;2;SG;IND;FUT,V;3;SG;IND;FUT,V;1;PL;IND;FUT,V;2;PL;IND;FUT,V;3;PL;IND;FUT
+Conditional,V;1;SG;COND,V;2;SG;COND,V;3;SG;COND,V;1;PL;COND,V;2;PL;COND,V;3;PL;COND,
+,-,tu,vusté,nosotros/-es~nós,vosotros/-es~vós,vustedes,
+Imperative,,V;2;SG;IMP,,V;1;PL;IMP,V;2;PL;IMP,,

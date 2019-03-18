@@ -1,0 +1,29 @@
+0,1,2
+"Inflection (plural in -ok, back harmony)",,
+,singular,plural
+nominative,N;NOM;SG,N;NOM;PL
+accusative,N;ACC;SG,N;ACC;PL
+dative,N;DAT;SG,N;DAT;PL
+instrumental,N;INST;SG,N;INST;PL
+causal-final,N;PRP;SG,N;PRP;PL
+translative,N;TRANS;SG,N;TRANS;PL
+terminative,N;TERM;SG,N;TERM;PL
+essive-formal,N;FRML;SG,N;FRML;PL
+essive-modal,—,—
+inessive,N;IN+ESS;SG,N;IN+ESS;PL
+superessive,N;ON+ESS;SG,N;ON+ESS;PL
+adessive,N;AT+ESS;SG,N;AT+ESS;PL
+illative,N;IN+ALL;SG,N;IN+ALL;PL
+sublative,N;ON+ALL;SG,N;ON+ALL;PL
+allative,N;AT+ALL;SG,N;AT+ALL;PL
+elative,N;IN+ABL;SG,N;IN+ABL;PL
+delative,N;ON+ABL;SG,N;ON+ABL;PL
+ablative,N;AT+ABL;SG,N;AT+ABL;PL
+Possessive forms of granulátum,,
+possessor,single possession,multiple possessions
+1st person sing.,granulátumom,granulátumaim
+2nd person sing.,granulátumod,granulátumaid
+3rd person sing.,granulátuma,granulátumai
+1st person plural,granulátumunk,granulátumaink
+2nd person plural,granulátumotok,granulátumaitok
+3rd person plural,granulátumuk,granulátumaik

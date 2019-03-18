@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6,7
+Personal forms,,,,,,,
+,Indicative,Conditional,Imperative,,,,
+Present,Imperfect,Preterite,Future,Present,Imperfect,,
+1s,V;FIN;IND;PRS;1;SG,V;FIN;IND;PST;IPFV;1;SG,V;FIN;IND;PST;PFV;1;SG,V;FIN;IND;FUT;1;SG,V;FIN;COND;PRS;1;SG,V;FIN;COND;PST;IPFV;1;SG,-
+2s,V;FIN;IND;PRS;2;SG,V;FIN;IND;PST;IPFV;2;SG,V;FIN;IND;PST;PFV;2;SG,V;FIN;IND;FUT;2;SG,V;FIN;COND;PRS;2;SG,V;FIN;COND;PST;IPFV;2;SG,V;FIN;IMP;2;SG
+3s,V;FIN;IND;PRS;3;SG,V;FIN;IND;PST;IPFV;3;SG,V;FIN;IND;PST;PFV;3;SG,V;FIN;IND;FUT;3;SG,V;FIN;COND;PRS;3;SG,V;FIN;COND;PST;IPFV;3;SG,V;FIN;IMP;3;SG
+1p,V;FIN;IND;PRS;1;PL,V;FIN;IND;PST;IPFV;1;PL,V;FIN;IND;PST;PFV;1;PL,V;FIN;IND;FUT;1;PL,V;FIN;COND;PRS;1;PL,V;FIN;COND;PST;IPFV;1;PL,V;FIN;IMP;1;PL
+2p,V;FIN;IND;PRS;2;PL,V;FIN;IND;PST;IPFV;2;PL,V;FIN;IND;PST;PFV;2;PL,V;FIN;IND;FUT;2;PL,V;FIN;COND;PRS;2;PL,V;FIN;COND;PST;IPFV;2;PL,V;FIN;IMP;2;PL
+3p,V;FIN;IND;PRS;3;PL,V;FIN;IND;PST;IPFV;3;PL,V;FIN;IND;PST;PFV;3;PL,V;FIN;IND;FUT;3;PL,V;FIN;COND;PRS;3;PL,V;FIN;COND;PST;IPFV;3;PL,V;FIN;IMP;3;PL
+0,V;FIN;IND;PRS;0,V;FIN;IND;PST;IPFV;0,V;FIN;IND;PST;PFV;0,V;FIN;IND;FUT;0,V;FIN;COND;PRS;0,V;FIN;COND;PST;IPFV;0,-
+Impersonal forms,Mutated forms,,,,,,
+Infinitive: perc'hennañ Present participle: o perc'hennañ Past participle: perc'hennet (auxiliary verb: kaout),Soft mutation after a: a berc'henn- Mixed mutation after e: e perc'henn- Soft mutation after ne/na: ne/na berc'henn-,,,,,,
+Breton consonant mutation,,,,,,,
+unmutated,soft,aspirate,hard,mixed,,,
+perc'hennañ,berc'hennañ,ferc'hennañ,unchanged,unchanged,,,
+perc'hennadenn  perc'hennadur  perc'hennaj,,perc'henn  perc'hennidigezh,,perc'henniezh  perc'hentiezh,,,

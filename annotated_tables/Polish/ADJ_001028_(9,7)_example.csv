@@ -1,0 +1,10 @@
+0,1,2,3,4,5,6
+Audio,,(file),,,,
+case,singular,plural,,,,
+"m pers, m anim",m inan,n,f,m pers,other,
+"nominative, vocative",ADJ;MASC;NOM;SG,ADJ;NEUT;NOM;SG,ADJ;FEM;NOM;SG,ADJ;MASC;HUM;NOM;PL,ADJ;NOM;PL,
+genitive,ADJ;MASC/NEUT;GEN;SG,ADJ;FEM;GEN/DAT;SG,ADJ;GEN;PL,,,
+dative,ADJ;MASC/NEUT;DAT;SG,ADJ;DAT;PL,,,,
+accusative,ADJ;MASC;ANIM/HUM;ACC;SG,ADJ;MASC;INAN;ACC;SG,ADJ;NEUT;ACC;SG,ADJ;FEM;ACC/INS;SG,ADJ;MASC;HUM;ACC;PL,ADJ;ACC;PL
+instrumental,ADJ;MASC/NEUT;INS/ESS;PL,ADJ;INS;PL,,,,
+locative,ADJ;FEM;ESS;SG,ADJ;ESS;PL,,,,

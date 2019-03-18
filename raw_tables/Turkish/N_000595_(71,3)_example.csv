@@ -1,0 +1,72 @@
+0,1,2
+,singular (tekil),plural (çoğul)
+nominative (yalın),Musevi,Museviler
+definite accusative (belirtme),Museviyi,Musevileri
+dative (yönelme),Museviye,Musevilere
+locative (bulunma),Musevide,Musevilerde
+ablative (çıkma),Museviden,Musevilerden
+genitive (tamlayan),Musevinin,Musevilerin
+benim (my),singular (tekil),plural (çoğul)
+nominative (yalın),Musevim,Musevilerim
+definite accusative (belirtme),Musevimi,Musevilerimi
+dative (yönelme),Musevime,Musevilerime
+locative (bulunma),Musevimde,Musevilerimde
+ablative (çıkma),Musevimden,Musevilerimden
+genitive (tamlayan),Musevimin,Musevilerimin
+senin (your),singular (tekil),plural (çoğul)
+nominative (yalın),Musevin,Musevilerin
+definite accusative (belirtme),Musevini,Musevilerini
+dative (yönelme),Musevine,Musevilerine
+locative (bulunma),Musevinde,Musevilerinde
+ablative (çıkma),Musevinden,Musevilerinden
+genitive (tamlayan),Musevinin,Musevilerinin
+onun (her/his/its),singular (tekil),plural (çoğul)
+nominative (yalın),Musevisi,Musevileri
+definite accusative (belirtme),Musevisini,Musevilerini
+dative (yönelme),Musevisine,Musevilerine
+locative (bulunma),Musevisinde,Musevilerinde
+ablative (çıkma),Musevisinden,Musevilerinden
+genitive (tamlayan),Musevisinin,Musevilerinin
+bizim (our),singular (tekil),plural (çoğul)
+nominative (yalın),Musevimiz,Musevilerimiz
+definite accusative (belirtme),Musevimizi,Musevilerimizi
+dative (yönelme),Musevimize,Musevilerimize
+locative (bulunma),Musevimizde,Musevilerimizde
+ablative (çıkma),Musevimizden,Musevilerimizden
+genitive (tamlayan),Musevimizin,Musevilerimizin
+sizin (your),singular (tekil),plural (çoğul)
+nominative (yalın),Museviniz,Musevileriniz
+definite accusative (belirtme),Musevinizi,Musevilerinizi
+dative (yönelme),Musevinize,Musevilerinize
+locative (bulunma),Musevinizde,Musevilerinizde
+ablative (çıkma),Musevinizden,Musevilerinizden
+genitive (tamlayan),Musevinizin,Musevilerinizin
+onların (their),singular (tekil),plural (çoğul)
+nominative (yalın),Musevileri,Musevileri
+definite accusative (belirtme),Musevilerini,Musevilerini
+dative (yönelme),Musevilerine,Musevilerine
+locative (bulunma),Musevilerinde,Musevilerinde
+ablative (çıkma),Musevilerinden,Musevilerinden
+genitive (tamlayan),Musevilerinin,Musevilerinin
+simple present,singular,plural
+ben (I am),Museviyim,Musevilerim*
+sen (you are),Musevisin,Musevilersin*
+o (he/she/it is),Musevi / Musevidir,Museviler* / Musevilerdir*
+biz (we are),Museviyiz,Musevileriz
+siz (you are),Musevisiniz,Musevilersiniz
+onlar (they are),Museviler,Musevilerdir
+simple past,singular,plural
+ben (I was),Museviydim,Musevilerdim*
+sen (you were),Museviydin,Musevilerdin*
+o (he/she/it was),Museviydi,Musevilerdi*
+biz (we were),Museviydik,Musevilerdik
+siz (you were),Museviydiniz,Musevilerdiniz
+onlar (they were),Museviydiler,Musevilerdi
+indirect / unwitnessed past,singular,plural
+ben (I was),Museviymişim,Musevilermişim*
+sen (you were),Museviymişsin,Musevilermişsin*
+o (he/she/it was),Museviymiş,Musevilermiş*
+biz (we were),Museviymişiz,Musevilermişiz
+siz (you were),Museviymişsiniz,Musevilermişsiniz
+onlar (they were),Museviymişler,Musevilermiş
+"*Not used, but perhaps rarely - chiefly grammatical formations. Note: Plural forms are not used with adjectives.",,

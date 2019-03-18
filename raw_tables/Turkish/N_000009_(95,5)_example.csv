@@ -1,0 +1,96 @@
+0,1,2,3,4
+present tense,,,,
+,"positive, declarative","positive, interrogative","negative, declarative","negative, interrogative"
+ben (I am),ekşiyim,ekşi miyim?,ekşi değilim,ekşi değil miyim?
+sen (you are),ekşisin,ekşi misin?,ekşi değilsin,ekşi değil misin?
+o (he/she/it is),ekşi / ekşidir,ekşi mi?,ekşi değil,ekşi değil mi?
+biz (we are),ekşiyiz,ekşi miyiz?,ekşi değiliz,ekşi değil miyiz?
+siz (you are),ekşisiniz,ekşi misiniz?,ekşi değilsiniz,ekşi değil misiniz?
+onlar (they are),ekşi(ler),ekşi(ler) mi?,ekşi değil(ler),ekşi değiller mi?
+past tense,,,,
+,"positive, declarative","positive, interrogative","negative, declarative","negative, interrogative"
+ben (I was),ekşiydim,ekşi miydim?,ekşi değildim,ekşi değil miydim?
+sen (you were),ekşiydin,ekşi miydin?,ekşi değildin,ekşi değil miydin?
+o (he/she/it was),ekşiydi,ekşi miydi?,ekşi değildi,ekşi değil miydi?
+biz (we were),ekşiydik,ekşi miydik?,ekşi değildik,ekşi değil miydik?
+siz (you were),ekşiydiniz,ekşi miydiniz?,ekşi değildiniz,ekşi değil miydiniz?
+onlar (they were),ekşiydiler,ekşi miydiler?,ekşi değildi(ler) / değillerdi,ekşi değil miydiler?
+indirect past,,,,
+,"positive, declarative","positive, interrogative","negative, declarative","negative, interrogative"
+ben (I was),ekşiymişim,ekşi miymişim?,ekşi değilmişim,ekşi değil miymişim?
+sen (you were),ekşiymişsin,ekşi miymişsin?,ekşi değilmişsin,ekşi değil miymişsin?
+o (he/she/it was),ekşiymiş,ekşi miymiş?,ekşi değilmiş,ekşi değil miymiş?
+biz (we were),ekşiymişiz,ekşi miymişiz?,ekşi değilmişiz,ekşi değil miymişiz?
+siz (you were),ekşiymişsiniz,ekşi miymişsiniz?,ekşi değilmişsiniz,ekşi değil miymişsiniz?
+onlar (they were),ekşiymişler,ekşi miymişler?,ekşi değilmiş(ler) / değillermiş,ekşi değil miymişler?
+,singular (tekil),plural (çoğul),,
+nominative (yalın),ekşi,ekşiler,,
+definite accusative (belirtme),ekşiyi,ekşileri,,
+dative (yönelme),ekşiye,ekşilere,,
+locative (bulunma),ekşide,ekşilerde,,
+ablative (çıkma),ekşiden,ekşilerden,,
+genitive (tamlayan),ekşinin,ekşilerin,,
+benim (my),singular (tekil),plural (çoğul),,
+nominative (yalın),ekşim,ekşilerim,,
+definite accusative (belirtme),ekşimi,ekşilerimi,,
+dative (yönelme),ekşime,ekşilerime,,
+locative (bulunma),ekşimde,ekşilerimde,,
+ablative (çıkma),ekşimden,ekşilerimden,,
+genitive (tamlayan),ekşimin,ekşilerimin,,
+senin (your),singular (tekil),plural (çoğul),,
+nominative (yalın),ekşin,ekşilerin,,
+definite accusative (belirtme),ekşini,ekşilerini,,
+dative (yönelme),ekşine,ekşilerine,,
+locative (bulunma),ekşinde,ekşilerinde,,
+ablative (çıkma),ekşinden,ekşilerinden,,
+genitive (tamlayan),ekşinin,ekşilerinin,,
+onun (her/his/its),singular (tekil),plural (çoğul),,
+nominative (yalın),ekşisi,ekşileri,,
+definite accusative (belirtme),ekşisini,ekşilerini,,
+dative (yönelme),ekşisine,ekşilerine,,
+locative (bulunma),ekşisinde,ekşilerinde,,
+ablative (çıkma),ekşisinden,ekşilerinden,,
+genitive (tamlayan),ekşisinin,ekşilerinin,,
+bizim (our),singular (tekil),plural (çoğul),,
+nominative (yalın),ekşimiz,ekşilerimiz,,
+definite accusative (belirtme),ekşimizi,ekşilerimizi,,
+dative (yönelme),ekşimize,ekşilerimize,,
+locative (bulunma),ekşimizde,ekşilerimizde,,
+ablative (çıkma),ekşimizden,ekşilerimizden,,
+genitive (tamlayan),ekşimizin,ekşilerimizin,,
+sizin (your),singular (tekil),plural (çoğul),,
+nominative (yalın),ekşiniz,ekşileriniz,,
+definite accusative (belirtme),ekşinizi,ekşilerinizi,,
+dative (yönelme),ekşinize,ekşilerinize,,
+locative (bulunma),ekşinizde,ekşilerinizde,,
+ablative (çıkma),ekşinizden,ekşilerinizden,,
+genitive (tamlayan),ekşinizin,ekşilerinizin,,
+onların (their),singular (tekil),plural (çoğul),,
+nominative (yalın),ekşileri,ekşileri,,
+definite accusative (belirtme),ekşilerini,ekşilerini,,
+dative (yönelme),ekşilerine,ekşilerine,,
+locative (bulunma),ekşilerinde,ekşilerinde,,
+ablative (çıkma),ekşilerinden,ekşilerinden,,
+genitive (tamlayan),ekşilerinin,ekşilerinin,,
+simple present,singular,plural,,
+ben (I am),ekşiyim,ekşilerim*,,
+sen (you are),ekşisin,ekşilersin*,,
+o (he/she/it is),ekşi / ekşidir,ekşiler* / ekşilerdir*,,
+biz (we are),ekşiyiz,ekşileriz,,
+siz (you are),ekşisiniz,ekşilersiniz,,
+onlar (they are),ekşiler,ekşilerdir,,
+simple past,singular,plural,,
+ben (I was),ekşiydim,ekşilerdim*,,
+sen (you were),ekşiydin,ekşilerdin*,,
+o (he/she/it was),ekşiydi,ekşilerdi*,,
+biz (we were),ekşiydik,ekşilerdik,,
+siz (you were),ekşiydiniz,ekşilerdiniz,,
+onlar (they were),ekşiydiler,ekşilerdi,,
+indirect / unwitnessed past,singular,plural,,
+ben (I was),ekşiymişim,ekşilermişim*,,
+sen (you were),ekşiymişsin,ekşilermişsin*,,
+o (he/she/it was),ekşiymiş,ekşilermiş*,,
+biz (we were),ekşiymişiz,ekşilermişiz,,
+siz (you were),ekşiymişsiniz,ekşilermişsiniz,,
+onlar (they were),ekşiymişler,ekşilermiş,,
+"*Not used, but perhaps rarely - chiefly grammatical formations. Note: Plural forms are not used with adjectives.",,,,

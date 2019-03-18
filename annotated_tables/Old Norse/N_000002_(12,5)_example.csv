@@ -1,0 +1,13 @@
+0,1,2,3,4
+feminine,singular,plural,,
+indefinite,definite,indefinite,definite,
+nominative,N;NOM;SG;INDEF;FEM,N;NOM;SG;DEF;FEM,N;NOM;INDEF;PL;FEM,N;NOM;DEF;PL;FEM
+accusative,N;ACC;SG;INDEF;FEM,N;ACC;SG;DEF;FEM,N;ACC;INDEF;PL;FEM,N;ACC;DEF;PL;FEM
+dative,N;DAT;SG;INDEF;FEM,N;DAT;SG;DEF;FEM,N;DAT;INDEF;PL;FEM,N;DAT;DEF;PL;FEM
+genitive,N;GEN;SG;INDEF;FEM,N;GEN;SG;DEF;FEM,N;GEN;INDEF;PL;FEM,N;GEN;DEF;PL;FEM
+',plural,,,
+indefinite,definite,,,
+nominative,N;NOM;INDEF;PL;FEM,N;NOM;DEF;PL;FEM,,
+accusative,N;ACC;INDEF;PL;FEM,N;ACC;DEF;PL;FEM,,
+dative,N;DAT;INDEF;PL;FEM,N;DAT;DEF;PL;FEM,,
+genitive,N;GEN;INDEF;PL;FEM,N;GEN;DEF;PL;FEM,,

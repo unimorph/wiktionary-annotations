@@ -1,0 +1,74 @@
+0,1,2,3,4,5,6,7,8,9
+infinitive,V;NFIN,,,,,,,,
+,,singular person,,,,,,,
+,,1st personmimi,2nd personwewe,3rd person/Class 1yeye/(m),Class 3(m),Class 5(ji),Class 7(ki),Class 9(n),Class 11/14(u)
+indicative,general,V;FIN;IND;IND;INDF1;SG,V;FIN;IND;IND;INDF2;SG,V;FIN;IND;IND;INDF3;SG;LGSPEC1,V;FIN;IND;IND;INDF3;SG;LGSPEC2,V;FIN;IND;INDF3;SG;LGSPEC3,V;FIN;IND;INDF3;SG;LGSPEC4,V;FIN;IND;INDF3;SG;LGSPEC5,V;FIN;IND;INDF3;SG;LGSPEC6
+progressive,V;FIN;IND;PRES;1;SG,V;FIN;IND;PRES;2;SG,V;FIN;IND;PRES;3;SG;LGSPEC1,V;FIN;IND;PRES;3;SG;LGSPEC2,V;FIN;IND;PRES;3;SG;LGSPEC3,V;FIN;IND;PRES;3;SG;LGSPEC4,V;FIN;IND;PRES;3;SG;LGSPEC5,V;FIN;IND;PRES;3;SG;LGSPEC6,
+habitual,V;FIN;IND;HAB;SG,,,,,,,,
+past,V;FIN;IND;PST;1;SG,V;FIN;IND;PST;2;SG,V;FIN;IND;PST;3;SG;LGSPEC1,V;FIN;IND;PST;3;SG;LGSPEC2,V;FIN;IND;PST;3;SG;LGSPEC3,V;FIN;IND;PST;3;SG;LGSPEC4,V;FIN;IND;PST;3;SG;LGSPEC5,V;FIN;IND;PST;3;SG;LGSPEC6,
+perfect,V;FIN;IND;PST;PRF;1;SG,V;FIN;IND;PST;PRF;2;SG,V;FIN;IND;PST;PRF;3;SG;LGSPEC1,V;FIN;IND;PST;PRF;3;SG;LGSPEC2,V;FIN;IND;PST;PRF;3;SG;LGSPEC3,V;FIN;IND;PST;PRF;3;SG;LGSPEC4,V;FIN;IND;PST;PRF;3;SG;LGSPEC5,V;FIN;IND;PST;PRF;3;SG;LGSPEC6,
+future,V;FIN;IND;FUT;1;SG,V;FIN;IND;FUT;2;SG,V;FIN;IND;FUT;3;SG;LGSPEC1,V;FIN;IND;FUT;3;SG;LGSPEC2,V;FIN;IND;FUT;3;SG;LGSPEC3,V;FIN;IND;FUT;3;SG;LGSPEC4,V;FIN;IND;FUT;3;SG;LGSPEC5,V;FIN;IND;FUT;3;SG;LGSPEC6,
+consecutive,V;FIN;IND;LGSPEC10;1;SG,V;FIN;IND;LGSPEC10;2;SG,V;FIN;IND;LGSPEC10;3;SG;LGSPEC1,V;FIN;IND;LGSPEC10;3;SG;LGSPEC2,V;FIN;IND;LGSPEC10;3;SG;LGSPEC3,V;FIN;IND;LGSPEC10;3;SG;LGSPEC4,V;FIN;IND;LGSPEC10;3;SG;LGSPEC5,V;FIN;IND;LGSPEC10;3;SG;LGSPEC6,
+conditional,present,V;FIN;IND;COND;PRES;1;SG,V;FIN;IND;COND;PRES;2;SG,V;FIN;IND;COND;PRES;3;SG;LGSPEC1,V;FIN;IND;COND;PRES;3;SG;LGSPEC2,V;FIN;IND;COND;PRES;3;SG;LGSPEC3,V;FIN;IND;COND;PRES;3;SG;LGSPEC4,V;FIN;IND;COND;PRES;3;SG;LGSPEC5,V;FIN;IND;COND;PRES;3;SG;LGSPEC6
+past,V;FIN;IND;COND;PST;1;SG,V;FIN;IND;COND;PST;2;SG,V;FIN;IND;COND;PST;3;SG;LGSPEC1,V;FIN;IND;COND;PST;3;SG;LGSPEC2,V;FIN;IND;COND;PST;3;SG;LGSPEC3,V;FIN;IND;COND;PST;3;SG;LGSPEC4,V;FIN;IND;COND;PST;3;SG;LGSPEC5,V;FIN;IND;COND;PST;3;SG;LGSPEC6,
+subjunctive,general,V;FIN;IND;PST;1;SG,V;FIN;IND;PST;2;SG,V;FIN;IND;PST;3;SG;LGSPEC1,V;FIN;IND;PST;3;SG;LGSPEC2,V;FIN;IND;PST;3;SG;LGSPEC3,V;FIN;IND;PST;3;SG;LGSPEC4,V;FIN;IND;PST;3;SG;LGSPEC5,V;FIN;IND;PST;3;SG;LGSPEC6
+consecutive,V;FIN;SUBJ;LGSPEC10;1;SG,V;FIN;SUBJ;LGSPEC10;2;SG,V;FIN;SUBJ;LGSPEC10;3;SG;LGSPEC1,V;FIN;SUBJ;LGSPEC10;3;SG;LGSPEC2,V;FIN;SUBJ;LGSPEC10;3;SG;LGSPEC3,V;FIN;SUBJ;LGSPEC10;3;SG;LGSPEC4,V;FIN;SUBJ;LGSPEC10;3;SG;LGSPEC5,V;FIN;SUBJ;LGSPEC10;3;SG;LGSPEC6,
+comitative,V;FIN;SUBJ;COM;PST;1;SG,V;FIN;SUBJ;COM;PST;2;SG,V;FIN;SUBJ;COM;PST;3;SG;LGSPEC1,V;FIN;SUBJ;COM;PST;3;SG;LGSPEC2,V;FIN;SUBJ;COM;PST;3;SG;LGSPEC3,V;FIN;SUBJ;COM;PST;3;SG;LGSPEC4,V;FIN;SUBJ;COM;PST;3;SG;LGSPEC5,V;FIN;SUBJ;COM;PST;3;SG;LGSPEC6,
+imperative,,amba!__ambe!‡,,,,,,,
+,,plural person,,,,,,,
+,,1st personsisi,2nd personninyi,3rd person/Class 2wao/(wa),Class 4(mi),Class 6(ma),Class 8(vi),Class 10(n),Class 10(n)†
+indicative,general,V;FIN;INDF1;PL,V;FIN;INDF2;PL,V;FIN;INDF3;PL;LGSPEC1,V;FIN;INDF3;PL;LGSPEC2,V;FIN;INDF3;PL;LGSPEC3,V;FIN;INDF3;PL;LGSPEC4,V;FIN;INDF3;PL;LGSPEC5,V;FIN;INDF3;PL;LGSPEC6
+progressive,V;FIN;IND;PRES;1;PL,V;FIN;IND;PRES;2;PL,V;FIN;IND;PRES;3;PL;LGSPEC1,V;FIN;IND;PRES;3;PL;LGSPEC2,V;FIN;IND;PRES;3;PL;LGSPEC3,V;FIN;IND;PRES;3;PL;LGSPEC4,V;FIN;IND;PRES;3;PL;LGSPEC5,V;FIN;IND;PRES;3;PL;LGSPEC6,
+habitual,V;FIN;IND;HAB;PL,,,,,,,,
+past,V;FIN;IND;PST;1;PL,V;FIN;IND;PST;2;PL,V;FIN;IND;PST;3;PL;LGSPEC1,V;FIN;IND;PST;3;PL;LGSPEC2,V;FIN;IND;PST;3;PL;LGSPEC3,V;FIN;IND;PST;3;PL;LGSPEC4,V;FIN;IND;PST;3;PL;LGSPEC5,V;FIN;IND;PST;3;PL;LGSPEC6,
+perfect,V;FIN;IND;PST;PRF;1;PL,V;FIN;IND;PST;PRF;2;PL,V;FIN;IND;PST;PRF;3;PL;LGSPEC1,V;FIN;IND;PST;PRF;3;PL;LGSPEC2,V;FIN;IND;PST;PRF;3;PL;LGSPEC3,V;FIN;IND;PST;PRF;3;PL;LGSPEC4,V;FIN;IND;PST;PRF;3;PL;LGSPEC5,V;FIN;IND;PST;PRF;3;PL;LGSPEC6,
+future,V;FIN;IND;FUT;1;PL,V;FIN;IND;FUT;2;PL,V;FIN;IND;FUT;3;PL;LGSPEC1,V;FIN;IND;FUT;3;PL;LGSPEC2,V;FIN;IND;FUT;3;PL;LGSPEC3,V;FIN;IND;FUT;3;PL;LGSPEC4,V;FIN;IND;FUT;3;PL;LGSPEC5,V;FIN;IND;FUT;3;PL;LGSPEC6,
+consecutive,V;FIN;IND;LGSPEC10;1;PL,V;FIN;IND;LGSPEC10;2;PL,V;FIN;IND;LGSPEC10;3;PL;LGSPEC1,V;FIN;IND;LGSPEC10;3;PL;LGSPEC2,V;FIN;IND;LGSPEC10;3;PL;LGSPEC3,V;FIN;IND;LGSPEC10;3;PL;LGSPEC4,V;FIN;IND;LGSPEC10;3;PL;LGSPEC5,V;FIN;IND;LGSPEC7;3;PL;LGSPEC6,
+conditional,present,V;FIN;IND;COND;PRES;1;PL,V;FIN;IND;COND;PRES;2;PL,V;FIN;IND;COND;PRES;3;PL;LGSPEC1,V;FIN;IND;COND;PRES;3;PL;LGSPEC2,V;FIN;IND;COND;PRES;3;PL;LGSPEC3,V;FIN;IND;COND;PRES;3;PL;LGSPEC4,V;FIN;IND;COND;PRES;3;PL;LGSPEC5,V;FIN;IND;COND;PRES;3;PL;LGSPEC6
+past,V;FIN;IND;COND;PST;1;PL,V;FIN;IND;COND;PST;2;PL,V;FIN;IND;COND;PST;3;PL;LGSPEC1,V;FIN;IND;COND;PST;3;PL;LGSPEC2,V;FIN;IND;COND;PST;3;PL;LGSPEC3,V;FIN;IND;COND;PST;3;PL;LGSPEC4,V;FIN;IND;COND;PST;3;PL;LGSPEC5,V;FIN;IND;COND;PST;3;PL;LGSPEC6,
+subjunctive,general,V;FIN;SUBJ;PST;1;PL,V;FIN;SUBJ;PST;2;PL,V;FIN;SUBJ;PST;3;PL;LGSPEC1,V;FIN;SUBJ;PST;3;PL;LGSPEC2,V;FIN;SUBJ;PST;3;PL;LGSPEC3,V;FIN;SUBJ;PST;3;PL;LGSPEC4,V;FIN;SUBJ;PST;3;PL;LGSPEC5,V;FIN;SUBJ;PST;3;PL;LGSPEC6
+consecutive,V;FIN;SUBJ;LGSPEC10;1;PL,V;FIN;SUBJ;LGSPEC10;2;PL,V;FIN;SUBJ;LGSPEC10;3;PL;LGSPEC1,V;FIN;SUBJ;LGSPEC10;3;PL;LGSPEC2,V;FIN;SUBJ;LGSPEC10;3;PL;LGSPEC3,V;FIN;SUBJ;LGSPEC10;3;PL;LGSPEC4,V;FIN;SUBJ;LGSPEC10;3;PL;LGSPEC5,V;FIN;SUBJ;LGSPEC10;3;PL;LGSPEC6,
+comitative,V;FIN;SUBJ;COM;PST;1;PL,V;FIN;SUBJ;COM;PST;2;PL,V;FIN;SUBJ;COM;PST;3;PL;LGSPEC1,V;FIN;SUBJ;COM;PST;3;PL;LGSPEC2,V;FIN;SUBJ;COM;PST;3;PL;LGSPEC3,V;FIN;SUBJ;COM;PST;3;PL;LGSPEC4,V;FIN;SUBJ;COM;PST;3;PL;LGSPEC5,V;FIN;SUBJ;COM;PST;3;PL;LGSPEC6,
+imperative,twambe,ambeni!__ambeni!‡,,,,,,,
+infinitive,kwtoamba or kwtokuamba,,,,,,,,
+,,singular person,,,,,,,
+,,1st personmimi,2nd personwewe,3rd person/Class 1yeye/(m),Class 3(m),Class 5(ji),Class 7(ki),Class 9(n),Class 11/14(u)
+indicative,general,siambi,huambi,haambi,hauambi,haliambi,hakiambi,haiambi,hauambi
+progressive,Use General Form,Use General Form,Use General Form,Use General Form,Use General Form,Use General Form,Use General Form,Use General Form,
+habitual,Use General Form,,,,,,,,
+past,sikuamba,hukuamba,hakuamba,haukuamba,halikuamba,hakikuamba,haikuamba,haukuamba,
+perfect,sijaamba,hujaamba,hajaamba,haujaamba,halijaamba,hakijaamba,haijaamba,haujaamba,
+future,sitaamba,hutaamba,hataamba,hautaamba,halitaamba,hakitaamba,haitaamba,hautaamba,
+consecutive,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,
+conditional,present,nisingeamba,usingeamba,asingeamba,usingeamba,lisingeamba,kisingeamba,isingeamba,usingeamba
+past,nisingaliamba,usingaliamba,asingaliamba,usingaliamba,lisingaliamba,kisingaliamba,isingaliamba,usingaliamba,
+subjunctive,general,nisiambe,usiambe,asiambe,usiambe,lisiambe,kisiambe,isiambe,usiambe
+consecutive,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,
+comitative,nisipoamba,usipoamba,asipoamba,usipoamba,lisipoamba,kisipoamba,isipoamba,usipoamba,
+imperative,,usiambe!‡,,,,,,,
+,,plural person,,,,,,,
+,,1st personsisi,2nd personninyi,3rd person/Class 2wao/(wa),Class 4(mi),Class 6(ma),Class 8(vi),Class 10(n),Class 10(n)†
+indicative,general,hatuambi,hamambi,hawaambi,haiambi,hayaambi,haviambi,haziambi,haziambi
+progressive,Use General Form,Use General Form,Use General Form,Use General Form,Use General Form,Use General Form,Use General Form,Use General Form,
+habitual,Use General Form,,,,,,,,
+past,hatukuamba,hamkuamba,hawakuamba,haikuamba,hayakuamba,havikuamba,hazikuamba,hazikuamba,
+perfect,hatujaamba,hamjaamba,hawajaamba,haijaamba,hayajaamba,havijaamba,hazijaamba,hazijaamba,
+future,hatutaamba,hamtaamba,hawataamba,haitaamba,hayataamba,havitaamba,hazitaamba,hazitaamba,
+consecutive,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,
+conditional,present,tusingeamba,msingeamba,wasingeamba,isingeamba,yasingeamba,visingeamba,zisingeamba,zisingeamba
+past,tusingaliamba,msingaliamba,wasingaliamba,isingaliamba,yasingaliamba,visingaliamba,zisingaliamba,zisingaliamba,
+subjunctive,general,tusiambe,msiambe,wasiambe,isiambe,yasiambe,visiambe,zisiambe,zisiambe
+consecutive,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,Use Subjunctive Form,
+comitative,tusipoamba,msipoamba,wasipoamba,isipoamba,yasipoamba,visipoamba,zisipoamba,zisipoamba,
+imperative,tusiambe,msiambe!‡,,,,,,,
+ambia  ambika,,ambisha  ambiwa,,,,,,,
+Noun class,singular,plural,,,,,,,
+M-wa class,ambaye,ambao,,,,,,,
+M-mi class,ambao,ambayo,,,,,,,
+Ma class,ambalo,ambayo,,,,,,,
+Ki-vi class,ambacho,ambavyo,,,,,,,
+N class,ambayo,ambazo,,,,,,,
+U class,ambao,ambazo,,,,,,,
+Pa class,ambapo,ambapo,,,,,,,
+Ku class,ambako,ambako,,,,,,,
+Mu class,ambamo,ambamo,,,,,,,

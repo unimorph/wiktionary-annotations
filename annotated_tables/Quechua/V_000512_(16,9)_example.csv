@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6,7,8
+infinitive,V;NFIN,,,,,,,
+agentive,V;NFIN;AGT,,,,,,,
+present participle,V.PTCP;PRS,,,,,,,
+past participle,V.PTCP;PST,,,,,,,
+future participle,V.PTCP;FUT,,,,,,,
+,singular,plural,,,,,,
+1st person,2nd person,3rd person,1st person inclusive,1st person exclusive,2nd person,3rd person,,
+indicative,,ñuqa,qam,pay,ñuqanchik,ñuqayku,qamkuna,paykuna
+present,V;PRS;1;SG,V;PRS;2;SG,V;PRS;3;SG,V;PRS;1+INCL;PL,V;PRS;1+EXCL;PL,V;PRS;2;PL,V;PRS;3;PL,
+past(experienced),V;PST;FH;1;SG,V;PST;FH;2;SG,V;PST;FH;3;SG,V;PST;FH;1+INCL;PL,V;PST;FH;1+EXCL;PL,V;PST;FH;2;PL,V;PST;FH;3;PL,
+past(reported),V;PST;NFH;1;SG,V;PST;NFH;2;SG,V;PST;NFH;3;SG,V;PST;NFH;1+INCL;PL,V;PST;NFH;1+EXCL;PL,V;PST;NFH;2;PL,V;PST;NFH;3;PL,
+future,V;FUT;1;SG,V;FUT;2;SG,V;FUT;3;SG,V;FUT;1+INCL;PL,V;FUT;1+EXCL;PL,V;FUT;2;PL,V;FUT;3;PL,
+,,,,,,,,
+imperative,,—,qam,pay,—,—,qamkuna,paykuna
+affirmative,,V;IMP;POS;2;SG,V;IMP;POS;3;SG,,,V;IMP;POS;2;PL,V;IMP;POS;3;PL,
+negative,,V;IMP;NEG;2;SG,V;IMP;NEG;3;SG,,,V;IMP;NEG;2;PL,V;IMP;NEG;3;PL,

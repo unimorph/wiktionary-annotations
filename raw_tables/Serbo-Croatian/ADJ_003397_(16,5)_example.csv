@@ -1,0 +1,17 @@
+0,1,2,3,4
+singular,masculine,feminine,neuter,
+nominative,gramofonski,gramofonska,gramofonsko,
+genitive,gramofonskog(a),gramofonske,gramofonskog(a),
+dative,gramofonskom(u/e),gramofonskoj,gramofonskom(u/e),
+accusative,inanimateanimate,gramofonskigramofonskog(a),gramofonsku,gramofonsko
+vocative,gramofonski,gramofonska,gramofonsko,
+locative,gramofonskom(e/u),gramofonskoj,gramofonskom(e/u),
+instrumental,gramofonskim,gramofonskom,gramofonskim,
+plural,masculine,feminine,neuter,
+nominative,gramofonski,gramofonske,gramofonska,
+genitive,gramofonskih,gramofonskih,gramofonskih,
+dative,gramofonskim(a),gramofonskim(a),gramofonskim(a),
+accusative,gramofonske,gramofonske,gramofonska,
+vocative,gramofonski,gramofonske,gramofonska,
+locative,gramofonskim(a),gramofonskim(a),gramofonskim(a),
+instrumental,gramofonskim(a),gramofonskim(a),gramofonskim(a),

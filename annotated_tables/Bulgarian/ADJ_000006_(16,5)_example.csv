@@ -1,0 +1,17 @@
+0,1,2,3,4
+,masculine,feminine,neuter,plural
+indefinite,ADJ;MASC;SG;INDF,ADJ;FEM;SG;INDF,ADJ;NEUT;SG;INDF,ADJ;PL;INDF
+definite(subject form),ADJ;MASC;SG;NOM;DEF,ADJ;FEM;SG;DEF,ADJ;NEUT;SG;DEF,ADJ;PL;DEF
+definite(object form),ADJ;MASC;SG;ACC;DEF,,,
+extended(vocative form),ADJ;MASC;SG;VOC,,,
+,masculine,feminine,neuter,plural
+indefinite,ADJ;CMPR;MASC;SG;INDF,ADJ;CMPR;FEM;SG;INDF,ADJ;CMPR;NEUT;SG;INDF,ADJ;CMPR;PL;INDF
+definite(subject form),ADJ;CMPR;MASC;SG;NOM;DEF,ADJ;CMPR;FEM;SG;DEF,ADJ;CMPR;NEUT;SG;DEF,ADJ;CMPR;PL;DEF
+definite(object form),ADJ;CMPR;MASC;SG;ACC;DEF,,,
+extended(vocative form),ADJ;CMPR;MASC;SG;VOC,,,
+,masculine,feminine,neuter,plural
+indefinite,ADJ;SPRL;MASC;SG;INDF,ADJ;SPRL;FEM;SG;INDF,ADJ;SPRL;NEUT;SG;INDF,ADJ;SPRL;PL;INDF
+definite(subject form),ADJ;SPRL;MASC;SG;NOM;DEF,ADJ;SPRL;FEM;SG;DEF,ADJ;SPRL;NEUT;SG;DEF,ADJ;SPRL;PL;DEF
+definite(object form),ADJ;SPRL;MASC;SG;ACC;DEF,,,
+extended(vocative form),ADJ;SPRL;MASC;SG;VOC,,,
+слънчева баня ‎(slǎnčeva banja)  слънчева година ‎(slǎnčeva godina)  слънчево затъмнение ‎(slǎnčevo zatǎmnenie)  слънчево петно ‎(slǎnčevo petno),,слънчева система ‎(slǎnčeva sistema)  слънчев сплит ‎(slǎnčev split)  слънчев удар ‎(slǎnčev udar),,

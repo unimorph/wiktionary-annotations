@@ -1,0 +1,7 @@
+0,1,2
+,singular,plural
+indefinite,N;SG;INDF,N;PL;INDF
+definite unspecified,N;SG;DEF,N;PL;DEF
+definite proximal,N;SG;DEF;PROX,N;PL;DEF;PROX
+definite distal,N;SG;DEF;REMT,N;PL;DEF;REMT
+vocative,N;SG;VOC,N;PL;VOC

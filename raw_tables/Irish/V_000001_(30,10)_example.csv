@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6,7,8,9
+,singular,plural,relative,autonomous,,,,,
+first,second,third,first,second,third,,,,
+indicative,present,feicim,feiceann tú; feicir†,"feiceann sé, sí",feicimid; feiceann muid,feiceann sibh,feiceann siad; feicid†,a fheiceann; a fheiceas /a bhfeiceann*; a bhfeiceas*,feictear
+past independent,chonaic mé; chonaiceas; chonac,chonaic tú; chonaicis,"chonaic sé, sí",chonaiceamar; chonaic muid,chonaic sibh; chonaiceabhair,chonaic siad; chonaiceadar,a chonaic,chonacthas,
+past dependent,faca mé; facas,faca tú; facais,"faca sé, sí",facamar; faca muid,faca sibh; facabhair,faca siad; facadar,a bhfaca*,facthas,
+past habitual,d’fheicinn /fheicinn‡,d’fheicteá /fheicteá‡,"d’fheiceadh sé, sí /fheiceadh sé, sí‡",d’fheicimis; d’fheiceadh muid /fheicimis‡; fheiceadh muid‡,d’fheiceadh sibh /fheiceadh sibh‡,d’fheicidís; d’fheiceadh siad /fheicidís‡; fheiceadh siad‡,a d’fheiceadh /ar fheiceadh*,d’fheictí /fheictí‡,
+future,feicfidh mé; feicfead,feicfidh tú; feicfir†,"feicfidh sé, sí",feicfimid; feicfidh muid,feicfidh sibh,feicfidh siad; feicfid†,a fheicfidh; a fheicfeas /a bhfeicfidh*; a bhfeicfeas*,feicfear,
+conditional,d’fheicfinn /fheicfinn‡,d’fheicfeá /fheicfeá‡,"d’fheicfeadh sé, sí /fheicfeadh sé, sí‡",d’fheicfimis; d’fheicfeadh muid /fheicfimis‡; fheicfeadh muid‡,d’fheicfeadh sibh /fheicfeadh sibh‡,d’fheicfidís; d’fheicfeadh siad /fheicfidís‡; fheicfeadh siad‡,a d’fheicfeadh /ar fheicfeadh*,d’fheicfí /fheicfí‡,
+subjunctive,present,go bhfeice mé; go bhfeicead†,go bhfeice tú; go bhfeicir†,"go bhfeice sé, sí",go bhfeicimid; go bhfeice muid,go bhfeice sibh,go bhfeice siad; go bhfeicid†,—,go bhfeictear
+past,dá bhfeicinn,dá bhfeicteá,"dá bhfeiceadh sé, sí",dá bhfeicimis; dá bhfeiceadh muid,dá bhfeiceadh sibh,dá bhfeicidís; dá bhfeiceadh siad,—,dá bhfeictí,
+imperative,feicim,feic,"feiceadh sé, sí",feicimis,feicigí; feicidh†,feicidís,—,feictear,
+verbal noun,feiceáil,,,,,,,,
+past participle,feicthe,,,,,,,,
+,singular,plural,relative,autonomous,,,,,
+first,second,third,first,second,third,,,,
+indicative,present independent,chím; cím¶,chí tú; chíonn tú; chír; cíonn tú¶,"chí sé, sí; chíonn sé, sí; cíonn sé, sí¶",chímid; címíd¶,chí sibh; chíonn sibh; cíonn sibh¶,chí siad; chíonn siad; chíd; cíonn siad¶; cíd¶,a chí; a chíonn; a chíos,chítear; cítear¶
+past habitual independent,chínn,chítheá,"chíodh sé, sí",chímis,chíodh sibh,chídís; chíodh siad,a chíodh,chítí,
+future independent,chífidh mé; chífead; cífidh mé¶; cífead¶,chífidh tú; chífir; cífidh tú¶; cífir¶,"chífidh sé, sí; cífidh sé, sí¶",chífimid; cífimid¶,chífidh sibh; cífidh sibh¶,chífidh siad; chífid; cífidh siad¶; cífid¶,a chífidh; a chífeas,chífear; cífear¶,
+conditional independent,chífinn,chífeá,"chífeadh sé, sí",chífimis,chífeadh sibh,chífidís; chífeadh siad,a chífeadh,chífí,
+verbal noun,feiscint,,,,,,,,
+,singular,plural,relative,autonomous,,,,,
+first,second,third,first,second,third,,,,
+indicative,present independent,tím; tíonn mé; tchím; tchíonn mé,tíonn tú; tchíonn tú,"tíonn sé, sí; tchíonn sé, sí",tímid; tíonn muid; tchímid; tchíonn muid,tíonn sibh; tchíonn sibh,tíonn siad; tchíonn siad,a tíonn; a tíos; a tchíonn; a tchíos,títhear; tchíthear
+past habitual independent,tínn; tchínn,títheá; tchítheá,"tíodh sé, sí; tchíodh mé",tímis; tíodh muid; tchímis; tchíodh muid,tíodh sibh; tchíodh sibh,tíodh siad; tchíodh siad,a tíodh; a tchíodh,títí; tchítí,
+future independent,tífidh mé; tchífidh mé,tífidh tú; tchífidh tú,"tífidh sé, sí; tchífidh sé, sí",tífimid; tífidh muid; tchífimid; tchífidh muid,tífidh sibh; tchífidh sibh,tífidh siad; tchífidh siad,a tífidh; a tífeas; tchífidh; tchífeas,tífear; tchífear,
+conditional independent,tífinn; tchífinn,tífeá; tchífeá,"tífeadh sé, sí; tchífeadh sé, sí",tífimis; tífeadh muid; tchífimis; tchífeadh,tífeadh sibh; tchífeadh sibh,tífeadh siad; tchífeadh siad,a tífeadh; a tchífeadh,tífí; tchífí,
+Irish mutation,,,,,,,,,
+Radical,Lenition,Eclipsis,,,,,,,
+feic,fheic,bhfeic,,,,,,,
+Note: Some of these forms may be hypothetical. Not everypossible mutated form of every word actually occurs.,,,,,,,,,

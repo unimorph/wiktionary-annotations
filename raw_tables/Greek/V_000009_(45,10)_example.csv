@@ -1,0 +1,46 @@
+0,1,2,3,4,5,6,7,8,9
+number,singular,dual,plural,,,,,,
+,first,second,third,second,third,first,second,third,
+active,indicative,ἐπᾰνῑ́ημῐ,ἐπᾰνῑ́ης,ἐπᾰνῑ́ησῐ(ν),ἐπᾰνῑ́ετον,ἐπᾰνῑ́ετον,ἐπᾰνῑ́εμεν,ἐπᾰνῑ́ετε,ἐπᾰνῑᾶσι(ν)
+subjunctive,ἐπᾰνῑῶ,ἐπᾰνῑῇς,ἐπᾰνῑῇ,ἐπᾰνῑῆτον,ἐπᾰνῑῆτον,ἐπᾰνῑῶμεν,ἐπᾰνῑῆτε,ἐπᾰνῑῶσῐ(ν),
+optative,ἐπᾰνῑείην,ἐπᾰνῑείης,ἐπᾰνῑείη,"ἐπᾰνῑεῖτον,ἐπᾰνῑείητον","ἐπᾰνῑείτην,ἐπᾰνῑειήτην","ἐπᾰνῑεῖμεν,ἐπᾰνῑείημεν","ἐπᾰνῑεῖτε,ἐπᾰνῑείητε","ἐπᾰνῑεῖεν,ἐπᾰνῑείησᾰν",
+imperative,,ἐπᾰνῑ́ει,ἐπᾰνῑέτω,ἐπᾰνῑ́ετον,ἐπᾰνῑέτων,,ἐπᾰνῑ́ετε,ἐπᾰνῑέντων,
+middle/passive,indicative,ἐπᾰνῑ́εμαι,ἐπᾰνῑ́εσαι,ἐπᾰνῑ́εται,ἐπᾰνῑ́εσθον,ἐπᾰνῑ́εσθον,ἐπᾰνῑέμεθᾰ,ἐπᾰνῑ́εσθε,ἐπᾰνῑ́ενται
+subjunctive,ἐπᾰνῑῶμαι,ἐπᾰνῑῇ,ἐπᾰνῑῆται,ἐπᾰνῑῆσθον,ἐπᾰνῑῆσθον,ἐπᾰνῑώμεθᾰ,ἐπᾰνῑῆσθε,ἐπᾰνῑῶνται,
+optative,ἐπᾰνῑείμην,ἐπᾰνῑεῖο,"ἐπᾰνῑεῖτο,ἐπᾰνῑοῖτο","ἐπᾰνῑεῖσθον,ἐπᾰνῑοῖσθον","ἐπᾰνῑείσθην,ἐπᾰνῑοίσθην","ἐπᾰνῑείμεθᾰ,ἐπᾰνῑοίμεθᾰ","ἐπᾰνῑεῖσθε,ἐπᾰνῑοῖσθε","ἐπᾰνῑεῖντο,ἐπᾰνῑοῖντο",
+imperative,,ἐπᾰνῑ́εσο,ἐπᾰνῑέσθω,ἐπᾰνῑ́εσθον,ἐπᾰνῑέσθων,,ἐπᾰνῑ́εσθε,ἐπᾰνῑέσθων,
+,active,middle/passive,,,,,,,
+infinitive,ἐπᾰνῑέναι,ἐπᾰνῑ́εσθαι,,,,,,,
+participle,m,ἐπᾰνῑείς,ἐπᾰνῑέμενος,,,,,,
+f,ἐπᾰνῑεῖσᾰ,ἐπᾰνῑεμένη,,,,,,,
+n,ἐπᾰνῑέν,ἐπᾰνῑέμενον,,,,,,,
+Notes:,"This table gives Attic inflectional endings. For conjugation in dialects other than Attic, see Appendix:Ancient Greek dialectal conjugation.",,,,,,,,
+number,singular,dual,plural,,,,,,
+,first,second,third,second,third,first,second,third,
+active,indicative,ἐπᾰνῑ́ην,ἐπᾰνῑ́εις,ἐπᾰνῑ́ει,ἐπᾰνῑ́ετον,ἐπᾰνῑέτην,ἐπᾰνῑ́εμεν,ἐπᾰνῑ́ετε,ἐπᾰνῑ́εσᾰν
+middle/passive,indicative,ἐπᾰνῑέμην,ἐπᾰνῑ́εσο,ἐπᾰνῑ́ετο,ἐπᾰνῑ́εσθον,ἐπᾰνῑέσθην,ἐπᾰνῑέμεθᾰ,ἐπᾰνῑ́εσθε,ἐπᾰνῑ́εντο
+Notes:,"This table gives Attic inflectional endings. For conjugation in dialects other than Attic, see Appendix:Ancient Greek dialectal conjugation.",,,,,,,,
+number,singular,dual,plural,,,,,,
+,first,second,third,second,third,first,second,third,
+active,indicative,ἐπᾰνήσω,ἐπᾰνήσεις,ἐπᾰνήσει,ἐπᾰνήσετον,ἐπᾰνήσετον,ἐπᾰνήσομεν,ἐπᾰνήσετε,ἐπᾰνήσουσῐ(ν)
+optative,ἐπᾰνήσοιμῐ,ἐπᾰνήσοις,ἐπᾰνήσοι,ἐπᾰνήσοιτον,ἐπᾰνησοίτην,ἐπᾰνήσοιμεν,ἐπᾰνήσοιτε,ἐπᾰνήσοιεν,
+middle,indicative,ἐπᾰνήσομαι,"ἐπᾰνήσῃ,ἐπᾰνήσει",ἐπᾰνήσεται,ἐπᾰνήσεσθον,ἐπᾰνήσεσθον,ἐπᾰνησόμεθᾰ,ἐπᾰνήσεσθε,ἐπᾰνήσονται
+optative,ἐπᾰνησοίμην,ἐπᾰνήσοιο,ἐπᾰνήσοιτο,ἐπᾰνήσοισθον,ἐπᾰνησοίσθην,ἐπᾰνησοίμεθᾰ,ἐπᾰνήσοισθε,ἐπᾰνήσοιντο,
+,active,middle,,,,,,,
+infinitive,ἐπᾰνήσειν,ἐπᾰνήσεσθαι,,,,,,,
+participle,m,ἐπᾰνήσων,ἐπᾰνησόμενος,,,,,,
+f,ἐπᾰνήσουσᾰ,ἐπᾰνησομένη,,,,,,,
+n,ἐπᾰνῆσον,ἐπᾰνησόμενον,,,,,,,
+Notes:,"This table gives Attic inflectional endings. For conjugation in dialects other than Attic, see Appendix:Ancient Greek dialectal conjugation.",,,,,,,,
+number,singular,dual,plural,,,,,,
+,first,second,third,second,third,first,second,third,
+active,indicative,ἐπᾰνῆκᾰ,ἐπᾰνῆκᾰς,ἐπᾰνῆκε(ν),ἐπᾰνῆκᾰτον,ἐπᾰνῆκᾰ́την,ἐπᾰνῆκᾰμεν,ἐπᾰνῆκᾰτε,ἐπᾰνῆκᾰν
+subjunctive,ἐπᾰνήκω,ἐπᾰνήκῃς,ἐπᾰνήκῃ,ἐπᾰνήκητον,ἐπᾰνήκητον,ἐπᾰνήκωμεν,ἐπᾰνήκητε,ἐπᾰνήκωσῐ(ν),
+optative,ἐπᾰνήκαιμῐ,"ἐπᾰνήκειᾰς,ἐπᾰνήκαις","ἐπᾰνήκειε(ν),ἐπᾰνήκαι",ἐπᾰνήκαιτον,ἐπᾰνηκαίτην,ἐπᾰνήκαιμεν,ἐπᾰνήκαιτε,"ἐπᾰνήκειᾰν,ἐπᾰνήκαιεν",
+imperative,,ἐπᾰ́νηκον,ἐπᾰνηκᾰ́τω,ἐπᾰνήκᾰτον,ἐπᾰνηκᾰ́των,,ἐπᾰνήκᾰτε,ἐπᾰνηκᾰ́ντων,
+,active,,,,,,,,
+infinitive,ἐπᾰνεῖναι,,,,,,,,
+participle,m,ἐπᾰνείς,,,,,,,
+f,ἐπᾰνεῖσᾰ,,,,,,,,
+n,ἐπᾰνέν,,,,,,,,
+Notes:,"This table gives Attic inflectional endings. For conjugation in dialects other than Attic, see Appendix:Ancient Greek dialectal conjugation.",,,,,,,,

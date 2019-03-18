@@ -1,0 +1,10 @@
+0,1,2,3,4,5
+Number,Singular,,Plural,,
+Case / Gender,Masc./Fem.,Neuter,Masc./Fem.,Neuter,
+nominative,textilis,textile,,textilēs,textilia
+genitive,textilis,textilium,,,
+dative,textilī,textilibus,,,
+accusative,textilem,textile,textilēs,textilia,
+ablative,textilī,textilibus,,,
+vocative,textilis,textile,textilēs,textilia,
+texō  textor  textōrius  textrīnus,,textrīx  textum  textus,,,

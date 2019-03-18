@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6
+,nominative,dative,accusative,disjunctive,,
+first person,singular,yo,me,mí1,,
+plural,masc.,nosotros,nos,nosotros,,
+fem.,nosotras,nosotras,,,,
+second person,singular,tuteo,tú,te,ti1,
+voseo,vos,vos,,,,
+formal2,usted,le,lo/la3,usted,,
+plural,familiar4,masc.,vosotros,os,vosotros,
+fem.,vosotras,vosotras,,,,
+formal/general2,ustedes,les,los/las3,ustedes,,
+third person,singular,masc.,él,le,lo,él
+fem.,ella,la,ella,,,
+neut.,ello5,lo/la3,ello,,,
+plural,masc.,ellos,les,los,ellos,
+fem.,ellas,las,ellas,,,
+sing. & pl.,reflexive,—,se,sí1,,

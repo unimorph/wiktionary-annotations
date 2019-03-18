@@ -1,0 +1,58 @@
+0,1,2
+PIE root,,
+*swep-,,
+present tense,singular,plural
+1st person,spím,spíme
+2nd person,spíš,spíte
+3rd person,spí,spia
+,,
+past tense,singular,plural
+masculine,,
+1st person,spal som,spali sme
+2nd person,spal si,spali ste
+3rd person,spal,spali
+feminine,,
+1st person,spala som,spali sme
+2nd person,spala si,spali ste
+3rd person,spala,spali
+neuter,,
+1st person,spalo som,spali sme
+2nd person,spalo si,spali ste
+3rd person,spalo,spali
+,,
+past perfect,singular,plural
+masculine,,
+1st person,spával som,spávali sme
+2nd person,spával si,spávali ste
+3rd person,spával,spávali
+feminine,,
+1st person,spávala som,spávali sme
+2nd person,spávala si,spávali ste
+3rd person,spávala,spávali
+neuter,,
+1st person,spávalo som,spávali sme
+2nd person,spávalo si,spávali ste
+3rd person,spávalo,spávali
+,,
+past pluperfect,singular,plural
+masculine,,
+1st person,bol som spával,boli sme spávali
+2nd person,bol si spával,boli ste spávali
+3rd person,bol spával,boli spávali
+feminine,,
+1st person,bola som spávala,boli sme spávali
+2nd person,bola si spávala,boli ste spávali
+3rd person,bola spávala,boli spávali
+neuter,,
+1st person,bolo som spávalo,boli sme spávali
+2nd person,bolo si spávalo,boli ste spávali
+3rd person,bolo spávalo,boli spávali
+,,
+future,singular,plural
+1st person,budem spať,budeme spať
+2nd person,budeš spať,budete spať
+3rd person,bude spať,budú spať
+imperative,singular,plural
+1st person,—,spime
+2nd person,spi,spite
+3rd person,—,—

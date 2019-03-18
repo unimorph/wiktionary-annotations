@@ -1,0 +1,10 @@
+0,1,2,3,4,5,6,7
+,singular (vienaskaita),,plural (daugiskaita),,,,
+1st person (pirmasis asmuo),2nd person (antrasis asmuo),3rd person (trečiasis asmuo),1st person (pirmasis asmuo),2nd person (antrasis asmuo),3rd person (trečiasis asmuo),,
+,aš,tu,jis/ji,mes,jūs,jie/jos,
+indicative (tiesioginė nuosaka),present (esamasis laikas),šypsausi,šypsaisi,šypsosi,šypsomės,šypsotės,šypsosi
+past (būtasis kartinis laikas),šypsojausi,šypsojaisi,šypsojosi,šypsojomės,šypsojotės,šypsojosi,
+past frequentative (būtasis dažninis laikas),šypsodavausi,šypsodavaisi,šypsodavosi,šypsodavomės,šypsodavotės,šypsodavosi,
+future (būsimasis laikas),šypsosiuosi,šypsosiesi,šypsosis,šypsosimės,šypsositės,šypsosis,
+subjunctive (tariamoji nuosaka),šypsočiausi,šypsotumeisi,šypsotųsi,šypsotumėmės,šypsotumėtės,šypsotųsi,
+imperative (liepiamoji nuosaka),—,šypsokis,tesišypso,šypsokimės,šypsokitės,tesišypso,

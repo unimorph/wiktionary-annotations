@@ -1,0 +1,75 @@
+0,1,2,3,4
+Audio,,(file),,
+,singular (tekil),plural (çoğul),,
+nominative (yalın),yaşlı,yaşlılar,,
+definite accusative (belirtme),yaşlıyı,yaşlıları,,
+dative (yönelme),yaşlıya,yaşlılara,,
+locative (bulunma),yaşlıda,yaşlılarda,,
+ablative (çıkma),yaşlıdan,yaşlılardan,,
+genitive (tamlayan),yaşlının,yaşlıların,,
+benim (my),singular (tekil),plural (çoğul),,
+nominative (yalın),yaşlım,yaşlılarım,,
+definite accusative (belirtme),yaşlımı,yaşlılarımı,,
+dative (yönelme),yaşlıma,yaşlılarıma,,
+locative (bulunma),yaşlımda,yaşlılarımda,,
+ablative (çıkma),yaşlımdan,yaşlılarımdan,,
+genitive (tamlayan),yaşlımın,yaşlılarımın,,
+senin (your),singular (tekil),plural (çoğul),,
+nominative (yalın),yaşlın,yaşlıların,,
+definite accusative (belirtme),yaşlını,yaşlılarını,,
+dative (yönelme),yaşlına,yaşlılarına,,
+locative (bulunma),yaşlında,yaşlılarında,,
+ablative (çıkma),yaşlından,yaşlılarından,,
+genitive (tamlayan),yaşlının,yaşlılarının,,
+onun (her/his/its),singular (tekil),plural (çoğul),,
+nominative (yalın),yaşlısı,yaşlıları,,
+definite accusative (belirtme),yaşlısını,yaşlılarını,,
+dative (yönelme),yaşlısına,yaşlılarına,,
+locative (bulunma),yaşlısında,yaşlılarında,,
+ablative (çıkma),yaşlısından,yaşlılarından,,
+genitive (tamlayan),yaşlısının,yaşlılarının,,
+bizim (our),singular (tekil),plural (çoğul),,
+nominative (yalın),yaşlımız,yaşlılarımız,,
+definite accusative (belirtme),yaşlımızı,yaşlılarımızı,,
+dative (yönelme),yaşlımıza,yaşlılarımıza,,
+locative (bulunma),yaşlımızda,yaşlılarımızda,,
+ablative (çıkma),yaşlımızdan,yaşlılarımızdan,,
+genitive (tamlayan),yaşlımızın,yaşlılarımızın,,
+sizin (your),singular (tekil),plural (çoğul),,
+nominative (yalın),yaşlınız,yaşlılarınız,,
+definite accusative (belirtme),yaşlınızı,yaşlılarınızı,,
+dative (yönelme),yaşlınıza,yaşlılarınıza,,
+locative (bulunma),yaşlınızda,yaşlılarınızda,,
+ablative (çıkma),yaşlınızdan,yaşlılarınızdan,,
+genitive (tamlayan),yaşlınızın,yaşlılarınızın,,
+onların (their),singular (tekil),plural (çoğul),,
+nominative (yalın),yaşlıları,yaşlıları,,
+definite accusative (belirtme),yaşlılarını,yaşlılarını,,
+dative (yönelme),yaşlılarına,yaşlılarına,,
+locative (bulunma),yaşlılarında,yaşlılarında,,
+ablative (çıkma),yaşlılarından,yaşlılarından,,
+genitive (tamlayan),yaşlılarının,yaşlılarının,,
+present tense,,,,
+,"positive, declarative","positive, interrogative","negative, declarative","negative, interrogative"
+ben (I am),yaşlıyım,yaşlı mıyım?,yaşlı değilim,yaşlı değil miyim?
+sen (you are),yaşlısın,yaşlı mısın?,yaşlı değilsin,yaşlı değil misin?
+o (he/she/it is),yaşlı / yaşlıdır,yaşlı mı?,yaşlı değil,yaşlı değil mi?
+biz (we are),yaşlıyız,yaşlı mıyız?,yaşlı değiliz,yaşlı değil miyiz?
+siz (you are),yaşlısınız,yaşlı mısınız?,yaşlı değilsiniz,yaşlı değil misiniz?
+onlar (they are),yaşlı(lar),yaşlı(lar) mı?,yaşlı değil(ler),yaşlı değiller mi?
+past tense,,,,
+,"positive, declarative","positive, interrogative","negative, declarative","negative, interrogative"
+ben (I was),yaşlıydım,yaşlı mıydım?,yaşlı değildim,yaşlı değil miydim?
+sen (you were),yaşlıydın,yaşlı mıydın?,yaşlı değildin,yaşlı değil miydin?
+o (he/she/it was),yaşlıydı,yaşlı mıydı?,yaşlı değildi,yaşlı değil miydi?
+biz (we were),yaşlıydık,yaşlı mıydık?,yaşlı değildik,yaşlı değil miydik?
+siz (you were),yaşlıydınız,yaşlı mıydınız?,yaşlı değildiniz,yaşlı değil miydiniz?
+onlar (they were),yaşlıydılar,yaşlı mıydılar?,yaşlı değildi(ler) / değillerdi,yaşlı değil miydiler?
+indirect past,,,,
+,"positive, declarative","positive, interrogative","negative, declarative","negative, interrogative"
+ben (I was),yaşlıymışım,yaşlı mıymışım?,yaşlı değilmişim,yaşlı değil miymişim?
+sen (you were),yaşlıymışsın,yaşlı mıymışsın?,yaşlı değilmişsin,yaşlı değil miymişsin?
+o (he/she/it was),yaşlıymış,yaşlı mıymış?,yaşlı değilmiş,yaşlı değil miymiş?
+biz (we were),yaşlıymışız,yaşlı mıymışız?,yaşlı değilmişiz,yaşlı değil miymişiz?
+siz (you were),yaşlıymışsınız,yaşlı mıymışsınız?,yaşlı değilmişsiniz,yaşlı değil miymişsiniz?
+onlar (they were),yaşlıymışlar,yaşlı mıymışlar?,yaşlı değilmiş(ler) / değillermiş,yaşlı değil miymişler?

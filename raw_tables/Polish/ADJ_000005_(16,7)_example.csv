@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6
+,singular,plural,,,,
+nominative,biegły,biegli,,,,
+genitive,biegłego,biegłych,,,,
+dative,biegłemu,biegłym,,,,
+accusative,biegłego,biegłych,,,,
+instrumental,biegłym,biegłymi,,,,
+locative,biegłym,biegłych,,,,
+vocative,biegły,biegli,,,,
+case,singular,plural,,,,
+"m pers, m anim",m inan,n,f,m pers,other,
+"nominative, vocative",biegły,biegłe,biegła,biegli,biegłe,
+genitive,biegłego,biegłej,biegłych,,,
+dative,biegłemu,biegłym,,,,
+accusative,biegłego,biegły,biegłe,biegłą,biegłych,biegłe
+instrumental,biegłym,biegłymi,,,,
+locative,biegłej,biegłych,,,,

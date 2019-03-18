@@ -1,0 +1,27 @@
+0,1,2,3
+< 1,,3 >,
+Cardinal : dváOrdinal : drúgiCardinal adverb : dvákratOrdinal adverb : drúgičMultiplicative : dvójen,,,
+singular,,,
+,masculine,feminine,neuter
+nominative,ADJ;MASC;NOM;SG,ADJ;FEM;NOM;SG,ADJ;NEUT;NOM;SG
+accusative,ADJ;MASC;ACC;SG,ADJ;FEM;ACC;SG,ADJ;NEUT;ACC;SG
+genitive,ADJ;MASC;GEN;SG,ADJ;FEM;GEN;SG,ADJ;NEUT;GEN;SG
+dative,ADJ;MASC;DAT;SG,ADJ;FEM;DAT;SG,ADJ;NEUT;DAT;SG
+locative,ADJ;MASC;ESS;SG,ADJ;FEM;ESS;SG,ADJ;NEUT;ESS;SG
+instrumental,ADJ;MASC;INS;SG,ADJ;FEM;INS;SG,ADJ;NEUT;INS;SG
+dual,,,
+,masculine,feminine,neuter
+nominative,ADJ;MASC;NOM;DU,ADJ;FEM;NOM;DU,ADJ;NEUT;NOM;DU
+accusative,ADJ;MASC;ACC;DU,ADJ;FEM;ACC;DU,ADJ;NEUT;ACC;DU
+genitive,ADJ;MASC;GEN;DU,ADJ;FEM;GEN;DU,ADJ;NEUT;GEN;DU
+dative,ADJ;MASC;DAT;DU,ADJ;FEM;DAT;DU,ADJ;NEUT;DAT;DU
+locative,ADJ;MASC;ESS;DU,ADJ;FEM;ESS;DU,ADJ;NEUT;ESS;DU
+instrumental,ADJ;MASC;INS;DU,ADJ;FEM;INS;DU,ADJ;NEUT;INS;DU
+plural,,,
+,masculine,feminine,neuter
+nominative,ADJ;MASC;NOM;PL,ADJ;FEM;NOM;PL,ADJ;NEUT;NOM;PL
+accusative,ADJ;MASC;ACC;PL,ADJ;FEM;ACC;PL,ADJ;NEUT;ACC;PL
+genitive,ADJ;MASC;GEN;PL,ADJ;FEM;GEN;PL,ADJ;NEUT;GEN;PL
+dative,ADJ;MASC;DAT;PL,ADJ;FEM;DAT;PL,ADJ;NEUT;DAT;PL
+locative,ADJ;MASC;ESS;PL,ADJ;FEM;ESS;PL,ADJ;NEUT;ESS;PL
+instrumental,ADJ;MASC;INS;PL,ADJ;FEM;INS;PL,ADJ;NEUT;INS;PL

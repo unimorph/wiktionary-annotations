@@ -1,0 +1,11 @@
+0,1,2,3,4
+,singular,,,
+masculine,feminine,neuter,,
+(without article),nominative,jedweder,jedwede,jedwedes
+genitive,jedwedes,jedweder,jedwedes,
+dative,jedwedem,jedweder,jedwedem,
+accusative,jedweden,jedwede,jedwedes,
+(with indefinite article),nominative,ein jedweder,eine jedwede,ein jedwedes
+genitive,eines jedweden,einer jedweden,eines jedweden,
+dative,einem jedweden,einer jedweden,einem jedweden,
+accusative,einen jedweden,eine jedwede,ein jedwedes,

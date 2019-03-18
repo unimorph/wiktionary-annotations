@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7,8,9,10
+present verbal participle,V.PTCP;PRS,past verbal participle,V.PTCP;PST,negative verbal participle,V.PTCP;NEG,infinitive,V;NFIN,conditional form,V;NFIN;COND,
+present-future relative participle,V.PTCP;{PRS/FUT};LGSPEC1,past relative participle,V.PTCP;PST;LGSPEC1,negative relative participle,V.PTCP;NEG;LGSPEC1,dative infinitive,V;NFIN;LGSPEC2,optative form,V;NFIN;OPT,
+person,singular,plural,,,,,,,,
+first,second,third masculine,third feminine,third neuter,first,second,third epicene,third neuter,,
+affirmative,,V;1;SG;POS,V;2;SG;POS,V;3;SG;MASC;POS,V;3;SG;FEM;POS,V;3;SG;NEUT;POS,V;1;PL;POS,V;2;PL;POS,V;3;PL;MASC/FEM;POS,V;3;PL;NEUT;POS
+present,V;1;SG;PRS,V;2;SG;PRS,V;3;SG;MASC;PRS,V;3;SG;FEM;PRS,V;3;SG;NEUT;PRS,V;1;PL;PRS,V;2;PL;PRS,V;3;PL;MASC/FEM;PRS,V;3;PL;NEUT;PRS,
+past,V;1;SG;PST,V;2;SG;PST,V;3;SG;MASC;PST,V;3;SG;FEM;PST,V;3;SG;NEUT;PST,V;1;PL;PST,V;2;PL;PST,V;3;PL;MASC/FEM;PST,V;3;PL;NEUT;PST,
+future,V;1;SG;FUT,V;2;SG;FUT,V;3;SG;MASC;FUT,V;3;SG;FEM;FUT,V;3;SG;NEUT;FUT,V;1;PL;FUT,V;2;PL;FUT,V;3;PL;MASC/FEM;FUT,V;3;PL;NEUT;FUT,
+negative,,V;1;SG;NEG,V;2;SG;NEG,V;3;SG;MASC;NEG,V;3;SG;FEM;NEG,V;3;SG;NEUT;NEG,V;1;PL;NEG,V;2;PL;NEG,V;3;PL;MASC/FEM;NEG,V;3;PL;NEUT;NEG
+tenseless,V;1;SG,V;2;SG,V;3;SG;MASC,V;3;SG;FEM,V;3;SG;NEUT,V;1;PL,V;2;PL,V;3;PL;MASC/FEM,V;3;PL;NEUT,
+contingent,,V;1;SG;POT,V;2;SG;POT,V;3;SG;MASC;POT,V;3;SG;FEM;POT,V;3;SG;NEUT;POT,V;1;PL;POT,V;2;PL;POT,V;3;PL;MASC/FEM;POT,V;3;PL;NEUT;POT
+future,V;1;SG;FUT,V;2;SG;FUT,V;3;SG;MASC;FUT,V;3;SG;FEM;FUT,V;3;SG;NEUT;FUT,V;1;PL;FUT,V;2;PL;FUT,V;3;PL;MASC/FEM;FUT,V;3;PL;NEUT;FUT,
+imperative,V;1;SG;IMP,V;2;SG;IMP,——,——,——,V;1;PL;IMP,V;2;PL;IMP,——,——,
+V;1;SG;IMP,V;2;SG;IMP,,,,V;1;PL;IMP,V;2;PL;IMP,,,,
+ಬಿದಿರು ‎(bidiru)  ಚದರು ‎(cadaru)  ಎರಚು ‎(eracu)  ಈಡಾಡು ‎(īḍāḍu),,ಬೀರು ‎(bīru)  ಸೀರು ‎(sīru)  ಕೊಡಹು ‎(koḍahu),,,,,,,,

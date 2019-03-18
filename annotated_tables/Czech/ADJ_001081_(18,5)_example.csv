@@ -1,0 +1,19 @@
+0,1,2,3,4
+singular,,,,
+,masculine animate,masculine inanimate,feminine,neuter
+nominative,ADJ;NOM;MASC;SG,ADJ;NOM;FEM;SG,ADJ;NOM;NEUT;SG,
+genitive,ADJ;GEN;MASC;SG,ADJ;GEN;FEM;SG,ADJ;GEN;NEUT;SG,
+dative,ADJ;DAT;MASC;SG,ADJ;DAT;FEM;SG,ADJ;DAT;NEUT;SG,
+accusative,ADJ;ACC;ANIM;MASC;SG,ADJ;ACC;INAN;MASC;SG,ADJ;ACC;FEM;SG,ADJ;ACC;NEUT;SG
+vocative,ADJ;VOC;MASC;SG,ADJ;VOC;FEM;SG,ADJ;VOC;NEUT;SG,
+locative,ADJ;ESS;MASC;SG,ADJ;ESS;FEM;SG,ADJ;ESS;NEUT;SG,
+instrumental,ADJ;ESS;MASC;SG,ADJ;ESS;FEM;SG,ADJ;ESS;NEUT;SG,
+plural,,,,
+,masculine animate,masculine inanimate,feminine,neuter
+nominative,ADJ;NOM;ANIM;MASC;PL,ADJ;NOM;MASC+FEM;PL,ADJ;NOM;NEUT;PL,
+genitive,ADJ;GEN;PL,,,
+dative,ADJ;DAT;PL,,,
+accusative,ADJ;ACC;MASC/FEM;PL,ADJ;ACC;NEUT;PL,,
+vocative,ADJ;VOC;ANIM;MASC;PL,ADJ;VOC;MASC+FEM;PL,ADJ;VOC;NEUT;PL,
+locative,ADJ;ESS;PL,,,
+instrumental,ADJ;INS;PL,,,

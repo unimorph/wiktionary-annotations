@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6
+,strong/subject,weak (direct object),weak (indirect object),possessive,,
+singular,,proclitic,enclitic,proclitic,enclitic,
+1st person,"jo, mi3","em, m’","-me, ’m","em, m’","-me, ’m",meu
+1st person majestic1,nós,ens,"-nos, ’ns",ens,"-nos, ’ns",nostre
+2nd person,tu,"et, t’","-te, ’t","et, t’","-te, ’t",teu
+2nd person formal1,vós,us,"-vos, -us",us,"-vos, -us",vostre
+2nd person very formal2,vostè,"el, l’","-lo, ’l",li,-li,seu
+3rd person masculine,ell,"el, l’","-lo, ’l",li,-li,seu
+3rd person feminine,ella,"la, l’4",-la,li,-li,seu
+3rd person neuter,,ho,-ho,li,-li,seu
+3rd person reflexive,si,"es, s’","-se, ’s","es, s’","-se, ’s",seu
+plural,,,,,,
+1st person,nosaltres,ens,"-nos, ’ns",ens,"-nos, ’ns",nostre
+2nd person,vosaltres,us,"-vos, -us",us,"-vos, -us",vostre
+2nd person formal2,vostès,els,"-los, ’ls",els,"-los, ’ls",seu
+3rd person masculine,ells,els,"-los, ’ls",els,"-los, ’ls",seu
+3rd person feminine,elles,les,-les,els,"-los, ’ls",seu
+3rd person reflexive,si,"es, s’","-se, ’s","es, s’","-se, ’s",seu
+adverbial,,,,,,
+ablative/genitive,,"en, n’","-ne, ’n",,,
+locative,,hi,-hi,,,
+1) Behaves grammatically as plural.2) Behaves grammatically as third person.,"3) Only as object of a preposition.4) Not before unstressed (h)i-, (h)u-.",,,,,

@@ -1,0 +1,19 @@
+0,1,2,3,4
+,singular (vienskaitlis),plural (daudzskaitlis),,
+nominative (nominatīvs),vēris,vēri,,
+accusative (akuzatīvs),vēri,vērus,,
+genitive (ģenitīvs),vēra,vēru,,
+dative (datīvs),vērim,vēriem,,
+instrumental (instrumentālis),vēri,vēriem,,
+locative (lokatīvs),vērī,vēros,,
+vocative (vokatīvs),vēri,vēri,,
+,masculine (vīriešu dzimte),,feminine (sieviešu dzimte),
+singular (vienskaitlis),plural (daudzskaitlis),singular (vienskaitlis),plural (daudzskaitlis),
+nominative (nominatīvs),vēris,vēruši,vērusi,vērušas
+accusative (akuzatīvs),vērušu,vērušus,vērušu,vērušas
+genitive (ģenitīvs),vēruša,vērušu,vērušas,vērušu
+dative (datīvs),vērušam,vērušiem,vērušai,vērušām
+instrumental (instrumentālis),vērušu,vērušiem,vērušu,vērušām
+locative (lokatīvs),vērušā,vērušos,vērušā,vērušās
+vocative (vokatīvs),—,—,—,—
+,,,,

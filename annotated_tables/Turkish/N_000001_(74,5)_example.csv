@@ -1,0 +1,75 @@
+0,1,2,3,4
+"Cognate with Karakhanid [script needed] ‎(siŋir, “muscle, sinew”), Old Uighur [script needed] ‎(siŋir, “muscle”), Azeri sinir ‎(“nerve”), Bashkir һеңер ‎(heñer, “sinew”), Chuvash шӑнӑр ‎(šănăr, “vein, tendon, sinew”), Kazakh сіңір ‎(siñir, “sinew”), Khakas сиир ‎(siir, “sinew”), Kyrgyz сиңир ‎(siñir, “sinew”), Tatar сеңер ‎(señer, “sinew”), Turkmen siňir ‎(“sinew”), Tuvan сиир ‎(sïïr, “sinew”), Uyghur سىڭىر ‎(singir, “sinew”), Uzbek singir ‎(“tendon”), Yakut иҥиир ‎(iŋiir, “sinew”).",,,,
+,singular (tekil),plural (çoğul),,
+nominative (yalın),sinir,sinirler,,
+definite accusative (belirtme),siniri,sinirleri,,
+dative (yönelme),sinire,sinirlere,,
+locative (bulunma),sinirde,sinirlerde,,
+ablative (çıkma),sinirden,sinirlerden,,
+genitive (tamlayan),sinirin,sinirlerin,,
+benim (my),singular (tekil),plural (çoğul),,
+nominative (yalın),sinirim,sinirlerim,,
+definite accusative (belirtme),sinirimi,sinirlerimi,,
+dative (yönelme),sinirime,sinirlerime,,
+locative (bulunma),sinirimde,sinirlerimde,,
+ablative (çıkma),sinirimden,sinirlerimden,,
+genitive (tamlayan),sinirimin,sinirlerimin,,
+senin (your),singular (tekil),plural (çoğul),,
+nominative (yalın),sinirin,sinirlerin,,
+definite accusative (belirtme),sinirini,sinirlerini,,
+dative (yönelme),sinirine,sinirlerine,,
+locative (bulunma),sinirinde,sinirlerinde,,
+ablative (çıkma),sinirinden,sinirlerinden,,
+genitive (tamlayan),sinirinin,sinirlerinin,,
+onun (her/his/its),singular (tekil),plural (çoğul),,
+nominative (yalın),siniri,sinirleri,,
+definite accusative (belirtme),sinirini,sinirlerini,,
+dative (yönelme),sinirine,sinirlerine,,
+locative (bulunma),sinirinde,sinirlerinde,,
+ablative (çıkma),sinirinden,sinirlerinden,,
+genitive (tamlayan),sinirinin,sinirlerinin,,
+bizim (our),singular (tekil),plural (çoğul),,
+nominative (yalın),sinirimiz,sinirlerimiz,,
+definite accusative (belirtme),sinirimizi,sinirlerimizi,,
+dative (yönelme),sinirimize,sinirlerimize,,
+locative (bulunma),sinirimizde,sinirlerimizde,,
+ablative (çıkma),sinirimizden,sinirlerimizden,,
+genitive (tamlayan),sinirimizin,sinirlerimizin,,
+sizin (your),singular (tekil),plural (çoğul),,
+nominative (yalın),siniriniz,sinirleriniz,,
+definite accusative (belirtme),sinirinizi,sinirlerinizi,,
+dative (yönelme),sinirinize,sinirlerinize,,
+locative (bulunma),sinirinizde,sinirlerinizde,,
+ablative (çıkma),sinirinizden,sinirlerinizden,,
+genitive (tamlayan),sinirinizin,sinirlerinizin,,
+onların (their),singular (tekil),plural (çoğul),,
+nominative (yalın),sinirleri,sinirleri,,
+definite accusative (belirtme),sinirlerini,sinirlerini,,
+dative (yönelme),sinirlerine,sinirlerine,,
+locative (bulunma),sinirlerinde,sinirlerinde,,
+ablative (çıkma),sinirlerinden,sinirlerinden,,
+genitive (tamlayan),sinirlerinin,sinirlerinin,,
+present tense,,,,
+,"positive, declarative","positive, interrogative","negative, declarative","negative, interrogative"
+ben (I am),sinirim,sinir miyim?,sinir değilim,sinir değil miyim?
+sen (you are),sinirsin,sinir misin?,sinir değilsin,sinir değil misin?
+o (he/she/it is),sinir / sinirdir,sinir mi?,sinir değil,sinir değil mi?
+biz (we are),siniriz,sinir miyiz?,sinir değiliz,sinir değil miyiz?
+siz (you are),sinirsiniz,sinir misiniz?,sinir değilsiniz,sinir değil misiniz?
+onlar (they are),sinir(ler),sinir(ler) mi?,sinir değil(ler),sinir değiller mi?
+past tense,,,,
+,"positive, declarative","positive, interrogative","negative, declarative","negative, interrogative"
+ben (I was),sinirdim,sinir miydim?,sinir değildim,sinir değil miydim?
+sen (you were),sinirdin,sinir miydin?,sinir değildin,sinir değil miydin?
+o (he/she/it was),sinirdi,sinir miydi?,sinir değildi,sinir değil miydi?
+biz (we were),sinirdik,sinir miydik?,sinir değildik,sinir değil miydik?
+siz (you were),sinirdiniz,sinir miydiniz?,sinir değildiniz,sinir değil miydiniz?
+onlar (they were),sinirdiler,sinir miydiler?,sinir değildi(ler) / değillerdi,sinir değil miydiler?
+indirect past,,,,
+,"positive, declarative","positive, interrogative","negative, declarative","negative, interrogative"
+ben (I was),sinirmişim,sinir miymişim?,sinir değilmişim,sinir değil miymişim?
+sen (you were),sinirmişsin,sinir miymişsin?,sinir değilmişsin,sinir değil miymişsin?
+o (he/she/it was),sinirmiş,sinir miymiş?,sinir değilmiş,sinir değil miymiş?
+biz (we were),sinirmişiz,sinir miymişiz?,sinir değilmişiz,sinir değil miymişiz?
+siz (you were),sinirmişsiniz,sinir miymişsiniz?,sinir değilmişsiniz,sinir değil miymişsiniz?
+onlar (they were),sinirmişler,sinir miymişler?,sinir değilmiş(ler) / değillermiş,sinir değil miymişler?

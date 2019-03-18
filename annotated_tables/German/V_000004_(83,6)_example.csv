@@ -1,0 +1,84 @@
+0,1,2,3,4,5
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist überwachsen,sie ist überwachsen,es ist überwachsen,sie sind überwachsen,
+strong declension (without article),nominative,überwachsener,überwachsene,überwachsenes,überwachsene
+genitive,überwachsenen,überwachsener,überwachsenen,überwachsener,
+dative,überwachsenem,überwachsener,überwachsenem,überwachsenen,
+accusative,überwachsenen,überwachsene,überwachsenes,überwachsene,
+weak declension (with definite article),nominative,der überwachsene,die überwachsene,das überwachsene,die überwachsenen
+genitive,des überwachsenen,der überwachsenen,des überwachsenen,der überwachsenen,
+dative,dem überwachsenen,der überwachsenen,dem überwachsenen,den überwachsenen,
+accusative,den überwachsenen,die überwachsene,das überwachsene,die überwachsenen,
+mixed declension (with indefinite article),nominative,ein überwachsener,eine überwachsene,ein überwachsenes,(keine) überwachsenen
+genitive,eines überwachsenen,einer überwachsenen,eines überwachsenen,(keiner) überwachsenen,
+dative,einem überwachsenen,einer überwachsenen,einem überwachsenen,(keinen) überwachsenen,
+accusative,einen überwachsenen,eine überwachsene,ein überwachsenes,(keine) überwachsenen,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist überwachsener,sie ist überwachsener,es ist überwachsener,sie sind überwachsener,
+strong declension (without article),nominative,überwachsenerer,überwachsenere,überwachseneres,überwachsenere
+genitive,überwachseneren,überwachsenerer,überwachseneren,überwachsenerer,
+dative,überwachsenerem,überwachsenerer,überwachsenerem,überwachseneren,
+accusative,überwachseneren,überwachsenere,überwachseneres,überwachsenere,
+weak declension (with definite article),nominative,der überwachsenere,die überwachsenere,das überwachsenere,die überwachseneren
+genitive,des überwachseneren,der überwachseneren,des überwachseneren,der überwachseneren,
+dative,dem überwachseneren,der überwachseneren,dem überwachseneren,den überwachseneren,
+accusative,den überwachseneren,die überwachsenere,das überwachsenere,die überwachseneren,
+mixed declension (with indefinite article),nominative,ein überwachsenerer,eine überwachsenere,ein überwachseneres,(keine) überwachseneren
+genitive,eines überwachseneren,einer überwachseneren,eines überwachseneren,(keiner) überwachseneren,
+dative,einem überwachseneren,einer überwachseneren,einem überwachseneren,(keinen) überwachseneren,
+accusative,einen überwachseneren,eine überwachsenere,ein überwachseneres,(keine) überwachseneren,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist am überwachsensten,sie ist am überwachsensten,es ist am überwachsensten,sie sind am überwachsensten,
+strong declension (without article),nominative,überwachsenster,überwachsenste,überwachsenstes,überwachsenste
+genitive,überwachsensten,überwachsenster,überwachsensten,überwachsenster,
+dative,überwachsenstem,überwachsenster,überwachsenstem,überwachsensten,
+accusative,überwachsensten,überwachsenste,überwachsenstes,überwachsenste,
+weak declension (with definite article),nominative,der überwachsenste,die überwachsenste,das überwachsenste,die überwachsensten
+genitive,des überwachsensten,der überwachsensten,des überwachsensten,der überwachsensten,
+dative,dem überwachsensten,der überwachsensten,dem überwachsensten,den überwachsensten,
+accusative,den überwachsensten,die überwachsenste,das überwachsenste,die überwachsensten,
+mixed declension (with indefinite article),nominative,ein überwachsenster,eine überwachsenste,ein überwachsenstes,(keine) überwachsensten
+genitive,eines überwachsensten,einer überwachsensten,eines überwachsensten,(keiner) überwachsensten,
+dative,einem überwachsensten,einer überwachsensten,einem überwachsensten,(keinen) überwachsensten,
+accusative,einen überwachsensten,eine überwachsenste,ein überwachsenstes,(keine) überwachsensten,
+infinitive,überwachsen,,,,
+present participle,überwachsend,,,,
+past participle,überwachsen,,,,
+auxiliary,sein,,,,
+,indicative,,subjunctive,,
+present,ich überwachse,wir überwachsen,i,ich überwachse,wir überwachsen
+du überwächst,ihr überwachst,du überwachsest,ihr überwachset,,
+er überwächst,sie überwachsen,er überwachse,sie überwachsen,,
+,,,,,
+preterite,ich überwuchs,wir überwuchsen,ii,ich überwüchse,wir überwüchsen
+du überwuchst,ihr überwuchst,du überwüchsest,ihr überwüchset,,
+er überwuchs,sie überwuchsen,er überwüchse,sie überwüchsen,,
+,,,,,
+imperative,überwachs (du)überwachse (du),überwachst (ihr),,,
+perfect,,,,,
+indicative,ich bin überwachsen,wir sind überwachsen,subjunctive,ich sei überwachsen,wir seien überwachsen
+du bist überwachsen,ihr seid überwachsen,du seist überwachsen,ihr seiet überwachsen,,
+er ist überwachsen,sie sind überwachsen,er sei überwachsen,sie seien überwachsen,,
+pluperfect,,,,,
+indicative,ich war überwachsen,wir waren überwachsen,subjunctive,ich wäre überwachsen,wir wären überwachsen
+du warst überwachsen,ihr wart überwachsen,du wärst überwachsen,ihr wärt überwachsen,,
+er war überwachsen,sie waren überwachsen,er wäre überwachsen,sie wären überwachsen,,
+future i,,,,,
+infinitive,überwachsen werden,subjunctive i,ich werde überwachsen,wir werden überwachsen,
+du werdest überwachsen,ihr werdet überwachsen,,,,
+er werde überwachsen,sie werden überwachsen,,,,
+,,,,,
+indicative,ich werde überwachsen,wir werden überwachsen,subjunctive ii,ich würde überwachsen,wir würden überwachsen
+du wirst überwachsen,ihr werdet überwachsen,du würdest überwachsen,ihr würdet überwachsen,,
+er wird überwachsen,sie werden überwachsen,er würde überwachsen,sie würden überwachsen,,
+future ii,,,,,
+infinitive,überwachsen sein werden,subjunctive i,ich werde überwachsen sein,wir werden überwachsen sein,
+du werdest überwachsen sein,ihr werdet überwachsen sein,,,,
+er werde überwachsen sein,sie werden überwachsen sein,,,,
+,,,,,
+indicative,ich werde überwachsen sein,wir werden überwachsen sein,subjunctive ii,ich würde überwachsen sein,wir würden überwachsen sein
+du wirst überwachsen sein,ihr werdet überwachsen sein,du würdest überwachsen sein,ihr würdet überwachsen sein,,
+er wird überwachsen sein,sie werden überwachsen sein,er würde überwachsen sein,sie würden überwachsen sein,,

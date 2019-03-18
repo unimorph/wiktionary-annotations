@@ -1,0 +1,12 @@
+0,1,2,3,4,5,6,7
+,singular,plural,,,,,
+,indefinite articulation,definite articulation,indefinite articulation,definite articulation,,,
+nominative/accusative,(un) gospodar,gospodarul,(niște) gospodari,gospodarii,,,
+genitive/dative,(unui) gospodar,gospodarului,(unor) gospodari,gospodarilor,,,
+vocative,gospodarule,gospodarilor,,,,,
+,singular,plural,,,,,
+,,masculine,neuter,feminine,masculine,neuter,feminine
+nominative/ accusative,indefinite,ADJ;NOM/ACC;MASC;SG;INDF,ADJ;NOM/ACC;NEUT;SG;INDF,ADJ;NOM/ACC;FEM;SG;INDF,ADJ;NOM/ACC;PL;INDF,,
+definite,ADJ;NOM/ACC;MASC;SG;DEF,ADJ;NOM/ACC;NEUT;SG;DEF,ADJ;NOM/ACC;FEM;SG;DEF,ADJ;NOM/ACC;PL;DEF,,,
+genitive/ dative,indefinite,ADJ;DAT/GEN;MASC;SG;INDF,ADJ;DAT/GEN;NEUT;SG;INDF,ADJ;DAT/GEN;FEM;SG;INDF,ADJ;DAT/GEN;PL;INDF,,
+definite,ADJ;DAT/GEN;MASC;SG;DEF,ADJ;DAT/GEN;NEUT;SG;DEF,ADJ;DAT/GEN;FEM;SG;DEF,ADJ;DAT/GEN;PL;DEF,,,

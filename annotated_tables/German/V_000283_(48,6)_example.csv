@@ -1,0 +1,49 @@
+0,1,2,3,4,5
+Audio,,(file),,,
+infinitive,V;NFIN,,,,
+present participle,V.PTCP;PRS,,,,
+past participle,V.PTCP;PST,,,,
+auxiliary,haben,,,,
+zu-infinitive,freizusprechen,,,,
+,indicative,,subjunctive,,
+present,V;IND;PRS;1;SG,V;IND;PRS;1;PL,i,V;SBJV;PRS;1;SG,V;SBJV;PRS;1;PL
+V;IND;PRS;2;SG,V;IND;PRS;2;PL,V;SBJV;PRS;2;SG,V;SBJV;PRS;2;PL,,
+V;IND;PRS;3;SG,V;IND;PRS;3;PL,V;SBJV;PRS;3;SG,V;SBJV;PRS;3;PL,,
+,,,,,
+preterite,V;IND;PST;1;SG,V;IND;PST;1;PL,ii,V;SBJV;PST;1;SG,V;SBJV;PST;1;PL
+V;IND;PST;2;SG,V;IND;PST;2;PL,V;SBJV;PST;2;SG,V;SBJV;PST;2;PL,,
+V;IND;PST;3;SG,V;IND;PST;3;PL,V;SBJV;PST;3;SG,V;SBJV;PST;3;PL,,
+,,,,,
+imperative,V;IMP;2;SG,V;IMP;2;PL,,,
+,indicative,,subjunctive,,
+present,dass ich freispreche,dass wir freisprechen,i,dass ich freispreche,dass wir freisprechen
+dass du freisprichst,dass ihr freisprecht,dass du freisprechest,dass ihr freisprechet,,
+dass er freispricht,dass sie freisprechen,dass er freispreche,dass sie freisprechen,,
+,,,,,
+preterite,dass ich freisprach,dass wir freisprachen,ii,dass ich freispräche,dass wir freisprächen
+dass du freisprachst,dass ihr freispracht,dass du freisprächest,dass ihr freisprächet,,
+dass er freisprach,dass sie freisprachen,dass er freispräche,dass sie freisprächen,,
+perfect,,,,,
+indicative,ich habe freigesprochen,wir haben freigesprochen,subjunctive,ich habe freigesprochen,wir haben freigesprochen
+du hast freigesprochen,ihr habt freigesprochen,du habest freigesprochen,ihr habet freigesprochen,,
+er hat freigesprochen,sie haben freigesprochen,er habe freigesprochen,sie haben freigesprochen,,
+pluperfect,,,,,
+indicative,ich hatte freigesprochen,wir hatten freigesprochen,subjunctive,ich hätte freigesprochen,wir hätten freigesprochen
+du hattest freigesprochen,ihr hattet freigesprochen,du hättest freigesprochen,ihr hättet freigesprochen,,
+er hatte freigesprochen,sie hatten freigesprochen,er hätte freigesprochen,sie hätten freigesprochen,,
+future i,,,,,
+infinitive,freisprechen werden,subjunctive i,ich werde freisprechen,wir werden freisprechen,
+du werdest freisprechen,ihr werdet freisprechen,,,,
+er werde freisprechen,sie werden freisprechen,,,,
+,,,,,
+indicative,ich werde freisprechen,wir werden freisprechen,subjunctive ii,ich würde freisprechen,wir würden freisprechen
+du wirst freisprechen,ihr werdet freisprechen,du würdest freisprechen,ihr würdet freisprechen,,
+er wird freisprechen,sie werden freisprechen,er würde freisprechen,sie würden freisprechen,,
+future ii,,,,,
+infinitive,freigesprochen haben werden,subjunctive i,ich werde freigesprochen haben,wir werden freigesprochen haben,
+du werdest freigesprochen haben,ihr werdet freigesprochen haben,,,,
+er werde freigesprochen haben,sie werden freigesprochen haben,,,,
+,,,,,
+indicative,ich werde freigesprochen haben,wir werden freigesprochen haben,subjunctive ii,ich würde freigesprochen haben,wir würden freigesprochen haben
+du wirst freigesprochen haben,ihr werdet freigesprochen haben,du würdest freigesprochen haben,ihr würdet freigesprochen haben,,
+er wird freigesprochen haben,sie werden freigesprochen haben,er würde freigesprochen haben,sie würden freigesprochen haben,,

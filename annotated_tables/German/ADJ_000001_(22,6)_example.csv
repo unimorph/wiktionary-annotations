@@ -1,0 +1,23 @@
+0,1,2,3,4,5
+Audio,,(file),,,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist Düsseldorfer,sie ist Düsseldorfer,es ist Düsseldorfer,sie sind Düsseldorfer,
+strong declension (without article),nominative,Düsseldorfer,Düsseldorfer,Düsseldorfer,Düsseldorfer
+genitive,Düsseldorfer,Düsseldorfer,Düsseldorfer,Düsseldorfer,
+dative,Düsseldorfer,Düsseldorfer,Düsseldorfer,Düsseldorfer,
+accusative,Düsseldorfer,Düsseldorfer,Düsseldorfer,Düsseldorfer,
+weak declension (with definite article),nominative,der Düsseldorfer,die Düsseldorfer,das Düsseldorfer,die Düsseldorfer
+genitive,des Düsseldorfer,der Düsseldorfer,des Düsseldorfer,der Düsseldorfer,
+dative,dem Düsseldorfer,der Düsseldorfer,dem Düsseldorfer,den Düsseldorfer,
+accusative,den Düsseldorfer,die Düsseldorfer,das Düsseldorfer,die Düsseldorfer,
+mixed declension (with indefinite article),nominative,ein Düsseldorfer,eine Düsseldorfer,ein Düsseldorfer,(keine) Düsseldorfer
+genitive,eines Düsseldorfer,einer Düsseldorfer,eines Düsseldorfer,(keiner) Düsseldorfer,
+dative,einem Düsseldorfer,einer Düsseldorfer,einem Düsseldorfer,(keinen) Düsseldorfer,
+accusative,einen Düsseldorfer,eine Düsseldorfer,ein Düsseldorfer,(keine) Düsseldorfer,
+,singular,plural,,,
+,indef.,def.,noun,def.,noun
+nominative,ein,der,Düsseldorfer,die,Düsseldorfer
+genitive,eines,des,Düsseldorfers,der,Düsseldorfer
+dative,einem,dem,Düsseldorfer,den,Düsseldorfer
+accusative,einen,den,Düsseldorfer,die,Düsseldorfer

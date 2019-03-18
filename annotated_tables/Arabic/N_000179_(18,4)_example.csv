@@ -1,0 +1,19 @@
+0,1,2,3
+Audio,,(file),
+Singular,basic singular triptote,,
+Indefinite,Definite,Construct,
+Informal,N;SG;NDEF;INFM,N;SG;DEF;INFM,N;SG;PSSD;INFM
+Nominative,N;SG;NDEF;NOM,N;SG;DEF;NOM,N;SG;PSSD;NOM
+Accusative,N;SG;NDEF;ACC,N;SG;DEF;ACC,N;SG;PSSD;ACC
+Genitive,N;SG;NDEF;GEN,N;SG;DEF;GEN,N;SG;PSSD;GEN
+Dual,Indefinite,Definite,Construct
+Informal,N;DU;NDEF;INFM,N;DU;DEF;INFM,N;DU;PSSD;INFM
+Nominative,N;DU;NDEF;NOM,N;DU;DEF;NOM,N;DU;PSSD;NOM
+Accusative,N;DU;NDEF;ACC,N;DU;DEF;ACC,N;DU;PSSD;ACC
+Genitive,N;DU;NDEF;GEN,N;DU;DEF;GEN,N;DU;PSSD;GEN
+Plural,basic broken plural triptote,,
+Indefinite,Definite,Construct,
+Informal,N;PL;NDEF;INFM,N;PL;DEF;INFM,N;PL;PSSD;INFM
+Nominative,N;PL;NDEF;NOM,N;PL;DEF;NOM,N;PL;PSSD;NOM
+Accusative,N;PL;NDEF;ACC,N;PL;DEF;ACC,N;PL;PSSD;ACC
+Genitive,N;PL;NDEF;GEN,N;PL;DEF;GEN,N;PL;PSSD;GEN

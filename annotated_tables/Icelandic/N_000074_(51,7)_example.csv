@@ -1,0 +1,52 @@
+0,1,2,3,4,5,6
+f-w1,singular,plural,,,,
+,indefinite,definite,indefinite,definite,,
+nominative,glósa,glósan,glósur,glósurnar,,
+accusative,glósu,glósuna,glósur,glósurnar,,
+dative,glósu,glósunni,glósum,glósunum,,
+genitive,glósu,glósunnar,glósa/glósna,glósanna/glósnanna,,
+infinitive (nafnháttur),að glósa,,,,,
+supine (sagnbót),glósað,,,,,
+present participle (lýsingarháttur nútíðar),glósandi,,,,,
+,indicative (framsöguháttur),,subjunctive (viðtengingarháttur),,,
+present (nútíð),ég glósa,við glósum,present (nútíð),ég glósi,við glósum,
+þú glósar,þið glósið,þú glósir,þið glósið,,,
+"hann, hún, það glósar","þeir, þær, þau glósa","hann, hún, það glósi","þeir, þær, þau glósi",,,
+,,,,,,
+past (þátíð),ég glósaði,við glósuðum,past (þátíð),ég glósaði,við glósuðum,
+þú glósaðir,þið glósuðuð,þú glósaðir,þið glósuðuð,,,
+"hann, hún, það glósaði","þeir, þær, þau glósuðu","hann, hún, það glósaði","þeir, þær, þau glósuðu",,,
+,,,,,,
+imperative (boðháttur),glósa (þú),glósið (þið),,,,
+Forms with appended personal pronoun,,,,,,
+glósaðu,glósiði *,,,,,
+"* Spoken form, usually not written; in writing, the unappended plural form (optionally followed by the full pronoun) is preferred.",,,,,,
+infinitive (nafnháttur),að glósast,,,,,
+supine (sagnbót),glósast,,,,,
+present participle (lýsingarháttur nútíðar),"glósandist ** ** the mediopassive present participle is extremely rare and normally not used; it is never used attributively or predicatively, only for explicatory subclauses",,,,,
+,indicative (framsöguháttur),,subjunctive (viðtengingarháttur),,,
+present (nútíð),ég glósast,við glósumst,present (nútíð),ég glósist,við glósumst,
+þú glósast,þið glósist,þú glósist,þið glósist,,,
+"hann, hún, það glósast","þeir, þær, þau glósast","hann, hún, það glósist","þeir, þær, þau glósist",,,
+,,,,,,
+past (þátíð),ég glósaðist,við glósuðumst,past (þátíð),ég glósaðist,við glósuðumst,
+þú glósaðist,þið glósuðust,þú glósaðist,þið glósuðust,,,
+"hann, hún, það glósaðist","þeir, þær, þau glósuðust","hann, hún, það glósaðist","þeir, þær, þau glósuðust",,,
+,,,,,,
+imperative (boðháttur),glósast (þú),glósist (þið),,,,
+Forms with appended personal pronoun,,,,,,
+glósastu,glósisti *,,,,,
+"* Spoken form, usually not written; in writing, the unappended plural form (optionally followed by the full pronoun) is preferred.",,,,,,
+strong declension (sterk beyging),singular (eintala),,plural (fleirtala),,,
+masculine (karlkyn),feminine (kvenkyn),neuter (hvorugkyn),masculine (karlkyn),feminine (kvenkyn),neuter (hvorugkyn),
+nominative (nefnifall),glósaður,glósuð,glósað,glósaðir,glósaðar,glósuð
+accusative (þolfall),glósaðan,glósaða,glósað,glósaða,glósaðar,glósuð
+dative (þágufall),glósuðum,glósaðri,glósuðu,glósuðum,glósuðum,glósuðum
+genitive (eignarfall),glósaðs,glósaðrar,glósaðs,glósaðra,glósaðra,glósaðra
+,,,,,,
+weak declension (veik beyging),singular (eintala),,plural (fleirtala),,,
+masculine (karlkyn),feminine (kvenkyn),neuter (hvorugkyn),masculine (karlkyn),feminine (kvenkyn),neuter (hvorugkyn),
+nominative (nefnifall),glósaði,glósaða,glósaða,glósuðu,glósuðu,glósuðu
+accusative (þolfall),glósaða,glósuðu,glósaða,glósuðu,glósuðu,glósuðu
+dative (þágufall),glósaða,glósuðu,glósaða,glósuðu,glósuðu,glósuðu
+genitive (eignarfall),glósaða,glósuðu,glósaða,glósuðu,glósuðu,glósuðu

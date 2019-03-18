@@ -1,0 +1,12 @@
+0,1,2,3,4,5
+,singular,plural,,,
+nominative,N;NOM;SG,N;NOM;PL
+genitive,N;GEN;SG,N;GEN;PL
+dative,N;DAT;SG,N;DAT;PL
+accusative,N;ACC;SG,N;ACC;PL
+vocative,N;VOC;SG,N;VOC;PL
+locative,N;ESS;SG,N;ESS;PL
+instrumental,N;INS;SG,N;INS;PL
+Chess pieces in Serbo-Croatian · šahovske figure / шаховске фигуре (layout · text),,,,,
+,,,,,
+kralj краљ,"dama, kraljica дама, краљица","top, kula топ, кула","lovac, trkač, laufer ловац, тркач, лауфер","skakač, konj скакач, коњ","pješak, pešak, pion, pijun пјешак, пешак, пион, пијун"

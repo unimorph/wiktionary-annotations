@@ -1,0 +1,46 @@
+0,1,2,3,4,5
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist glühend,sie ist glühend,es ist glühend,sie sind glühend,
+strong declension (without article),nominative,glühender,glühende,glühendes,glühende
+genitive,glühenden,glühender,glühenden,glühender,
+dative,glühendem,glühender,glühendem,glühenden,
+accusative,glühenden,glühende,glühendes,glühende,
+weak declension (with definite article),nominative,der glühende,die glühende,das glühende,die glühenden
+genitive,des glühenden,der glühenden,des glühenden,der glühenden,
+dative,dem glühenden,der glühenden,dem glühenden,den glühenden,
+accusative,den glühenden,die glühende,das glühende,die glühenden,
+mixed declension (with indefinite article),nominative,ein glühender,eine glühende,ein glühendes,(keine) glühenden
+genitive,eines glühenden,einer glühenden,eines glühenden,(keiner) glühenden,
+dative,einem glühenden,einer glühenden,einem glühenden,(keinen) glühenden,
+accusative,einen glühenden,eine glühende,ein glühendes,(keine) glühenden,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist glühender,sie ist glühender,es ist glühender,sie sind glühender,
+strong declension (without article),nominative,glühenderer,glühendere,glühenderes,glühendere
+genitive,glühenderen,glühenderer,glühenderen,glühenderer,
+dative,glühenderem,glühenderer,glühenderem,glühenderen,
+accusative,glühenderen,glühendere,glühenderes,glühendere,
+weak declension (with definite article),nominative,der glühendere,die glühendere,das glühendere,die glühenderen
+genitive,des glühenderen,der glühenderen,des glühenderen,der glühenderen,
+dative,dem glühenderen,der glühenderen,dem glühenderen,den glühenderen,
+accusative,den glühenderen,die glühendere,das glühendere,die glühenderen,
+mixed declension (with indefinite article),nominative,ein glühenderer,eine glühendere,ein glühenderes,(keine) glühenderen
+genitive,eines glühenderen,einer glühenderen,eines glühenderen,(keiner) glühenderen,
+dative,einem glühenderen,einer glühenderen,einem glühenderen,(keinen) glühenderen,
+accusative,einen glühenderen,eine glühendere,ein glühenderes,(keine) glühenderen,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist am glühendsten,sie ist am glühendsten,es ist am glühendsten,sie sind am glühendsten,
+strong declension (without article),nominative,glühendster,glühendste,glühendstes,glühendste
+genitive,glühendsten,glühendster,glühendsten,glühendster,
+dative,glühendstem,glühendster,glühendstem,glühendsten,
+accusative,glühendsten,glühendste,glühendstes,glühendste,
+weak declension (with definite article),nominative,der glühendste,die glühendste,das glühendste,die glühendsten
+genitive,des glühendsten,der glühendsten,des glühendsten,der glühendsten,
+dative,dem glühendsten,der glühendsten,dem glühendsten,den glühendsten,
+accusative,den glühendsten,die glühendste,das glühendste,die glühendsten,
+mixed declension (with indefinite article),nominative,ein glühendster,eine glühendste,ein glühendstes,(keine) glühendsten
+genitive,eines glühendsten,einer glühendsten,eines glühendsten,(keiner) glühendsten,
+dative,einem glühendsten,einer glühendsten,einem glühendsten,(keinen) glühendsten,
+accusative,einen glühendsten,eine glühendste,ein glühendstes,(keine) glühendsten,

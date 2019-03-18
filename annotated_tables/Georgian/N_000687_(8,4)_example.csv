@@ -1,0 +1,9 @@
+0,1,2,3
+,Singular,Plural,Archaic plural
+nominative,N;SG;NOM,N;PL;NOM,N;PL;LGSPEC2;NOM
+ergative,N;SG;ERG,N;PL;ERG,N;PL;LGSPEC2;ERG
+dative,N;SG;DAT,N;PL;DAT,N;PL;LGSPEC2;DAT
+genitive,N;SG;GEN,N;PL;GEN,N;PL;LGSPEC2;GEN
+instrumental,N;SG;INST,N;PL;INST,
+adverbial,N;SG;LGSPEC1,N;PL;LGSPEC1,
+vocative,N;SG;VOC,N;PL;VOC,N;PL;LGSPEC2;VOC

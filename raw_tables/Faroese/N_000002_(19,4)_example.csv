@@ -1,0 +1,20 @@
+0,1,2,3
+Declension of gift (singular only),,,
+f2s,singular,,
+indefinite,definite,,
+nominative,gift,giftin,
+accusative,gift,giftina,
+dative,gift,giftini,
+genitive,giftar,giftarinnar,
+giftur a5,,,
+Singular (eintal),m (kallkyn),f (kvennkyn),n (hvørkikyn)
+Nominative (hvørfall),giftur,gift,gift
+Accusative (hvønnfall),giftan,gifta,
+Dative (hvørjumfall),giftum,giftari,giftum
+Genitive (hvørsfall),(gifts),(giftar/giftrar),(gifts)
+,,,
+Plural (fleirtal),m (kallkyn),f (kvennkyn),n (hvørkikyn)
+Nominative (hvørfall),giftir,giftar,gift
+Accusative (hvønnfall),giftar,,
+Dative (hvørjumfall),giftum,,
+Genitive (hvørsfall),(gifta/giftra),,

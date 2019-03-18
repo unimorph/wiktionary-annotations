@@ -1,0 +1,22 @@
+0,1,2,3,4,5
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,—,—,—,—,
+strong declension (without article),nominative,Merseburger,Merseburger,Merseburger,Merseburger
+genitive,Merseburger,Merseburger,Merseburger,Merseburger,
+dative,Merseburger,Merseburger,Merseburger,Merseburger,
+accusative,Merseburger,Merseburger,Merseburger,Merseburger,
+weak declension (with definite article),nominative,der Merseburger,die Merseburger,das Merseburger,die Merseburger
+genitive,des Merseburger,der Merseburger,des Merseburger,der Merseburger,
+dative,dem Merseburger,der Merseburger,dem Merseburger,den Merseburger,
+accusative,den Merseburger,die Merseburger,das Merseburger,die Merseburger,
+mixed declension (with indefinite article),nominative,ein Merseburger,eine Merseburger,ein Merseburger,(keine) Merseburger
+genitive,eines Merseburger,einer Merseburger,eines Merseburger,(keiner) Merseburger,
+dative,einem Merseburger,einer Merseburger,einem Merseburger,(keinen) Merseburger,
+accusative,einen Merseburger,eine Merseburger,ein Merseburger,(keine) Merseburger,
+,singular,plural,,,
+,indef.,def.,noun,def.,noun
+nominative,ein,der,Merseburger,die,Merseburger
+genitive,eines,des,Merseburgers,der,Merseburger
+dative,einem,dem,Merseburger,den,Merseburgern
+accusative,einen,den,Merseburger,die,Merseburger

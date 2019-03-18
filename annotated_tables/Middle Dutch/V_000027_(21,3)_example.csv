@@ -1,0 +1,22 @@
+0,1,2
+,,
+infinitive,V;NFIN,
+indicative,present,past
+1st person singular,V;FIN;IND;PRS;1;SG,V;FIN;IND;PST;1;SG
+2nd person singular,V;FIN;IND;PRS;2;SG,V;FIN;IND;PST;2;SG
+3rd person singular,V;FIN;IND;PRS;3;SG,V;FIN;IND;PST;3;SG
+1st person plural,V;FIN;IND;PRS;1;PL,V;FIN;IND;PST;1;PL
+2nd person plural,V;FIN;IND;PRS;2;PL,V;FIN;IND;PST;2;PL
+3rd person plural,V;FIN;IND;PRS;3;PL,V;FIN;IND;PST;3;PL
+subjunctive,present,past
+1st person singular,V;FIN;SBJV;PRS;1;SG,V;FIN;SBJV;PST;1;SG
+2nd person singular,V;FIN;SBJV;PRS;2;SG,V;FIN;SBJV;PST;2;SG
+3rd person singular,V;FIN;SBJV;PRS;3;SG,V;FIN;SBJV;PST;3;SG
+1st person plural,V;FIN;SBJV;PRS;1;PL,V;FIN;SBJV;PST;1;PL
+2nd person plural,V;FIN;SBJV;PRS;2;PL,V;FIN;SBJV;PST;2;PL
+3rd person plural,V;FIN;SBJV;PRS;3;PL,V;FIN;SBJV;PST;3;PL
+imperative,present,
+singular,V;IMP;SG,
+plural,V;IMP;PL,
+participle,present,past
+,V.PTCP;PRS,V.PTCP;PST

@@ -1,0 +1,18 @@
+0,1,2
+audio,,(file)
+,singular,plural
+nominative,bratr,bratři
+genitive,bratra,bratrů
+dative,"bratrovi, bratru",bratrům
+accusative,bratra,bratry
+vocative,bratře,bratři
+locative,"bratrovi, bratru",bratrech
+instrumental,bratrem,bratry
+,plurale tantum,
+nominative,bratří,
+genitive,bratří,
+dative,bratřím,
+accusative,bratří,
+vocative,bratří,
+locative,bratřích,
+instrumental,bratřími,

@@ -1,0 +1,11 @@
+0,1,2,3,4,5
+Audio,,(file),,,
+,masculine,neuter,feminine,plural,
+nominative,ADJ;MASC;NOM;SG,ADJ;NEUT;NOM;SG,ADJ;FEM;NOM;SG,ADJ;NOM;PL,
+genitive,ADJ;MASC/NEUT;GEN;SG,ADJ;FEM;GEN;SG,ADJ;GEN;PL,,
+dative,ADJ;MASC/NEUT;DAT;SG,ADJ;FEM;DAT;SG,ADJ;DAT;PL,,
+accusative,animate,ADJ;MASC;ANIM;ACC;SG,ADJ;NEUT;ACC;SG,ADJ;FEM;ACC;SG,ADJ;ANIM;ACC;PL
+inanimate,ADJ;MASC;INAN;ACC;SG,ADJ;INAN;ACC;PL,,,
+instrumental,ADJ;MASC/NEUT;INS;SG,ADJ;FEM;INS;SG,ADJ;INS;PL,,
+locative,ADJ;MASC/NEUT;ESS;SG,ADJ;FEM;ESS;SG,ADJ;ESS;PL,,
+notes,* Dated or dialectal,,,,

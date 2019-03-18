@@ -1,0 +1,21 @@
+0,1,2
+imperfective aspect,,
+infinitive,V;IPFV;NFIN,
+participles,present tense,past tense
+active,V.PTCP;IPFV;ACT;PRS,V.PTCP;IPFV;ACT;PST
+passive,V.PTCP;IPFV;PASS;PRS,V.PTCP;IPFV;PASS;PST
+adverbial,V.CVB;IPFV;PRS,V.CVB;IPFV;PST
+,present tense,future tense
+1st singular (я),V;IPFV;PRS;1;SG,V;IPFV;FUT;1;SG
+2nd singular (ты),V;IPFV;PRS;2;SG,V;IPFV;FUT;2;SG
+3rd singular (он/она́/оно́),V;IPFV;PRS;3;SG,V;IPFV;FUT;3;SG
+1st plural (мы),V;IPFV;PRS;1;PL,V;IPFV;FUT;1;PL
+2nd plural (вы),V;IPFV;PRS;2;PL,V;IPFV;FUT;2;PL
+3rd plural (они́),V;IPFV;PRS;3;PL,V;IPFV;FUT;3;PL
+imperative,singular,plural
+,V;IPFV;IMP;2;SG,V;IPFV;IMP;2;PL
+past tense,singular,plural(мы/вы/они́)
+masculine (я/ты/он),V;IPFV;PST;SG;MASC,V;IPFV;PST;PL
+feminine (я/ты/она́),V;IPFV;PST;SG;FEM,
+neuter (оно́),V;IPFV;PST;SG;NEUT,
+imperfective  (no equivalent)  поёживаться ‎(pojóživatʹsja)  съёживаться ‎(sʺjóživatʹsja),,perfective  заёжиться ‎(zajóžitʹsja)  поёжиться ‎(pojóžitʹsja)  съёжиться ‎(sʺjóžitʹsja)

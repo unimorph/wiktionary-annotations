@@ -1,0 +1,9 @@
+0,1,2,3,4
+Number,Singular,,Plural,
+Case / Gender,Masc./Fem.,Neuter,Masc./Fem.,Neuter
+nominative,grandiceps,,grandicipitēs,grandicipitia
+genitive,grandicipitis,grandicipitium,,
+dative,grandicipitī,grandicipitibus,,
+accusative,grandicipitem,grandiceps,grandicipitēs,grandicipitia
+ablative,grandicipitī,grandicipitibus,,
+vocative,grandiceps,grandicipitēs,grandicipitia,

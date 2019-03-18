@@ -1,0 +1,6 @@
+0,1,2,3,4
+,singular,plural,,
+,indefinite articulation,definite articulation,indefinite articulation,definite articulation
+nominative/accusative,N;NOM/ACC;SG;INDF,N;NOM/ACC;PL;DEF,N;NOM/ACC;SG;INDF,N;NOM/ACC;PL;DEF
+genitive/dative,N;GEN/DAT;SG;INDF,N;GEN/DAT;PL;DEF,N;GEN/DAT;SG;INDF,N;GEN/DAT;PL;DEF
+vocative,N;VOC;SG,N;VOC;PL,,

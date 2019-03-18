@@ -1,0 +1,28 @@
+0,1,2,3,4,5,6,7,8,9,10
+audio,,(file),,,,,,,,
+number & gender,singular,plural,,,,,,,,
+masculine,feminine,neuter,all genders,,,,,,,
+predicative,er ist achter,sie ist achte,es ist achtes,sie sind achte,,,,,,
+strong declension (without article),nominative,achter,achte,achtes,achte,,,,,
+genitive,achten,achter,achten,achter,,,,,,
+dative,achtem,achter,achtem,achten,,,,,,
+accusative,achten,achte,achtes,achte,,,,,,
+weak declension (with definite article),nominative,der achte,die achte,das achte,die achten,,,,,
+genitive,des achten,der achten,des achten,der achten,,,,,,
+dative,dem achten,der achten,dem achten,den achten,,,,,,
+accusative,den achten,die achte,das achte,die achten,,,,,,
+mixed declension (with indefinite article),nominative,ein achter,eine achte,ein achtes,(keine) achten,,,,,
+genitive,eines achten,einer achten,eines achten,(keiner) achten,,,,,,
+dative,einem achten,einer achten,einem achten,(keinen) achten,,,,,,
+accusative,einen achten,eine achte,ein achtes,(keine) achten,,,,,,
+,—0,—1,—2,—3,—4,—5,—6,—7,—8,—9
+0—,nullte,erste,zweite,dritte,vierte,fünfte,sechste,"siebte, siebente",achte,neunte
+1—,zehnte,elfte,zwölfte,dreizehnte,vierzehnte,fünfzehnte,sechzehnte,"siebzehnte, siebenzehnte",achtzehnte,neunzehnte
+2—,zwanzigste,einundzwanzigste,zweiundzwanzigste,dreiundzwanzigste,vierundzwanzigste,fünfundzwanzigste,sechsundzwanzigste,siebenundzwanzigste,achtundzwanzigste,neunundzwanzigste
+3—,dreißigste,einunddreißigste,zweiunddreißigste,dreiunddreißigste,vierunddreißigste,fünfunddreißigste,sechsunddreißigste,siebenunddreißigste,achtunddreißigste,neununddreißigste
+4—,vierzigste,einundvierzigste,zweiundvierzigste,dreiundvierzigste,vierundvierzigste,fünfundvierzigste,sechsundvierzigste,siebenundvierzigste,achtundvierzigste,neunundvierzigste
+5—,fünfzigste,einundfünfzigste,zweiundfünfzigste,dreiundfünfzigste,vierundfünfzigste,fünfundfünfzigste,sechsundfünfzigste,siebenundfünfzigste,achtundfünfzigste,neunundfünfzigste
+6—,sechzigste,einundsechzigste,zweiundsechzigste,dreiundsechzigste,vierundsechzigste,fünfundsechzigste,sechsundsechzigste,siebenundsechzigste,achtundsechzigste,neunundsechzigste
+7—,siebzigste,einundsiebzigste,zweiundsiebzigste,dreiundsiebzigste,vierundsiebzigste,fünfundsiebzigste,sechsundsiebzigste,siebenundsiebzigste,achtundsiebzigste,neunundsiebzigste
+8—,achtzigste,einundachtzigste,zweiundachtzigste,dreiundachtzigste,vierundachtzigste,fünfundachtzigste,sechsundachtzigste,siebenundachtzigste,achtundachtzigste,neunundachtzigste
+9—,neunzigste,einundneunzigste,zweiundneunzigste,dreiundneunzigste,vierundneunzigste,fünfundneunzigste,sechsundneunzigste,siebenundneunzigste,achtundneunzigste,neunundneunzigste

@@ -1,0 +1,9 @@
+0,1,2,3,4,5,6,7,8
+V;NFIN,,,,,,,,
+,Present tense,Past tense,,,,,,
+person,singular,plural,singular,plural,,,,
+1st,,V;IND;PRS;1;SG,,V;IND;PRS;1;PL,,V;IND;PST;1;SG,,V;IND;PST;1;PL
+2nd,,V;IND;PRS;2;SG,,V;IND;PRS;2;PL,,V;IND;PST;2;SG,,V;IND;PST;2;PL
+3rd,,V;IND;PRS;3;SG,,V;IND;PRS;3;PL,,V;IND;PST;3;SG,,V;IND;PST;3;PL
+,Present participle,Imperative,Auxiliary,Past participle,,,,
+,V.PTCP;PRS,V;IMP,,V.PTCP;PST,,,,

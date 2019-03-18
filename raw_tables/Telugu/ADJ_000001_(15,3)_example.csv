@@ -1,0 +1,16 @@
+0,1,2
+DURATIVE,singular,plural
+1st person: నేను / మేము,ఆడుతున్నాను,ఆడుతున్నాము
+2nd person: నీవు / మీరు,ఆడుతున్నావు,ఆడుతున్నారు
+3rd person m: అతను / వారు,ఆడుతున్నాడు,ఆడుతున్నారు
+3rd person f: ఆమె / వారు,ఆడుతున్నది,ఆడుతున్నారు
+PAST TENSE,singular,plural
+1st person: నేను / మేము,ఆడాను,ఆడాము
+2nd person: నీవు / మీరు,ఆడావు,ఆడారు
+3rd person m: అతను / వారు,ఆడాడు,ఆడారు
+3rd person f: ఆమె / వారు,ఆడింది,ఆడారు
+FUTURE TENSE,singular,plural
+1st person: నేను / మేము,ఆడతాను,ఆడతాము
+2nd person: నీవు / మీరు,ఆడతావు,ఆడతారు
+3rd person m: అతను / వారు,ఆడతాడు,ఆడతారు
+3rd person f: ఆమె / వారు,ఆడతాది,ఆడతారు

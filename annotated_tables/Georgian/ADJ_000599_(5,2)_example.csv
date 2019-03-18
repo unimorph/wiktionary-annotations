@@ -1,0 +1,6 @@
+0,1
+Case,adjective
+"nominative, genitive, instrumental",ADJ;SG;NOM
+ergative,ADJ;SG;ERG
+"dative, adverbial",ADJ;SG;DAT
+vocative,ADJ;SG;VOC

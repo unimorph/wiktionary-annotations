@@ -1,0 +1,9 @@
+0,1,2,3,4,5
+Number,Singular,,Plural,,
+Case / Gender,Masc./Fem.,Neuter,Masc./Fem.,Neuter,
+nominative,frontalis,frontale,,frontalēs,frontalia
+genitive,frontalis,frontalium,,,
+dative,frontalī,frontalibus,,,
+accusative,frontalem,frontale,frontalēs,frontalia,
+ablative,frontalī,frontalibus,,,
+vocative,frontalis,frontale,frontalēs,frontalia,

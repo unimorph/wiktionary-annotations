@@ -1,0 +1,20 @@
+0,1,2,3,4
+Declension of brún,,,,
+f24,singular,plural,,
+indefinite,definite,indefinite,definite,
+nominative,brún,brúnin,brýr,brýrnar
+accusative,brún,brúnna,brýr,brýrnar
+dative,brún,brúnni,brúm,brúnum
+genitive,brúnar,brúnarinnar,brúna,brúnanna
+brúnur a1,,,,
+Singular (eintal),m (kallkyn),f (kvennkyn),n (hvørkikyn),
+Nominative (hvørfall),brúnur,brún,brúnt,
+Accusative (hvønnfall),brúnan,brúna,,
+Dative (hvørjumfall),brúnum,brúnari,brúnum,
+Genitive (hvørsfall),(brúns),(brúnar),(brúns),
+,,,,
+Plural (fleirtal),m (kallkyn),f (kvennkyn),n (hvørkikyn),
+Nominative (hvørfall),brúnir,brúnar,brún,
+Accusative (hvønnfall),brúnar,,,
+Dative (hvørjumfall),brúnum,,,
+Genitive (hvørsfall),(brúna),,,

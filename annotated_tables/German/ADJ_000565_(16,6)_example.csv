@@ -1,0 +1,17 @@
+0,1,2,3,4,5
+Audio,,(file),,,
+number & gender,singular,plural,,,
+masculine,feminine,neuter,all genders,,
+predicative,er ist NP-vollständig,sie ist NP-vollständig,es ist NP-vollständig,sie sind NP-vollständig,
+strong declension (without article),nominative,NP-vollständiger,NP-vollständige,NP-vollständiges,NP-vollständige
+genitive,NP-vollständigen,NP-vollständiger,NP-vollständigen,NP-vollständiger,
+dative,NP-vollständigem,NP-vollständiger,NP-vollständigem,NP-vollständigen,
+accusative,NP-vollständigen,NP-vollständige,NP-vollständiges,NP-vollständige,
+weak declension (with definite article),nominative,der NP-vollständige,die NP-vollständige,das NP-vollständige,die NP-vollständigen
+genitive,des NP-vollständigen,der NP-vollständigen,des NP-vollständigen,der NP-vollständigen,
+dative,dem NP-vollständigen,der NP-vollständigen,dem NP-vollständigen,den NP-vollständigen,
+accusative,den NP-vollständigen,die NP-vollständige,das NP-vollständige,die NP-vollständigen,
+mixed declension (with indefinite article),nominative,ein NP-vollständiger,eine NP-vollständige,ein NP-vollständiges,(keine) NP-vollständigen
+genitive,eines NP-vollständigen,einer NP-vollständigen,eines NP-vollständigen,(keiner) NP-vollständigen,
+dative,einem NP-vollständigen,einer NP-vollständigen,einem NP-vollständigen,(keinen) NP-vollständigen,
+accusative,einen NP-vollständigen,eine NP-vollständige,ein NP-vollständiges,(keine) NP-vollständigen,

@@ -1,0 +1,9 @@
+0,1,2,3,4,5,6,7
+,singular,,plural,,,,
+,1st person,2nd person,3rd person m,3rd person f,1st person,2nd person,3rd person
+jien(a),int(i),hu(wa),hi(ja),aħna,intom,huma,
+perfect,V;FIN;PST;PRF;1;SG,V;FIN;PST;PRF;2;SG,V;FIN;PST;PRF;3;SG;MASC,V;FIN;PST;PRF;3;SG;FEM,V;FIN;PST;PRF;1;PL,V;FIN;PST;PRF;2;PL,V;FIN;PST;PRF;3;PL
+,,,,,,,
+imperfect,V;FIN;PST;IPFV;1;SG,V;FIN;PST;IPFV;2;SG,V;FIN;PST;IPFV;3;SG;MASC,V;FIN;PST;IPFV;3;SG;FEM,V;FIN;PST;IPFV;1;PL,V;FIN;PST;IPFV;2;PL,V;FIN;PST;IPFV;3;PL
+,,,,,,,
+imperative,,V;FIN;IMP;2;SG,,,V;FIN;IMP;1;PL,,

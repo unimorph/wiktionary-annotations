@@ -1,0 +1,8 @@
+0,1,2,3,4,5,6
+number case / gender,singular,plural,,,,
+masculine,feminine,neuter,masculine,feminine,neuter,
+nominative,όξινος,όξινη,όξινο,όξινοι,όξινες,όξινα
+genitive,όξινου,όξινης,όξινου,όξινων,όξινων,όξινων
+accusative,όξινο,όξινη,όξινο,όξινους,όξινες,όξινα
+vocative,όξινε,όξινη,όξινο,όξινοι,όξινες,όξινα
+derivations,"comparative: πιο + positive forms (e.g. πιο όξινος, etc.) relative superlative: definite article + πιο + positive forms (e.g. ο πιο όξινος, etc.)",,,,,

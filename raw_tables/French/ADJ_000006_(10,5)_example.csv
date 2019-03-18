@@ -1,0 +1,11 @@
+0,1,2,3,4
+Number,Case,Masculine,Feminine,
+Singular,Subject,feluns,felune,
+Oblique,felun,felune,,
+Plural,Subject,felun,felunes,
+Oblique,feluns,felunes,,
+Number,Case,Masculine,Feminine,Neuter
+Singular,Subject,feluns,felune,felun
+Oblique,felun,felune,felun,
+Plural,Subject,felun,felunes,felun
+Oblique,feluns,felunes,felun,

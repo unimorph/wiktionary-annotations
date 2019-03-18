@@ -1,0 +1,50 @@
+0,1,2
+,singular (tekil),plural (çoğul)
+nominative (yalın),gitme,gitmeler
+definite accusative (belirtme),gitmeyi,gitmeleri
+dative (yönelme),gitmeye,gitmelere
+locative (bulunma),gitmede,gitmelerde
+ablative (çıkma),gitmeden,gitmelerden
+genitive (tamlayan),gitmenin,gitmelerin
+benim (my),singular (tekil),plural (çoğul)
+nominative (yalın),gitmem,gitmelerim
+definite accusative (belirtme),gitmemi,gitmelerimi
+dative (yönelme),gitmeme,gitmelerime
+locative (bulunma),gitmemde,gitmelerimde
+ablative (çıkma),gitmemden,gitmelerimden
+genitive (tamlayan),gitmemin,gitmelerimin
+senin (your),singular (tekil),plural (çoğul)
+nominative (yalın),gitmen,gitmelerin
+definite accusative (belirtme),gitmeni,gitmelerini
+dative (yönelme),gitmene,gitmelerine
+locative (bulunma),gitmende,gitmelerinde
+ablative (çıkma),gitmenden,gitmelerinden
+genitive (tamlayan),gitmenin,gitmelerinin
+onun (her/his/its),singular (tekil),plural (çoğul)
+nominative (yalın),gitmesi,gitmeleri
+definite accusative (belirtme),gitmesini,gitmelerini
+dative (yönelme),gitmesine,gitmelerine
+locative (bulunma),gitmesinde,gitmelerinde
+ablative (çıkma),gitmesinden,gitmelerinden
+genitive (tamlayan),gitmesinin,gitmelerinin
+bizim (our),singular (tekil),plural (çoğul)
+nominative (yalın),gitmemiz,gitmelerimiz
+definite accusative (belirtme),gitmemizi,gitmelerimizi
+dative (yönelme),gitmemize,gitmelerimize
+locative (bulunma),gitmemizde,gitmelerimizde
+ablative (çıkma),gitmemizden,gitmelerimizden
+genitive (tamlayan),gitmemizin,gitmelerimizin
+sizin (your),singular (tekil),plural (çoğul)
+nominative (yalın),gitmeniz,gitmeleriniz
+definite accusative (belirtme),gitmenizi,gitmelerinizi
+dative (yönelme),gitmenize,gitmelerinize
+locative (bulunma),gitmenizde,gitmelerinizde
+ablative (çıkma),gitmenizden,gitmelerinizden
+genitive (tamlayan),gitmenizin,gitmelerinizin
+onların (their),singular (tekil),plural (çoğul)
+nominative (yalın),gitmeleri,gitmeleri
+definite accusative (belirtme),gitmelerini,gitmelerini
+dative (yönelme),gitmelerine,gitmelerine
+locative (bulunma),gitmelerinde,gitmelerinde
+ablative (çıkma),gitmelerinden,gitmelerinden
+genitive (tamlayan),gitmelerinin,gitmelerinin

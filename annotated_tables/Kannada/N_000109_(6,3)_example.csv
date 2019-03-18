@@ -1,0 +1,7 @@
+0,1,2
+Case/Form,Singular,Plural
+Nominative,N;SG;NOM,N;PL;NOM
+Accusative,N;SG;ACC,N;PL;ACC
+Instrumental,N;SG;INS,N;PL;INS
+Dative,N;SG;DAT,N;PL;DAT
+Genitive,N;SG;GEN,N;PL;GEN

@@ -1,0 +1,9 @@
+0,1,2
+,Active,Passive
+Infinitive,V;ACT;NFIN,V;PASS;NFIN
+Present tense,V;ACT;IND;PRS,V;PASS;IND;PRS
+Past tense,V;ACT;IND;PST,V;PASS;IND;PST
+Supine,V.CVB;ACT,V.CVB;PASS
+Imperative,V;IMP,—
+Present participle,V.PTCP;PRS,
+Past participle,V.PTCP;PST,

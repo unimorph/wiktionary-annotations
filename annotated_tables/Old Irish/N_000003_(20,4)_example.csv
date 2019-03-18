@@ -1,0 +1,21 @@
+0,1,2,3
+Feminine n-stem,,,
+,Singular,Dual,Plural
+Nominative,N;NOM;SG;LGSPEC1,N;NOM;DU;LGSPEC1,N;NOM;PL;LGSPEC1
+Vocative,N;VOC;SG;LGSPEC1,N;VOC;DU;LGSPEC1,N;VOC;PL;LGSPEC1
+Accusative,N;ACC;SG;LGSPEC1,N;ACC;DU;LGSPEC1,N;ACC;PL;LGSPEC1
+Genitive,N;GEN;SG;LGSPEC1,N;GEN;DU;LGSPEC1,N;GEN;PL;LGSPEC1
+Dative,N;DAT;SG;LGSPEC1,N;DAT;DU;LGSPEC1,N;DAT;PL;LGSPEC1
+Initial mutations of a following adjective: H = triggers aspiration L = triggers lenition N = triggers nasalization,,,
+Feminine i-stem,,,
+,Singular,Dual,Plural
+Nominative,N;NOM;SG;LGSPEC2,N;NOM;DU;LGSPEC2,N;NOM;PL;LGSPEC2
+Vocative,N;VOC;SG;LGSPEC2,N;VOC;DU;LGSPEC2,N;VOC;PL;LGSPEC2
+Accusative,N;ACC;SG;LGSPEC2,N;ACC;DU;LGSPEC2,N;ACC;PL;LGSPEC2
+Genitive,N;GEN;SG;LGSPEC2,N;GEN;DU;LGSPEC2,N;GEN;PL;LGSPEC2
+Dative,N;DAT;SG;LGSPEC2,N;DAT;DU;LGSPEC2,N;DAT;PL;LGSPEC2
+Initial mutations of a following adjective: H = triggers aspiration L = triggers lenition N = triggers nasalization,,,
+Old Irish mutation,,,
+Radical,Lenition,Nasalization,
+accuis,unchanged,n-accuis,
+Note: Some of these forms may be hypothetical. Not everypossible mutated form of every word actually occurs.,,,
