@@ -8,19 +8,19 @@ V;NFIN,infinitive,,,,,,,,
 V;V.PTCP;PST,past participle,V;V.PTCP;PRS,present participle,,,,,,
 indicative,,,,,,,,,
 V;1;PL;PST,ما,V;1;SG;PST,من,past,V;1;PL;PFV,ما,V;1;SG;PFV,من,aorist
-V;2:PL;PST,شما,V;2;SG;PST,تو,V;2;PL;PFV,شما,V;2;SG;PFV,تو,,
+V;2;PL;PST,شما,V;2;SG;PST,تو,V;2;PL;PFV,شما,V;2;SG;PFV,تو,,
 V;3;PL;PST,آنها,V;3;SG;PST,وی,V;3;PL;PFV,آنها,V;3;SG;PFV,وی,,
 ,,,,,,,,,
 V;1;PL;PST;IPFV,ما,V;1;SG;PST;IPFV,من,past (imperfect),V;1;PL;PRS;IPFV,ما,V;1;SG;PRS;IPFV,من,present (imperfect)
-V;2:PL;PST;IPFV,شما,V;2;SG;PST;IPFV,تو,V;2;PL;PRS;IPFV,شما,V;2;SG;PRS;IPFV,تو,,
+V;2;PL;PST;IPFV,شما,V;2;SG;PST;IPFV,تو,V;2;PL;PRS;IPFV,شما,V;2;SG;PRS;IPFV,تو,,
 V;3;PL;PST;IPFV,آنها,V;3;SG;PST;IPFV,وی,V;3;PL;PRS;IPFV,آنها,V;3;SG;PRS;IPFV,وی,,
 ,,,,,,,,,
 V;1;PL;PST;PROG,ما,V;1;SG;PST;PROG,من,past progressive,V;1;PL;PRS;PROG,ما,V;1;SG;PRS;PROG,من,present progressive
-V;2:PL;PST;PROG,شما,V;2;SG;PST;PROG,تو,V;2;PL;PRS;PROG,شما,V;2;SG;PRS;PROG,تو,,
+V;2;PL;PST;PROG,شما,V;2;SG;PST;PROG,تو,V;2;PL;PRS;PROG,شما,V;2;SG;PRS;PROG,تو,,
 V;3;PL;PST;PROG,آنها,V;3;SG;PST;PROG,وی,V;3;PL;PRS;PROG,آنها,V;3;SG;PRS;PROG,وی,,
 ,,,,,,,,,
 V;1;PL;PRS;PRF,ما,V;1;SG;PRS;PRF,من,present perfect,V;1;PL;PST;PRF,ما,V;1;SG;PST;PRF,من,pluperfect
-V;2:PL;PRS;PRF,شما,V;2;SG;PRS;PRF,تو,V;2;PL;PST;PRF,شما,V;2;SG;PST;PRF,تو,,
+V;2;PL;PRS;PRF,شما,V;2;SG;PRS;PRF,تو,V;2;PL;PST;PRF,شما,V;2;SG;PST;PRF,تو,,
 V;3;PL;PRS;PRF,آنها,V;3;SG;PRS;PRF,وی,V;3;PL;PST;PRF,آنها,V;3;SG;PST;PRF,وی,,
 ,,,,,,,,,
 ,V;1;PL;FUT,ما,V;1;SG;FUT,من,future,,,,
@@ -37,21 +37,21 @@ V;NFIN;COL,infinitive,,,,,,,,
 نامید (nâmid),past stem,نام (nâm),present stem,,,,,,
 V;V.PTCP;PST;COL,past participle,V;V.PTCP;PRS;COL,present participle,,,,,,
 indicative,,,,,,,,,
-V;1;PL;PST;COL,ما,V;1;SG;PST;COL,من,past,V;1;PL;PFV;COL,ما,V;1:SG;PFV;COL,من,aorist
-V;2:PL;PST;COL,شما,V;2;SG;PST;COL,تو,V;2;PL;PFV;COL,شما,V;2;SG;PFV;COL,تو,,
+V;1;PL;PST;COL,ما,V;1;SG;PST;COL,من,past,V;1;PL;PFV;COL,ما,V;1;SG;PFV;COL,من,aorist
+V;2;PL;PST;COL,شما,V;2;SG;PST;COL,تو,V;2;PL;PFV;COL,شما,V;2;SG;PFV;COL,تو,,
 V;3;PL;PST;COL,اونها,V;3;SG;PST;COL,اون,V;3;PL;PFV;COL,اونها,V;3;SG;PFV;COL,اون,,
 ,,,,,,,,,
 V;1;PL;PST;IPFV;COL,ما,V;1;SG;PST;IPFV;COL,من,past (imperfect),V;1;PL;PRS;IPFV;COL,ما,V;1;SG;PRS;IPFV;COL,من,present (imperfect)
-V;2:PL;PST;IPFV;COL,شما,V;2;SG;PST;IPFV;COL,تو,V;2;PL;PRS;IPFV;COL,شما,V;2;SG;PRS;IPFV;COL,تو,,
+V;2;PL;PST;IPFV;COL,شما,V;2;SG;PST;IPFV;COL,تو,V;2;PL;PRS;IPFV;COL,شما,V;2;SG;PRS;IPFV;COL,تو,,
 V;3;PL;PST;IPFV;COL,اونها,V;3;SG;PST;IPFV;COL,اون,V;3;PL;PRS;IPFV;COL,اونها,V;3;SG;PRS;IPFV;COL,اون,,
 ,,,,,,,,,
 V;1;PL;PST;PROG;COL,ما,V;1;SG;PST;PROG;COL,من,past progressive,V;1;PL;PRS;PROG;COL,ما,V;1;SG;PRS;PROG;COL,من,present progressive
-V;2:PL;PST;PROG;COL,شما,V;2;SG;PST;PROG;COL,تو,V;2;PL;PRS;PROG;COL,شما,V;2;SG;PRS;PROG;COL,تو,,
+V;2;PL;PST;PROG;COL,شما,V;2;SG;PST;PROG;COL,تو,V;2;PL;PRS;PROG;COL,شما,V;2;SG;PRS;PROG;COL,تو,,
 V;3;PL;PST;PROG;COL,اونها,V;3;SG;PST;PROG;COL,اون,V;3;PL;PRS;PROG;COL,اونها,V;3;SG;PRS;PROG;COL,اون,,
 ,,,,,,,,,
-V;1;PL;PRS;PRF:COL,ما,V;1;SG;PRS;PRF:COL,من,present perfect,V;1;PL;PST;PRF:COL,ما,V;1;SG;PST;PRF:COL,من,pluperfect
-V;2:PL;PRS;PRF:COL,شما,V;2;SG;PRS;PRF:COL,تو,V;2;PL;PST;PRF:COL,شما,V;2;SG;PST;PRF:COL,تو,,
-V;3;PL;PRS;PRF:COL,اونها,V;3;SG;PRS;PRF:COL,اون,V;3;PL;PST;PRF:COL,اونها,V;3;SG;PST;PRF:COL,اون,,
+V;1;PL;PRS;PRF;COL,ما,V;1;SG;PRS;PRF;COL,من,present perfect,V;1;PL;PST;PRF;COL,ما,V;1;SG;PST;PRF;COL,من,pluperfect
+V;2;PL;PRS;PRF;COL,شما,V;2;SG;PRS;PRF;COL,تو,V;2;PL;PST;PRF;COL,شما,V;2;SG;PST;PRF;COL,تو,,
+V;3;PL;PRS;PRF;COL,اونها,V;3;SG;PRS;PRF;COL,اون,V;3;PL;PST;PRF;COL,اونها,V;3;SG;PST;PRF;COL,اون,,
 subjunctive,,,,,,,,,
 V;1;PL;SBJV;PST;COL,ما,V;1;SG;SBJV;PST;COL,من,past,V;1;PL;SBJV;PRS;COL,ما,V;1;SG;SBJV;PRS;COL,من,present
 V;2;PL;SBJV;PST;COL,شما,V;2;SG;SBJV;PST;COL,تو,V;2;PL;SBJV;PRS;COL,شما,V;2;SG;SBJV;PRS;COL,تو,,

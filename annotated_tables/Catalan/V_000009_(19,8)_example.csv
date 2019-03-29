@@ -8,9 +8,9 @@ person,singular,plural,,,,,
 first,second,third,first,second,third,,
 indicative,,jo,tu,ell/ellavostè,nosaltresnós,vosaltresvós,ells/ellesvostès
 present,V;IND;PRS;1;SG,V;IND;PRS;2;SG,V;IND;PRS;3;SG,V;IND;PRS;1;PL,V;IND;PRS;2;PL,V;IND;PRS;3;PL,
-imperfect,V;IND;PST;1;SG;IPFV,V;IND;PST;2;SG;IPFV,V;IND;PST;3;SG;IPFV,V;IND;PST;1;PL:IPFV,V;IND;PST;2;PL;IPFV,V;IND;PST;3;PL;IPFV,
+imperfect,V;IND;PST;1;SG;IPFV,V;IND;PST;2;SG;IPFV,V;IND;PST;3;SG;IPFV,V;IND;PST;1;PL;IPFV,V;IND;PST;2;PL;IPFV,V;IND;PST;3;PL;IPFV,
 future,V;IND;FUT;1;SG,V;IND;FUT;2;SG,V;IND;FUT;3;SG,V;IND;FUT;1;PL,V;IND;FUT;2;PL,V;IND;FUT;3;PL,
-preterite,V;IND;PST;1;SG;PFV,V;IND;PST;2;SG;PFV,V;IND;PST;3;SG;PFV,V;IND;PST;1;PL:PFV,V;IND;PST;2;PL;PFV,V;IND;PST;3;PL;PFV,
+preterite,V;IND;PST;1;SG;PFV,V;IND;PST;2;SG;PFV,V;IND;PST;3;SG;PFV,V;IND;PST;1;PL;PFV,V;IND;PST;2;PL;PFV,V;IND;PST;3;PL;PFV,
 conditional,V;COND;1;SG,V;COND;2;SG,V;COND;3;SG,V;COND;1;PL,V;COND;2;PL,V;COND;3;PL,
 subjunctive,,jo,tu,ell/ellavostè,nosaltresnós,vosaltresvós,ells/ellesvostès
 present,V;SBJV;PRS;1;SG,V;SBJV;PRS;2;SG,V;SBJV;PRS;3;SG,V;SBJV;PRS;1;PL,V;SBJV;PRS;2;PL,V;SBJV;PRS;3;PL,

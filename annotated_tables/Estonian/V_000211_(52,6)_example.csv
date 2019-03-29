@@ -25,7 +25,7 @@ person,positive,negative,person,positive,negative
 2nd sing.,V;ACT;PRS;POS;COND;2;SG,2nd sing.,V;ACT;PRS;PRF;POS;COND;2;SG,,
 3rd sing.,V;ACT;PRS;POS;COND;3;SG,3rd sing.,V;ACT;PRS;PRF;POS;COND;3;SG,,
 1st plur.,V;ACT;PRS;POS;COND;1;PL,1st plur.,V;ACT;PRS;PRF;POS;COND;1;PL,,
-2nd plur.,V;ACT;PRS;POS;COND;2;PL,2nd plur.,V;ACT;PRS;PRF:POS;COND;2;PL,,
+2nd plur.,V;ACT;PRS;POS;COND;2;PL,2nd plur.,V;ACT;PRS;PRF;POS;COND;2;PL,,
 3rd plur.,V;ACT;PRS;POS;COND;3;PL,3rd plur.,V;ACT;PRS;PRF;POS;COND;3;PL,,
 passive,V;PASS;PRS;POS;COND,V;PASS;PRS;NEG;COND,passive,V;PASS;PRS;PRF;POS;COND,V;PASS;PRS;PRF;NEG;COND
 imperative,,,,,
