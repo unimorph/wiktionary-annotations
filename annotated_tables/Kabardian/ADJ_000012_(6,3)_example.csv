@@ -1,6 +1,6 @@
 0,1,2
 case,singular,plural
-indefinite,ADJ;NDEF;SG,ADJ;NDEF;PL
+indefinite,ADJ;INDF;SG,ADJ;INDF;PL
 nominative,ADJ;NOM;SG;DEF,ADJ;NOM;PL;DEF
 ergative,ADJ;ERG;SG;DEF,ADJ;ERG;PL;DEF
 instrumental,ADJ;INS;SG,ADJ;INS;PL
