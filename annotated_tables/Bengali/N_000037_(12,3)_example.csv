@@ -1,9 +1,9 @@
 0,1,2
 ,indefinite forms,
-nominative,N;NOM;NDEF,
-objective,N;ACC;NDEF,
-genitive,N;GEN;NDEF,
-locative,N;LOC;NDEF,
+nominative,N;NOM;INDF,
+objective,N;ACC;INDF,
+genitive,N;GEN;INDF,
+locative,N;LOC;INDF,
 ,,
 ,definite forms,
 ,singular,plural

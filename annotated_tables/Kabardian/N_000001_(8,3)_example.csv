@@ -2,7 +2,7 @@
 audio,,(file)
 audio,,(file)
 case,singular,plural
-indefinite,N;NDEF;SG,N;NDEF;PL
+indefinite,N;INDF;SG,N;INDF;PL
 nominative,N;NOM;SG;DEF,N;NOM;PL;DEF
 ergative,N;ERG;SG;DEF,N;ERG;PL;DEF
 instrumental,N;INS;SG,N;INS;PL
